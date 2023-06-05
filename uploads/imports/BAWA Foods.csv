@@ -1,0 +1,36 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BAWA FOODS,Kambu Urundai 10 Pcs,,80,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,1
+BAWA FOODS,Kollu Urundai 10 Pcs ,,80,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,1
+BAWA FOODS,Satthumaavu Urundai 10 Pcs,,80,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,1
+BAWA FOODS,Raggi Urundai 10 Pcs,,80,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,1
+BAWA FOODS,Pori Urundai 6 Pcs,,30,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,1
+BAWA FOODS,Elandhai Vadai with out Seeds (100grm),,35,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,1
+BAWA FOODS,Elandhai Vadai with out Seeds (250grm),,85,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,2,1
+BAWA FOODS,Elandhai Vadai with out Seeds (500grm),,170,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,3,1
+BAWA FOODS,Elandhai Vadai with  Seeds (100grm),,35,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,5,1
+BAWA FOODS,Elandhai Vadai with Seeds (250grm),,85,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,6,1
+BAWA FOODS,Elandhai Vadai with Seeds (500grm),,170,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,7,1
+BAWA FOODS,Elandhai Podi  (100 grm),,35,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,8,1
+BAWA FOODS,Thengai Mittai (surgar) (1 Pack ),,80,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,2
+BAWA FOODS,Thengai Mittai (Jaggery) (1 Pack ),,89,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,2
+BAWA FOODS,SPl Inji Marappa (1 Pack),,25,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,3
+BAWA FOODS,Kamar Cut(1 Pack),,35,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,2,3
+BAWA FOODS,Milk Kova (100 grm),,65,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,5,3
+BAWA FOODS,Milk Kova (250 Grm),,155,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,6,3
+BAWA FOODS,Kai  Muruku (1 Pack ),,60,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,7,3
+BAWA FOODS,Mangai Vadai ( 1 Pack ),,35,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,7,1
+BAWA FOODS,Then Mittai  ( 1Pack),,35,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,8,1
+BAWA FOODS,Nenthiram Chips (200grm),,95,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,9,1
+BAWA FOODS,Nenthiram Chips( 100 grm),,49,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,7,1
+BAWA FOODS,Narthangai Urundai (1 Pack ),,35,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,8,1
+BAWA FOODS,Javvu Mittai ( 1Pack),,35,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,9,1
+BAWA FOODS,Vadagam(1 Pack),,40,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,2
+BAWA FOODS,Varutha Sweet Seeval (200 grm),,160,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,1,3
+BAWA FOODS,Varutha Sweet Seeval (1/2 kg),,390,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,2,3
+BAWA FOODS,Sweet Beeda ( 1 Pack 10pcs),,109,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,4,3
+BAWA FOODS,Passi Paiyur Urundai (10 Pcs),,80,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,4,3
+BAWA FOODS,Passi Parupu Urundai( 10 Pcs),,80,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,4,3
+BAWA FOODS,Editha Kadalai  Urundai (10 pcs),,80,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,4,3
+BAWA FOODS,Pottu Kadalai Urundai (10 pcs),,80,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,4,3
+BAWA FOODS,Kaarapori (Ghee) (1 Iiter),,69,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,4,3
+BAWA FOODS,Kadalai Urundai (1 Pack),,35,,,,0,Veg,08.00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,4,

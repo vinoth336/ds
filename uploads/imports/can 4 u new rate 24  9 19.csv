@@ -1,0 +1,105 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+CANE 4 U,Natural Cane (1/2 Litre),,55,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,1
+CANE 4 U,Natural Cane (1 Litre),,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,2
+CANE 4 U,Ginger Cane (1/2 Litre),,55,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,3
+CANE 4 U,Ginger Cane (1 Litre),,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,4
+CANE 4 U,Lemon & Ginger Cane (1/2 Litre),,55,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,5
+CANE 4 U,Lemon & Ginger Cane (1 Litre),,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,6
+CANE 4 U,Lemon Mint Cane (1/2 Litre ),,60,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,7
+CANE 4 U,Lemon Mint Cane (1 Litre ),,110,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,8
+CANE 4 U,Lemon Mint Ginger Cane (1/2 Litre),,60,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,9
+CANE 4 U,Lemon Mint Ginger Cane (1 Litre),,110,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,10
+CANE 4 U,Pepper & Salt Cane (1/2 Litre ),,60,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,11
+CANE 4 U,Pepper & Salt Cane (1 Litre ),,110,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,12
+CANE 4 U,Chat Masala Cane (1/2 Litre ),,60,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,13
+CANE 4 U,Chat Masala Cane (1 Litre ) ,,110,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,14
+CANE 4 U,Chilli Lemon Cane (1/2 Litre ),,60,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,15
+CANE 4 U,Chilli Lemon Cane (1 Litre ),,110,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Delight,,0,,1,16
+CANE 4 U,Dragon Fruit Cane (1/2 Litre ),,120,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,1
+CANE 4 U,Dragon Fruit Cane (1 Litre ),,240,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,2
+CANE 4 U,Guava Cane ( 1/2 Litre ),,85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,5
+CANE 4 U,Guava Cane ( 1 Litre ),,170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,6
+CANE 4 U,Watermelon Cane ( 1/2 Litre ),,85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,9
+CANE 4 U,Watermelon Cane ( 1 Litre ),,170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,10
+CANE 4 U,Awesome Orange ( 1/2 Litre ),,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,11
+CANE 4 U,Awesome Orange ( 1 Litre ),,200,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,12
+CANE 4 U,Musambi Cane ( 1/2 Litre ),,85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,13
+CANE 4 U,Musambi Cane ( 1 Litre ),,170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,14
+CANE 4 U,Amla Cane ( 1/2 Litre ),,85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,15
+CANE 4 U,Amla Cane ( 1 Litre ),,170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,16
+CANE 4 U,Carrot Crush Cane ( 1/2 Litre ),,85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,19
+CANE 4 U,Carrot Crush Cane ( 1 Litre ),,170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,20
+CANE 4 U,Pomegranate Punch ( 1/2 Litre ),,120,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,21
+CANE 4 U,Pomegranate Punch ( 1 Litre ),,240,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,22
+CANE 4 U,Apple Cane ( 1/2 Litre ) ,(Apple + Dates),85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,23
+CANE 4 U,Apple  Cane ( 1 Litre ) ,(Apple + Dates),170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,24
+CANE 4 U,Fine Pine Cane ( 1/2 Litre ),,85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,27
+CANE 4 U,Fine Pine Cane ( 1 Litre ),,170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,28
+CANE 4 U,Beetroot Cane ( 1/2 Litre ),,85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,31
+CANE 4 U,Beetroot Cane ( 1 Litre ),,170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,32
+CANE 4 U,Cool Cucumber Cane ( 1/2 Litre ),,85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,33
+CANE 4 U,Cool Cucumber Cane ( 1 Litre ),,170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monthly Special,,0,,2,34
+CANE 4 U,Vanilla Cane ( 1/2 Litre ),,120,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,1
+CANE 4 U,Vanilla Cane ( 1 Litre ),,240,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,2
+CANE 4 U,Heat Beater Cane ( 1/2 Litre ),Nannari + Lemon,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,3
+CANE 4 U,Heat Beater Cane ( 1 Litre ),Nannari + Lemon,200,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,4
+CANE 4 U,ABC Cane ( 1/2 Litre ),(Apple + Beetroot + Carrot),100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,7
+CANE 4 U,ABC Cane ( 1 Litre ),(Apple + Beetroot + Carrot),200,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,8
+CANE 4 U,Strawberry Cane ( 1/2 Litre ),( Icecream + Cane ),120,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,9
+CANE 4 U,Strawberry Cane ( 1 Litre ),( Icecream + Cane ),200,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,10
+CANE 4 U,Tender Cocount Cane (1/2 Litre ),,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,11
+CANE 4 U,Tender Cocount Cane (1 Litre ),,200,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,12
+CANE 4 U,Cold Coffee Cane (1/2 Litre ),,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,11
+CANE 4 U,Cold Coffee Cane (1 Litre ),,200,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,12
+CANE 4 U,Fruit Punch Cane (1/2 Litre ),,135,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,11
+CANE 4 U,Fruit Punch Cane (1 Litre ),,170,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,12
+CANE 4 U,Fig & Honey Cane (1/2 Litre ),,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,11
+CANE 4 U,Fig & Honey Cane (1 Litre ),,200,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,12
+CANE 4 U,Kulukki Sarbath Cane (1/2 Litre ),,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,11
+CANE 4 U,Kulukki Sarbath Cane (1 Litre ),,200,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cane 4U Special,,0,,3,12
+CANE 4 U,Grape Mojito,,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sugarcane Mojitos,,0,,3,11
+CANE 4 U,Virgin Mojito,,85,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sugarcane Mojitos,,0,,3,12
+CANE 4 U,Orange Mojito,,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sugarcane Mojitos,,0,,3,11
+CANE 4 U,Watermelon Mojito,,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sugarcane Mojitos,,0,,3,12
+CANE 4 U,Pineapple Mojito,,100,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sugarcane Mojitos,,0,,3,11
+CANE 4 U,Mango Mojito,,120,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sugarcane Mojitos,,0,,3,12
+CANE 4 U,Apple Dates MilkShake,,130,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShakes 4U,,0,,3,11
+CANE 4 U,Mango MilkShake,,145,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShakes 4U,,0,,3,12
+CANE 4 U,Coffee MilkShake,,130,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShakes 4U,,0,,3,12
+CANE 4 U,Chocolate MilkShake,,130,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShakes 4U,,0,,3,12
+CANE 4 U,Banana MilkShake,,120,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShakes 4U,,0,,3,12
+CANE 4 U,Strawberry Milkshake,,130,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShakes 4U,,0,,3,12
+CANE 4 U,Rose MilkShake,,110,,,,4,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShakes 4U,,0,,3,12
+CANE 4 U,Veg Burger,,70,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,3,12
+CANE 4 U,Panner Burger,,80,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,3,12
+CANE 4 U,Chicken Burger,,80,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,3,12
+CANE 4 U,Veg Double Top Burger,,100,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,3,12
+CANE 4 U,Chicken Double Top Buger,,110,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,3,12
+CANE 4 U,Veg Sandwich,,70,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+CANE 4 U,Special Chilly Chees Sandwich,,70,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+CANE 4 U,Mushroom Chees Sandwich,,80,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+CANE 4 U,Panner Chees Sandwich,,80,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+CANE 4 U,Chicken Chees Sandwich,,100,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+CANE 4 U,Veg Double Top Sandwich,,120,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+CANE 4 U,Egg Chees Sandwich,,70,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+CANE 4 U,Bread Chees Sandwich,,50,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+CANE 4 U,Nuterla Sandwich,,70,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+CANE 4 U,French Fries ,,60,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Friesh,,0,,3,12
+CANE 4 U,Cheey Friesh,,70,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Friesh,,0,,3,12
+CANE 4 U,Paper Salt Friesh,,60,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Friesh,,0,,3,12
+CANE 4 U,Veg Nugght,,70,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Friesh,,0,,3,12
+CANE 4 U,Veg Cutlet,,60,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Friesh,,0,,3,12
+CANE 4 U,Veg Fingers,,70,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Friesh,,0,,3,12
+CANE 4 U,Veg Roll,,60,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Friesh,,0,,3,12
+CANE 4 U,Corn Roll,,60,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Friesh,,0,,3,12
+CANE 4 U,Smiles,,60,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Friesh,,0,,3,12
+CANE 4 U,Chicken Nugghts,,80,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12
+CANE 4 U,Chicken Popus,,70,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12
+CANE 4 U,Chicken Roll,,80,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12
+CANE 4 U,Chicken Cutlet,,80,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12
+CANE 4 U,Chicken Hot Dog,,80,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12
+CANE 4 U,Bread Omelet,,60,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12
+CANE 4 U,Garlic Potpto Pops,,60,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12
+CANE 4 U,Spring Potato,,60,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12
+CANE 4 U,Chicken Lolly Pop,,90,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12
+CANE 4 U,Chicken Drum Sticks,,80,,,,5,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,12

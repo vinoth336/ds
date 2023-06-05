@@ -1,0 +1,295 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+NANDHINI RESTAURANT,Sweet Corn Veg Soup,,78.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+NANDHINI RESTAURANT,Veg Clear Soup,,78.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+NANDHINI RESTAURANT,Tomato Soup,,78.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+NANDHINI RESTAURANT,Veg Chettinad Soup ,,78.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+NANDHINI RESTAURANT,Hot & Sour Veg Soup,,78.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+NANDHINI RESTAURANT,Veg Lemon Coriander Soup,,78.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+NANDHINI RESTAURANT,Mushroom Clear Soup,,78.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+NANDHINI RESTAURANT,Veg Noodle Soup ,,78.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+NANDHINI RESTAURANT,Veg Lung Fung Soup,,89.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,9
+NANDHINI RESTAURANT,Veg Wonton Soup ,,89.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,10
+NANDHINI RESTAURANT,Veg Manchow Soup,,89.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,11
+NANDHINI RESTAURANT,Mushroom Chettinad Soup,,89.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,12
+NANDHINI RESTAURANT,Talumeium Veg Soup,,89.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,13
+NANDHINI RESTAURANT,Sweet Corn Chicken Soup ,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,14
+NANDHINI RESTAURANT,Chicken Clear Soup ,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,15
+NANDHINI RESTAURANT,Hot & Sour Chicken Soup ,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,16
+NANDHINI RESTAURANT,Chicken Lemon Coriander Soup ,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,17
+NANDHINI RESTAURANT,Chicken Manchow Soup ,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,18
+NANDHINI RESTAURANT,Chicken Chettinad Soup,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,19
+NANDHINI RESTAURANT,Mutton Chettinad Soup,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,20
+NANDHINI RESTAURANT,Chicken Lung Fung Soup ,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,21
+NANDHINI RESTAURANT,Chicken Wonton Soup,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,22
+NANDHINI RESTAURANT,Chicken Noodle Soup,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,23
+NANDHINI RESTAURANT,Prawn Chettinad Soup,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,24
+NANDHINI RESTAURANT,Mutton Milagu Soup,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,25
+NANDHINI RESTAURANT,Chicken Milagu Soup,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,26
+NANDHINI RESTAURANT,Talumeium Chicken Soup,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,27
+NANDHINI RESTAURANT,Potato Pepper Salt,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,1
+NANDHINI RESTAURANT,Veg Spring Roll,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,2
+NANDHINI RESTAURANT,Mix Veg Pepper Salt ,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,3
+NANDHINI RESTAURANT,Crispy Chilli Baby Corn ,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,4
+NANDHINI RESTAURANT,Golden Fry Baby Corn ,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,5
+NANDHINI RESTAURANT,Golden Fry Mushroom ,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,6
+NANDHINI RESTAURANT,Crispy Fried Vegetables ,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,7
+NANDHINI RESTAURANT,Crispy Honey Potato,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,8
+NANDHINI RESTAURANT,Spicy Veg Balls ,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,9
+NANDHINI RESTAURANT,Gobi Machurian Dry,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,10
+NANDHINI RESTAURANT,Paneer Manchurian Dry,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,11
+NANDHINI RESTAURANT,Mushroom Manchurian Dry,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,12
+NANDHINI RESTAURANT,Gobi Chilly Pepper Fry ,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,13
+NANDHINI RESTAURANT,Panner Chilly Pepper Fry ,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,14
+NANDHINI RESTAURANT,Mushroom Chilly Pepper Fry ,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,15
+NANDHINI RESTAURANT,Gobi 65 ,,99.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,16
+NANDHINI RESTAURANT,Panner 65,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,17
+NANDHINI RESTAURANT,Mushroom 65,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Veg ,,0,,2,18
+NANDHINI RESTAURANT,Chicken Pepper Salt ,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,1
+NANDHINI RESTAURANT,Butter Garlic Chicken,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,2
+NANDHINI RESTAURANT,Butter Garlic Prawn,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,3
+NANDHINI RESTAURANT,Drums Of Heaven,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,4
+NANDHINI RESTAURANT,Chicken Lollipop,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,5
+NANDHINI RESTAURANT,Oriental Chicken ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,6
+NANDHINI RESTAURANT,Chilli Chicken Dry,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,7
+NANDHINI RESTAURANT,Chilli Fish Dry,,168,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,8
+NANDHINI RESTAURANT,Chilli Prawn Dry,,168,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,9
+NANDHINI RESTAURANT,Chicken Manchurian Dry,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,10
+NANDHINI RESTAURANT,Fish Manchurian Dry,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,11
+NANDHINI RESTAURANT,Prawn Manchurian Dry,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,12
+NANDHINI RESTAURANT,Golden Fry Prawns,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,13
+NANDHINI RESTAURANT,Chicken 65,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,14
+NANDHINI RESTAURANT,Chicken Spring Roll,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,15
+NANDHINI RESTAURANT,Mutton Spring Roll,,141.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,16
+NANDHINI RESTAURANT,Singapore Chicken ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,17
+NANDHINI RESTAURANT,Julian Chicken ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,18
+NANDHINI RESTAURANT,Dragon Chicken ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,1,,3,19
+NANDHINI RESTAURANT,Lemon Chicken ,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,20
+NANDHINI RESTAURANT,Pan Omelette,,57.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,21
+NANDHINI RESTAURANT,Mutton Sukka Fry,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,22
+NANDHINI RESTAURANT,Egg Podimas,,57.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,23
+NANDHINI RESTAURANT,Kaadai 65,,110.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,1,,3,24
+NANDHINI RESTAURANT,Kaadai Pepper Fry,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,25
+NANDHINI RESTAURANT,Prawn Fry,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,26
+NANDHINI RESTAURANT,Prawn 65,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,27
+NANDHINI RESTAURANT,Nethili 65,,141.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,28
+NANDHINI RESTAURANT,Nandu Varval,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,29
+NANDHINI RESTAURANT,Phuket Fish,,194.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Appetizer Non Veg ,,0,,3,30
+NANDHINI RESTAURANT,Veg Noodles,,105,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,1
+NANDHINI RESTAURANT,Gobi Noodles,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,2
+NANDHINI RESTAURANT,Mushroom Noodles,,115.5,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,3
+NANDHINI RESTAURANT,Paneer Noodles,,126,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,4
+NANDHINI RESTAURANT,Veg Schezwan Noodles ,,115.5,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,5
+NANDHINI RESTAURANT,Mix Schezwan Veg Noodles ,,141.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,6
+NANDHINI RESTAURANT,Panner Schezwan Noodles,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,7
+NANDHINI RESTAURANT,Mushroom Schezwan Noodles,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,8
+NANDHINI RESTAURANT,Gobi Schezwan Noodles,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,9
+NANDHINI RESTAURANT,Ginger Veg Noodles ,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,10
+NANDHINI RESTAURANT,American Veg Chopsuey,,136.5,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,11
+NANDHINI RESTAURANT,Singapore Veg Noodles,,126,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,12
+NANDHINI RESTAURANT,Egg Noodles ,,110.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,13
+NANDHINI RESTAURANT,Egg Schezwan Noodles ,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,14
+NANDHINI RESTAURANT,Egg Ginger Noodles,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,15
+NANDHINI RESTAURANT,Chicken Noodles ,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,16
+NANDHINI RESTAURANT,Chicken Schezwan Noodles ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,17
+NANDHINI RESTAURANT,Chicken Chilli Garlic Noodles ,,136.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,18
+NANDHINI RESTAURANT,Prawn Noodles ,,152.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,19
+NANDHINI RESTAURANT,Mixed Non Veg Noodles,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,20
+NANDHINI RESTAURANT,American Non Veg Chopsuey,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,21
+NANDHINI RESTAURANT,Ginger Chicken Noodles,,136.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,22
+NANDHINI RESTAURANT,Singapore Chicken Noodles,,141.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,23
+NANDHINI RESTAURANT,Prawn Ginger Noodles,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,24
+NANDHINI RESTAURANT,Prawn Schezwan Noodles ,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,25
+NANDHINI RESTAURANT,Mixed Singapore Noodles,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,26
+NANDHINI RESTAURANT,Mixed Schezwan Noodles,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,27
+NANDHINI RESTAURANT,Mixed Ginger Noodles,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,28
+NANDHINI RESTAURANT,Burn Garlic Chicken Noodles,,141.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,29
+NANDHINI RESTAURANT,Burn Garlic Mutton Noodles,,152.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,30
+NANDHINI RESTAURANT,Burn Garlic Prawn Noodles,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,31
+NANDHINI RESTAURANT,Burn Garlic Mixed Noodles,,173.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,32
+NANDHINI RESTAURANT,Dhal Fry ,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,1
+NANDHINI RESTAURANT,Dhal Tadka ,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,2
+NANDHINI RESTAURANT,Green Peas Masala ,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,3
+NANDHINI RESTAURANT,Cashewnut Masala ,,152.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,4
+NANDHINI RESTAURANT,Paneer Butter Masala ,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,5
+NANDHINI RESTAURANT,Paneer Tikka Masala ,,141.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,6
+NANDHINI RESTAURANT,Palak Panner,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,7
+NANDHINI RESTAURANT,Mixed Veg Curry ,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,8
+NANDHINI RESTAURANT,Kadai Paneer Masala,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,9
+NANDHINI RESTAURANT,Kadai Mushroom Masala,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,10
+NANDHINI RESTAURANT,Kaadai Veg Masala ,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,11
+NANDHINI RESTAURANT,Chettinad Panner Masala,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,12
+NANDHINI RESTAURANT,Chettinad Mushroom Masala,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,13
+NANDHINI RESTAURANT,Malai Kofta ,,152.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,14
+NANDHINI RESTAURANT,Four Treasures Veg,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,15
+NANDHINI RESTAURANT,Exotic Veg Manchurian Sauce,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,16
+NANDHINI RESTAURANT,Exotic Veg Manchurian Sauce Gobi,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,17
+NANDHINI RESTAURANT,Exotic Veg Manchurian Sauce Panner,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,18
+NANDHINI RESTAURANT,Sweet & Sour Veg ,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,19
+NANDHINI RESTAURANT,Sweet & Sour Veg Gobi,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,20
+NANDHINI RESTAURANT,Sweet & Sour Veg Panner,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,21
+NANDHINI RESTAURANT,Hot Garlic Veg ,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,22
+NANDHINI RESTAURANT,Hot Garlic Veg Gobi ,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,23
+NANDHINI RESTAURANT,Hot Garlic Veg Panner,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,7,24
+NANDHINI RESTAURANT,Egg Masala,,115.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,1
+NANDHINI RESTAURANT,Chilli Chicken Gravy,,126,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,2
+NANDHINI RESTAURANT,Chilli Fish Gravy ,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,3
+NANDHINI RESTAURANT,Chilli Prawn Gravy ,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,4
+NANDHINI RESTAURANT,Chicken Manchurian Gravy ,,126,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,5
+NANDHINI RESTAURANT,Fish Manchurian Gravy ,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,6
+NANDHINI RESTAURANT,Prawn Manchurian Gravy,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,7
+NANDHINI RESTAURANT,Chicken Schezwan Gravy ,,110.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,8
+NANDHINI RESTAURANT,Fish Schezwan Gravy ,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,9
+NANDHINI RESTAURANT,Prawn Schezwan Gravy,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,10
+NANDHINI RESTAURANT,Ginger Chicken Gravy ,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,11
+NANDHINI RESTAURANT,Ginger Fish Gravy ,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,12
+NANDHINI RESTAURANT,Ginger Prawn Gravy,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,13
+NANDHINI RESTAURANT,Hot Garlic Chicken Gravy,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,14
+NANDHINI RESTAURANT,Hot Garlic Fish Gravy,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,15
+NANDHINI RESTAURANT,Hot Garlic Prawn Gravy,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,16
+NANDHINI RESTAURANT,Sweet & Sour Chicken Gravy,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,17
+NANDHINI RESTAURANT,Sweet & Sour Fish Gravy,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,18
+NANDHINI RESTAURANT,Hunan Chicken Gravy,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,19
+NANDHINI RESTAURANT,Hunan Fish Gravy,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,20
+NANDHINI RESTAURANT,Chicken Chilli Oyster Sauce,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,21
+NANDHINI RESTAURANT,Fish Chilli Oyster Sauce,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,22
+NANDHINI RESTAURANT,Prawn Chilli Oyster Sauce,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,23
+NANDHINI RESTAURANT,Chicken Hydrabadi ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,24
+NANDHINI RESTAURANT,Butter Chicken Masala,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,25
+NANDHINI RESTAURANT,Chicken Chettinad,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,26
+NANDHINI RESTAURANT,Chicken Rogan Josh,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,27
+NANDHINI RESTAURANT,Chicken Tikka Masala,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,28
+NANDHINI RESTAURANT,Chicken Kadai Masala,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,29
+NANDHINI RESTAURANT,Chicken Pepper Masala,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,30
+NANDHINI RESTAURANT,Andra Chicken,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,31
+NANDHINI RESTAURANT,Punjabi Chicken ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,32
+NANDHINI RESTAURANT,Mutton Masala,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,33
+NANDHINI RESTAURANT,Mutton Rogan Josh ,,152.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,34
+NANDHINI RESTAURANT,Mutton Pepper Masala ,,152.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,35
+NANDHINI RESTAURANT,Mutton Chettinad ,,152.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,36
+NANDHINI RESTAURANT,Kaadai Pepper Masala ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,37
+NANDHINI RESTAURANT,Mugali Chicken Gravy,,183.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,38
+NANDHINI RESTAURANT,Mugali Mutton Gravy,,204.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,39
+NANDHINI RESTAURANT,Fish Curry ,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,40
+NANDHINI RESTAURANT,Prawn Masala,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,41
+NANDHINI RESTAURANT,Prawn Chettinad,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,1,,8,42
+NANDHINI RESTAURANT,Prawn Curry,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,43
+NANDHINI RESTAURANT,Haratanya Chicken Gravy,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,44
+NANDHINI RESTAURANT,Haratanya Mutton Gravy,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,45
+NANDHINI RESTAURANT,Chicken Kolapuri Gravy,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,46
+NANDHINI RESTAURANT,Mutton Kolapuri Gravy,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy ,,0,,8,47
+NANDHINI RESTAURANT,Veg Fried Rice,,99.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,1
+NANDHINI RESTAURANT,Gobi Fried Rice,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,1,,9,2
+NANDHINI RESTAURANT,Mushroom Fried Rice,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,3
+NANDHINI RESTAURANT,Paneer Fried Rice,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,4
+NANDHINI RESTAURANT,Ginger Fried Rice,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,5
+NANDHINI RESTAURANT,Schezwan Fried Rice,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,1,,9,6
+NANDHINI RESTAURANT,Mix Schezwan Fried Rice,,141.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,7
+NANDHINI RESTAURANT,Jeera Rice,,99.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,8
+NANDHINI RESTAURANT,Ghee Rice,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,9
+NANDHINI RESTAURANT,Veg Pulao,,99.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,10
+NANDHINI RESTAURANT,Cashewnut Pulao,,136.5,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,11
+NANDHINI RESTAURANT,Kashmiri Pulao,,141.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,12
+NANDHINI RESTAURANT,Singapore Fried Rice,,110.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,13
+NANDHINI RESTAURANT,Triple Veg Fried Rice,,147,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,14
+NANDHINI RESTAURANT,Egg Fried Rice ,,110.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,15
+NANDHINI RESTAURANT,Egg Schezwan Fried Rice,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,16
+NANDHINI RESTAURANT,Egg Ginger Fried Rice,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,17
+NANDHINI RESTAURANT,Chicken Fried Rice ,,120.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,18
+NANDHINI RESTAURANT,Prawn Fried Rice ,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,19
+NANDHINI RESTAURANT,Chicken Schezwan Fried Rice ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,20
+NANDHINI RESTAURANT,Prawn Schezwan Fried Rice,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,21
+NANDHINI RESTAURANT,Chicken Ginger Fried Rice ,,131.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,22
+NANDHINI RESTAURANT,Prawn Ginger Fried Rice ,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,23
+NANDHINI RESTAURANT,Singapore Chicken Fried Rice,,141.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,24
+NANDHINI RESTAURANT,Singapore Prawn Fried Rice,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,25
+NANDHINI RESTAURANT,Mixed Non Veg Fried Rice,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,26
+NANDHINI RESTAURANT,Schezwan Mixed Non Veg Fried Rice,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,27
+NANDHINI RESTAURANT,Ginger Mixed Non Veg Fried Rice,,173.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,28
+NANDHINI RESTAURANT,Singapore Non Veg Fried Rice,,141.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,29
+NANDHINI RESTAURANT,Triple Chicken Fried Rice,,168,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,30
+NANDHINI RESTAURANT,Triple Non Veg Fried Rice,,183.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,31
+NANDHINI RESTAURANT,Mutton Fried Rice,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,32
+NANDHINI RESTAURANT,Burn Garlic Chicken Fried Rice,,141.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,33
+NANDHINI RESTAURANT,Burn Garlic Mutton Fried Rice,,152.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,34
+NANDHINI RESTAURANT,Burn Garlic Prawn Fried Rice,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,35
+NANDHINI RESTAURANT,Burn Garlic Mixed Fried Rice,,173.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,36
+NANDHINI RESTAURANT,Mutton Briyani,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,1
+NANDHINI RESTAURANT,Chicken Briyani ,,126,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,2
+NANDHINI RESTAURANT,Prawn Briyani ,,152.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,3
+NANDHINI RESTAURANT,Egg Briyani,,99.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,4
+NANDHINI RESTAURANT,Mushroom Briyani,,120.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Briyani,,1,,5,5
+NANDHINI RESTAURANT,Veg Briyani,,99.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,6
+NANDHINI RESTAURANT,Plain Briyani,,78.75,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,7
+NANDHINI RESTAURANT,Tandoori Paratha ,,52.5,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,1
+NANDHINI RESTAURANT,Aloo Paratha,,57.75,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,2
+NANDHINI RESTAURANT,Plain Roti ,,36.75,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,3
+NANDHINI RESTAURANT,Butter Roti ,,42,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,4
+NANDHINI RESTAURANT,Pudina Roti,,47.25,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,5
+NANDHINI RESTAURANT,Garlic Roti ,,47.25,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,6
+NANDHINI RESTAURANT,Plain Naan ,,36.75,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,7
+NANDHINI RESTAURANT,Butter Naan ,,42,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,8
+NANDHINI RESTAURANT,Garlic Naan,,47.25,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,9
+NANDHINI RESTAURANT,Cheese Naan ,,52.5,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,10
+NANDHINI RESTAURANT,Pudina Naan,,47.25,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,11
+NANDHINI RESTAURANT,Chicken Keema Naan ,,68.25,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,12
+NANDHINI RESTAURANT,Mutton Keema Naan,,78.75,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,13
+NANDHINI RESTAURANT,Mugali Naan,,57.75,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,14
+NANDHINI RESTAURANT,Plain Kulcha,,42,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,15
+NANDHINI RESTAURANT,Masala Kulcha,,47.25,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,16
+NANDHINI RESTAURANT,Butter Kulcha,,52.5,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,17
+NANDHINI RESTAURANT,Aloo Kulcha,,57.75,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,18
+NANDHINI RESTAURANT,Rumali Roti ,,52.5,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,19
+NANDHINI RESTAURANT,Plain Phulka,,36.75,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,20
+NANDHINI RESTAURANT,Butter Phulka,,42,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,21
+NANDHINI RESTAURANT,Chapathi (1 No),,23.1,,,,2,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,22
+NANDHINI RESTAURANT,Tandoori Chicken Quarter,,84,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,1
+NANDHINI RESTAURANT,Tandoori Chicken Half,,168,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,2
+NANDHINI RESTAURANT,Tandoori Chicken Full,,336,,,,10,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,3
+NANDHINI RESTAURANT,Chicken Tikka ,,141.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,4
+NANDHINI RESTAURANT,Fish Tikka ,,173.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,5
+NANDHINI RESTAURANT,Prawn Tikka,,173.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,6
+NANDHINI RESTAURANT,Tangri Kebab (1 Pc),,84,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,7
+NANDHINI RESTAURANT,Chicken Hariyali Kebab,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,8
+NANDHINI RESTAURANT,Afghani Kebab,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,9
+NANDHINI RESTAURANT,Afghani Chicken Half,,178.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,10
+NANDHINI RESTAURANT,Afghani Chicken Full,,357,,,,10,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,11
+NANDHINI RESTAURANT,Malai Kebab,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,12
+NANDHINI RESTAURANT,Reshmi Kebab,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,13
+NANDHINI RESTAURANT,Reshmi Chicken Half,,178.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,14
+NANDHINI RESTAURANT,Reshmi Chicken Full,,357,,,,10,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,15
+NANDHINI RESTAURANT,Chicken Seekh Kebab,,147,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,16
+NANDHINI RESTAURANT,Mutton Seekh Kebab,,157.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,17
+NANDHINI RESTAURANT,Paneer Tikka ,,131.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,18
+NANDHINI RESTAURANT,Mint Paneer Tikka ,,136.5,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,11,19
+NANDHINI RESTAURANT,Grill Chicken Quarter,,84,,,,5,Non Veg,,,,,,,6.30 PM,10:30PM,"1,2,3,4,5,6,7",1,,Grill'S,,0,,12,1
+NANDHINI RESTAURANT,Grill Chicken Half,,178.5,,,,5,Non Veg,,,,,,,6.30 PM,10:30PM,"1,2,3,4,5,6,7",1,,Grill'S,,0,,12,2
+NANDHINI RESTAURANT,Grill Chicken Full,,315,,,,10,Non Veg,,,,,,,6.30 PM,10:30PM,"1,2,3,4,5,6,7",1,,Grill'S,,0,,12,3
+NANDHINI RESTAURANT,Shawarama Speciall Roll,,99.75,,,,5,Non Veg,,,,,,,6.30 PM,10:30PM,"1,2,3,4,5,6,7",1,,Shawarama'S,,0,,13,1
+NANDHINI RESTAURANT,Shawarama Special Plate,,131.25,,,,5,Non Veg,,,,,,,6.30 PM,10:30PM,"1,2,3,4,5,6,7",1,,Shawarama'S,,0,,13,2
+NANDHINI RESTAURANT,Shawarama Roll,,78.75,,,,5,Non Veg,,,,,,,6.30 PM,10:30PM,"1,2,3,4,5,6,7",1,,Shawarama'S,,1,,13,3
+NANDHINI RESTAURANT,Shawarama Plate,,110.25,,,,5,Non Veg,,,,,,,6.30 PM,10:30PM,"1,2,3,4,5,6,7",1,,Shawarama'S,,0,,13,4
+NANDHINI RESTAURANT,Kuboos,,12.6,,,,5,Veg,,,,,,,6.30 PM,10:30PM,"1,2,3,4,5,6,7",1,,Shawarama'S,,0,,13,5
+NANDHINI RESTAURANT,Veg Meals ,,89.25,,,,10,Veg,,,,,11.30 AM,3.00 PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,1
+NANDHINI RESTAURANT,Non Veg Meals,,110.25,,,,10,Non Veg,,,,,11.30 AM,3.00 PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,2
+NANDHINI RESTAURANT,Sambar Rice,,57.75,,,,5,Veg,,,,,11.30 AM,3.00 PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,3
+NANDHINI RESTAURANT,Curd Rice,,57.75,,,,5,Veg,,,,,11.30 AM,3.00 PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,4
+NANDHINI RESTAURANT,Mutton Chops,,173.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,1,,14,1
+NANDHINI RESTAURANT,Devil Prawn ,,183.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,2
+NANDHINI RESTAURANT,Fish Tawa Fry (Vanjaram 1 Pc),,173.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,1,,14,3
+NANDHINI RESTAURANT,Pomfret Fish Fry (2 Pcs),,136.5,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,4
+NANDHINI RESTAURANT,Crispy Fried Wonton (Veg),,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,5
+NANDHINI RESTAURANT,Crispy Fried Wonton (Non Veg),,194.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,6
+NANDHINI RESTAURANT,Crispy Chicken,,152.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,7
+NANDHINI RESTAURANT,Crispy Lamb,,183.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,8
+NANDHINI RESTAURANT,Crab Lollypop,,162.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,9
+NANDHINI RESTAURANT,Fish Podimas,,183.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,10
+NANDHINI RESTAURANT,Fish Finger,,173.25,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,11
+NANDHINI RESTAURANT,Wild Pepper Fish Dry,,183.75,,,,5,Non Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Nandhini Specials,,0,,14,12
+NANDHINI RESTAURANT,Fresh Lime Sweet,,47.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Juices,,0,,15,1
+NANDHINI RESTAURANT,Fresh Lime Salt,,47.25,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Juices,,0,,15,2
+NANDHINI RESTAURANT,Fresh Lime Soda,,52.5,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Juices,,0,,15,3
+NANDHINI RESTAURANT,Mint Lime Cooler,,52.5,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Juices,,0,,15,4
+NANDHINI RESTAURANT,Lassi,,63,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Juices,,0,,15,5
+NANDHINI RESTAURANT,Lime Mojito,,63,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,16,1
+NANDHINI RESTAURANT,Strawberry Mojito,,73.5,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,16,2
+NANDHINI RESTAURANT,Green Apple Mojito,,73.5,,,,5,Veg,,,,,11.30 AM,3:30PM,6:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,16,3

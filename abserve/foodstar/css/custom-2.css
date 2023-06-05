@@ -1,0 +1,1364 @@
+/*
+--------------------------------------------------------------
+    Reset
+----------------------------------------------------------------
+*/ 
+
+/*
+----------------------------------------------------------------
+    NavSide with the colors
+----------------------------------------------------------------
+*/
+.nav-side {
+    position: fixed;
+    left: 0;
+    top: 25%;
+    height: 150px;  
+    width: 100%;
+    max-width: 200px;
+    background-color: #fff;
+    box-sizing: border-box;
+    color: #333;
+    margin-left: -200px;
+    transition: margin 200ms ease-in-out;
+    z-index: 999;
+    -webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.nav-side.nav-open {
+    margin-left: 0;
+}
+
+.nav-toggle {
+    position: absolute;
+    right: -50px;
+    top: 0%;
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    line-height: 50px;
+    text-decoration: none;
+    text-align: center;
+    border-bottom-right-radius: 3px;
+    font-size: 2em;
+    color: #333;
+    transition: ease-in-out 0.35s;
+}
+.nav-toggle:hover,
+.nav-toggle:focus {
+    background-color: #333;
+    color: #fff;
+}
+
+.nav-side ul {
+    float: left;
+    padding: 0;
+    position: relative;
+    list-style: none;
+    width: 150px;
+    margin-left: 20px;
+}
+.nav-side ul li {
+    margin: 20px 0 0 20px;
+    float: left;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid #fff;
+    cursor: pointer;
+}
+.color-one {
+    background-color: rgb(128,0,0);
+}
+.color-two {
+    background-color: rgb(51,102,204);
+}
+.color-three {
+    background-color: rgb(102,0,102);
+}
+.color-four {
+    background-color: rgb(0,102,0);
+}
+.color-five {
+    background-color: rgb(255,51,0);
+}
+.color-six {
+    background-color: rgb(0,153,153);
+}
+.color-seven {
+    background-color: rgb(230,0,0);
+}
+.color-eight {
+    background-color: rgb(255,0,102);
+}
+.color-nine {
+    background-color: rgb(255,103,0);
+}
+/*
+--------------------------------------------------------------
+    Navbar Default Mobile
+----------------------------------------------------------------
+*/
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #FFC0CB;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:focus, 
+.navbar-default .navbar-nav > .active > a:hover {
+    border-bottom: 2px solid rgb(128,0,0);
+    background-color: #fff;
+}
+.navbar-default {
+    background-color: #fff !important
+    border-color: rgba(128,0,0,.8) !important;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; 
+    text-transform: uppercase; 
+}
+.navbar-default .navbar-header .navbar-brand {
+    color: rgba(128,0,0,.7) !important;
+    font-weight: 400;
+    font-size: 2em;
+}
+.navbar-default .navbar-header button {
+    border-color: rgba(128,0,0,.8) !important;
+    border-radius: 0;
+}
+.navbar-default .navbar-header button:hover,
+.navbar-default .navbar-header button:focus {
+    background-color: #fff !important;
+}
+.navbar-default .navbar-header button .icon-bar {
+    background-color: rgb(128,0,0) !important;
+    border-radius: 2px;
+}
+.navbar-default .navbar-toggle:focus, 
+.navbar-default .navbar-toggle:hover {
+    color: #fff;
+}
+.navbar-default .navbar-header .navbar-brand:hover,
+.navbar-default .navbar-header .navbar-brand:focus {
+    color: rgba(128,0,0,1) !important;
+}
+.navbar-default .nav > li > a,
+.navbar-default .nav > li > a:focus {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.navbar-default .nav > li > a:hover{ 
+    color: rgba(128,0,0,.8);
+}
+/*
+--------------------------------------------------------------
+    Navbar Test Mobile
+----------------------------------------------------------------
+*/
+.navbar-test .navbar-nav > li > a:hover, .navbar-test .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #FFC0CB;
+}
+.navbar-test .navbar-nav > .active > a, 
+.navbar-test .navbar-nav > .active > a:focus, 
+.navbar-test .navbar-nav > .active > a:hover {
+    border-bottom: 2px solid rgb(51,102,204);
+    background-color: #fff;
+}
+.navbar-test {
+    background-color: #fff !important;
+    border-color: rgba(51,102,204,.8) !important;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; 
+    text-transform: uppercase; 
+}
+.navbar-test .navbar-header .navbar-brand {
+    color: rgba(51,102,204,.7) !important;
+    font-weight: 400;
+    font-size: 2em;
+}
+.navbar-test .navbar-header button {
+    border-color: rgba(51,102,204,.8) !important;
+    border-radius: 0;
+}
+.navbar-test .navbar-header button:hover,
+.navbar-test .navbar-header button:focus {
+    background-color: #fff !important;
+}
+.navbar-test .navbar-header button .icon-bar {
+    background-color: rgb(51,102,204) !important;
+    border-radius: 2px;
+}
+.navbar-test .navbar-toggle:focus, 
+.navbar-test .navbar-toggle:hover {
+    color: #fff;
+}
+.navbar-test .navbar-header .navbar-brand:hover,
+.navbar-test .navbar-header .navbar-brand:focus {
+    color: rgba(51,102,204,1) !important;
+}
+.navbar-test .nav > li > a,
+.navbar-test .nav > li > a:focus {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.navbar-test .nav > li > a:hover{ 
+    color: rgba(51,102,204,.8);
+}
+/*
+--------------------------------------------------------------
+    Navbar Three Mobile
+----------------------------------------------------------------
+*/
+.navbar-color-three .navbar-nav > li > a:hover, .navbar-color-three .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #FFC0CB;
+}
+.navbar-color-three .navbar-nav > .active > a, 
+.navbar-color-three .navbar-nav > .active > a:focus, 
+.navbar-color-three .navbar-nav > .active > a:hover {
+    border-bottom: 2px solid rgb(102,0,102);
+    background-color: #fff;
+}
+.navbar-color-three {
+    background-color: #fff !important;
+    border-color: rgba(102,0,102,.8) !important;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; 
+    text-transform: uppercase; 
+}
+.navbar-color-three .navbar-header .navbar-brand {
+    color: rgba(102,0,102,.7) !important;
+    font-weight: 400;
+    font-size: 2em;
+}
+.navbar-color-three .navbar-header button {
+    border-color: rgba(102,0,102,.8) !important;
+    border-radius: 0;
+}
+.navbar-color-three .navbar-header button:hover,
+.navbar-color-three .navbar-header button:focus {
+    background-color: #fff !important;
+}
+.navbar-color-three .navbar-header button .icon-bar {
+    background-color: rgb(102,0,102) !important;
+    border-radius: 2px;
+}
+.navbar-color-three .navbar-toggle:focus, 
+.navbar-color-three .navbar-toggle:hover {
+    color: #fff;
+}
+.navbar-color-three .navbar-header .navbar-brand:hover,
+.navbar-color-three .navbar-header .navbar-brand:focus {
+    color: rgba(102,0,102,1) !important;
+}
+.navbar-color-three .nav > li > a,
+.navbar-color-three .nav > li > a:focus {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.navbar-color-three .nav > li > a:hover{ 
+    color: rgba(102,0,102,.8);
+}
+/*
+--------------------------------------------------------------
+    Navbar Default Mobile
+----------------------------------------------------------------
+*/
+.navbar-color-four .navbar-nav > li > a:hover, .navbar-color-four .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #FFC0CB;
+}
+.navbar-color-four .navbar-nav > .active > a, 
+.navbar-color-four .navbar-nav > .active > a:focus, 
+.navbar-color-four .navbar-nav > .active > a:hover {
+    border-bottom: 2px solid rgb(0,102,0);
+    background-color: #fff;
+}
+.navbar-color-four {
+    background-color: #fff !important;
+    border-color: rgba(0,102,0,.8) !important;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; 
+    text-transform: uppercase; 
+}
+.navbar-color-four .navbar-header .navbar-brand {
+    color: rgba(0,102,0,.7) !important;
+    font-weight: 400;
+    font-size: 2em;
+}
+.navbar-color-four .navbar-header button {
+    border-color: rgba(0,102,0,.8) !important;
+    border-radius: 0;
+}
+.navbar-color-four .navbar-header button:hover,
+.navbar-color-four .navbar-header button:focus {
+    background-color: #fff !important;
+}
+.navbar-color-four .navbar-header button .icon-bar {
+    background-color: rgb(0,102,0) !important;
+    border-radius: 2px;
+}
+.navbar-color-four .navbar-toggle:focus, 
+.navbar-color-four .navbar-toggle:hover {
+    color: #fff;
+}
+.navbar-color-four .navbar-header .navbar-brand:hover,
+.navbar-color-four .navbar-header .navbar-brand:focus {
+    color: rgba(0,102,0,1) !important;
+}
+.navbar-color-four .nav > li > a,
+.navbar-color-four .nav > li > a:focus {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.navbar-color-four .nav > li > a:hover{ 
+    color: rgba(0,102,0,.8);
+}
+/*
+--------------------------------------------------------------
+    Navbar Color Five Mobile
+----------------------------------------------------------------
+*/
+.navbar-color-five .navbar-nav > li > a:hover, .navbar-color-five .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #FFC0CB;
+}
+.navbar-color-five .navbar-nav > .active > a, 
+.navbar-color-five .navbar-nav > .active > a:focus, 
+.navbar-color-five .navbar-nav > .active > a:hover {
+    border-bottom: 2px solid rgb(255,51,0);
+    background-color: #fff;
+}
+.navbar-color-five {
+    background-color: #fff !important;
+    border-color: rgba(255,51,0,.8) !important;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; 
+    text-transform: uppercase; 
+}
+.navbar-color-five .navbar-header .navbar-brand {
+    color: rgba(255,51,0,.7) !important;
+    font-weight: 400;
+    font-size: 2em;
+}
+.navbar-color-five .navbar-header button {
+    border-color: rgba(255,51,0,.8) !important;
+    border-radius: 0;
+}
+.navbar-color-five .navbar-header button:hover,
+.navbar-color-five .navbar-header button:focus {
+    background-color: #fff !important;
+}
+.navbar-color-five .navbar-header button .icon-bar {
+    background-color: rgb(255,51,0) !important;
+    border-radius: 2px;
+}
+.navbar-color-five .navbar-toggle:focus, 
+.navbar-color-five .navbar-toggle:hover {
+    color: #fff;
+}
+.navbar-color-five .navbar-header .navbar-brand:hover,
+.navbar-color-five .navbar-header .navbar-brand:focus {
+    color: rgba(255,51,0,1) !important;
+}
+.navbar-color-five .nav > li > a,
+.navbar-color-five .nav > li > a:focus {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.navbar-color-five .nav > li > a:hover{ 
+    color: rgba(255,51,0,.8);
+}
+/*
+--------------------------------------------------------------
+    Navbar Color  Six Mobile
+----------------------------------------------------------------
+*/
+.navbar-color-six .navbar-nav > li > a:hover, .navbar-color-six .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #FFC0CB;
+}
+.navbar-color-six .navbar-nav > .active > a, 
+.navbar-color-six .navbar-nav > .active > a:focus, 
+.navbar-color-six .navbar-nav > .active > a:hover {
+    border-bottom: 2px solid rgb(0,153,153);
+    background-color: #fff;
+}
+.navbar-color-six {
+    background-color: #fff !important;
+    border-color: rgba(0,153,153,.8) !important;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; 
+    text-transform: uppercase; 
+}
+.navbar-color-six .navbar-header .navbar-brand {
+    color: rgba(0,153,153,.7) !important;
+    font-weight: 400;
+    font-size: 2em;
+}
+.navbar-color-six .navbar-header button {
+    border-color: rgba(0,153,153,.8) !important;
+    border-radius: 0;
+}
+.navbar-color-six .navbar-header button:hover,
+.navbar-color-six .navbar-header button:focus {
+    background-color: #fff !important;
+}
+.navbar-color-six .navbar-header button .icon-bar {
+    background-color: rgb(0,153,153) !important;
+    border-radius: 2px;
+}
+.navbar-color-six .navbar-toggle:focus, 
+.navbar-color-six .navbar-toggle:hover {
+    color: #fff;
+}
+.navbar-color-six .navbar-header .navbar-brand:hover,
+.navbar-color-six .navbar-header .navbar-brand:focus {
+    color: rgba(0,153,153,1) !important;
+}
+.navbar-color-six .nav > li > a,
+.navbar-color-six .nav > li > a:focus {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.navbar-color-six .nav > li > a:hover{ 
+    color: rgba(0,153,153,.8);
+}
+/*
+--------------------------------------------------------------
+    Navbar Color Seven Mobile
+----------------------------------------------------------------
+*/
+.navbar-color-seven .navbar-nav > li > a:hover, .navbar-color-seven .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #FFC0CB;
+}
+.navbar-color-seven .navbar-nav > .active > a, 
+.navbar-color-seven .navbar-nav > .active > a:focus, 
+.navbar-color-seven .navbar-nav > .active > a:hover {
+    border-bottom: 2px solid rgb(230,0,0);
+    background-color: #fff;
+}
+.navbar-color-seven {
+    background-color: #fff !important;
+    border-color: rgba(230,0,0,.8) !important;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; 
+    text-transform: uppercase; 
+}
+.navbar-color-seven .navbar-header .navbar-brand {
+    color: rgba(230,0,0,.7) !important;
+    font-weight: 400;
+    font-size: 2em;
+}
+.navbar-color-seven .navbar-header button {
+    border-color: rgba(230,0,0,.8) !important;
+    border-radius: 0;
+}
+.navbar-color-seven .navbar-header button:hover,
+.navbar-color-seven .navbar-header button:focus {
+    background-color: #fff !important;
+}
+.navbar-color-seven .navbar-header button .icon-bar {
+    background-color: rgb(230,0,0) !important;
+    border-radius: 2px;
+}
+.navbar-color-seven .navbar-toggle:focus, 
+.navbar-color-seven .navbar-toggle:hover {
+    color: #fff;
+}
+.navbar-color-seven .navbar-header .navbar-brand:hover,
+.navbar-color-seven .navbar-header .navbar-brand:focus {
+    color: rgba(230,0,0,1) !important;
+}
+.navbar-color-seven .nav > li > a,
+.navbar-color-seven .nav > li > a:focus {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.navbar-color-seven .nav > li > a:hover{ 
+    color: rgba(230,0,0,.8);
+}
+/*
+--------------------------------------------------------------
+    Navbar Color Eight Mobile
+----------------------------------------------------------------
+*/
+.navbar-color-eight .navbar-nav > li > a:hover, .navbar-color-eight .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #FFC0CB;
+}
+.navbar-color-eight .navbar-nav > .active > a, 
+.navbar-color-eight .navbar-nav > .active > a:focus, 
+.navbar-color-eight .navbar-nav > .active > a:hover {
+    border-bottom: 2px solid rgb(255,0,102);
+    background-color: #fff;
+}
+.navbar-color-eight {
+    background-color: #fff !important;
+    border-color: rgba(255,0,102,.8) !important;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; 
+    text-transform: uppercase; 
+}
+.navbar-color-eight .navbar-header .navbar-brand {
+    color: rgba(255,0,102,.7) !important;
+    font-weight: 400;
+    font-size: 2em;
+}
+.navbar-color-eight .navbar-header button {
+    border-color: rgba(255,0,102,.8) !important;
+    border-radius: 0;
+}
+.navbar-color-eight .navbar-header button:hover,
+.navbar-color-eight .navbar-header button:focus {
+    background-color: #fff !important;
+}
+.navbar-color-eight .navbar-header button .icon-bar {
+    background-color: rgb(255,0,102) !important;
+    border-radius: 2px;
+}
+.navbar-color-eight .navbar-toggle:focus, 
+.navbar-color-eight .navbar-toggle:hover {
+    color: #fff;
+}
+.navbar-color-eight .navbar-header .navbar-brand:hover,
+.navbar-color-eight .navbar-header .navbar-brand:focus {
+    color: rgba(255,0,102,1) !important;
+}
+.navbar-color-eight .nav > li > a,
+.navbar-color-eight .nav > li > a:focus {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.navbar-color-eight .nav > li > a:hover{ 
+    color: rgba(255,0,102,.8);
+}
+/*
+--------------------------------------------------------------
+    Navbar Color Nine Mobile
+----------------------------------------------------------------
+*/
+.navbar-color-nine .navbar-nav > li > a:hover, .navbar-color-nine .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #FFC0CB;
+}
+.navbar-color-nine .navbar-nav > .active > a, 
+.navbar-color-nine .navbar-nav > .active > a:focus, 
+.navbar-color-nine .navbar-nav > .active > a:hover {
+    border-bottom: 2px solid rgb(255,153,0);
+    background-color: #fff;
+}
+.navbar-color-nine {
+    background-color: #fff !important;
+    border-color: rgba(255,153,0,.8) !important;
+    font-family: 'Quicksand', sans-serif;
+    font-wnine: 700;
+    font-size: 1.5em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; 
+    text-transform: uppercase; 
+}
+.navbar-color-nine .navbar-header .navbar-brand {
+    color: rgba(255,153,0,.7) !important;
+    font-wnine: 400;
+    font-size: 2em;
+}
+.navbar-color-nine .navbar-header button {
+    border-color: rgba(255,153,0,.8) !important;
+    border-radius: 0;
+}
+.navbar-color-nine .navbar-header button:hover,
+.navbar-color-nine .navbar-header button:focus {
+    background-color: #fff !important;
+}
+.navbar-color-nine .navbar-header button .icon-bar {
+    background-color: rgb(255,153,0) !important;
+    border-radius: 2px;
+}
+.navbar-color-nine .navbar-toggle:focus, 
+.navbar-color-nine .navbar-toggle:hover {
+    color: #fff;
+}
+.navbar-color-nine .navbar-header .navbar-brand:hover,
+.navbar-color-nine .navbar-header .navbar-brand:focus {
+    color: rgba(255,153,0,1) !important;
+}
+.navbar-color-nine .nav > li > a,
+.navbar-color-nine .nav > li > a:focus {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.navbar-color-nine .nav > li > a:hover{ 
+    color: rgba(255,153,0,.8);
+}
+/*
+--------------------------------------------------------------
+    Navbar Transparent Mobile
+----------------------------------------------------------------
+*/
+.navbar-transparent {
+    background-color: transparent;
+    border-bottom: 1px solid rgba(255,255,255,.3);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 1.875em;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s;   
+    text-transform: uppercase;
+    color: #333;
+}
+.navbar-transparent .navbar-header .navbar-brand {
+    color: rgba(255,255,255,1) !important;
+    font-weight: 100;
+    font-size: 2em;
+}
+.collapse {
+    background: rgba(255,255,255,.3);
+}
+.navbar-transparent .navbar-header button {
+    border-color: rgba(255,255,255,1) !important;
+    border-radius: 0;
+}
+.navbar-transparent .navbar-header button .icon-bar {
+    background-color: rgba(255,255,255,1) !important;
+    border-radius: 2px;
+}
+.navbar-transparent .navbar-toggle:focus, 
+.navbar-transparent .navbar-toggle:hover {
+    background-color: transparent;
+    color: #fff;
+}
+.navbar-transparent .navbar-header .navbar-brand:hover,
+.navbar-transparent .navbar-header .navbar-brand:focus {
+    color: rgba(255,255,255,1)  !important;
+    text-decoration: underline;
+}
+.navbar-transparent .nav > li > a,
+.navbar-transparent .nav > li > a:focus {
+    font-size: 0.82em;
+    text-transform: uppercase;
+}
+.navbar-transparent .nav > li > a:hover{ 
+    color: rgba(128,0,0,.8);
+}
+.navbar-transparent .page-scroll {
+    color: #fff;
+    border-bottom: 1px solid rgba(255,255,255,.3);
+}
+/*
+--------------------------------------------------------------
+    Header
+----------------------------------------------------------------
+*/
+#header{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    padding: 0;
+    background: url("../img/person.jpeg");
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    z-index: 0;
+}
+#header .fa-heart {
+    color: red;
+}
+#particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 85%;
+    z-index: 999;
+}
+.header-inner {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(26,26,26,.3);
+    background-size: 100%;
+    z-index: 2;
+}
+.header-inner h1,
+.header-inner h3 {
+    position: relative;
+    z-index: 999;
+}
+.table-block {display: table;}
+.table-cell {
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+}
+.table-cell h1{
+    font-size: 3em;
+}
+.round-page-scroll{
+    position: absolute;
+    bottom: 20px;
+    left: 45%;
+    height: 50px;
+    width: 50px;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    line-height: 49px;
+    cursor: pointer;
+    font-size: 2em;
+    z-index: 999;
+}
+.round-page-scroll .fa {
+    color: #fff;
+}
+.typed-cursor{visibility: hidden;}
+
+/*
+--------------------------------------------------------------
+    Color Picker
+----------------------------------------------------------------
+*/
+
+.colors-wrapper {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 5000px;
+    /*background-color: rgba(128,0,0,.5);*/
+    background-color: rgba(3, 169, 244, 0.5);
+    box-sizing: border-box;
+    padding: 20px;
+    color: #fff;
+    margin-left: -5000px;
+    transition: margin 200ms ease-in-out;
+    z-index: 5;
+}
+// .colors-toggle {
+//     position: absolute;
+//     top: 85%;
+//     left: 0;
+//     width: 25px;
+//     height: 50px;
+//     line-height: 50px;
+//     font-size: 2em;
+//     text-decoration: none;
+//     text-align: center;
+//     border-bottom-right-radius: 3px;
+//     box-shadow: 1px 0 3px rgba(0, 0, 0, .1);
+//     color: #333;
+//     background-color: #fff;
+//     z-index: 999;
+//     cursor: pointer;
+//     transition: width 1s ;
+//     transition: ease-in-out 0.35s;
+// }
+// .colors-toggle:hover {
+//     width: 50px;
+//     color: rgb(128,0,0);
+// }
+input[type=checkbox] {
+    display: none;
+}
+input[type=checkbox]:checked ~ div {
+   // background: red;
+   margin-left: 0px;
+}
+
+
+/*
+--------------------------------------------------------------
+    FOOTER
+----------------------------------------------------------------
+*/
+#footer {
+    border-top: 1px solid #333;
+    font-size: 1.5em;
+}
+#footer a {
+    font-size: 2em;
+}
+
+/*
+--------------------------------------------------------------
+    LARGER DEVICES
+----------------------------------------------------------------
+*/
+@media (min-width: 768px) {
+    /*
+    --------------------------------------------------------------
+        NAVBAR TRANSPARENT
+    ----------------------------------------------------------------
+    */
+    .top-button {
+        visibility: visible;
+        padding: 10px;
+        height: 50px;
+        width: 50px;
+        border-radius: 50px;
+        font-size: 1.5em;
+        color: rgb(128,0,0)!important;
+        border: 1px solid rgb(128,0,0);
+        bottom: 50px;
+        right: 25px;
+        z-index: 999;
+        position: fixed;
+        text-align: center;
+        line-height: 2em;
+        transition: background-color 0.5s ease;
+        background-color: transparent;
+    }
+    .top-button:hover {
+        background-color: rgb(128,0,0);
+        color: #fff!important;
+    }
+    .navbar-transparent {
+        background-color: transparent !important;
+        border-color: rgba(255,255,255,.3) !important;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 100;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        -webkit-transition: all 0.35s;
+        -moz-transition: all 0.35s;
+        transition: all 0.35s;  
+        padding-bottom: 0;
+        padding-top: 15px;
+        font-size: 1.5em;
+    }
+    .navbar-transparent .navbar-header .navbar-brand {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 1.5em;
+        letter-spacing: 5px;
+    }
+    .navbar-transparent .navbar-header .navbar-brand,
+    .navbar-transparent #myNavbar ul li > a {
+        color: rgb(230,230,230) !important;
+    }
+    .navbar-transparent .navbar-header .navbar-brand:focus,
+    .navbar-transparent #myNavbar  ul li > a:focus,
+    .navbar-transparent .navbar-header .navbar-brand:hover,
+    .navbar-transparent #myNavbar ul li > a:hover {
+        color: rgb(255,255,255) !important;
+        text-decoration: none; 
+        background-color: transparent;
+    }
+    .navbar-transparent #myNavbar a{
+        border-bottom: 0;
+    }
+    .navbar-transparent .collapse {background: transparent;}
+    /*
+    --------------------------------------------------------------
+        NAVBAR DEFAULT
+    ----------------------------------------------------------------
+    */
+    .navbar-default {
+        background-color: #fff !important;
+        color: rgba(128,0,0,.8) !important;
+        font-size: 1.35em;
+        letter-spacing: 2px;
+    }
+    .navbar-default .navbar-header .navbar-brand,
+    .navbar-default #myNavbar ul li > a {
+        color: rgba(128,0,0,.7) !important;
+    }
+    .navbar-default .navbar-header .navbar-brand:focus,
+    .navbar-default .navbar-header .navbar-brand:hover,
+    .navbar-default #myNavbar a:hover {
+        color: rgba(128,0,0,1) !important;
+        text-decoration: none; 
+    }
+    /*
+    --------------------------------------------------------------
+        NAVBAR Three Large
+    ----------------------------------------------------------------
+    */
+    .navbar-color-three {
+        background-color: #fff !important;
+        color: rgba(102,0,102,.8) !important;
+        border-bottom-color: #d9d9d9!important;
+        font-size: 1.35em;
+        letter-spacing: 2px;
+    }
+    .navbar-color-three .navbar-header .navbar-brand,
+    .navbar-color-three #myNavbar ul li > a {
+        color: rgba(102,0,102,.7) !important;
+    }
+    .navbar-color-three .navbar-header .navbar-brand:focus,
+    .navbar-color-three .navbar-header .navbar-brand:hover,
+    .navbar-color-three #myNavbar a:hover {
+        color: rgba(102,0,102,1) !important;
+        text-decoration: none; 
+    }
+    /*
+    --------------------------------------------------------------
+        NAVBAR Four Large
+    ----------------------------------------------------------------
+    */
+    .navbar-color-four {
+        background-color: #fff !important;
+        color: rgba(0,102,0,.8) !important;
+        border-bottom-color: #d9d9d9!important;
+        font-size: 1.35em;
+        letter-spacing: 2px;
+    }
+    .navbar-color-four .navbar-header .navbar-brand,
+    .navbar-color-four #myNavbar ul li > a {
+        color: rgba(0,102,0,.7) !important;
+    }
+    .navbar-color-four .navbar-header .navbar-brand:focus,
+    .navbar-color-four .navbar-header .navbar-brand:hover,
+    .navbar-color-four #myNavbar a:hover {
+        color: rgba(0,102,0,1) !important;
+        text-decoration: none; 
+    }
+    /*
+    --------------------------------------------------------------
+        NAVBAR DEFAULT Large
+    ----------------------------------------------------------------
+    */
+    .navbar-color-five {
+        background-color: #fff !important;
+        color: rgba(255,51,0,.8) !important;
+        border-bottom-color: #d9d9d9!important;
+        font-size: 1.35em;
+        letter-spacing: 2px;
+    }
+    .navbar-color-five .navbar-header .navbar-brand,
+    .navbar-color-five #myNavbar ul li > a {
+        color: rgba(255,51,0,.7) !important;
+    }
+    .navbar-color-five .navbar-header .navbar-brand:focus,
+    .navbar-color-five .navbar-header .navbar-brand:hover,
+    .navbar-color-five #myNavbar a:hover {
+        color: rgba(255,51,0,1) !important;
+        text-decoration: none; 
+    }
+    /*
+    --------------------------------------------------------------
+        NAVBAR Color Six Large
+    ----------------------------------------------------------------
+    */
+    .navbar-color-six {
+        background-color: #fff !important;
+        color: rgba(0,153,153,.8) !important;
+        border-bottom-color: #d9d9d9!important;
+        font-size: 1.35em;
+        letter-spacing: 2px;
+    }
+    .navbar-color-six .navbar-header .navbar-brand,
+    .navbar-color-six #myNavbar ul li > a {
+        color: rgba(0,153,153,.7) !important;
+    }
+    .navbar-color-six .navbar-header .navbar-brand:focus,
+    .navbar-color-six .navbar-header .navbar-brand:hover,
+    .navbar-color-six #myNavbar a:hover {
+        color: rgba(0,153,153,1) !important;
+        text-decoration: none; 
+    }
+     /*
+    --------------------------------------------------------------
+        NAVBAR Color Seven Large
+    ----------------------------------------------------------------
+    */
+    .navbar-color-seven {
+        background-color: #fff !important;
+        color: rgba(230,0,0,.8) !important;
+        border-bottom-color: #d9d9d9!important;
+        font-size: 1.35em;
+        letter-spacing: 2px;
+    }
+    .navbar-color-seven .navbar-header .navbar-brand,
+    .navbar-color-seven #myNavbar ul li > a {
+        color: rgba(230,0,0,.7) !important;
+    }
+    .navbar-color-seven .navbar-header .navbar-brand:focus,
+    .navbar-color-seven .navbar-header .navbar-brand:hover,
+    .navbar-color-seven #myNavbar a:hover {
+        color: rgba(230,0,0,1) !important;
+        text-decoration: none; 
+    }
+    /*
+    --------------------------------------------------------------
+        NAVBAR Eight Large
+    ----------------------------------------------------------------
+    */
+    .navbar-color-eight {
+        background-color: #fff !important;
+        color: rgba(255,0,102,.8) !important;
+        border-bottom-color: #d9d9d9!important;
+        font-size: 1.35em;
+        letter-spacing: 2px;
+    }
+    .navbar-color-eight .navbar-header .navbar-brand,
+    .navbar-color-eight #myNavbar ul li > a {
+        color: rgba(255,0,102,.7) !important;
+    }
+    .navbar-color-eight .navbar-header .navbar-brand:focus,
+    .navbar-color-eight .navbar-header .navbar-brand:hover,
+    .navbar-color-eight #myNavbar a:hover {
+        color: rgba(255,0,102,1) !important;
+        text-decoration: none; 
+    }
+    /*
+    --------------------------------------------------------------
+        NAVBAR Color Nine Large
+    ----------------------------------------------------------------
+    */
+    .navbar-color-nine {
+        background-color: #fff !important;
+        color: rgba(255,153,0,.8) !important;
+        border-bottom-color: #d9d9d9!important;
+        font-size: 1.35em;
+        letter-spacing: 2px;
+    }
+    .navbar-color-nine .navbar-header .navbar-brand,
+    .navbar-color-nine #myNavbar ul li > a {
+        color: rgba(255,153,0,.7) !important;
+    }
+    .navbar-color-nine .navbar-header .navbar-brand:focus,
+    .navbar-color-nine .navbar-header .navbar-brand:hover,
+    .navbar-color-nine #myNavbar a:hover {
+        color: rgba(255,153,0,1) !important;
+        text-decoration: none; 
+    }
+    /*
+    ----------------------------------------------------------------
+        TEST
+    ----------------------------------------------------------------
+    */
+    .navbar-test {
+        background-color: #fff !important;
+        color: rgba(51,102,204,.8) !important;
+        border-bottom-color: #d9d9d9!important;
+        font-size: 1.35em;
+        letter-spacing: 2px;
+    }
+    .navbar-test .navbar-header .navbar-brand,
+    .navbar-test #myNavbar ul li > a {
+        color: rgba(51,102,204,.7) !important;
+    }
+    .navbar-test .navbar-header .navbar-brand:focus,
+    .navbar-test .navbar-header .navbar-brand:hover,
+    .navbar-test #myNavbar a:hover {
+        color: rgb(51,102,204) !important;
+        text-decoration: none; 
+    }
+    /*
+    --------------------------------------------------------------
+        HEADER
+    ----------------------------------------------------------------
+    */
+    .table-cell h1 {
+        font-size: 4.5em;
+    }
+    .table-cell h3 {
+        font-size: 2.5em;
+    }
+    .round-page-scroll {
+        left: 47.50%;
+        margin: 0;
+    }
+    /*
+    --------------------------------------------------------------
+        PORTFOLIO
+    ----------------------------------------------------------------
+    */
+    .simplefilter li {
+        margin-right: 5px;
+    }
+    .simplefilter {
+        font-size: 1.5em;
+    }
+    .simplefilter li {
+        padding: 10px 15px;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+    }
+    .simplefilter li:after {
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+    }
+    .simplefilter li:hover {
+        opacity: 1;
+    }
+    .modal p,
+    .modal h4,
+    .modal h3,
+    .item-button {
+        margin-left: 10px;
+        text-align: left;
+        padding: 5px;
+    }
+    .modal .fa {
+        font-size: 1.5em;
+    }
+    .modal h3 {text-transform: uppercase;}
+    .modal p {font-size: 1.5em;}
+    .modal .button-close {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background: #fff;
+        width: 50px;
+        height: 50px;
+        font-size: 3em;
+        border: none;
+        border-top-right-radius: 3px;
+    }
+    .item-button {
+        font-size: 1em;
+        color: rgb(128,0,0);
+        padding: 10px;
+        display: block;
+        float: right;
+        border: 1px solid rgb(128,0,0);
+        padding: 5px;
+        margin: 20px 0;
+    }
+    .item-button:hover {
+        text-decoration: underline;
+        color: rgb(158,0,0);
+    }
+    .modal-body{
+        background: #fff;
+        border-radius: 3px;
+    }
+    .item-content {
+        display: block;
+        margin-top: 20px;
+    }
+    #landing {
+        height: auto;
+    }
+    .landing-cover {
+        height: 250px;
+        width: 100%;
+        background: rgba(25,25,25,.5);
+    }
+    #landing p {margin: 0;}
+    /*
+    --------------------------------------------------------------
+        PORTFOLIO
+    ----------------------------------------------------------------
+    */
+    .owl-controls .owl-prev,
+    .owl-controls .owl-next {
+        visibility: visible;
+        -moz-transform: perspective(1px) translateY(-50%);
+        -ms-transform: perspective(1px) translateY(-50%);
+        -webkit-transform: perspective(1px) translateY(-50%);
+        background: #222534;
+        color: #fff;
+        font-size: 14px;
+        height: 37px;
+        line-height: 31px;
+        position: absolute;
+        text-align: center;
+        text-shadow: none;
+        top: 50%;
+        transform: perspective(1px) translateY(-50%);
+        transition: background .3s;
+        -webkit-transition: background .3s;
+        -moz-transition: background .3s;
+        vertical-align: middle;
+        width: 37px;
+        z-index: 999;
+    }
+    .owl-controls .owl-next {right: 0;}
+    .owl-controls .owl-prev {left: 0;}
+    .owl-controls .owl-next:before,
+    .owl-controls .owl-prev:before{
+        display: inline-block;
+        font-family: "FontAwesome";
+    }
+
+    .owl-controls .owl-next:before {
+        content: "\f105";
+    }
+
+    .owl-controls .owl-prev:before {
+        content: "\f104";
+    }
+}
+
+@media (max-width: 990px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-text {
+        float: none;
+        margin: 15px 0;
+    }
+    .navbar-collapse.collapse.in { 
+        display: block!important;
+    }
+    .collapsing {
+        overflow: hidden!important;
+    }
+}
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+/*FoodStar*/
+.abs_demo {
+  position: absolute;bottom: 0;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 75%;}
+.abs_demo .hexagon i {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    font-size: 50px;
+    color: #fff;
+}
+.abs_demo .hexagon span {display: none;}
+.abs_demo .hexagon:hover span {
+    position: absolute;
+    display: block;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 100%;
+    font-size: 14px;
+    color: #fff;
+    z-index: 22;
+}
+.hexagon {
+  position: relative;
+  width: 100px; 
+  height: 57.74px;
+  background-color: rgba(3, 169, 244, .5);
+  margin: 28.87px 10px;float: left;
+}
+
+.hexagon:before,
+.hexagon:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+}
+
+.hexagon:before {
+  bottom: 100%;
+  border-bottom: 28.87px solid rgba(3, 169, 244, .5);
+}
+
+.hexagon:after {
+  top: 100%;
+  width: 0;
+  border-top: 28.87px solid rgba(3, 169, 244, .5);
+}
+
+/*Features*/
+i.abs {background: url(../img/abserve_feature.png);width: 120px;height: 120px;display: table;margin: 0 auto;}
+i.abs.a {background-position: 0px 0;}
+i.abs.b {background-position: -120px 0;}
+i.abs.c {background-position: -240px 0;}
+i.abs.d {background-position: -360px 0;}
+i.abs.e {background-position: -480px 0 ;}
+i.abs.f {background-position: -600px 0 ;}
+i.abs.g {background-position: -720px 0 ;}
+i.abs.h {background-position: -840px 0 ;}
+i.abs.i {background-position: -960px 0 ;}
+i.abs.j {background-position: -1080px 0 ;}
+i.abs.k {background-position: -1200px 0 ;}
+i.abs.l {background-position: -1320px 0 ;}
+i.abs.m {background-position: -1440px 0 ;}
+i.abs.o {background-position: -1560px 0 ;}
+i.abs.p {background-position: -1680px 0 ;}
+i.abs.q {background-position: -1800px 0 ;}
+i.abs.r {background-position: -1920px 0 ;}
+i.abs.s {background-position: -2040px 0 ;}
+i.abs.t {background-position: -2160px 0 ;}

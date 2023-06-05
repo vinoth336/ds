@@ -1,0 +1,110 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packing_charge,veg_nonveg,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_stock,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+ZWARMA,Classic Shawarma,Chicken marinated with authentic spices to bring typical shawarma form the aroma of origin(with oita bread and garlic mayonnise),92,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,0,0
+ZWARMA,Spicy Shawarma,For Spicy lavers Flavorsome Spicy in Shawarma(with Pita bread and garlic mayonnaise),104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,1,2
+ZWARMA,Biriyani Shawarma,"For Spicy Llavers, Flavorsome briyani spices in shawarma(with pita bread and garilc mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,1,4
+ZWARMA,Kasumberry Shawarma,Savory dhal and Special Seasoned Spices (with Pita bread and Garlic Mayonnaise),104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,1,5
+ZWARMA,Peri Peri Shawarma,Irresistible hot spices made with red chilli and peppers(with pita bread and garlic mayonnaise),104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,0,0
+ZWARMA,Chat Pata Shawarma,Amix of salty and spicy along with tangy flavor (with pita bread and garlic mayonnaise),104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,1,7
+ZWARMA,Sweet Chilli Shawarma,"Sweet Chilli is the Combination of Red chilli peppers,rice wine vingar,and sweetening ingredient such as fruit essence(with pita bread and garlic mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,1,8
+ZWARMA,Salsa Shawarma,"Spicy sauce mad with tomatoes ,oions,and hot peppers (with pita bread and garlic mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,1,9
+ZWARMA,Mint Shawarma,Mint flavors including pepper mint and spearmint oils flavors along with seasoned spices(with pita bread and garlic mayonnaise),104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,1,10
+ZWARMA,Hot Garlic Shawarma,Warm garlic and finely chopped onion witj seasoned whole red peppers (with pita bread and garlic mayonnaise),104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,0,0
+ZWARMA,BBQ Shawarma,Stuffed with smoky bbq Chicken (with pita bread and garlic mayonnaise),104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,0,0
+ZWARMA,Clintro Shawarma,"Bunch of fresh cilantro with the blend of olive oil,white vinegar,garlic,kosher salt (with pita bread and garlic mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,2,1
+ZWARMA,Lebanese Shawarma,Wholesome of black pepper and red peprika along with seasoned spices(with pita bread garlic mayonnaise),104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,0,0
+ZWARMA,Mexican Shawarma,wholesome of chilli powder and red pepper flakes along with seasoned spices (with pita bread and garlic mayonnaise),104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,2,3
+ZWARMA,Indian Masala Shawarma,"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,2,4
+ZWARMA,Tandoori Shawarma,"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,2,5
+ZWARMA,Arbian Shawarma,"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,0,0
+ZWARMA,Chettinadu Shawarma,"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,2
+ZWARMA,Turkish Shawarma,"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,3
+ZWARMA,Schezwan Shawarma,"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",104,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,4
+ZWARMA,Classic Shawarma (Burger Bun),Chicken marinated with authentic spices to bring typical shawarma form the aroma of origin(with oita bread and garlic mayonnise),115,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,5
+ZWARMA,Spicy Shawarma (Burger Bun),For Spicy lavers Flavorsome Spicy in Shawarma(with Pita bread and garlic mayonnaise),127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,6
+ZWARMA,Biriyani Shawarma (Burger Bun),"For Spicy Llavers, Flavorsome briyani spices in shawarma(with pita bread and garilc mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,7
+ZWARMA,Kasumberry Shawarma (Burger Bun),Savory dhal and Special Seasoned Spices (with Pita bread and Garlic Mayonnaise),127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,8
+ZWARMA,Peri Peri Shawarma (Burger Bun),Irresistible hot spices made with red chilli and peppers(with pita bread and garlic mayonnaise),127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,9
+ZWARMA,Chat Pata Shawarma (Burger Bun),Amix of salty and spicy along with tangy flavor (with pita bread and garlic mayonnaise),127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,10
+ZWARMA,Sweet Chilli Shawarma (Burger Bun),"Sweet Chilli is the Combination of Red chilli peppers,rice wine vingar,and sweetening ingredient such as fruit essence(with pita bread and garlic mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,10
+ZWARMA,Salsa Shawarma (Burger Bun),"Spicy sauce mad with tomatoes ,oions,and hot peppers (with pita bread and garlic mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,11
+ZWARMA,Mint Shawarma (Burger Bun),Mint flavors including pepper mint and spearmint oils flavors along with seasoned spices(with pita bread and garlic mayonnaise),127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,12
+ZWARMA,Hot Garlic Shawarma (Burger Bun),Warm garlic and finely chopped onion witj seasoned whole red peppers (with pita bread and garlic mayonnaise),127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,5,13
+ZWARMA,BBQ Shawarma (Burger Bun),Stuffed with smoky bbq Chicken (with pita bread and garlic mayonnaise),127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,0,0
+ZWARMA,Clintro Shawarma (Burger Bun),"Bunch of fresh cilantro with the blend of olive oil,white vinegar,garlic,kosher salt (with pita bread and garlic mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,6,2
+ZWARMA,Lebanese Shawarma (Burger Bun),Wholesome of black pepper and red peprika along with seasoned spices(with pita bread garlic mayonnaise),127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,6,3
+ZWARMA,Mexican Shawarma (Burger Bun),wholesome of chilli powder and red pepper flakes along with seasoned spices (with pita bread and garlic mayonnaise),127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,6,4
+ZWARMA,Indian Masala Shawarma (Burger Bun),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,6,3
+ZWARMA,Tandoori Shawarma (Burger Bun),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,6,4
+ZWARMA,Arbian Shawarma (Burger Bun),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,0,0
+ZWARMA,Chettinadu Shawarma (Burger Bun),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,9,2
+ZWARMA,Turkish Shawarma (Burger Bun),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,9,3
+ZWARMA,Schezwan Shawarma (Burger Bun),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Shawarma,,0,,9,4
+ZWARMA,Classic Shawarma (Plate),Chicken marinated with authentic spices to bring typical shawarma form the aroma of origin(with oita bread and garlic mayonnise),173,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,5
+ZWARMA,Spicy Shawarma (Plate),For Spicy lavers Flavorsome Spicy in Shawarma(with Pita bread and garlic mayonnaise),184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,0,0
+ZWARMA,Biriyani Shawarma (Plate),"For Spicy Llavers, Flavorsome briyani spices in shawarma(with pita bread and garilc mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,0,0
+ZWARMA,Kasumberry Shawarma (Plate),Savory dhal and Special Seasoned Spices (with Pita bread and Garlic Mayonnaise),184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,7
+ZWARMA,Peri Peri Shawarma (Plate),Irresistible hot spices made with red chilli and peppers(with pita bread and garlic mayonnaise),184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,8
+ZWARMA,Chat Pata Shawarma (Plate),Amix of salty and spicy along with tangy flavor (with pita bread and garlic mayonnaise),184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,9
+ZWARMA,Sweet Chilli Shawarma (Plate),"Sweet Chilli is the Combination of Red chilli peppers,rice wine vingar,and sweetening ingredient such as fruit essence(with pita bread and garlic mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,10
+ZWARMA,Salsa Shawarma (Plate),"Spicy sauce mad with tomatoes ,oions,and hot peppers (with pita bread and garlic mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,11
+ZWARMA,Mint Shawarma (Plate),Mint flavors including pepper mint and spearmint oils flavors along with seasoned spices(with pita bread and garlic mayonnaise),184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,12
+ZWARMA,Hot Garlic Shawarma (Plate),Warm garlic and finely chopped onion witj seasoned whole red peppers (with pita bread and garlic mayonnaise),184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,13
+ZWARMA,BBQ Shawarma (Plate),Stuffed with smoky bbq Chicken (with pita bread and garlic mayonnaise),184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,14
+ZWARMA,Clintro Shawarma (Plate),"Bunch of fresh cilantro with the blend of olive oil,white vinegar,garlic,kosher salt (with pita bread and garlic mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,20
+ZWARMA,Lebanese Shawarma (Plate),Wholesome of black pepper and red peprika along with seasoned spices(with pita bread garlic mayonnaise),184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,21
+ZWARMA,Mexican Shawarma (Plate),wholesome of chilli powder and red pepper flakes along with seasoned spices (with pita bread and garlic mayonnaise),184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,22
+ZWARMA,Indian Masala Shawarma (Plate),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,9,26
+ZWARMA,Tandoori Shawarma (Plate),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,7,1
+ZWARMA,Arbian Shawarma (Plate),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,7,2
+ZWARMA,Chettinadu Shawarma (Plate),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,7,3
+ZWARMA,Turkish Shawarma (Plate),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,4,1
+ZWARMA,Schezwan Shawarma (Plate),"Gives our native with wholesome of white peppercorns, cinnamon,black and green cardamom pods along with seasoned spices(with pita bread and garlic mayonnaise)",184,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,4,2
+ZWARMA,Veg Shawarma,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Shawarma Roll,,0,,4,16
+ZWARMA,Mushroom Shawarma,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Shawarma Roll,,0,,4,16
+ZWARMA,Baby Corn Shawarma,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Shawarma Roll,,0,,4,16
+ZWARMA,Paneer Shawarma,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Shawarma Roll,,0,,4,16
+ZWARMA,Grilled Chicken Full,,437,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,4,16
+ZWARMA,Grilled Chicken Half,,219,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,4,16
+ZWARMA,Grilled Chicken Quarter,,127,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,4,16
+ZWARMA,Venilla Milkshake,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,4,16
+ZWARMA,Rose MilkShake,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,4,16
+ZWARMA,Strawberry Milkshke,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,4,16
+ZWARMA,ButterScotch Milkshake,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,4,16
+ZWARMA,Chocolate Milkshake,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,4,16
+ZWARMA,Mango Milkshake,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,4,16
+ZWARMA,Coldcoffee Milkshake,,127,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,4,16
+ZWARMA,Oreo Milkshake,,115,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,4,16
+ZWARMA,Kitkat Milkshake,,115,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,4,16
+ZWARMA,Veg Sandwich,,69,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,4,16
+ZWARMA,Cheese Sandwich,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,4,16
+ZWARMA,Chillicheese Sandwich,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,4,16
+ZWARMA,Corn Sandwich,,104,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,4,16
+ZWARMA,Mushroom Sandwich,,104,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,4,16
+ZWARMA,Panner Sandwich,,104,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,4,16
+ZWARMA,Chicken Sandwich,,115,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,4,16
+ZWARMA,Chicken Kothukari Sandwich,,115,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,4,16
+ZWARMA,Blue Mojito,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,4,16
+ZWARMA,Lime & Mint Mojito ,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,4,16
+ZWARMA,Strawberry  Mojito,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,4,16
+ZWARMA,Mango Mint Mojito,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,4,16
+ZWARMA,Green Apple Mojito,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,4,16
+ZWARMA,French Fries,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,4,16
+ZWARMA,Spicy Pepper French Fries,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,4,16
+ZWARMA,Mexican French Fries,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,4,16
+ZWARMA,Masala French Fries,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,4,16
+ZWARMA,Cheese French Fries,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,4,16
+ZWARMA,Veg Burger,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,4,16
+ZWARMA,Cheese Burger,,104,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,4,16
+ZWARMA,Cheese Corn Burger,,127,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,4,16
+ZWARMA,Chicken Burger,,138,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,4,16
+ZWARMA,Fried Burger,,161,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,4,16
+ZWARMA,Veg Rice,,115,,,,0,veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,16
+ZWARMA,Chicken Rice,,81,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,16
+ZWARMA,Egg Rice,,81,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,16
+ZWARMA,Mushroom Rice,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,16
+ZWARMA,Veg Noodles,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,16
+ZWARMA,Egg Noodles,,81,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,16
+ZWARMA,Panner Noodles,,92,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,16
+ZWARMA,Chicken Nooldes,,92,,,,0,Non Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,16
+ZWARMA,Extra Kubbos,,12,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,4,16
+ZWARMA,Extra Mayonaise,,12,,,,0,Veg,4:00 PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,4,16

@@ -1,0 +1,27 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KANNAN UNAVAGAM,Idly 2 Pcs,,24,,,,,,veg,07:00PM,08:30PM,,,,,,,"1,2,3,4,5,6",1,,Idly,,0,,1,1
+KANNAN UNAVAGAM,Parotta 2 Pcs Veg Kuruma,,30,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,1
+KANNAN UNAVAGAM,Parotta 2 Pcs Non-Veg Kulambu,,30,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,2
+KANNAN UNAVAGAM,Kothu Parotta Veg,,72,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,3
+KANNAN UNAVAGAM,Kothu Parotta Non Veg,,72,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,4
+KANNAN UNAVAGAM,Chilli Parotta,,72,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,5
+KANNAN UNAVAGAM,Veechu Parotta 2 Pcs,,36,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,6
+KANNAN UNAVAGAM,Double Veechu Parotta,,36,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,7
+KANNAN UNAVAGAM,Egg Parotta,,72,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,8
+KANNAN UNAVAGAM,Egg Veechu,,72,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,9
+KANNAN UNAVAGAM,Double Egg Veechu,,72,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Parotta Items,,0,,2,10
+KANNAN UNAVAGAM,Dosa 2 Pcs,,48,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Roast Items,,0,,3,1
+KANNAN UNAVAGAM,Roast,,36,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Roast Items,,0,,3,2
+KANNAN UNAVAGAM,Ghee Roast,,60,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Roast Items,,0,,3,3
+KANNAN UNAVAGAM,Podi Roast,,48,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Roast Items,,0,,3,4
+KANNAN UNAVAGAM,Onion Roast,,60,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Roast Items,,0,,3,5
+KANNAN UNAVAGAM,Pepper Roast,,48,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Roast Items,,0,,3,6
+KANNAN UNAVAGAM,Egg Kal Dosa,,36,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Roast Items,,0,,3,7
+KANNAN UNAVAGAM,Egg Pepper Podi Dosa,,48,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Roast Items,,0,,3,8
+KANNAN UNAVAGAM,Egg Roast,,48,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Roast Items,,0,,3,9
+KANNAN UNAVAGAM,Uthappam 2 Pcs,,48,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Uthappam,,0,,4,1
+KANNAN UNAVAGAM,Onion Uthappam,,48,,,,,,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Uthappam,,0,,4,2
+KANNAN UNAVAGAM,Egg Uthappam,,36,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Uthappam,,0,,4,3
+KANNAN UNAVAGAM,Omelette,,18,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Egg Items,,0,,5,1
+KANNAN UNAVAGAM,Onion Kulambu Kalakki,,24,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Egg Items,,0,,5,2
+KANNAN UNAVAGAM,Egg Lappa,,72,,,,,,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6",1,,Egg Items,,0,,5,3

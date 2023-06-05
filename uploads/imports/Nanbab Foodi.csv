@@ -1,0 +1,68 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+NANBAN FOODI,Chicken Biriyani,,95,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,2,1
+NANBAN FOODI,Mutton Biriyani,,190,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,2,2
+NANBAN FOODI,Chilli Biriyani,,130,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+NANBAN FOODI,Chicken Empty Biriyani,,85,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,2
+NANBAN FOODI,Mutton Empty Biriyani,,150,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,2
+NANBAN FOODI,Veg Fried Rice,,80,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,2
+NANBAN FOODI,Egg Fried Rice,,90,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,3
+NANBAN FOODI,Chicken Fried Rice,,110,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,4
+NANBAN FOODI,Panner Fried Rice,,100,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,4
+NANBAN FOODI,Mushroom Fried Rice,,90,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,1
+NANBAN FOODI,Chicken Schezwan Fried Rice,,130,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,2
+NANBAN FOODI,Egg Schezwan Fried Rice,,110,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,4
+NANBAN FOODI,Mixed Veg Fried Rice,,100,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,4
+NANBAN FOODI,Mixed Non Veg Fried Rice,,150,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,4
+NANBAN FOODI,Fish Fried Rice,,110,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,4
+NANBAN FOODI,Prawn Fried Rice,,150,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,4
+NANBAN FOODI,Mutton Fried Rice,,150,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,4
+NANBAN FOODI,Veg Noodles,,80,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nooldes,,0,,3,4
+NANBAN FOODI,Egg Noodles,,90,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nooldes,,0,,3,4
+NANBAN FOODI,Chicken Noodles,,110,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nooldes,,0,,3,4
+NANBAN FOODI,Panner Noodles,,100,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nooldes,,0,,3,4
+NANBAN FOODI,Mushroom Noodles,,90,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nooldes,,0,,3,4
+NANBAN FOODI,Egg Schezwan Noodles,,110,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nooldes,,0,,3,4
+NANBAN FOODI,Chicken Schezwan Noodles,,130,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nooldes,,0,,3,4
+NANBAN FOODI,Mixed Veg Noodles,,100,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nooldes,,0,,3,4
+NANBAN FOODI,Mixed Non Veg Noodles,,150,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nooldes,,0,,3,4
+NANBAN FOODI,Chicken 65 (Boneless),,130,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Chicken Manchuriyan,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Chilli Chicken Dry,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Pepper Chicken Dry,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Hot Pepper Chicken ,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Dragon Chicken,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Schezwan Chicken,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Chilli Lollipop(4Pcs),,120,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Garlic Chicken Dry,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Chicken Fry,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Chicken Leg (1Pc),,90,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Kaadai Fry,,90,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,KaadaiRoast,,90,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,Pallipalayam Chicken,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Item,,0,,3,4
+NANBAN FOODI,NattuKozhi Chettinad,,190,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi SPl,,0,,3,4
+NANBAN FOODI,NattuKozhi PalliPalayam,,190,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi SPl,,0,,3,4
+NANBAN FOODI,NattuKozhi UppuKari,,190,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi SPl,,0,,3,4
+NANBAN FOODI,Chicken Uppu Kari,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi SPl,,0,,3,4
+NANBAN FOODI,Mutton Fry,,180,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry,,0,,3,4
+NANBAN FOODI,Mutton Chukka,,200,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry,,0,,3,4
+NANBAN FOODI,Fish Fry,,90,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,3,4
+NANBAN FOODI,Fish 65,,110,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,3,4
+NANBAN FOODI,Fish Masala,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,3,4
+NANBAN FOODI,Fish Manchuriyan,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,3,4
+NANBAN FOODI,Prawn Fry,,180,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,3,4
+NANBAN FOODI,Prawn Masala,,190,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,3,4
+NANBAN FOODI,Prawn Chettinadu,,190,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,3,4
+NANBAN FOODI,Prawn 65,,170,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,3,4
+NANBAN FOODI,Gopi 65,,90,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+NANBAN FOODI,Mushroom 65,,100,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+NANBAN FOODI,Panner 65,,160,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+NANBAN FOODI,Gopi Manchurian,,120,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+NANBAN FOODI,Mushroom Manchurian,,120,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+NANBAN FOODI,Spicy Grill Chicken Full,,460,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gilled Chicken ,,0,,3,4
+NANBAN FOODI,Spicy Grill Chicken Half,,230,,,,0,0,Non Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gilled Chicken ,,0,,3,4
+NANBAN FOODI,Rotti,,50,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,,,,
+NANBAN FOODI,Tandoori Rotti,,75,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,,,,
+NANBAN FOODI,Panner Paratha,,90,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,,,,
+NANBAN FOODI,Alo Paratha,,80,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,,,,
+NANBAN FOODI,Gobi Paratha,,90,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,,,,
+NANBAN FOODI,Mushroom Paratha,,80,,,,0,0,veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,,,,

@@ -1,0 +1,117 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SHAKEY SHOP,Vanilla Falooda,,118,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,1
+SHAKEY SHOP,Mango Falooda,,118,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,2
+SHAKEY SHOP,Pista Falooda,,130,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,3
+SHAKEY SHOP,Strawberry Falooda,,133,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,4
+SHAKEY SHOP,Bom Bom Falooda,,168,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,5
+SHAKEY SHOP,Chocolate Falooda,,168,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,6
+SHAKEY SHOP,Black Diamond Falooda,,168,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,7
+SHAKEY SHOP,Trible Top Falooda,,168,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,8
+SHAKEY SHOP,Jelly Mills Falooda,,168,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,9
+SHAKEY SHOP,Karur King Falooda,,168,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,10
+SHAKEY SHOP,TN Tastee Falooda,,168,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,11
+SHAKEY SHOP,Kulfi Falooda,,168,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,12
+SHAKEY SHOP,Oreo Vanilla Falooda,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,13
+SHAKEY SHOP,Rose Falooda,,126,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,14
+SHAKEY SHOP,Dry Time Falooda,,240,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,15
+SHAKEY SHOP,Colo Coffee,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,1
+SHAKEY SHOP,Chocolate Coffee,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,2
+SHAKEY SHOP,Coffee Mud,,108,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,3
+SHAKEY SHOP,Coffee with Cream,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,4
+SHAKEY SHOP,Coffee with Choco,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,5
+SHAKEY SHOP,Caramel Coffee,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,6
+SHAKEY SHOP,Vanilla Ice Cream Shake,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,3,1
+SHAKEY SHOP,Mango Ice Cream Shake,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,3,2
+SHAKEY SHOP,Pista Ice Cream Shake,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,3,3
+SHAKEY SHOP,Strawberry Ice Cream Shake,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,3,4
+SHAKEY SHOP,Chocolate Ice Cream Shake,,108,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,3,5
+SHAKEY SHOP,Butter Scotch Ice Cream Shake,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,3,6
+SHAKEY SHOP,Black Current Ice Cream Shake,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,3,7
+SHAKEY SHOP,Master Malai Signature,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,4,1
+SHAKEY SHOP,Sharjah Nut Signature,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,4,2
+SHAKEY SHOP,Apple Dates Signature,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,4,3
+SHAKEY SHOP,Delicious Tridle Signature,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,4,4
+SHAKEY SHOP,Strawberry Nut Signature,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,4,5
+SHAKEY SHOP,Pista Nut Signature,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,4,6
+SHAKEY SHOP,Banana Nut Signature,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,4,7
+SHAKEY SHOP,Multi Treat Signature,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,4,8
+SHAKEY SHOP,Royal RCC Special,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,4,9
+SHAKEY SHOP,Apple Fresh Juice,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,1
+SHAKEY SHOP,Orange Fresh Juice,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,2
+SHAKEY SHOP,Mosambi Fresh Juice,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,3
+SHAKEY SHOP,Pomegranate Fresh Juice,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,4
+SHAKEY SHOP,Watermelon Fresh Juice,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,5
+SHAKEY SHOP,Muskmelon Fresh Juice,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,6
+SHAKEY SHOP,Mint Lime Fresh Juice,,48,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,7
+SHAKEY SHOP,Fresh Lime Fresh Juice,,36,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,8
+SHAKEY SHOP,Pine Fine Fresh Juice,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,9
+SHAKEY SHOP,Apple Shake,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,1
+SHAKEY SHOP,Banana Shake,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,2
+SHAKEY SHOP,Pomegranate Shake,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,3
+SHAKEY SHOP,Mangos Shake,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,4
+SHAKEY SHOP,Choco Chips Shake,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,5
+SHAKEY SHOP,Litchee Shake,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,6
+SHAKEY SHOP,Kitkat Shake,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,7
+SHAKEY SHOP,Rose Milk Shake,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,8
+SHAKEY SHOP,Badam Shake,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,9
+SHAKEY SHOP,Dairy Milk Shake,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,10
+SHAKEY SHOP,Snickers Shake,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,11
+SHAKEY SHOP,Booste Shake,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,12
+SHAKEY SHOP,Strawberry Shake,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,13
+SHAKEY SHOP,Brownie Shake,,144,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,14
+SHAKEY SHOP,Oreo Shake,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,6,15
+SHAKEY SHOP,Coffee Fruffil,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,1
+SHAKEY SHOP,Fruit Bowel,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,2
+SHAKEY SHOP,Fruit Saled Ice,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,3
+SHAKEY SHOP,Choco Candy,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,4
+SHAKEY SHOP,Tobule Yummy,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,5
+SHAKEY SHOP,Tribile Yummy,,144,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,6
+SHAKEY SHOP,Bread Pudding,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,7
+SHAKEY SHOP,Highway,,144,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,8
+SHAKEY SHOP,Mango with Ice,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,9
+SHAKEY SHOP,Brownie with Ice,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,10
+SHAKEY SHOP,Kit Kat Candy,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,11
+SHAKEY SHOP,Brownie Betty,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,7,12
+SHAKEY SHOP,Strawberry Side Mocktails,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,8,1
+SHAKEY SHOP,Oreo Chocolate Mocktails,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,8,2
+SHAKEY SHOP,Choreo Mocktails,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,8,3
+SHAKEY SHOP,Oreo Vanilla Mocktails,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,8,4
+SHAKEY SHOP,Coffee Oreo Mocktails,,108,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,8,5
+SHAKEY SHOP,Brownie Oreo Mocktails,,144,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,8,6
+SHAKEY SHOP,Oreo Kitkat Mocktails,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,8,7
+SHAKEY SHOP,French Fries Special,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,9,1
+SHAKEY SHOP,Vanilla Vibe,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monsters,,0,,10,1
+SHAKEY SHOP,Chocolate Monster,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monsters,,0,,10,2
+SHAKEY SHOP,Butter Scotch Bam,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monsters,,0,,10,3
+SHAKEY SHOP,Big Pista,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monsters,,0,,10,4
+SHAKEY SHOP,So Strawberry,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monsters,,0,,10,5
+SHAKEY SHOP,Oreo Over,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monsters,,0,,10,6
+SHAKEY SHOP,Kitkat Kingdom,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monsters,,0,,10,7
+SHAKEY SHOP,Black Pearl,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monsters,,0,,10,8
+SHAKEY SHOP,Dairy Time,,180,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monsters,,0,,10,9
+SHAKEY SHOP,Blue Osan Mojito,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,11,1
+SHAKEY SHOP,Red Blood Mojito,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,11,2
+SHAKEY SHOP,Green Apple Mojito,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,11,3
+SHAKEY SHOP,Mint Mine Mojito,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,11,4
+SHAKEY SHOP,Spicy Point Mojito,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,11,5
+SHAKEY SHOP,Veg Burger,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,12,1
+SHAKEY SHOP,Chicken Burger,,96,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,12,2
+SHAKEY SHOP,Veg Double Top Burger,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,12,3
+SHAKEY SHOP,Chicken Double Burger,,144,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,12,4
+SHAKEY SHOP,Paneer Burger,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,12,5
+SHAKEY SHOP,Veg Cheese Sandwich,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,13,1
+SHAKEY SHOP,Chills Cheese Sandwich,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,13,2
+SHAKEY SHOP,Mushroom Cheese Sandwich,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,13,3
+SHAKEY SHOP,Paneer Cheese Sandwich,,96,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,13,4
+SHAKEY SHOP,Egg Cheese Sandwich,,96,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,13,5
+SHAKEY SHOP,Chicken Cheese Sandwich,,108,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,13,6
+SHAKEY SHOP,Veg Tower Sandwich,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,13,7
+SHAKEY SHOP,Chicken Tower Sandwich,,144,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,13,8
+SHAKEY SHOP,Bread Cheese Sandwich,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,13,9
+SHAKEY SHOP,Veg Nuggets,,84,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,14,1
+SHAKEY SHOP,Veg Roll,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,14,2
+SHAKEY SHOP,Veg Cutlet,,72,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,14,3
+SHAKEY SHOP,Chicken Nuggets,,96,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,14,4
+SHAKEY SHOP,Chicken Pop,,96,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,14,5
+SHAKEY SHOP,Chicken Cutlet,,96,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,14,6
+SHAKEY SHOP,Chicken Roll,,96,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,14,7

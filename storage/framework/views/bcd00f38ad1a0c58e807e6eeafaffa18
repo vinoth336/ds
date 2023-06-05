@@ -1,0 +1,70 @@
+<!--Featured Section-->
+            <section id="features" class="features about-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="main_features fix roomy-80">
+                            <div class="col-md-6">
+                                <div class="features_item sm-m-top-30">
+                                    
+                                    <div class="img-home">
+                                        <img src="<?php echo e(asset('abserve/assets/images/info/about-top.png')); ?>" alt="" >
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="features_item sm-m-top-30">
+                                    
+                                    <div class="about-content">
+                                        <h3 class="title-head">About Us</h3>
+                                        <p>In 2018, we started Delivery Star with a Vision – Revolutionizing Everyday Work.</p>
+					<p>Delivery Star started its journey as a Food Delivery App. As it understands the customer needs and necessity, Delivery Star strong’s itself as an online and mobile marketplace that matches freelance labor with local demand, allowing consumers to find immediate help with everyday tasks, including cleaning, appliance services, parcels, delivery, beauty/spa, handyman work, car/bike services, pets & pest, duplicate keys, purohits & funeral services.</p>
+					<p>We understand that there is always something around the house that needs to be fixed immediately and you simply don't have enough time to deal with it, which is the reason why our highly-skilled and seasoned team leaves no stones unturned in terms of working with you and making sure that the outcome is in amazing detail and quality.</p>
+					<p>We help you to make things done! Anything Anytime Anywhere!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div><!-- End off row -->
+                </div><!-- End off container -->
+            </section><!-- End off Featured Section-->
+            
+            <section id="business" class="business-app roomy-70">
+                <div class="container">
+                    
+                    
+                    <div class="row">
+                        <div class="main_business">
+                            <div class="col-md-6">
+                                <div class="business_mobile">
+                                    <div class="business_item">
+                                            <div class="business_img">
+                                                <img src="<?php echo e(asset('abserve/assets/images/info/mobile-devices.png')); ?>" alt="" />
+                                            </div>
+                                        </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6 business_item_right">
+                                <div class="business_item sm-m-top-50">
+                                    <h2 class="text-uppercase"><strong>Delivery App</strong></h2>
+                                    
+                                    <p class="m-top-20">Order your Services from anywhere, anything at anytime with all new Delivery Star</p>
+
+                                    <div class="business_btn">
+                                        <a href="https://play.google.com/store/apps/details?id=com.deliverystar.consumer" target="_blank" class="m-top-20">
+											<img src="<?php echo e(asset('abserve/assets/images/info/gplay.png')); ?>" alt="" />
+										</a>
+										<a href="https://itunes.apple.com/in/app/delivery-star/id1402968309?mt=8" target="_blank" class="m-top-20">
+											<img src="<?php echo e(asset('abserve/assets/images/info/playstore.png')); ?>" alt="" />
+										</a>
+                                        
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>            
+            <!-- End off Business section -->

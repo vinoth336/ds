@@ -1,0 +1,159 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+AARTHI RESTAURANT,Mutton Biriyani,,189,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Biriyani,,0,,1,1
+AARTHI RESTAURANT,Chicken Biriyani,,116,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
+AARTHI RESTAURANT,Egg Biriyani,,84,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,1
+AARTHI RESTAURANT,Plain Biriyani,,74,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,1
+AARTHI RESTAURANT,Turkey Biriyani,,158,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,1
+AARTHI RESTAURANT,Parotta 2 Pcs with Veg Kuruma,,32,,,,0,0,veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,2,1
+AARTHI RESTAURANT,Parotta 2 Pcs with Non-Veg Kulambu,,32,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,2,1
+AARTHI RESTAURANT,Crispy Parotta,,26,,,,0,0,veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,2,1
+AARTHI RESTAURANT,Special Parotta,,42,,,,0,0,veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,3,1
+AARTHI RESTAURANT,Bun Parotta,,42,,,,0,0,veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,3,1
+AARTHI RESTAURANT,Veechu Parotta,,26,,,,0,0,veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,3,1
+AARTHI RESTAURANT,Onion Egg Veechu Parotta,,47,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,3,1
+AARTHI RESTAURANT,Egg Parotta,,84,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,3,1
+AARTHI RESTAURANT,Egg Veechu Parotta,,42,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,3,1
+AARTHI RESTAURANT,Special Egg Parotta,,105,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,3,1
+AARTHI RESTAURANT,Chilli Parotta,,95,,,,0,0,veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,3,1
+AARTHI RESTAURANT,Chicken Egg Parotta,,210,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,4,1
+AARTHI RESTAURANT,Chappathi 2 Pcs,,42,,,,0,0,veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,4,1
+AARTHI RESTAURANT,Veg Noodles,,84,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,1
+AARTHI RESTAURANT,Egg Noodles,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,1
+AARTHI RESTAURANT,Chicken Noodles,,126,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,4,1
+AARTHI RESTAURANT,Mushroom Noodles,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,1
+AARTHI RESTAURANT,Veg Fried Rice,,84,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,1
+AARTHI RESTAURANT,Egg Fried Rice,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,1
+AARTHI RESTAURANT,Chicken Fried Rice,,126,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,1
+AARTHI RESTAURANT,Mushroom Fried Rice,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,1
+AARTHI RESTAURANT,Gobi Fried Rice,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,1
+AARTHI RESTAURANT,Dosa,,32,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,6,1
+AARTHI RESTAURANT,Ghee Dosa,,53,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,6,1
+AARTHI RESTAURANT,Podi Dosa,,53,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,6,1
+AARTHI RESTAURANT,Masal Dosa,,53,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+AARTHI RESTAURANT,Egg Dosa,,53,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+AARTHI RESTAURANT,Roast,,53,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+AARTHI RESTAURANT,Ghee Roast,,74,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+AARTHI RESTAURANT,Masal Roast,,74,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+AARTHI RESTAURANT,Podi Roast,,74,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+AARTHI RESTAURANT,Onion Roast,,74,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,8,1
+AARTHI RESTAURANT,Egg Roast,,74,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,8,1
+AARTHI RESTAURANT,Utthappam,,42,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Utthappam,,0,,8,1
+AARTHI RESTAURANT,Egg Utthappam,,63,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Utthappam,,0,,8,1
+AARTHI RESTAURANT,Onion Utthappam,,63,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Utthappam,,0,,8,1
+AARTHI RESTAURANT,Tomato Utthappam,,63,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Utthappam,,0,,9,1
+AARTHI RESTAURANT,Mushroom Chilli,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,1
+AARTHI RESTAURANT,Mushroom Manchuriyan,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,1
+AARTHI RESTAURANT,Mushroom Fry,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,10,1
+AARTHI RESTAURANT,Mushroom Pepper Fry,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,12,1
+AARTHI RESTAURANT,Mushroom-65,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,13,1
+AARTHI RESTAURANT,Gobi Chilli,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,1
+AARTHI RESTAURANT,Gobi Manchuriyan,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,1
+AARTHI RESTAURANT,Gobi Fry,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,12,1
+AARTHI RESTAURANT,Gobi Pepper Fry,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,13,1
+AARTHI RESTAURANT,Gobi-65,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,13,1
+AARTHI RESTAURANT,Panner Chilli,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,1
+AARTHI RESTAURANT,Panner Manchuriyan,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,10,1
+AARTHI RESTAURANT,Panner Fry,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,12,1
+AARTHI RESTAURANT,Paneer Pepper Fry,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,13,1
+AARTHI RESTAURANT,Panner-65,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,13,1
+AARTHI RESTAURANT,Gopi Pakoda,,95,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+AARTHI RESTAURANT,Mixed Veg Pakoda,,116,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+AARTHI RESTAURANT,Mushroom Pakoda,,105,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+AARTHI RESTAURANT,Mushroom Garlic Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,14,1
+AARTHI RESTAURANT,Mushroom Ginger Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,10,1
+AARTHI RESTAURANT,Mushroom Butter Gravy,,137,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,10,1
+AARTHI RESTAURANT,Mushroom Manchuriyan Gravy,,137,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,11,1
+AARTHI RESTAURANT,Mushroom Hyderabad Gravy,,158,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,12,1
+AARTHI RESTAURANT,Mushroom Chettinad Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,13,1
+AARTHI RESTAURANT,Mushroom Pepper Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,13,1
+AARTHI RESTAURANT,Gobi Garlic Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,14,1
+AARTHI RESTAURANT,Gobi Ginger Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,10,1
+AARTHI RESTAURANT,Gobi Butter Gravy,,137,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,10,1
+AARTHI RESTAURANT,Gobi Manchuriyan Gravy,,137,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,11,1
+AARTHI RESTAURANT,Gobi Hyderabad Gravy,,158,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,12,1
+AARTHI RESTAURANT,Gobi Chettinad Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,13,1
+AARTHI RESTAURANT,Gobi Pepper Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,13,1
+AARTHI RESTAURANT,Paneer Garlic Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,14,1
+AARTHI RESTAURANT,Paneer Ginger Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,10,1
+AARTHI RESTAURANT,Paneer Butter Gravy,,137,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,10,1
+AARTHI RESTAURANT,Paneer Manchuriyan Gravy,,137,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,11,1
+AARTHI RESTAURANT,Paneer Hyderabad Gravy,,158,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,12,1
+AARTHI RESTAURANT,Paneer Chettinad Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,13,1
+AARTHI RESTAURANT,Paneer Pepper Gravy,,126,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,13,1
+AARTHI RESTAURANT,Mutton Fry,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,14,1
+AARTHI RESTAURANT,Mutton Pepper Fry,,179,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,14,1
+AARTHI RESTAURANT,Mutton Gravy,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,14,1
+AARTHI RESTAURANT,Mutton Pepper Gravy,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,15,1
+AARTHI RESTAURANT,Mutton Kudal Fry,,126,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,15,1
+AARTHI RESTAURANT,Mutton Kudal Gravy,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,15,1
+AARTHI RESTAURANT,Fish Chilli,,116,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Items,,0,,15,1
+AARTHI RESTAURANT,Pepper Fish,,137,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Items,,0,,15,1
+AARTHI RESTAURANT,Fish Manchriyan,,158,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Items,,0,,15,1
+AARTHI RESTAURANT,Fish Roast,,63,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Items,,0,,15,1
+AARTHI RESTAURANT,Fish Gravy,,126,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Items,,0,,15,1
+AARTHI RESTAURANT,Crab Fry,,147,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crab items,,0,,15,1
+AARTHI RESTAURANT,Crab Gravy,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crab items,,0,,15,1
+AARTHI RESTAURANT,Crab Pepper Fry,,158,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crab items,,0,,15,1
+AARTHI RESTAURANT,Prawn Fry,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Items,,0,,15,1
+AARTHI RESTAURANT,Prawn Pepper Fry,,179,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Items,,0,,15,1
+AARTHI RESTAURANT,Prawn Chilli,,158,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Items,,0,,15,1
+AARTHI RESTAURANT,Prawn Gravy,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Items,,0,,15,1
+AARTHI RESTAURANT,Kaadai Roast,,95,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Items,,0,,15,1
+AARTHI RESTAURANT,Kaadai Chilli,,95,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Items,,0,,15,1
+AARTHI RESTAURANT,Kaadai Pepper Fry,,158,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Items,,0,,15,1
+AARTHI RESTAURANT,Kaadai Fry,,137,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Items,,0,,15,1
+AARTHI RESTAURANT,Kaadai Gravy,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Items,,0,,15,1
+AARTHI RESTAURANT,Chilli Chicken Bone-in,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Chicken Fry,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Chilli Chicken Boneless,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Pepper Chicken Bone-in,,126,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Pepper Chicken Boneless,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Chicken Manjury Boneless,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Chicken-65,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Chicken Pakoda Boneless,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Chicken Hyderabad Boneless,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Pepper Chilli Boneless,,179,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Garlic Fry Boneless,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Chicken Drum Stick 1Pc,,95,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,15,1
+AARTHI RESTAURANT,Veg Soup,,63,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non-Veg Soups,,0,,15,1
+AARTHI RESTAURANT,Tomato Soup,,63,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non-Veg Soups,,0,,15,1
+AARTHI RESTAURANT,Mushroom Soup,,74,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non-Veg Soups,,0,,15,1
+AARTHI RESTAURANT,Chicken Soup,,63,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non-Veg Soups,,0,,15,1
+AARTHI RESTAURANT,Chicken Clear Soup,,95,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non-Veg Soups,,0,,11,1
+AARTHI RESTAURANT,Crab Soup,,126,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non-Veg Soups,,0,,15,1
+AARTHI RESTAURANT,Mutton Leg Soup,,126,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non-Veg Soups,,0,,15,1
+AARTHI RESTAURANT,Boilled Egg 2 Pcs,,32,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,15,1
+AARTHI RESTAURANT,Egg Gravy,,95,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,15,1
+AARTHI RESTAURANT,Omelet,,21,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,15,1
+AARTHI RESTAURANT,Special Omelet,,42,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,15,1
+AARTHI RESTAURANT,Kalakki,,16,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,15,1
+AARTHI RESTAURANT,Egg Burji,,84,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,15,1
+AARTHI RESTAURANT,Egg Scrammble,,42,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,15,1
+AARTHI RESTAURANT,Garlic Chicken Bone-in,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Garlic Chicken Boneless,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Ginger Chicken Bone-in,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Ginger Chicken Boneless,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Butter Chicken Gravy Bone-in,,179,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Butter Chicken Gravy Boneless,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Pepper Chicken Gravy Bone-in,,179,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Pepper Chicken Gravy Boneless,,189,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Chicken Mugalaai Gravy Boneless,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Chicken Hyderabad Gravy Boneless,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Chicken Chettinadu Gravy Boneless,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Chicken Chettinadu Gravy Bone-in,,126,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Chicken Sai Kuruma Boneless,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,15,1
+AARTHI RESTAURANT,Nottukozhi Fry,,168,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Special,,0,,15,1
+AARTHI RESTAURANT,Nattukozhi Pepper Fry,,179,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Special,,0,,15,1
+AARTHI RESTAURANT,Nattukozhi Chettinadu Gravy,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Special,,0,,15,1
+AARTHI RESTAURANT,Nattukozhi Gravy,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Special,,0,,15,1
+AARTHI RESTAURANT,Nattukozhi Pepper Gravy,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Special,,0,,15,1
+AARTHI RESTAURANT,Plain Chicken Gravy,,95,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Special,,0,,15,1
+AARTHI RESTAURANT,Special Plain Chicken Gravy,,126,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Special,,0,,15,1
+AARTHI RESTAURANT,Grill Chicken Full,,441,,,,0,0,Non Veg,02:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,15,1
+AARTHI RESTAURANT,Grill Chicken Half,,221,,,,0,0,Non Veg,02:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,15,1
+AARTHI RESTAURANT,Grill Pepper Chicken Full,,504,,,,0,0,Non Veg,02:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,15,1
+AARTHI RESTAURANT,Grill Pepper Chicken Half,,252,,,,0,0,Non Veg,02:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,15,1
+AARTHI RESTAURANT,Grill Hyderabad Full,,546,,,,0,0,Non Veg,02:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,15,1
+AARTHI RESTAURANT,Grill Hyderabad Half,,273,,,,0,0,Non Veg,02:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,15,1
+AARTHI RESTAURANT,Grill Pepper Gravy Half,,305,,,,0,0,Non Veg,02:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,15,1
+AARTHI RESTAURANT,Grill Hyderabad Gravy Half,,315,,,,0,0,Non Veg,02:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,15,1

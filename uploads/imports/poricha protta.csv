@@ -1,0 +1,67 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THEKKATHU PORICHA PAROTTA,Idly 1st,,12,,,,5,0,Veg,8.30AM,10.30AM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+THEKKATHU PORICHA PAROTTA,Dosai,,25,,,,5,0,Non Veg,8.30AM,10.30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+THEKKATHU PORICHA PAROTTA,Poricha Parotta (1 set),,36,,,,5,0,Non Veg,8.30AM,10.30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+THEKKATHU PORICHA PAROTTA,Parotta,,20,,,,5,0,Veg,8.30AM,10.30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+THEKKATHU PORICHA PAROTTA,Onion Roast,,50,,,,5,0,Veg,8.30AM,10.30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+THEKKATHU PORICHA PAROTTA,Ghee Roast,,50,,,,5,0,Veg,8.30AM,10.30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+THEKKATHU PORICHA PAROTTA,Kothu Parotta,,60,,,,5,0,Veg,8.30AM,10.30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,2
+THEKKATHU PORICHA PAROTTA,Cillon Parotta,,80,,,,5,0,Veg,8.30AM,10.30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,2
+THEKKATHU PORICHA PAROTTA,Veechu parotta,,20,,,,5,0,Veg,8.30AM,10.30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,2
+THEKKATHU PORICHA PAROTTA,Egg Veechu Parotta,,30,,,,5,0,Veg,8.30AM,10.30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,2
+THEKKATHU PORICHA PAROTTA,Kudal Veechu Parotta,,140,,,,5,0,Veg,10:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,3
+THEKKATHU PORICHA PAROTTA,Veg Meals,,60,,,,5,0,Veg,12:00PM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,2,3
+THEKKATHU PORICHA PAROTTA,Non Veg Meals,,90,,,,5,0,Non Veg,12:00PM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,3
+THEKKATHU PORICHA PAROTTA,Biriyani,,90,,,,5,0,Non Veg,12:00PM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,4,3
+THEKKATHU PORICHA PAROTTA,Mt Biriyani,,50,,,,5,0,Non Veg,12:00PM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,5,3
+THEKKATHU PORICHA PAROTTA,Kudal Fry,,100,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,6,3
+THEKKATHU PORICHA PAROTTA,Mutton Sukka Fry,,110,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,7,3
+THEKKATHU PORICHA PAROTTA,Nattukozhi Fry,,100,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,8,3
+THEKKATHU PORICHA PAROTTA,Chilli Chicken,,50,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,9,3
+THEKKATHU PORICHA PAROTTA,Fish,,60,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,10,3
+THEKKATHU PORICHA PAROTTA,Kudal Gravy,,100,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,11,3
+THEKKATHU PORICHA PAROTTA,Mutton Sukka Gravy,,110,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,1,4
+THEKKATHU PORICHA PAROTTA,Nattukozhi Gravy,,100,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,2,4
+THEKKATHU PORICHA PAROTTA,Omlete,,15,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,3,4
+THEKKATHU PORICHA PAROTTA,Kulambu Kalaki,,20,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,4,4
+THEKKATHU PORICHA PAROTTA,Kalaki,,15,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,5,4
+THEKKATHU PORICHA PAROTTA,Egg Poriyal,,20,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,6,4
+THEKKATHU PORICHA PAROTTA,Ghee Rice,,80,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,1,5
+THEKKATHU PORICHA PAROTTA,Jeera Rice,,70,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,2,5
+THEKKATHU PORICHA PAROTTA,Mushroom Fried Rice,,70,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,5
+THEKKATHU PORICHA PAROTTA,Panner Fried Rice,,70,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,5
+THEKKATHU PORICHA PAROTTA,Gobi Fried Rice,,70,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,5,5
+THEKKATHU PORICHA PAROTTA,Chicken Fried Rice,,90,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,5
+THEKKATHU PORICHA PAROTTA,Egg Fried Rice,,70,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,5
+THEKKATHU PORICHA PAROTTA,Chicken Noodels,,90,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,8,5
+THEKKATHU PORICHA PAROTTA,Egg Noodles,,70,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,9,5
+THEKKATHU PORICHA PAROTTA,Mushroom Noodles,,60,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,6
+THEKKATHU PORICHA PAROTTA,Panner Noodles,,70,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,6
+THEKKATHU PORICHA PAROTTA,Gobi Noodles,,70,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,3,6
+THEKKATHU PORICHA PAROTTA,Gobi Chilli ,,100,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,6
+THEKKATHU PORICHA PAROTTA,Mushroom Chilli,,100,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,5,6
+THEKKATHU PORICHA PAROTTA,Gobi Manchriyan,,100,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,6,6
+THEKKATHU PORICHA PAROTTA,Mushroom Manchuriyan,,100,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,6
+THEKKATHU PORICHA PAROTTA,Panner Butter Masala,,130,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,8,6
+THEKKATHU PORICHA PAROTTA,Aloo Gobi Masala,,130,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,9,6
+THEKKATHU PORICHA PAROTTA,Pepper Mushroom,,100,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,10,6
+THEKKATHU PORICHA PAROTTA,Pepper Gobi,,100,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,11,6
+THEKKATHU PORICHA PAROTTA,Dal Fry,,70,,,,5,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,12,6
+THEKKATHU PORICHA PAROTTA,Hot Pepper Chicken,,150,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,13,6
+THEKKATHU PORICHA PAROTTA,Garlic Chicken,,150,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,7
+THEKKATHU PORICHA PAROTTA,Chicken PalliPalayam,,150,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,2,7
+THEKKATHU PORICHA PAROTTA,Kadai Chicken,,150,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,7
+THEKKATHU PORICHA PAROTTA,Chicken Chukka,,150,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,7
+THEKKATHU PORICHA PAROTTA,Chicken Manchuriyan,,150,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,2,7
+THEKKATHU PORICHA PAROTTA,Dargon Chicken,,150,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,7
+THEKKATHU PORICHA PAROTTA,DurmStick Chicken,,150,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,4,7
+THEKKATHU PORICHA PAROTTA,Lemon Chicken,,150,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,7
+THEKKATHU PORICHA PAROTTA,NattuKozhi Chukka,,180,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,6,7
+THEKKATHU PORICHA PAROTTA,NattuKozhi Pallipalayam,,180,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,7,7
+THEKKATHU PORICHA PAROTTA,NattuKozhi Uppukari,,180,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,8
+THEKKATHU PORICHA PAROTTA,NattuKozhi Chindhamani,,180,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,2,8
+THEKKATHU PORICHA PAROTTA,NattuKozhi Oil Chukka,,180,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,8
+THEKKATHU PORICHA PAROTTA,Mutton Chettinadu,,200,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,4,8
+THEKKATHU PORICHA PAROTTA,Mutton Chukka,,200,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,8
+THEKKATHU PORICHA PAROTTA,Mutton Melaku Varuval,,200,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,6,8
+THEKKATHU PORICHA PAROTTA,Mutton Oil Chukka,,200,,,,5,0,Non Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,7,8

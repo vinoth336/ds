@@ -1,0 +1,44 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+PALLAPATTI DARBAR BIRIYANI,Chicken Biriyani,,80,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+PALLAPATTI DARBAR BIRIYANI,Mutton Biriyani,,140,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+PALLAPATTI DARBAR BIRIYANI,Chicken Mt Biriyani,,50,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
+PALLAPATTI DARBAR BIRIYANI,Mutton Mt Biriyani,,70,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
+PALLAPATTI DARBAR BIRIYANI,Chicken 65 (Bone),,40,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+PALLAPATTI DARBAR BIRIYANI,Chicken 65 (Boneless),,60,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+PALLAPATTI DARBAR BIRIYANI,Chicken Gravy,,60,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+PALLAPATTI DARBAR BIRIYANI,Chicken Lollypop(2pcs),,50,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+PALLAPATTI DARBAR BIRIYANI,Chicken Manchuriyan,,100,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+PALLAPATTI DARBAR BIRIYANI,Dragon Chicken,,120,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+PALLAPATTI DARBAR BIRIYANI,pepper Chicken,,110,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+PALLAPATTI DARBAR BIRIYANI,Chilly Chicken,,100,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+PALLAPATTI DARBAR BIRIYANI,Garlic Chicken,,100,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+PALLAPATTI DARBAR BIRIYANI,Drumstick Chicken,,120,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+PALLAPATTI DARBAR BIRIYANI,Salt/Pepper Chicken,,120,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+PALLAPATTI DARBAR BIRIYANI,Chicken Pepper Onion,,120,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+PALLAPATTI DARBAR BIRIYANI,Chicken Lollypop(With Sauce),,130,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+PALLAPATTI DARBAR BIRIYANI,Butter Chicken,,120,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,2,2
+PALLAPATTI DARBAR BIRIYANI,kadai Chicken,,120,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,2,3
+PALLAPATTI DARBAR BIRIYANI,Punjabi Chicken,,120,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,2,4
+PALLAPATTI DARBAR BIRIYANI,Chettinadu Chicken,,120,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,2,5
+PALLAPATTI DARBAR BIRIYANI,Chicken Fried Rice,,80,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,5,6
+PALLAPATTI DARBAR BIRIYANI,Shezwan Fried Rice,,100,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,5,7
+PALLAPATTI DARBAR BIRIYANI,Chicken Noodless,,80,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,8
+PALLAPATTI DARBAR BIRIYANI,Schezwan Chicken Noodles,,100,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,9
+PALLAPATTI DARBAR BIRIYANI,Egg Fried Chicken,,60,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,5,10
+PALLAPATTI DARBAR BIRIYANI,Egg Noodles,,70,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,11
+PALLAPATTI DARBAR BIRIYANI,Veg Fried Rice,,50,,,,,0,Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,1
+PALLAPATTI DARBAR BIRIYANI,Veg Noodles,,50,,,,,0,Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,2
+PALLAPATTI DARBAR BIRIYANI,Classic Shawarma Roll,,70,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,6,3
+PALLAPATTI DARBAR BIRIYANI,Spl Shawarma Roll,,80,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,6,4
+PALLAPATTI DARBAR BIRIYANI,mexician Shawarma,,80,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,1
+PALLAPATTI DARBAR BIRIYANI,Shawarma Plate,,100,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,2
+PALLAPATTI DARBAR BIRIYANI,Tandoori Chicken Half,,170,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,1
+PALLAPATTI DARBAR BIRIYANI,Tandoori Chicken Full,,320,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,1
+PALLAPATTI DARBAR BIRIYANI,Grill Chicken Half,,170,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grills,,0,,8,2
+PALLAPATTI DARBAR BIRIYANI,Grill Chicken Full,,320,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grills,,0,,8,2
+PALLAPATTI DARBAR BIRIYANI,BBQ Chicken Half,,170,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,8,1
+PALLAPATTI DARBAR BIRIYANI,BBQ  Chicken Full,,340,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,8,1
+PALLAPATTI DARBAR BIRIYANI,Pepper BBQ  Half,,180,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,8,2
+PALLAPATTI DARBAR BIRIYANI,Pepper BBQ  Full,,340,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,8,2
+PALLAPATTI DARBAR BIRIYANI,Peri Peri BBQ Half,,180,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,8,3
+PALLAPATTI DARBAR BIRIYANI,Peri Peri BBQ  Full,,340,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,8,3

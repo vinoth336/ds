@@ -1,0 +1,150 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+LASSI BAY,Sweet Lassi,,55,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,1,1
+LASSI BAY,Banana Lassi,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,1,2
+LASSI BAY,Mango Lassi,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,1
+LASSI BAY,Pinapple Lassi,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,2
+LASSI BAY,Chocolate Lassi,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,3
+LASSI BAY,Watermelon Lassi,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,4
+LASSI BAY,Orange Lassi,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,5
+LASSI BAY,Kiwi Lassi,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,5
+LASSI BAY,Black Currant Lassi,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,5
+LASSI BAY,Mixed Fruit Lassi,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,3,1
+LASSI BAY,Dry Fruit Lassi,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,3,2
+LASSI BAY,Strawberry Lassi,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,3,3
+LASSI BAY,Gulkand Lassi,,95,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,3,4
+LASSI BAY,Arbian Lassi,,95,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,3,5
+LASSI BAY,Fruit Salad,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,3,6
+LASSI BAY,Browine With Chocolate,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,3,7
+LASSI BAY,Browine With IceCream,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,3,8
+LASSI BAY,Fruit Salad With IceCream,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,3,9
+LASSI BAY,Watermelon With IceCream,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,3,10
+LASSI BAY,Chocolate Dream,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,3,11
+LASSI BAY,Missisippi Mud,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,3,12
+LASSI BAY,Hop Scotch Butter Scotch,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,4,1
+LASSI BAY,Gad Bad,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,4,2
+LASSI BAY,Death By Chocolate,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,4,3
+LASSI BAY,Lassi Wassi Secret,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,4,4
+LASSI BAY,Dry Fruit Gadbad,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundae,,0,,4,5
+LASSI BAY,Rose Falooda,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,4,6
+LASSI BAY,Pista Falooda,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,4,7
+LASSI BAY,Bombay Falooda,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,4,8
+LASSI BAY,Mango Falooda,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,4,9
+LASSI BAY,Strawberry Falooda,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,4,10
+LASSI BAY,Vanilla Falooda,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,4,11
+LASSI BAY,Kulfi Falooda,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,4,12
+LASSI BAY,Kashmiri Falooda,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,4,13
+LASSI BAY,Chocolate Falooda,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,5,1
+LASSI BAY,Triple Falooda,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,5,2
+LASSI BAY,Dry Fruit Falooda,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,5,3
+LASSI BAY,Black Currant Falooda,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,5,4
+LASSI BAY,Fig Of Honey Falooda,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,5,5
+LASSI BAY,Tutti Fruit Falooda,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,5,6
+LASSI BAY,Arabian Nuts,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,5,8
+LASSI BAY,Jelly Mixed,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,5,9
+LASSI BAY,Fresh Lime Soda,,45,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda ,,0,,5,10
+LASSI BAY,Blue Lime Soda,,50,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda ,,0,,5,11
+LASSI BAY,Green Lime Soda,,50,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda ,,0,,5,12
+LASSI BAY,Red Lime Soda,,50,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda ,,0,,5,13
+LASSI BAY,Mexican Lime Soda,,55,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda ,,0,,6,1
+LASSI BAY,Ginger Lime,,65,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,2
+LASSI BAY,Water Melon Juice,,65,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,3
+LASSI BAY,Pineapple Juice,,75,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,4
+LASSI BAY,Papaya Juice,,75,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,5
+LASSI BAY,Grape Juice,,75,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,6
+LASSI BAY,Muskmelon Juice,,75,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,7
+LASSI BAY,Arabian Pulpy Grape Juice,,75,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,8
+LASSI BAY,Pomegrante Juice,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,9
+LASSI BAY,Apple Juice,,90,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,10
+LASSI BAY,Mosambi Juice,,90,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,11
+LASSI BAY,Orange Juice,,90,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,12
+LASSI BAY,Banana Bonkers,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,6,13
+LASSI BAY,Body Cooler,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,6,14
+LASSI BAY,Mint Cooler,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,6,15
+LASSI BAY,Green Apple Mojito,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,6,16
+LASSI BAY,Double Boost,,95,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,6,17
+LASSI BAY,Shariah Shake,,95,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,6,18
+LASSI BAY,Cold Coffee,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,19
+LASSI BAY,Chocolate Coffee,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,20
+LASSI BAY,Caramel Coffee,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,21
+LASSI BAY,Hard Rock Coffee,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,22
+LASSI BAY,Irish Coffee,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,23
+LASSI BAY,Mud Coffee,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,24
+LASSI BAY,Swedish House Mofia,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,25
+LASSI BAY,Coffee With IceCream,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,26
+LASSI BAY,Banana Smoothie,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie,,0,,6,27
+LASSI BAY,Strawberry Smoothie,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie,,0,,7,1
+LASSI BAY,Pineapple Smoothie,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie,,0,,7,2
+LASSI BAY,Natural Protein,,120,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Protein,,0,,7,3
+LASSI BAY,Whey Protein,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Protein,,0,,7,4
+LASSI BAY,Vanilla IceCream,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,5
+LASSI BAY,Strawberry IceCream,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,1
+LASSI BAY,Mango IceCream,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,2
+LASSI BAY,Chocolate IceCream,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,3
+LASSI BAY,Pista IceCream  ,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,4
+LASSI BAY,Butter Scotch IceCream,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,5
+LASSI BAY,Black Currant IceCream,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,1
+LASSI BAY,Belgian Chocolate Mocktails,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,8,2
+LASSI BAY,Oreo Shake Mocktail ,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,9,1
+LASSI BAY,Choco Chips Mocktails,,80,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,9,2
+LASSI BAY,Dry Fruits Mocktails,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,9,3
+LASSI BAY,Avocado Shake,,95,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,9,4
+LASSI BAY,Litchee Milk Shake,,95,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,9,5
+LASSI BAY,Pomegrante Shake,,95,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,9,6
+LASSI BAY,Papaya Shake,,95,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,10,1
+LASSI BAY,Apple Shake,,95,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,10,2
+LASSI BAY,Choco Oreo,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,10,3
+LASSI BAY,Oreo Cream,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,10,4
+LASSI BAY,Kitkat Shake,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,10,5
+LASSI BAY,Strawberry Mango,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,10,1
+LASSI BAY,Apple Chocolate,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,10,2
+LASSI BAY,Badam Shake,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,10,1
+LASSI BAY,Oreo Choloate,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,10,2
+LASSI BAY,Green Apple Shake,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,3
+LASSI BAY,Daily Shake,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,4
+LASSI BAY,Strawberry Banana,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,5
+LASSI BAY,Browni Shake,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,6
+LASSI BAY,Strawberry Nut,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,3
+LASSI BAY,Banana Nut,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,4
+LASSI BAY,Triple Shake,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,5
+LASSI BAY,Browni Oreo,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,6
+LASSI BAY,Aaji Ali Shake,,145,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,3
+LASSI BAY,French Fries,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Snacks,,0,,11,4
+LASSI BAY,Veg Buger,,70,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Snacks,,0,,11,4
+LASSI BAY,Veg Roll,,90,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Snacks,,0,,11,4
+LASSI BAY,Veg Nuggets,,90,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Snacks,,0,,11,4
+LASSI BAY,Chees Chilly Sandwich,,90,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Snacks,,0,,11,4
+LASSI BAY,Panner Sandwich,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Snacks,,0,,11,4
+LASSI BAY,Panner Pops,,100,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Snacks,,0,,11,4
+LASSI BAY,Veg Triple Sandwich,,105,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Snacks,,0,,11,4
+LASSI BAY,Mushroom Cheese Sandwich,,95,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Snacks,,0,,11,4
+LASSI BAY,Chicken Pops,,90,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Snacks,,0,,11,4
+LASSI BAY,Chicken Burger,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Snacks,,0,,11,4
+LASSI BAY,Chicken Pops Sandwich,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Snacks,,0,,11,4
+LASSI BAY,Non Veg Triple Sandwich,,130,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Snacks,,0,,11,4
+LASSI BAY,Chicken Cutlet,,105,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Snacks,,0,,11,4
+LASSI BAY,Chicken Nuggets,,115,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Snacks,,0,,11,4
+LASSI BAY,Fish Pops,,120,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Snacks,,0,,11,4
+LASSI BAY,Chicken  Spring Roll,,120,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Snacks,,0,,11,4
+LASSI BAY,Fish Fingers,,130,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Snacks,,0,,11,4
+LASSI BAY,Diet Sandwich,,90,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Sandwich,,0,,11,4
+LASSI BAY,Nuttela Sandwich,,120,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Sandwich,,0,,11,4
+LASSI BAY,Butter Jam Sandwich,,70,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Sandwich,,0,,11,4
+LASSI BAY,Peanut Banana Bonkrs,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,11,4
+LASSI BAY,Fig & Honey,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,11,4
+LASSI BAY,Almond Pista,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,11,4
+LASSI BAY,Crazy Fruit,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,11,4
+LASSI BAY,Malai Kulfi,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,11,4
+LASSI BAY,Snackers Mud,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,11,4
+LASSI BAY,Diary Cream,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,11,4
+LASSI BAY,Fresh Lime,,50,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Lime,,0,,11,4
+LASSI BAY,Pineapple Lime,,50,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Lime,,0,,11,4
+LASSI BAY,Carrot Lime,,50,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Lime,,0,,11,4
+LASSI BAY,Pista Lime,,50,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Lime,,0,,11,4
+LASSI BAY,Chocolate Crusher,,145,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Drink,,0,,11,4
+LASSI BAY,Lychee Crusher,,145,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Drink,,0,,11,4
+LASSI BAY,Pista Crusher,,145,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Drink,,0,,11,4
+LASSI BAY,Strawberry Crusher,,145,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Drink,,0,,11,4
+LASSI BAY,Flaick Crusher,,145,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Drink,,0,,11,4
+LASSI BAY,Black Current Crusher,,145,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Drink,,0,,11,4
+LASSI BAY,Oreo Crusher,,145,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Drink,,0,,11,4
+LASSI BAY,Boclavan Smoothie,,145,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Drink,,0,,11,4

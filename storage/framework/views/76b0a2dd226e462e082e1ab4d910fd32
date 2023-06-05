@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h2><?php echo trans('core.abs_hello_admin'); ?></h2>
+		<p> <?php echo trans('core.abs_uhave_new_mail'); ?>  </p>
+		<p>
+			<?php echo trans('core.abs_con_email'); ?><?php echo e($sender); ?> <br />
+			<?php echo trans('core.abs_con_name'); ?><?php echo e($name); ?><br />
+			<?php echo trans('core.abs_con_pass'); ?><?php echo e($subject); ?><br /> 
+		</p>
+		<p> <?php echo trans('core.abs_con_msg'); ?> </p>
+		<div>
+			<?php echo e($notes); ?>
+
+		</div>
+		
+		<p> <?php echo trans('core.abs_thank_you'); ?> </p><br /><br />
+		
+		<?php echo e(CNF_APPNAME); ?> 
+	</body>
+</html>

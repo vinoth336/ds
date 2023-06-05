@@ -1,0 +1,92 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+MEAT AND EAT,Add On 1 French Fries+Mojito,,120,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Add On,,0,,15,1
+MEAT AND EAT,Add On 2 French Fries+Fried Chicken,,130,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Add On,,0,,15,2
+MEAT AND EAT,Add On 3 Chicken Fries+Mojito,,151,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Add On,,0,,15,3
+MEAT AND EAT,Add On 4 Fried Chicken+Mojito,,151,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Add On,,0,,15,4
+MEAT AND EAT,Add On 5 Fried Chicken+Chicken Fries,,162,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Add On,,0,,15,5
+MEAT AND EAT,Kiddy Veg Burger Meal,Kiddly Veg Burger + French Fries + Pet Bottle 250ml,109,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,1
+MEAT AND EAT,Classic Veg Burger Meal,Classic Veg Burger + French Fries + Pet Bottle 250ml,151,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,2
+MEAT AND EAT,Mac 'N' Cheese Pasta Burger Meal,Mac 'N' Cheese Burger + French Fries + Pet Bottle 250ml,183,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,3
+MEAT AND EAT,Paneer Cheese Burst Burger Meal,Paneer Cheese Burger + with French Fries + Pet Bottle 250ml,199,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,4
+MEAT AND EAT,Veg Super Twin Burger Meal,Veg Super Twin Burger + French Fries + Pet Bottle 250ml,220,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,5
+MEAT AND EAT,Kiddy Chicken Burger Meal,Kiddy Chicken Burger + Chicken Fries + Pet Bottle 250ml,151,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,6
+MEAT AND EAT,Little Dia Burger Meal,Little Dia Burger + Chicken Fries + Pet Bottle 250ml,157,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,7
+MEAT AND EAT,Fish Burger Meal,Fish Burger + Chicken Fries + Pet Bottle 250ml,199,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,8
+MEAT AND EAT,Classic Chicken Burger Meal,Classic Chicken Burger + Meal Chicken Fries + Pet Bottle 250ml,188,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,9
+MEAT AND EAT,Tandoori Chicken Burger Meal,Tandoori Chicken Burger + Meal Chicken Fries + Pet Bottle 250 ml,199,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,10
+MEAT AND EAT,Chicken Cheese Burst Burger Meal,Chicken Cheese Burst Burger + Chicken Fries + Pet Bottle 250ml,209,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,11
+MEAT AND EAT,Me Chicken Burger Meal,ME Chicken Burger + Chicken Fries + Pet Bottle 250ml,225,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,12
+MEAT AND EAT,DB' Grilled Chicken Burger Meal,DB Grilled Burger + Chicken Fries + Pet Bottle 250 ml,267,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,13
+MEAT AND EAT,Super Twin Burger Meal,Super Twin Burger + Chicken Fries + Pet Bottle 250ml,272,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger Meal Combo,,0,,1,14
+MEAT AND EAT,Cheesy French Fries,,94,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cheesy Fries,,0,,14,1
+MEAT AND EAT,Cheesy Chicken Fries,,120,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cheesy Fries,,0,,14,2
+MEAT AND EAT,Ice Cream (1 Scoop),,41,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,16,1
+MEAT AND EAT,Hot Choco Lava Cake,,83,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,16,2
+MEAT AND EAT,Brownie With Ice Cram,,120,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,16,3
+MEAT AND EAT,Paneer strips 15Pcs Bucket,,309,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Veg),,0,,16,4
+MEAT AND EAT,Chicken Strips Bucket Boneless 10Pcs,,330,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Bucket),,0,,4,1
+MEAT AND EAT,Drumstick Bucket 6Pcs,,456,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Bucket),,0,,4,2
+MEAT AND EAT,French Fries (R),,52,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Veg),,0,,5,1
+MEAT AND EAT,French Fries (L),,62,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Veg),,0,,5,2
+MEAT AND EAT,Veg Poppers,,62,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Veg),,0,,5,3
+MEAT AND EAT,Smileys 5PCs,,62,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Veg),,0,,5,4
+MEAT AND EAT,Potato Wedges,,62,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Veg),,0,,5,5
+MEAT AND EAT,Cheese corn Nuggets 5Pcs,,83,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Veg),,0,,5,6
+MEAT AND EAT,Paneer Strips 5Pcs,,104,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods (Veg),,0,,5,7
+MEAT AND EAT,Chicken Fries 10PCs,,83,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods(Non-Veg),,0,,6,1
+MEAT AND EAT,Chicken Nuggets 5Pcs,,83,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods(Non-Veg),,0,,6,2
+MEAT AND EAT,ME Chicken Poppers,,94,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods(Non-Veg),,0,,6,3
+MEAT AND EAT,Chicken Strips 3PCs,,99,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods(Non-Veg),,0,,6,4
+MEAT AND EAT,Chicken Lollipop 4Pcs,,109,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods(Non-Veg),,0,,6,5
+MEAT AND EAT,ME Wings 4Pcs,,109,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Finger Foods(Non-Veg),,0,,6,6
+MEAT AND EAT,Classic Fried 2Pcs Chicken,,162,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,3,1
+MEAT AND EAT,Classic Chota Chicken Bucket 4Pcs,,314,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,3,2
+MEAT AND EAT,Classic Chicken Bucket 8Pcs,,608,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,3,3
+MEAT AND EAT,Fiery Indian Fried 2Pcs Chicken,,172,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,3,4
+MEAT AND EAT,Fiery Chota Chicken Bucket 4Pcs,,335,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,3,5
+MEAT AND EAT,Fiery Chicken Bucket 8Pcs,,650,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,3,6
+MEAT AND EAT,Chicken Frankfurters,,78,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Dog,,0,,13,1
+MEAT AND EAT,Cheese and Onion,,83,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Dog,,0,,13,2
+MEAT AND EAT,New Oreo Shake,,104,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,17,1
+MEAT AND EAT,Vannila Shake,,83,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,17,2
+MEAT AND EAT,Strawberry Shake,,83,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,17,3
+MEAT AND EAT,Chocolate Shake,,94,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,17,4
+MEAT AND EAT,Lemon Mint Mojito,,78,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,18,1
+MEAT AND EAT,Blue Curacao Mojito,,78,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,18,2
+MEAT AND EAT,Green Apple Mojito,,78,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,18,3
+MEAT AND EAT,Mango Mojito,,78,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,18,4
+MEAT AND EAT,Strawberry Mojito,,78,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,18,5
+MEAT AND EAT,Creamy Mushroom Penne Pasta (White Sauce),Creamy Mushroom with Penne Pasta (White Sauce),146,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,8,1
+MEAT AND EAT,Pomodoro Penne Pasta Vegetable (Tomato Sauce),Pomodoro Penne Pasta With Vegetable (Tomato Sauce),157,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,8,2
+MEAT AND EAT,Creamy Chicken & Mushroom with Penne Pasta (White Sauce),Creamy Chicken & Mushroom with Penne Pasta (White Sauce),172,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,8,3
+MEAT AND EAT,Arrabiatta Chicken Penne Pasta (Tomato Sauce),Arrabiatta Chicken with Penne Pasta (Tomato Sauce),183,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,8,4
+MEAT AND EAT,Exotic Veg Pizza 1Slice,,62,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza By Slice,,0,,10,1
+MEAT AND EAT,Chicken Tikka Pizza 1Slice,,67,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza By Slice,,0,,10,2
+MEAT AND EAT,Grilled Veg & Cheese Sandwich,,73,,,,3,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,1
+MEAT AND EAT,Tandoori Paneer Sandwich,,115,,,,3,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,2
+MEAT AND EAT,Chicken Tikka Sandwich,,125,,,,3,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,3
+MEAT AND EAT,Fish 'n' Chips,2Nos Fish Fillet + Fries(R)+ Mayo Dip,188,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,11,1
+MEAT AND EAT,Ice Lemon Tea,,36,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Orders,,0,,12,1
+MEAT AND EAT,Mineral Water,,21,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Orders,,0,,12,2
+MEAT AND EAT,Soft Drinks Pet Bottle 250Ml,,21,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Orders,,0,,12,3
+MEAT AND EAT,Mayonnaise Sachet,,8,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Orders,,0,,12,4
+MEAT AND EAT,Cheese Slice,,15,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Orders,,0,,12,5
+MEAT AND EAT,Kiddy Veg - Single Burger,,31,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,1
+MEAT AND EAT,Classic Veg- Single Burger,,73,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,2
+MEAT AND EAT,Mac 'N' Cheese- Single Burger,,104,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,3
+MEAT AND EAT,Paneer Cheese- Single Burger,,151,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,4
+MEAT AND EAT,Veg Super- Single Burger,,141,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,5
+MEAT AND EAT,Kiddy Chicken - Single Burger,,52,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,6
+MEAT AND EAT,Little Dia - Single Burger,,57,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,7
+MEAT AND EAT,Fish - Single Burger,,99,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,8
+MEAT AND EAT,Classic Chicken - Single Burger,,88,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,9
+MEAT AND EAT,Tandoori - Single Burger,,99,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,10
+MEAT AND EAT,Chicken Cheese - Single Burger,,120,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,11
+MEAT AND EAT,Me Chicken - Single Burger,,125,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,12
+MEAT AND EAT,DB' Grilled - Single Burger,,167,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,13
+MEAT AND EAT,Super Twin - Single Burger,,172,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Single Burger,,0,,2,14
+MEAT AND EAT,Super Veggie Wrap,,78,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,7,1
+MEAT AND EAT,Crispy Paneer Wrap,,104,,,,2,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,7,2
+MEAT AND EAT,Chettinad Chicken Wrap,,88,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,7,3
+MEAT AND EAT,Mexican Chicken Wrap,,99,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,7,4
+MEAT AND EAT,Crispy Chicken Wrap,,115,,,,2,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,7,5

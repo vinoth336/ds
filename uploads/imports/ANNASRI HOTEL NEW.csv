@@ -1,0 +1,81 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+ANNASRI HOTEL,Veg Meals,,115,,,,0,0,veg,11:15AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,1
+ANNASRI HOTEL,Non-Veg Meals,,136,,,,0,0,Non Veg,11:15AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,1
+ANNASRI HOTEL,Chicken Biriyani,,160,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,1,1
+ANNASRI HOTEL,Mutton Biriyani,,230,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,1,1
+ANNASRI HOTEL,Egg Biriyani,,130,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,1,1
+ANNASRI HOTEL,Plain Biriyani,,115,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,1,1
+ANNASRI HOTEL,Parotta 1 Set,,42,,,,0,0,veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+ANNASRI HOTEL,Chappathi 1 Set,,72,,,,0,0,veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+ANNASRI HOTEL,Bun Parotta 1 Set,,62,,,,0,0,veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+ANNASRI HOTEL,Egg Parotta,,72,,,,0,0,Non Veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+ANNASRI HOTEL,Egg Lapa Parotta,,105,,,,0,0,Non Veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+ANNASRI HOTEL,Chicken Lapa Parotta,,220,,,,0,0,Non Veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+ANNASRI HOTEL,Mutton Parotta,,220,,,,0,0,Non Veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+ANNASRI HOTEL,Mutton Lapa Parotta,,242,,,,0,0,Non Veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+ANNASRI HOTEL,Paneer Lappa Parotta,,160,,,,0,0,veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,9,1
+ANNASRI HOTEL,Mushroom Lappa Parotta,,160,,,,0,0,veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,9,1
+ANNASRI HOTEL,Chicken Kothu Parotta,,210,,,,0,0,Non Veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+ANNASRI HOTEL,Mutton Kothu Parotta,,250,,,,0,0,Non Veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+ANNASRI HOTEL,Egg Veechu Parotta,,68,,,,0,0,Non Veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+ANNASRI HOTEL,Veechu Parotta,,46,,,,0,0,veg,12:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+ANNASRI HOTEL,Mutton Curry Dosai,,250,,,,0,0,Non Veg,07:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,3,1
+ANNASRI HOTEL,Chicken Curry Dosai,,210,,,,0,0,Non Veg,07:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,3,1
+ANNASRI HOTEL,Kudal Curry Dosai,,136,,,,0,0,Non Veg,07:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,3,1
+ANNASRI HOTEL,Naan,,45,,,,0,0,veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,4,1
+ANNASRI HOTEL,Rotti,,35,,,,0,0,veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,5,1
+ANNASRI HOTEL,Butter Naan,,58,,,,0,0,veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,4,1
+ANNASRI HOTEL,Punjabi Butter Naan,,68,,,,0,0,veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,4,1
+ANNASRI HOTEL,Tandoori Parotta,,60,,,,0,0,veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,5,1
+ANNASRI HOTEL,Chicken Banana Leaf Parotta,,250,,,,0,0,Non Veg,12:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Banana Leaf Parotta,,0,,1,1
+ANNASRI HOTEL,Mutton Banana Leaf Parotta,,272,,,,0,0,Non Veg,12:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Banana Leaf Parotta,,0,,2,1
+ANNASRI HOTEL,Kudal Banana Leaf Parotta,,210,,,,0,0,Non Veg,12:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Banana Leaf Parotta,,0,,3,1
+ANNASRI HOTEL,Mutton Chettinad Gravy,,210,,,,0,0,Non Veg,12:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,9,1
+ANNASRI HOTEL,Mutton Choppy,,210,,,,0,0,Non Veg,12:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,9,1
+ANNASRI HOTEL,Kudal Egg Fry,,125,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,7,1
+ANNASRI HOTEL,Kudal Fry,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,7,1
+ANNASRI HOTEL,Mutton Chukka Dry,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,9,1
+ANNASRI HOTEL,Garlic Chicken Gravy,,180,,,,0,0,Non Veg,12:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,4,1
+ANNASRI HOTEL,Chicken Methi Masala,,160,,,,0,0,Non Veg,12:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,4,1
+ANNASRI HOTEL,Kaali Methi Gravy,,210,,,,0,0,Non Veg,12:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,4,1
+ANNASRI HOTEL,Gobi Maharani,,125,,,,0,0,veg,12:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,4,1
+ANNASRI HOTEL,Mushroom Maharani,,125,,,,0,0,veg,12:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,4,1
+ANNASRI HOTEL,Ginger Chicken Gravy,,180,,,,0,0,Non Veg,12:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,9,1
+ANNASRI HOTEL,Pepper Chicken Gravy,,180,,,,0,0,Non Veg,12:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,9,1
+ANNASRI HOTEL,Dragon Chicken,,190,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,5,1
+ANNASRI HOTEL,Gokila Chicken,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,5,1
+ANNASRI HOTEL,Monika Chicken,,170,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,5,1
+ANNASRI HOTEL,Kasthuri Chicken,,170,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,6,1
+ANNASRI HOTEL,Chicken Kondattam,,200,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,6,1
+ANNASRI HOTEL,Thamanna Chicken,,170,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,6,1
+ANNASRI HOTEL,Mohal Chicken Gravy,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,6,1
+ANNASRI HOTEL,Nattukozhi Kulambu,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy Items,,0,,6,1
+ANNASRI HOTEL,Garlic Chicken Dry,,170,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,4,1
+ANNASRI HOTEL,Pepper Chicken Dry,,170,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,9,1
+ANNASRI HOTEL,Chilli Chicken Dry,,160,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,9,1
+ANNASRI HOTEL,Chicken 65 Dry,,160,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,9,1
+ANNASRI HOTEL,Butter Chicken Dry,,160,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,9,1
+ANNASRI HOTEL,Chicken Chettinad Dry,,160,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,9,1
+ANNASRI HOTEL,Chicken Choppy Dry,,160,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,9,1
+ANNASRI HOTEL,Nattukozhi Fry,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dry Items,,0,,9,1
+ANNASRI HOTEL,Chicken Tikka,,170,,,,0,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,5,1
+ANNASRI HOTEL,Chicken Kabab,,110,,,,0,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,5,1
+ANNASRI HOTEL,Hariyali Tikka,,170,,,,0,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,5,1
+ANNASRI HOTEL,Tandoori Chicken Full,,420,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,9,1
+ANNASRI HOTEL,Tandoori Chicken Half,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,9,1
+ANNASRI HOTEL,Prawn Chilli,,220,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn items,,0,,7,1
+ANNASRI HOTEL,Prawn 65,,220,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn items,,0,,8,1
+ANNASRI HOTEL,Prawn Pepper Fry,,240,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn items,,0,,8,1
+ANNASRI HOTEL,Prawn Manjuriyan,,240,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn items,,0,,9,1
+ANNASRI HOTEL,Prawn Masala,,255,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn items,,0,,9,1
+ANNASRI HOTEL,Egg Chilli,,95,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg items,,0,,9,1
+ANNASRI HOTEL,Egg 777,,110,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg items,,0,,9,1
+ANNASRI HOTEL,Egg Fry,,40,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg items,,0,,9,1
+ANNASRI HOTEL,Paneer Fried Rice,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,9,1
+ANNASRI HOTEL,Paneer Noodles,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,9,1
+ANNASRI HOTEL,Mushroom Fried Rice,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,9,1
+ANNASRI HOTEL,Mushroom Noodles,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,9,1
+ANNASRI HOTEL,Chilli Fish,,190,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Items,,0,,9,1
+ANNASRI HOTEL,Cutla Fish,,85,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Items,,0,,9,1
+ANNASRI HOTEL,Grill Chicken Full,,420,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,9,1
+ANNASRI HOTEL,Grill Chicken Half,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,9,1

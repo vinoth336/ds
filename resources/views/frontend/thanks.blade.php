@@ -1,0 +1,1 @@
+<center> {!! trans('core.abs_thank_you') !!} <br> {!! trans('core.abs_your_trans_complete') !!}</center>

@@ -1,0 +1,73 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOTEL M S,Naan,,25,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,1
+HOTEL M S,Roti,,25,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,2
+HOTEL M S,Kulcha,,30,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,3
+HOTEL M S,Butter Naan,,30,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,4
+HOTEL M S,Tandoori Half,,170,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,5
+HOTEL M S,Tandoori Full,,300,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,6
+HOTEL M S,Chicken Tikka,,110,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,7
+HOTEL M S,Reshmi Kabab,,90,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,8
+HOTEL M S,Paneer Tikka,,70,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,9
+HOTEL M S,Chicken Kabab,,110,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,10
+HOTEL M S,Kadai Veg,,50,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,11
+HOTEL M S,Kadai Chicken,,80,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,12
+HOTEL M S,Kadai Paneer,,65,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,13
+HOTEL M S,Channa Masala,,50,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,14
+HOTEL M S,Kadai Mushroom,,55,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,15
+HOTEL M S,Paneer Butter Masala,,60,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoories,,0,,2,16
+HOTEL M S,Idly (2 Nos),,30,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+HOTEL M S,Dosai,,20,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,2
+HOTEL M S,Uthappam,,25,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,3
+HOTEL M S,Onion Uhtappam,,35,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,4
+HOTEL M S,Onion Dosai,,30,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,5
+HOTEL M S,Egg Dosai,,30,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,6
+HOTEL M S,Plain Roast,,30,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,7
+HOTEL M S,Onion Roast,,40,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,8
+HOTEL M S,Rava Roast,,40,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,9
+HOTEL M S,Ghee Roast,,45,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,10
+HOTEL M S,Egg Roast,,40,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,11
+HOTEL M S,Parotta (2 Nos),,24,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,1
+HOTEL M S,Veechu Parotta,,20,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,2
+HOTEL M S,Egg Veechu Parotta,,30,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,3
+HOTEL M S,Bun Parotta,,20,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,4
+HOTEL M S,Chilli Parotta,,60,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,5
+HOTEL M S,Kothu Parotta,,60,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,6
+HOTEL M S,Chicken Parotta,,70,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,7
+HOTEL M S,Egg Laaba,,55,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,8
+HOTEL M S,Gobi 65,,30,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HOTEL M S,Mushroom 65,,35,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,2
+HOTEL M S,Chicken 65,,40,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,3
+HOTEL M S, Chilli Chicken ,,55,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,4
+HOTEL M S,Broiler Chicken Fry,,65,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,5
+HOTEL M S,Nattu Chicken Fry,,90,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,6
+HOTEL M S,Tava Fish Fry,,30,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,7
+HOTEL M S,Mutton Fry,,110,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,8
+HOTEL M S,Veg Noodles,,50,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,1
+HOTEL M S,Egg Noodles,,60,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,2
+HOTEL M S,Chicken Noodles,,70,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,3
+HOTEL M S,Schezwan Veg Noodles,,55,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,4
+HOTEL M S,Schezwan Egg Noodles,,65,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,5
+HOTEL M S,Schezwan Chicken Noodles,,75,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,6
+HOTEL M S,Veg Rice,,50,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,7
+HOTEL M S,Egg Rice,,60,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,8
+HOTEL M S,Chicken Rice,,70,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,9
+HOTEL M S,Schezwan Veg Rice,,55,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,10
+HOTEL M S,Schezwan Egg Rice,,65,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,11
+HOTEL M S,Schezwan Chicken Rice,,75,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,12
+HOTEL M S,Gobi Manchurian,,45,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,13
+HOTEL M S,Mushroom Manchurian,,55,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,14
+HOTEL M S,Chicken Manchurian,,65,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,15
+HOTEL M S,Fish Manchurian,,70,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,16
+HOTEL M S,Gobi Pepper Fry,,45,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,17
+HOTEL M S,Mushroom Pepper Fry,,55,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,18
+HOTEL M S,Chicken Pepper Fry,,65,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,5,19
+HOTEL M S,Chicken Briyani Half,,50,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,1
+HOTEL M S,Chicken Briyani Full,,75,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,2
+HOTEL M S,Mutton Briyani Half,,75,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,3
+HOTEL M S,Mutton Briyani Full,,110,,,,5,10,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,4
+HOTEL M S,Mosambi,,45,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,7,1
+HOTEL M S,Pomegranate,,60,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,7,2
+HOTEL M S,Apple,,50,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,7,3
+HOTEL M S,Muskmelon,,35,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,7,4
+HOTEL M S,Water Melon,,30,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,7,5
+HOTEL M S,Lemon,,25,,,,5,10,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,7,6

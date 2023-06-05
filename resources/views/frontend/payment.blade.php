@@ -1,0 +1,1 @@
+{!! Lang::get("core.payment") !!}

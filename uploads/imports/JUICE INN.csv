@@ -1,0 +1,83 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+JUICE INN,Bread Omlet,,36,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,1,1
+JUICE INN,Juice in SPL Garlic Cheese Bun,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,1,1
+JUICE INN,Veg Roll,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,1
+JUICE INN,Veg Parotta Roll,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,1
+JUICE INN,Egg Roll,,60,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,1
+JUICE INN,Chicken Roll,,72,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,1
+JUICE INN,Orange Juice,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Sathukudi (Musambi) Juice,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,2
+JUICE INN,Grapes Juice,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,2
+JUICE INN,Pappaya Juice,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Pineapple Juice,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Watermelon Juice,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,2
+JUICE INN,Madulai Juice,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Mulambalam Juice,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Jack Fruit (Palapalam) Juice,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Anjeer (Athipalam) Juice,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Athipalam with Honey Juice,,84,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Nungu Juice,,72,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Mango Juice,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+JUICE INN,Rose Milk,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk,,0,,4,1
+JUICE INN,Badam Milk,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk,,0,,4,1
+JUICE INN,Mango Milk,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk,,0,,4,1
+JUICE INN,Pista Milk ,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk,,0,,4,1
+JUICE INN,Liche Milk ,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk,,0,,4,1
+JUICE INN,Pineapple Milk,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk,,0,,4,1
+JUICE INN,Arabian Milk Shake,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Kashmir Dry Fruits Milk Shake,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Saudi Milk Shake,,84,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Casheew & Badam Milk Shake,,108,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Rumania Milk Shake,,84,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Adams Apple Milk Shake,,84,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Power Chocolate Milk Shake,,84,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Orio Milk Shake,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Snickers Milk Shake,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,5 Star Milk Shake,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Bourbon Milk Shake,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Dairy Milk Shake,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Dark Fantasy Milk Shake,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake Special,,0,,5,1
+JUICE INN,Mojito,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,1
+JUICE INN,Chicken Sandwich,,72,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Cheese Sandwich,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Veggie Mixed Sandwich,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Egg Sandwich,,60,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Boiled Egg Sandwich,,66,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Potato Sandwich,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Onion Sandwich,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Tomato Sandwich,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Chocolate Sandwich,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Fruit Jam Sandwich,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Jumbo Sandwich Veg,,84,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Jumbo Sandwich Egg,,108,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Jumbo Sandwich Chicken,,120,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+JUICE INN,Juice in Maggie,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggie,,0,,7,1
+JUICE INN,Veg Maggie,,42,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggie,,0,,7,1
+JUICE INN,Chilly Maggie,,42,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggie,,0,,7,1
+JUICE INN,Cheese Maggie,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggie,,0,,7,1
+JUICE INN,Egg Maggie,,48,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggie,,0,,7,1
+JUICE INN,Chicken Maggie,,60,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggie,,0,,7,1
+JUICE INN,Schezwan & Cheese Maggie,,72,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggie,,0,,7,1
+JUICE INN,Veg Pizza,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,1
+JUICE INN,Chicken Pizza,,96,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,1
+JUICE INN,Veg Burger,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,1
+JUICE INN,Chicken Burger,,82,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,1
+JUICE INN,Jumbo Burger Veg,,94,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,1
+JUICE INN,Jumbo Burger Chicken,,118,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,1
+JUICE INN,Fruit Salad,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad with Icecreams,,0,,10,1
+JUICE INN,Falooda Salad,,84,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad with Icecreams,,0,,10,1
+JUICE INN,SPL Falooda Salad,,108,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad with Icecreams,,0,,10,1
+JUICE INN,Royal Falooda Salad,,96,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad with Icecreams,,0,,10,1
+JUICE INN,Ship Classic Falooda Salad,,120,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad with Icecreams,,0,,10,1
+JUICE INN,Ship Royal Falooda Salad,,144,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad with Icecreams,,0,,10,1
+JUICE INN,Lemon Salt Soda,,24,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Lemon Sweet Soda,,30,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Lemon (Sweet & Salt) Soda,,30,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Grape Soda,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Musambi Soda,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Jaljeera Soda,,30,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Orange Soda,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Apple Soda,,36,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Chille Soda,,30,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Blue Lime Soda,,48,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda Items,,0,,11,1
+JUICE INN,Extra Cheese,,10,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,13,1

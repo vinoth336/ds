@@ -1,0 +1,140 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+GRILL NIGHTS,Oreo Milkshake,,96,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,1
+GRILL NIGHTS,Kitkat Milkshake,,96,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,2
+GRILL NIGHTS,Pineapple,,96,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,2
+GRILL NIGHTS,Mango,,96,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,1
+GRILL NIGHTS,Chocolate,,96,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,1
+GRILL NIGHTS,Blueberry,,96,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,1
+GRILL NIGHTS,Strawberry,,84,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,1
+GRILL NIGHTS,Rose Milk,,48,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,1
+GRILL NIGHTS,Milo Milk,,72,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,1
+GRILL NIGHTS,Arabian Falooda,,120,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,1
+GRILL NIGHTS,Mini Arabian Falooda,,72,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,1,1
+GRILL NIGHTS,Green Mint,,60,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,1,1
+GRILL NIGHTS,Blue Curacao,,72,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,1,1
+GRILL NIGHTS,Mango Punch,,72,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,1,1
+GRILL NIGHTS,Orange Punch,,72,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,1,1
+GRILL NIGHTS,Pineapple Punch,,72,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,1,1
+GRILL NIGHTS,Blueberry Punch,,84,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,1,1
+GRILL NIGHTS,Street Chicken Shawarma Roll,,83,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Ghost Chicken Shawarma Roll,,107,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Peri Peri Chicken Shawarma Roll,,107,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Mexican Chicken Shawarma Roll,,107,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Schezwan Chicken Shawarma Roll,,107,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Chips Chicken Shawarma Roll,,107,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Indian Shawarma Roll,,107,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Street Chicken Shawarma Plate,,107,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Ghost Chicken Shawarma Plate,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Peri Peri Chicken Shawarma Plate,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Mexican Chicken Shawarma Plate,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Schezwan Chicken Shawarma Plate,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Chips Chicken Shawarma Plate,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Indian Shawarma Plate,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Cone Shawarma Mini Normal,,59,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Panipuri Shawarma Normal 6 Pcs,,59,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Normal,,0,,1,1
+GRILL NIGHTS,Street Chicken Shawarma Roll,,107,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Ghost Chicken Shawarma Roll,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Peri Peri Chicken Shawarma Roll,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Mexican Chicken Shawarma Roll,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Schezwan Chicken Shawarma Roll,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Chips Chicken Shawarma Roll,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Indian Shawarma Roll,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Street Chicken Shawarma Plate,,131,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Ghost Chicken Shawarma Plate,,155,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Peri Peri Chicken Shawarma Plate,,155,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Mexican Chicken Shawarma Plate,,155,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Schezwan Chicken Shawarma Plate,,155,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Chips Chicken Shawarma Plate,,155,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Indian Shawarma Plate,,155,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Cone Shawarma Mini Special,,89,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Panipuri Shawarma Special 6 Pcs,,89,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Shawarma Special,,0,,1,1
+GRILL NIGHTS,Street Chicken Wings 3 Pcs,,72,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Street Chicken Lollipop 3 Pcs,,72,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Street Chicken Drumstick 2 Pcs,,144,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Street Gun Chicken 1 Pc,,144,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Mexican Chicken Wings 3 Pcs,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Mexican Chicken Lollipop 3 Pcs,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Mexican Chicken Drumstick 2 Pcs,,168,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Mexican Gun Chicken 1 Pc,,168,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Hot and Spicy Chicken Wings 3 Pcs,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Hot and Spicy Chicken Lollipop 3 Pcs,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Hot and Spicy Chicken Drumstick 2 Pcs,,168,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Hot and Spicy Gun Chicken 1 Pc,,168,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Pepper Chicken Wings 3 Pcs,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Pepper Chicken Lollipop 3 Pcs,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Pepper Chicken Drumstick 2 Pcs,,168,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Pepper Gun Chicken 1 Pc,,168,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Street Chicken BBQ Quarter,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Street Chicken BBQ Half,,216,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Street Chicken BBQ Full,,420,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Pepper Chicken BBQ Quarter,,144,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Pepper Chicken BBQ Half,,240,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Pepper Chicken BBQ Full,,444,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Mexican Chicken BBQ Quarter,,144,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Mexican Chicken BBQ Half,,240,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Mexican Chicken BBQ Full,,444,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Peri Peri Chicken BBQ Quarter,,144,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Peri Peri Chicken BBQ Half,,240,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Peri Peri Chicken BBQ Full,,444,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+GRILL NIGHTS,Street Chicken Burger,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Grilled Burgers,,0,,1,1
+GRILL NIGHTS,Shawarma Chicken Burger,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Grilled Burgers,,0,,1,1
+GRILL NIGHTS,Ghost Chicken Burger Spicy,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Grilled Burgers,,0,,1,1
+GRILL NIGHTS,Street Paneer BBQ 5 Pcs,,84,,,,0,0, Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ Veg,,0,,1,1
+GRILL NIGHTS,Mexican Paneer BBQ 5 Pcs,,108,,,,0,0, Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ Veg,,0,,1,1
+GRILL NIGHTS,Hot and Spicy Paneer BBQ 5 Pcs,,108,,,,0,0, Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ Veg,,0,,1,1
+GRILL NIGHTS,Street Pineapple BBQ 2 Pcs,,60,,,,0,0, Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ Veg,,0,,1,1
+GRILL NIGHTS,Mexican Pineapple BBQ 2 Pcs,,84,,,,0,0, Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ Veg,,0,,1,1
+GRILL NIGHTS,Hot and Spicy Pineapple BBQ 2 Pcs,,84,,,,0,0, Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,BBQ Veg,,0,,1,1
+GRILL NIGHTS,Street Chicken Fried Rice,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Peri Peri Chicken Fried Rice,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Mexican Chicken Fried Rice,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Ghost Chicken Fried Rice,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Street Egg Fried Rice,,84,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Peri Peri Egg Fried Rice,,108,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Mexican Egg Fried Rice,,108,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Ghost Egg Fried Rice,,108,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Street Veg Fried Rice,,84,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Peri Peri Veg Fried Rice,,108,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Mexican Veg Fried Rice,,108,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Ghost Veg Fried Rice,,108,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Street Chicken Noodles,,96,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Peri Peri Chicken Noodles,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Mexican Chicken Noodles,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Ghost Chicken Noodles,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Paneer Fried Rice,,90,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Mushroom Rice,,90,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Rice and Noodles,,0,,1,1
+GRILL NIGHTS,Chilly Chicken Gravy,,100,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,1,1
+GRILL NIGHTS,Mushroom Gravy,,100,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,1,1
+GRILL NIGHTS,Chilly Chicken Dry,,100,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,1,1
+GRILL NIGHTS,Paneer Gravy,,130,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,1,1
+GRILL NIGHTS,French Fries Regular,,60,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crispy Fries,,0,,1,1
+GRILL NIGHTS,French Fries Peri Peri,,84,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crispy Fries,,0,,1,1
+GRILL NIGHTS,French Fries Mexican,,84,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crispy Fries,,0,,1,1
+GRILL NIGHTS,French Fries Masala,,84,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crispy Fries,,0,,1,1
+GRILL NIGHTS,Potato Wedges,,84,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Crispy Fries,,0,,1,1
+GRILL NIGHTS,Bread and Jam Sandwich,,48,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,1,1
+GRILL NIGHTS,Tomato and Cheese Sandwich,,60,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,1,1
+GRILL NIGHTS,Cheese Sandwich,,60,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,1,1
+GRILL NIGHTS,Vegetable Sandwich,,60,,,,0,0,Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,1,1
+GRILL NIGHTS,Chicken Sandwich,,72,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,1,1
+GRILL NIGHTS,Chicken Cheese Sandwich,,78,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,1,1
+GRILL NIGHTS,Bread Omlette Regular,,36,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Bread Omlette,,0,,1,1
+GRILL NIGHTS,Bread Omlette Special,,54,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Bread Omlette,,0,,1,1
+GRILL NIGHTS,Cheese,,30,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,1,1
+GRILL NIGHTS,Chicken Fried Rice + Quarter BBQ Combo,,203,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,1
+GRILL NIGHTS,Chicken Noodles + Quarter BBQ Combo,,203,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,1
+GRILL NIGHTS,Egg Fried Rice + Chilly Chicken,,159,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,1
+GRILL NIGHTS,Chicken Fried Rice + Blue Curacao Mojito,,139,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,1
+GRILL NIGHTS,Chicken Biriyani + Chicken Fried Rice,,149,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,1
+GRILL NIGHTS,Chicken Fried Rice + BBQ Drumstick,,129,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,1
+GRILL NIGHTS,Chicken Biriyani + Chicken 65,,119,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,1
+GRILL NIGHTS,Chicken Biriyani + Green Mint Mojito,,119,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,1
+GRILL NIGHTS,Biriyani,,80,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+GRILL NIGHTS,Garlic Chicken,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,1,1
+GRILL NIGHTS,Chicken Manchurian,,110,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,1,1
+GRILL NIGHTS,Chilli Chicken,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,1,1
+GRILL NIGHTS,Pepper Chicken,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,1,1
+GRILL NIGHTS,Chicken 65,,50,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,1,1
+GRILL NIGHTS,Ginger Chicken,,110,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,1,1
+GRILL NIGHTS,Pepper Chicken,,100,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,1,1
+GRILL NIGHTS,Chettinad Chicken,,120,,,,0,0,Non Veg,,,12:00PM,10:30PM,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,1,1

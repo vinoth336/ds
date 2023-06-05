@@ -1,0 +1,46 @@
+
+<?php $__env->startSection('content'); ?>
+
+  <div class="page-content row">
+    <!-- Page header -->
+    <div class="page-header">
+      <div class="page-title">
+        <h3> <?php echo e($pageTitle); ?> <small><?php echo e($pageNote); ?></small></h3>
+      </div>
+
+      <ul class="breadcrumb">
+        <li><a href="<?php echo e(URL::to('dashboard')); ?>"> Dashboard </a></li>
+        <li class="active"><?php echo e($pageTitle); ?></li>
+      </ul>	  
+	  
+    </div>
+                   
+                    <div class="page-content-wrapper m-t">	
+                    <div class="tab-content" >
+					<div class="tab-pane active m-t" id="tab-sign-in">
+					  <div class="col-sm-6 col-sm-offset-4 col-md-4 col-md-offset-4">
+						<div class="page-login-form box">
+  <form method="post" action="<?php echo e(url('orderlogin/login')); ?>" class="form-vertical">
+					        <div class="form-group">
+					          <div class="input-icon">
+					            <i class="icon fa fa-user"></i>
+					            <input type="text" name="email" placeholder="<?php echo Lang::get('core.email_address'); ?>" class="form-control" required="email" />
+					          </div>
+					        </div> 
+					        <div class="form-group">
+					          <div class="input-icon">
+					            <i class="icon fa fa-unlock-alt"></i>
+					            <input type="password" name="password" placeholder="<?php echo Lang::get('core.password'); ?>" class="form-control" required="true" />
+					          </div>
+					        </div>                  
+					        <button type="submit" class="btn btn-common log-btn btn-info"><?php echo Lang::get('core.submit'); ?></button>
+					      </form>
+    </div>
+					        </div>
+                              </div>
+					        </div>
+                            </div>
+
+	
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.app', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

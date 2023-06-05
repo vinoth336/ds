@@ -1,0 +1,89 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+NALAN UNAVAGAM,Arugampul Soup,,13,,,,0,0,veg,,,06:00AM,09:30AM,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,1
+NALAN UNAVAGAM,Milagu Thakkali Soup,,13,,,,0,0,veg,,,06:00AM,09:30AM,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,2
+NALAN UNAVAGAM,Sathumaavu Kanchi,,26,,,,0,0,veg,,,06:00AM,09:30AM,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,3
+NALAN UNAVAGAM,Vegetable Soup,,20,,,,0,0,veg,,,,,,,05:30PM,06:30PM,"1,6",1,,Soup,,0,,1,4
+NALAN UNAVAGAM,Pagarkai Soup,,20,,,,0,0,veg,,,,,,,05:30PM,06:30PM,2,1,,Soup,,0,,1,5
+NALAN UNAVAGAM,Makkasolam Soup,,20,,,,0,0,veg,,,,,,,05:30PM,06:30PM,3,1,,Soup,,0,,1,6
+NALAN UNAVAGAM,Valaithandu Soup,,20,,,,0,0,veg,,,,,,,05:30PM,06:30PM,4,1,,Soup,,0,,1,7
+NALAN UNAVAGAM,Athipala Soup,,20,,,,0,0,veg,,,,,,,05:30PM,06:30PM,5,1,,Soup,,0,,1,8
+NALAN UNAVAGAM,Navalpala Soup,,20,,,,0,0,veg,,,,,,,05:30PM,06:30PM,5,1,,Soup,,0,,1,9
+NALAN UNAVAGAM,Raagi Pakoda,,20,,,,0,0,veg,,,,,,,05:30PM,06:30PM,1,1,,Snacks,,0,,2,1
+NALAN UNAVAGAM,Vegetable Bonda 2 Pcs,,26,,,,0,0,veg,,,,,,,05:30PM,06:30PM,"2,5",1,,Snacks,,0,,2,2
+NALAN UNAVAGAM,Pasipayaru,,20,,,,0,0,veg,,,,,,,05:30PM,06:30PM,3,1,,Snacks,,0,,2,3
+NALAN UNAVAGAM,Raagi Pakoda,,26,,,,0,0,veg,,,,,,,05:30PM,06:30PM,4,1,,Snacks,,0,,2,4
+NALAN UNAVAGAM,Sundal,,20,,,,0,0,veg,,,,,,,05:30PM,06:30PM,6,1,,Snacks,,0,,2,5
+NALAN UNAVAGAM,Keerai Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,"1,5,6",1,,Dosa,,0,,3,1
+NALAN UNAVAGAM,Murungaikeerai Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,2,1,,Dosa,,0,,3,2
+NALAN UNAVAGAM,Kuthiraivali Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,06:00PM,10:00PM,"2,5",1,,Dosa,,0,,3,3
+NALAN UNAVAGAM,Pacharisi Dosa (Sweet),,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,3,1,,Dosa,,0,,3,4
+NALAN UNAVAGAM,Kollu Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,"3,7",1,,Dosa,,0,,3,5
+NALAN UNAVAGAM,Kambu Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,06:00PM,10:00PM,"1,2,3,5,6",1,,Dosa,,0,,3,6
+NALAN UNAVAGAM,Adai Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,3,1,,Dosa,,0,,3,7
+NALAN UNAVAGAM,Makkasolam Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,06:00PM,10:00PM,"1,4,5",1,,Dosa,,0,,3,8
+NALAN UNAVAGAM,Wheat Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,06:00PM,10:00PM,"1,2,4,6",1,,Dosa,,0,,3,9
+NALAN UNAVAGAM,Rava Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,"4,7",1,,Dosa,,0,,3,10
+NALAN UNAVAGAM,Sundakkai Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,4,1,,Dosa,,0,,3,11
+NALAN UNAVAGAM,Sola Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,5,1,,Dosa,,0,,3,12
+NALAN UNAVAGAM,Valaipoo Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,"5,6",1,,Dosa,,0,,3,13
+NALAN UNAVAGAM,Varagu Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,6,1,,Dosa,,0,,3,14
+NALAN UNAVAGAM,Mudakathan Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,7,1,,Dosa,,0,,3,15
+NALAN UNAVAGAM,Pasiparuppu Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,,,7,1,,Dosa,,0,,3,16
+NALAN UNAVAGAM,Thinai Dosa,,50,,,,0,0,veg,,,,,,,06:00PM,10:00PM,"1,2,5,6",1,,Dosa,,0,,3,17
+NALAN UNAVAGAM,Vendaiya Dosa,,50,,,,0,0,veg,,,,,,,06:00PM,10:00PM,3,1,,Dosa,,0,,3,18
+NALAN UNAVAGAM,Kuthiraivali Dosa,,50,,,,0,0,veg,,,,,,,06:00PM,10:00PM,3,1,,Dosa,,0,,3,19
+NALAN UNAVAGAM,Ragi Dosa,,50,,,,0,0,veg,,,,,,,06:00PM,10:00PM,5,1,,Dosa,,0,,3,20
+NALAN UNAVAGAM,Varagu Dosa,,50,,,,0,0,veg,,,,,,,06:00PM,10:00PM,"3,6",1,,Dosa,,0,,3,21
+NALAN UNAVAGAM,Tomato Dosa,,50,,,,0,0,veg,,,,,,,06:00PM,10:00PM,"1,4,6",1,,Dosa,,0,,3,22
+NALAN UNAVAGAM,Samai Dosa,,50,,,,0,0,veg,,,07:00AM,10:30AM,,,06:00PM,10:00PM,"2,4,6",1,,Dosa,,0,,3,23
+NALAN UNAVAGAM,Ragi Dosa,,50,,,,0,0,veg,,,,,,,06:00PM,10:00PM,"2,3,4",1,,Dosa,,0,,3,24
+NALAN UNAVAGAM,Beetroot Dosa,,50,,,,0,0,veg,,,,,,,06:00PM,10:00PM,2,1,,Dosa,,0,,3,25
+NALAN UNAVAGAM,Samai Pongal,,52,,,,0,0,veg,,,07:00AM,10:30AM,,,,,1,1,,Pongal Special,,0,,4,1
+NALAN UNAVAGAM,Thinai Pongal,,52,,,,0,0,veg,,,07:00AM,10:30AM,,,,,2,1,,Pongal Special,,0,,4,2
+NALAN UNAVAGAM,Varagu Pongal,,52,,,,0,0,veg,,,07:00AM,10:30AM,,,,,3,1,,Pongal Special,,0,,4,3
+NALAN UNAVAGAM,Kuthiraivali Pongal,,52,,,,0,0,veg,,,07:00AM,10:30AM,,,,,4,1,,Pongal Special,,0,,4,4
+NALAN UNAVAGAM,Samai Pongal,,52,,,,0,0,veg,,,07:00AM,10:30AM,,,,,5,1,,Pongal Special,,0,,4,5
+NALAN UNAVAGAM,Thinai Pongal,,52,,,,0,0,veg,,,07:00AM,10:30AM,,,,,6,1,,Pongal Special,,0,,4,6
+NALAN UNAVAGAM,Venpongal,,52,,,,0,0,veg,,,07:00AM,10:30AM,,,,,7,1,,Pongal Special,,0,,4,7
+NALAN UNAVAGAM,Idly 2 Pcs,,26,,,,0,0,veg,,,06:00AM,09:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+NALAN UNAVAGAM,Appam+Coconut Milk,,52,,,,0,0,veg,,,07:00AM,10:30AM,,,,,1,1,,Tiffen Items,,0,,5,2
+NALAN UNAVAGAM,Ragi Khichdi,,39,,,,0,0,veg,,,07:00AM,10:30AM,,,,,1,1,,Tiffen Items,,0,,5,3
+NALAN UNAVAGAM,Idiyappam,,39,,,,0,0,veg,,,07:00AM,10:30AM,,,,,"2,4",1,,Tiffen Items,,0,,5,4
+NALAN UNAVAGAM,Idiyappam+Coconut Milk,,52,,,,0,0,veg,,,07:00AM,10:30AM,,,,,7,1,,Tiffen Items,,0,,5,5
+NALAN UNAVAGAM,Wheat Uppuma,,39,,,,0,0,veg,,,07:00AM,10:30AM,,,,,5,1,,Tiffen Items,,0,,5,6
+NALAN UNAVAGAM,Appam,,39,,,,0,0,veg,,,07:00AM,10:30AM,,,,,6,1,,Tiffen Items,,0,,5,7
+NALAN UNAVAGAM,Avul Uppuma,,39,,,,0,0,veg,,,,,,,06:00PM,10:00PM,5,1,,Tiffen Items,,0,,5,8
+NALAN UNAVAGAM,Raagi Adai 2 Pcs,,52,,,,0,0,veg,,,,,,,06:00PM,10:00PM,1,1,,Tiffen Items,,0,,5,9
+NALAN UNAVAGAM,Wheat Adai 2 Pcs,,52,,,,0,0,veg,,,,,,,06:00PM,10:00PM,4,1,,Tiffen Items,,0,,5,10
+NALAN UNAVAGAM,Valaipala Chapati 2 Pcs,,65,,,,0,0,veg,,,,,,,06:00PM,10:00PM,1,1,,Chapathi,,0,,6,1
+NALAN UNAVAGAM,Chapati 2 Pcs,,65,,,,0,0,veg,,,,,,,06:00PM,10:00PM,"3,5",1,,Chapathi,,0,,6,2
+NALAN UNAVAGAM,Keerai Chapati 2 Pcs,,65,,,,0,0,veg,,,,,,,06:00PM,10:00PM,2,1,,Chapathi,,0,,6,3
+NALAN UNAVAGAM,Seeraga Chapati 2 Pcs,,65,,,,0,0,veg,,,,,,,06:00PM,10:00PM,4,1,,Chapathi,,0,,6,4
+NALAN UNAVAGAM,Oma Chapati 2 Pcs,,65,,,,0,0,veg,,,,,,,06:00PM,10:00PM,6,1,,Chapathi,,0,,6,5
+NALAN UNAVAGAM,Ragi Puttu,,39,,,,0,0,veg,,,,,,,06:00PM,10:00PM,6,1,,Puttu,,0,,7,1
+NALAN UNAVAGAM,Coconut Puttu,,39,,,,0,0,veg,,,,,,,06:00PM,10:00PM,1,1,,Puttu,,0,,7,2
+NALAN UNAVAGAM,Wheat Puttu,,39,,,,0,0,veg,,,,,,,06:00PM,10:00PM,"2,5",1,,Puttu,,0,,7,3
+NALAN UNAVAGAM,Red Rice Puttu,,39,,,,0,0,veg,,,,,,,06:00PM,10:00PM,3,1,,Puttu,,0,,7,4
+NALAN UNAVAGAM,Coconut Puttu,,39,,,,0,0,veg,,,,,,,06:00PM,10:00PM,4,1,,Puttu,,0,,7,5
+NALAN UNAVAGAM,Tomato Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,1,1,,Variety Rice,,0,,8,1
+NALAN UNAVAGAM,Carrot Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,1,1,,Variety Rice,,0,,8,2
+NALAN UNAVAGAM,Ellu Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,2,1,,Variety Rice,,0,,8,3
+NALAN UNAVAGAM,Kothamalli Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,2,1,,Variety Rice,,0,,8,4
+NALAN UNAVAGAM,Coconut Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,3,1,,Variety Rice,,0,,8,5
+NALAN UNAVAGAM,Thattapayaru Rice,,52,,,,0,0,veg,,,,,11:00AM,03:00PM,,,4,1,,Variety Rice,,0,,8,6
+NALAN UNAVAGAM,Sambar Rice,,52,,,,0,0,veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,8,7
+NALAN UNAVAGAM,Beetroot Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,4,1,,Variety Rice,,0,,8,8
+NALAN UNAVAGAM,Karuveppilai Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,5,1,,Variety Rice,,0,,8,9
+NALAN UNAVAGAM,Vegetable Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,"3,5",1,,Variety Rice,,0,,8,10
+NALAN UNAVAGAM,Lemon Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,"6,7",1,,Variety Rice,,0,,8,11
+NALAN UNAVAGAM,Tomato Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,"1,6",1,,Variety Rice,,0,,8,12
+NALAN UNAVAGAM,Puthina Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,6,1,,Variety Rice,,0,,8,13
+NALAN UNAVAGAM,Milagu Rice,,39,,,,0,0,veg,,,,,11:00AM,03:00PM,,,7,1,,Variety Rice,,0,,8,14
+NALAN UNAVAGAM,Today Special Meals,Rice+Akathikeerai Sambar+Milagu Kulambu+Pirandai Rasam+Carrot Poriyal+Valaipoo Kootu+Samiya Payasam,117,,,,0,0,veg,,,,,12:00PM,04:00PM,,,1,1,,Meals,,0,,9,1
+NALAN UNAVAGAM,Today Special Meals,Rice+Pasiparuppu+Keerai Sambar+Beetroon Kulambu+Thoothuvalai Rasam+Pagarkai Poriyal+Senaikilangu Kootu+Valaipala Payasam+,117,,,,0,0,veg,,,,,12:00PM,04:00PM,,,2,1,,Meals,,0,,9,2
+NALAN UNAVAGAM,Today Special Meals,Rice+Avaraikai Sambar+Vegetable Kuruma+Vallaraikeerai Rasam+Beens Poriyal+Valaikai Kootu+Pacharasi Payasam,117,,,,0,0,veg,,,,,12:00PM,04:00PM,,,3,1,,Meals,,0,,9,3
+NALAN UNAVAGAM,Today Special Meals,Rice+Pudalankai Sambar+Mochai Kulambu+Vetrilai Rasam+Avaraikai Poriyal+Chocho Kootu+Pooja Payasam,117,,,,0,0,veg,,,,,12:00PM,04:00PM,,,4,1,,Meals,,0,,9,4
+NALAN UNAVAGAM,Today Special Meals,Rice+Poosani Sambar+Vegetable Kuruma+Thulasi Rasam+Vendaikai Poriyal+Valaithandu Kootu+Thinai Payasam,117,,,,0,0,veg,,,,,12:00PM,04:00PM,,,5,1,,Meals,,0,,9,5
+NALAN UNAVAGAM,Today Special Meals,"Rice+Suraikai,Murungaikai Sambar+Karuvaipilai Milagu Kulambu+Kollu Thuvaiyal+Akathikeerai Rasam+Beetroon Poriyal+Pudalankai Kootu+Pasiparuppu Payasam",117,,,,0,0,veg,,,,,12:00PM,04:00PM,,,6,1,,Meals,,0,,9,6
+NALAN UNAVAGAM,Today Special Meals,Rice+Mullangi Sambar+Milagu Kulambu+Nellikani Rasam+Muttaikose Poriyal+Valaikai Kootu+Samai Payasam,117,,,,0,0,veg,,,,,12:00PM,04:00PM,,,7,1,,Meals,,0,,9,7
+NALAN UNAVAGAM,Valaipoo Vadai 2 Pcs,Must Try,26,,,,0,0,veg,,,,,12:00PM,02:30PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,9,8

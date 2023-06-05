@@ -1,0 +1,150 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+Cafe 360 Degree,Veg Fried Rice,,110,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+Cafe 360 Degree,Veg Schezwan Fried Rice,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,2
+Cafe 360 Degree,Mixed Fried Rice,,170,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,3
+Cafe 360 Degree,Mixed Schezwan Fried Rice,,190,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,4
+Cafe 360 Degree,Baby Corn Fried Rice,,120,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,5
+Cafe 360 Degree,Baby Corn Schezwan Fried Rice,,140,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,6
+Cafe 360 Degree,Mushroom Fried Rice,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,7
+Cafe 360 Degree,Mushroom Schezwan Fried Rice,,150,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,8
+Cafe 360 Degree,Panner Fried Rice ,,140,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,9
+Cafe 360 Degree,Panner Schezwan Fried Rice ,,160,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,10
+Cafe 360 Degree,"Mixed Fried Rice (Fish, Prawn,Chicken)",,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,11
+Cafe 360 Degree,"Mixed Schezwan Fried Rice(Fish, Prawn,Chicken)",,220,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,12
+Cafe 360 Degree,Egg Fried Rice,,120,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,13
+Cafe 360 Degree,Egg  Schezwan Fried Rice,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,14
+Cafe 360 Degree,Chicken Megorein,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,15
+Cafe 360 Degree,Chicken Fried Rice,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,16
+Cafe 360 Degree,Chicken Schezwan Fried Rice,,160,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,17
+Cafe 360 Degree,Fish Fried Rice ,,160,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,18
+Cafe 360 Degree,Fish Schezwan Fried Rice ,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,19
+Cafe 360 Degree,Prawn Fried Rice ,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,20
+Cafe 360 Degree,Prawn Schezwan Fried Rice ,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,21
+Cafe 360 Degree,Veg Noodles,,120,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,1
+Cafe 360 Degree,Veg Schezwan Noodles,,140,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,2
+Cafe 360 Degree,Mixed Noodles,,180,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,3
+Cafe 360 Degree,Mixed Schezwan Noodles,,200,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,4
+Cafe 360 Degree,Baby Corn Noodles,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,5
+Cafe 360 Degree,Baby Corn SchezwanNoodles,,150,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,6
+Cafe 360 Degree,Mushroom Noodles,,140,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,7
+Cafe 360 Degree,Mushroom Schezwan Noodles,,160,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,8
+Cafe 360 Degree,Panner Noodles,,150,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,9
+Cafe 360 Degree,Panner Schezwan Noodles,,170,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,10
+Cafe 360 Degree,"Mixed  Noodles(Fish, Prawn,Chicken)",,210,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,11
+Cafe 360 Degree,"Mixed Schezwan  Noodles (Fish, Prawn,Chicken)",,230,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,12
+Cafe 360 Degree,Egg Noodles,,130,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,13
+Cafe 360 Degree,Egg  Schezwan Noodles,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,14
+Cafe 360 Degree,Chicken Megorein,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,15
+Cafe 360 Degree,Chicken Noodles,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,16
+Cafe 360 Degree,Chicken SchezwanNoodles,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,17
+Cafe 360 Degree,Fish Noodles,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,18
+Cafe 360 Degree,Fish SchezwanNoodles,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,19
+Cafe 360 Degree,PrawnNoodles,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,20
+Cafe 360 Degree,Prawn Schezwan Noodles,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,21
+Cafe 360 Degree,Veg Maggi,,140,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,3,1
+Cafe 360 Degree,Veg Mixed Maggi,,180,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,3,2
+Cafe 360 Degree,Egg Maggi,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,3,3
+Cafe 360 Degree,Chicken Maggi,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,3,4
+Cafe 360 Degree,Potato Spring ,,100,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,1
+Cafe 360 Degree,French Fries,,100,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,2
+Cafe 360 Degree,Smileys,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,3
+Cafe 360 Degree,Veg pops,,90,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,4
+Cafe 360 Degree,Veg Sticks,,100,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,5
+Cafe 360 Degree,Veg Nuggets,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,6
+Cafe 360 Degree,Hash Brown,,110,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,7
+Cafe 360 Degree,Mixed Snacks,,110,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,8
+Cafe 360 Degree,Fish Finger,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,9
+Cafe 360 Degree,Fish Cutlet,,130,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,10
+Cafe 360 Degree,Prawn Pops,,130,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,11
+Cafe 360 Degree,Crab Lollipop,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,12
+Cafe 360 Degree,Chicken pops,,100,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,13
+Cafe 360 Degree,Chicken Nuggets,,100,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,14
+Cafe 360 Degree,Shrimp Fish,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,15
+Cafe 360 Degree,Mixed Snacks,,230,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,16
+Cafe 360 Degree,Veg Burger,,110,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,1
+Cafe 360 Degree,Panner Burger,,140,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,2
+Cafe 360 Degree,Veg Double Decker Burger,,180,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,3
+Cafe 360 Degree,Crispy Potato Burger,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,4
+Cafe 360 Degree,Juicy Sweetcorn Burger,,140,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,5
+Cafe 360 Degree,Juicy Mushroom Burger,,150,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,6
+Cafe 360 Degree,Suprime Burger,,200,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,7
+Cafe 360 Degree,Egg Burger,,120,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,8
+Cafe 360 Degree, Chicken Burger,,140,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,9
+Cafe 360 Degree,Chicken Double Decker Burger,,190,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,10
+Cafe 360 Degree,Fish Burger,,160,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,11
+Cafe 360 Degree,Crab Burger,,150,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,12
+Cafe 360 Degree,Jumbo Burger,,210,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,13
+Cafe 360 Degree,Veg Burger, with cheese,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,14
+Cafe 360 Degree,panner Burger  with cheese,,150,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,15
+Cafe 360 Degree,Crispy Potato Burger  with cheese,,140,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,16
+Cafe 360 Degree,Juicy Sweetcorn Burger  with cheese,,150,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,17
+Cafe 360 Degree,Juicy Mushroom Burger  with cheese,,160,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,18
+Cafe 360 Degree,Egg Burger  with cheese,,130,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,19
+Cafe 360 Degree, Chicken Burger with cheese,,150,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,20
+Cafe 360 Degree,Fish Burger with cheese,,170,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,21
+Cafe 360 Degree,Crab Burger with cheese,,160,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,22
+Cafe 360 Degree,Veg Sandwich,,90,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,1
+Cafe 360 Degree,Panner Sandwich,,110,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,2
+Cafe 360 Degree,Veg Club Sandwich,,130,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,3
+Cafe 360 Degree,Mushroom Bell Pepper Cheese,,140,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,4
+Cafe 360 Degree,Sweetcorn Bell Pepper Cheese,,150,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,5
+Cafe 360 Degree,Egg Sandwich,,110,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,6
+Cafe 360 Degree,Chicken Sandwich,,120,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,7
+Cafe 360 Degree,Chicken Club Sandwich,,150,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,6,8
+Cafe 360 Degree,Bread Omelet,,80,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelet,,0,,7,1
+Cafe 360 Degree,Spicy Bread Omelet ,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelet,,0,,7,2
+Cafe 360 Degree,Cheese Bread Omelet,,100,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelet,,0,,7,3
+Cafe 360 Degree,Chicken Kheema Bread Omelet,,130,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelet,,0,,7,4
+Cafe 360 Degree,Schezwan Panner Dry,,200,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,1
+Cafe 360 Degree,Gopi machurian Dry,,190,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,2
+Cafe 360 Degree,Mushroom Pepper Salt,,200,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,3
+Cafe 360 Degree,Mushroom Manchurian Dry,,190,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,4
+Cafe 360 Degree,Baby Corn Manchurian Dry,,200,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,5
+Cafe 360 Degree,Schezwan Mixed Veg Dry,,210,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,6
+Cafe 360 Degree,Mixed Veg Manchurian Dry,,210,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,7
+Cafe 360 Degree,Mixed Veg 65,,200,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,8
+Cafe 360 Degree,Fish Chilli Dry,,210,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,1
+Cafe 360 Degree,Fish Pepper Salt,,230,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,2
+Cafe 360 Degree,Fish Machurian Dry,,220,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,3
+Cafe 360 Degree,Prawn Chilli Dry,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,4
+Cafe 360 Degree,Prawn Pepper Salt,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,5
+Cafe 360 Degree,Prawn Machurian Dry,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,6
+Cafe 360 Degree,Drums Of Heaven,,210,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,7
+Cafe 360 Degree,Chicken Lallipop,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,8
+Cafe 360 Degree,Spicy Chicken Lalipop,,210,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,9
+Cafe 360 Degree,Chicken Manchurian Dry,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,10
+Cafe 360 Degree,Chilli Chicken Dry,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,11
+Cafe 360 Degree,Garlic Chicken Dry,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,12
+Cafe 360 Degree,Dragon Chicken ,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,13
+Cafe 360 Degree,Andhra Green Chilli Chicken,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,14
+Cafe 360 Degree,Spicy Chicken wings,,210,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,15
+Cafe 360 Degree,Chicken Pakora,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,16
+Cafe 360 Degree,Spicy Panner Frankie,,120,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Frankie,,0,,10,1
+Cafe 360 Degree,Spicy Mushroom Frankie,,120,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Frankie,,0,,10,2
+Cafe 360 Degree,Mixed Spicy Veg  Frankie,,140,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Frankie,,0,,10,3
+Cafe 360 Degree,Creamy Egg Frankie,,110,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Frankie,,0,,10,4
+Cafe 360 Degree,Spicy Chicken Frankie,,130,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Frankie,,0,,10,5
+Cafe 360 Degree,Spicy Club Frankie,,140,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Frankie,,0,,11,6
+Cafe 360 Degree,Veg pasta White Sauce,,200,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,VegPasta,,0,,11,1
+Cafe 360 Degree,Mushroom Pasta White Sauce,,210,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,VegPasta,,0,,11,2
+Cafe 360 Degree,Mixed Veg Pasta White Sauce,,220,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,VegPasta,,0,,11,3
+Cafe 360 Degree,Mexican Veg Pasta Red Sauce,,200,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,VegPasta,,0,,11,4
+Cafe 360 Degree,Mexican Mushroom Pasta  Red Sauce,,210,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,VegPasta,,0,,11,5
+Cafe 360 Degree,Mexican Mixed Veg Pasta Red Sauce,,220,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,VegPasta,,0,,12,6
+Cafe 360 Degree,Chicken Pasta  White Sauce,,220,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Pasta,,0,,12,7
+Cafe 360 Degree,Chicken Cheese Pasta  White Sauce,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Pasta,,0,,12,8
+Cafe 360 Degree,Mexican Chicken Pasta Red Sauce,,230,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Pasta,,0,,12,9
+Cafe 360 Degree,Mexican Chicken cheese Pasta Red Sauce,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Pasta,,0,,12,10
+Cafe 360 Degree,Cold Coffee,,160,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,1
+Cafe 360 Degree,Vanilla,,150,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,2
+Cafe 360 Degree,Chocolate,,150,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,3
+Cafe 360 Degree,Strawberry,,150,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,4
+Cafe 360 Degree,Butter Scotch,,150,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,5
+Cafe 360 Degree,Pineapple,,150,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,6
+Cafe 360 Degree,Oreo,,160,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,7
+Cafe 360 Degree,Brownie,,160,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,8
+Cafe 360 Degree,Swiss Chocolate,,160,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,9
+Cafe 360 Degree,Jackfruit,,160,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,10
+Cafe 360 Degree,Pulpy Mango,,160,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,11
+Cafe 360 Degree,Mango,,160,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shake,,0,,13,12
+Cafe 360 Degree,Hydrabadi Chicken Biriyani,,220,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,1,,13,12

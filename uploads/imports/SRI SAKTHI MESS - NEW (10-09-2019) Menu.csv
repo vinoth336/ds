@@ -1,0 +1,201 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SRI SAKTHI MESS,Kal Dosai,,45,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,1,1
+SRI SAKTHI MESS,Wheat Dosai,,45,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,2,1
+SRI SAKTHI MESS,Podi Dosai,,50,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,3,1
+SRI SAKTHI MESS,Egg Kal Dosai,,55,,,,5,Non Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,1
+SRI SAKTHI MESS,Egg Bun Dosai,,65,,,,5,Non Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,5,1
+SRI SAKTHI MESS,Ghee Kal Dosai,,60,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,6,1
+SRI SAKTHI MESS,Nattukozhi Chicken Kari Dosai,,160,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,7,1
+SRI SAKTHI MESS,Roast,,65,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,8,1
+SRI SAKTHI MESS,Onion Roast,,80,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,9,1
+SRI SAKTHI MESS,Onion Ghee Roast,,90,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,10,1
+SRI SAKTHI MESS,Small Onion Ghee Roast,,90,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,11,1
+SRI SAKTHI MESS,Mushroom Masala Roast,,110,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,12,1
+SRI SAKTHI MESS,Panner Masala Roast,,125,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,13,1
+SRI SAKTHI MESS,Ghee Roast,,75,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,14,1
+SRI SAKTHI MESS,Podi Roast,,75,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,15,1
+SRI SAKTHI MESS,Ghee Podi Roast,,85,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,16,1
+SRI SAKTHI MESS,Rava Roast,,70,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,17,1
+SRI SAKTHI MESS,Ghee Podi Rava Roast,,90,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,18,1
+SRI SAKTHI MESS,Egg Roast,,75,,,,5,Non Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,19,1
+SRI SAKTHI MESS, Masala Roast,,80,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,20,1
+SRI SAKTHI MESS,Garlic Masala Roast,,80,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,21,1
+SRI SAKTHI MESS,Small Onion Roast,,85,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,22,1
+SRI SAKTHI MESS,Gobi Masala Roast,,100,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,23,1
+SRI SAKTHI MESS,Omlette Roast,,85,,,,5,Non Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,24,1
+SRI SAKTHI MESS,Small Onion Omelette Roast,,90,,,,5,Non Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,25,1
+SRI SAKTHI MESS,Mutton Kari Dosai,,160,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,26,1
+SRI SAKTHI MESS,Uthappam,,50,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,27,1
+SRI SAKTHI MESS,Onion Uthappam,,70,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,1,2
+SRI SAKTHI MESS,Garlic Uthappam,,70,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,2,2
+SRI SAKTHI MESS,Tomato Uthappam,,75,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,3,2
+SRI SAKTHI MESS,Ghee Podi Rava Roast,,90,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,4,2
+SRI SAKTHI MESS,Podi Uthappam,,60,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,2
+SRI SAKTHI MESS,Small Onion Uthappam,,75,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,6,2
+SRI SAKTHI MESS,Onion Ghee Uthappam,,85,,,,5,Non Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,7,2
+SRI SAKTHI MESS,Ghee Rava Roasst,,85,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,8,2
+SRI SAKTHI MESS,Onion Rava Roast,,85,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,1,3
+SRI SAKTHI MESS,Veg Meals(Pracel),,115,,,,5,Veg,,,,,12:30PM,3:30AM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,4
+SRI SAKTHI MESS,Non Veg Meals(Pracel),,140,,,,5,Non Veg,,,,,12:30PM,3:30AM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,2,2
+SRI SAKTHI MESS,Special Curd Rice,,60,,,,5,Veg,,,,,12:30PM,3:30AM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,3
+SRI SAKTHI MESS,Variety Rice,,60,,,,5,Veg,,,,,12:30PM,3:30AM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,4
+SRI SAKTHI MESS,Veg Fried Rice,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,4
+SRI SAKTHI MESS,Mushroom Fried Rice,,125,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,2,4
+SRI SAKTHI MESS,Schezwan Mixed Veg Rice,,135,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,4
+SRI SAKTHI MESS,Schezwan Veg Fried Rice,,125,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,4
+SRI SAKTHI MESS,Gobi Fried Rice,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,5,4
+SRI SAKTHI MESS,Schezwan Gobi Fried Rice,,125,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,4
+SRI SAKTHI MESS,Mixed Veg Fried Rice,,125,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,4
+SRI SAKTHI MESS,Paneer Fried Rice,,130,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,8,4
+SRI SAKTHI MESS,Chicken Fried Rice,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,9,4
+SRI SAKTHI MESS,Schezwan Chicken Fried Rice,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,4
+SRI SAKTHI MESS,Egg Fried Rice,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,11,4
+SRI SAKTHI MESS,Veg Noodles,,100,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,5
+SRI SAKTHI MESS, Schezwan Mushroom Noodles,,140,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,5
+SRI SAKTHI MESS,Mushroom Noodles,,125,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,3,5
+SRI SAKTHI MESS,Gobi Noodles,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,5
+SRI SAKTHI MESS,Schezwan Gobi Noodles,,125,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,5
+SRI SAKTHI MESS,Mixed Veg Noodles,,125,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,5
+SRI SAKTHI MESS,Paneer Noodles,,130,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,5
+SRI SAKTHI MESS,Schezwan Mixed Veg Noodles,,140,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,5
+SRI SAKTHI MESS,Schezwan Paneer Noodles,,145,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,9,5
+SRI SAKTHI MESS,Schezwan Noodles,,125,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,5
+SRI SAKTHI MESS,Egg Noodles,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,5
+SRI SAKTHI MESS,Chicken Noodles,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,12,5
+SRI SAKTHI MESS,Schezwan Chicken Noodles,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,5
+SRI SAKTHI MESS,Gobi Manchurian,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,VegStarters,,0,,1,6
+SRI SAKTHI MESS,Gobi 65,,85,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,VegStarters,,0,,2,6
+SRI SAKTHI MESS,Gobi Pepper fry,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,VegStarters,,0,,3,6
+SRI SAKTHI MESS,Mushroom 65,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,VegStarters,,0,,4,6
+SRI SAKTHI MESS,Mushroom Manchurian,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,VegStarters,,0,,5,6
+SRI SAKTHI MESS,Mushroom Pepper Fry,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,VegStarters,,0,,6,6
+SRI SAKTHI MESS,Paneer Manchurian,,140,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,VegStarters,,0,,7,6
+SRI SAKTHI MESS,Paneer 65,,130,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,VegStarters,,0,,8,6
+SRI SAKTHI MESS,Chicken Manchurian,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,1,7
+SRI SAKTHI MESS,Chicken Chinthamani,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,2,7
+SRI SAKTHI MESS,Pepper Chicken ,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,3,7
+SRI SAKTHI MESS,Ginger Chicken ,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,4,7
+SRI SAKTHI MESS,Garlic Chicken ,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,5,7
+SRI SAKTHI MESS,Coconut Chicken ,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,1,8
+SRI SAKTHI MESS,Nethili Fish,,115,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,2,8
+SRI SAKTHI MESS,Fish Chilly 65,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,3,8
+SRI SAKTHI MESS,Vanjiram Fish Roast,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,4,8
+SRI SAKTHI MESS,Chicken 65 (Boneless),,135,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,1,8
+SRI SAKTHI MESS,Chettinad Chicken,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,2,8
+SRI SAKTHI MESS,Chicken Lollypop,,135,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,3,8
+SRI SAKTHI MESS,Egg 65,,75,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,4,8
+SRI SAKTHI MESS,Nattukozhi Dry,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,5,8
+SRI SAKTHI MESS,Nattukozhi Masala,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,6,8
+SRI SAKTHI MESS,Nattukozhi Pallipalayam,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,7,8
+SRI SAKTHI MESS,Mutton Varuval,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,8,8
+SRI SAKTHI MESS,Nattukozhi Varuval ,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,9,8
+SRI SAKTHI MESS,Nattukozhi Varuval Fry,,210,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,9,8
+SRI SAKTHI MESS,Mutton Varuval Fry,,210,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,10,8
+SRI SAKTHI MESS,Mutton Masala,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,1,9
+SRI SAKTHI MESS,Kudal Fry,,180,,,,5,Non Veg,11:00AM,11:00PM,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,2,9
+SRI SAKTHI MESS,Nattukozhi Egg Fry,,220,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,3,9
+SRI SAKTHI MESS,Mutton Egg Fry,,220,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,4,9
+SRI SAKTHI MESS,Kudal Egg Fry,,190,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,5,9
+SRI SAKTHI MESS,Chicken Monika,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,6,9
+SRI SAKTHI MESS,Guntur Chicken,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,7,1,,NonVegStarters,,0,,7,9
+SRI SAKTHI MESS,Chicken Maharani,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,8,9
+SRI SAKTHI MESS,Kerala Chicken,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,9,9
+SRI SAKTHI MESS,Bhavani Chicken,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,10,9
+SRI SAKTHI MESS,Chicken Pallipalayam,,170,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NonVegStarters,,0,,11,9
+SRI SAKTHI MESS,Paneer Butter Masala,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,12,9
+SRI SAKTHI MESS,Gobi Masala,,130,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,13,9
+SRI SAKTHI MESS,Mushroom Masala,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,14,9
+SRI SAKTHI MESS,Kudal Curry,,170,,,,5,Non Veg,,,07:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,15,9
+SRI SAKTHI MESS,Nattukozhi Chicken Chukka,,190,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,16,9
+SRI SAKTHI MESS,NattukozhiChicken Masala,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,17,9
+SRI SAKTHI MESS,Mutton Chukka,,190,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,18,9
+SRI SAKTHI MESS,Nattukozhi Chindhamani,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,20,9
+SRI SAKTHI MESS,Chettinad Chicken Masala,,180,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,21,9
+SRI SAKTHI MESS,Kadai Chicken Masala,,180,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,22,9
+SRI SAKTHI MESS,Pepper Chicken Masala,,180,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,23,9
+SRI SAKTHI MESS,Butter Chicken Masala,,180,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,24,9
+SRI SAKTHI MESS,Egg Masala,,130,,,,5,Non Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,26,9
+SRI SAKTHI MESS,Idly Kothu,,80,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,10
+SRI SAKTHI MESS,Idly Upuma,,80,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,10
+SRI SAKTHI MESS,Chapathi Veg Kothu,,95,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,10
+SRI SAKTHI MESS,Chapathi Egg Kothu,,110,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,10
+SRI SAKTHI MESS,Chapathi Kudal Kothu,,170,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,10
+SRI SAKTHI MESS,Chapathi Chicken Kothu,,180,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,10
+SRI SAKTHI MESS,Chapathi Mutton Kothu,,160,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,7,10
+SRI SAKTHI MESS,Kudal Kothu Parotta,,170,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,10
+SRI SAKTHI MESS,Mutton Kothu Parotta,,180,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,10
+SRI SAKTHI MESS,Chicken Kothu Parotta,,170,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,10
+SRI SAKTHI MESS,Idly (2 Pcs),,30,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,11,10
+SRI SAKTHI MESS,Vadai (1 Nos),,15,,,,5,Veg,,,07:30AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,12,10
+SRI SAKTHI MESS,Poori (2 Pcs),,50,,,,5,Veg,,,07:30AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,13,10
+SRI SAKTHI MESS,Pongal ,,50,,,,5,Veg,,,07:30AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,14,10
+SRI SAKTHI MESS,Sambar Idly,,45,,,,5,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,15,10
+SRI SAKTHI MESS,Chilly Idly,,80,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,16,10
+SRI SAKTHI MESS,Pepper Idly,,80,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,17,10
+SRI SAKTHI MESS,Pepper Chilly Idly,,75,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,18,10
+SRI SAKTHI MESS,Manchurian Idly,,100,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,19,10
+SRI SAKTHI MESS,Idiyappam (2 pcs),,40,,,,5,Veg,,,07:30AM,10:30AM,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,20,10
+SRI SAKTHI MESS,Chapathi (2 Nos),,70,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,21,10
+SRI SAKTHI MESS,Mushroom Briyani,,80,,,,5,Veg,12:00PM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,11
+SRI SAKTHI MESS,Empty Briyani,,140,,,,5,Veg,12:00PM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,11
+SRI SAKTHI MESS,Chicken Briyani,,200,,,,5,Non Veg,12:00PM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,3,11
+SRI SAKTHI MESS,Egg Briyani,,150,,,,5,Non Veg,12:00PM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,4,11
+SRI SAKTHI MESS,Mutton Briyani (Sunday),,210,,,,5,Non Veg,12:00PM,03:00PM,,,,,,,7,1,,Tiffen Items,,0,,5,11
+SRI SAKTHI MESS,Parotta (2 Pcs),,50,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,12
+SRI SAKTHI MESS,Wheat Parotta (2 Pcs),,60,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,12
+SRI SAKTHI MESS,Veechu Parotta (2Pcs),,60,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,12
+SRI SAKTHI MESS,Chilly Parotta,,100,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,12
+SRI SAKTHI MESS,Bun Parotta (2 Pcs),,70,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,12
+SRI SAKTHI MESS,Veg Kothu Parotta,,90,,,,5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,12
+SRI SAKTHI MESS,Egg Kothu Parotta,,90,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,7,12
+SRI SAKTHI MESS,Egg Veechu Parotta,,45,,,,5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,12
+SRI SAKTHI MESS,Egg Lappa,,85,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,12
+SRI SAKTHI MESS,Omlette,,25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,1,13
+SRI SAKTHI MESS,Full Boil,,20,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,2,13
+SRI SAKTHI MESS,Kalaki,,20,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,3,13
+SRI SAKTHI MESS,Onion Kalaki,,25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,4,13
+SRI SAKTHI MESS,Kuzhambu Kalaki,,25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,5,13
+SRI SAKTHI MESS,Onion Kuzhambu Kalaki,,30,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,6,13
+SRI SAKTHI MESS,Small Onion Omlette,,30,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,7,13
+SRI SAKTHI MESS,Egg Poriyal,,30,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,13
+SRI SAKTHI MESS,Small Onion Egg Porial,,30,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,9,13
+SRI SAKTHI MESS,Boiled Egg,,15,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,10,13
+SRI SAKTHI MESS,Jalebi 250 Gms,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,1,14
+SRI SAKTHI MESS,Laddu 250 Gms,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,2,14
+SRI SAKTHI MESS,Mysore Pak 250 Gms,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,3,14
+SRI SAKTHI MESS,Badusha 250 Gms,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,4,14
+SRI SAKTHI MESS,Suryakala 250 Gms,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,5,14
+SRI SAKTHI MESS,Chandrakala 250 Gms,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,6,14
+SRI SAKTHI MESS,Bombay Halwa 250 Gms,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,7,14
+SRI SAKTHI MESS,Sweet Boondi 250 Gms,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,8,14
+SRI SAKTHI MESS,Spl Lattu 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,9,14
+SRI SAKTHI MESS,Milk Peda 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,10,14
+SRI SAKTHI MESS,Kala Kanth Burfi 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,11,14
+SRI SAKTHI MESS,Milk Apple 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,12,14
+SRI SAKTHI MESS,Paul Gova 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,13,14
+SRI SAKTHI MESS,Carrot Halwa 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,14,14
+SRI SAKTHI MESS,Ajmer Cake 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,15,14
+SRI SAKTHI MESS,Cashew Cake 250 Gms,,160,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,16,14
+SRI SAKTHI MESS,Bista Roll 250 Gms,,160,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,17,14
+SRI SAKTHI MESS,Karupatti Halwa 250 Gms,,120,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,18,14
+SRI SAKTHI MESS,Karupatti Mysore Pak 250 Gms,,120,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,19,14
+SRI SAKTHI MESS,Ghee Mysore Pak 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,20,14
+SRI SAKTHI MESS,Dates Mysore Pak 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,21,14
+SRI SAKTHI MESS,Special Laddu 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,22,14
+SRI SAKTHI MESS,Horlicks Burfi 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,23,14
+SRI SAKTHI MESS,Boost Burfi 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,24,14
+SRI SAKTHI MESS,Milk Burfi 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,25,14
+SRI SAKTHI MESS,Bista Burfi 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,26,14
+SRI SAKTHI MESS,Badam Burfi 250 Gms,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,27,14
+SRI SAKTHI MESS,Special Mixture 250 Gms,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,28,14
+SRI SAKTHI MESS,Mixture 250 Gms,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,29,14
+SRI SAKTHI MESS,Kara Boondi 250 Gms,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,30,14
+SRI SAKTHI MESS,Milagu Sevu 250 Gms,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,31,14
+SRI SAKTHI MESS,Ottu Pakkoda 250 Gms,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,32,14
+SRI SAKTHI MESS,Thattai 250 Gms,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,33,14
+SRI SAKTHI MESS,Andhra Murukku 250 Gms,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,34,14
+SRI SAKTHI MESS,Ellu Murukku 250 Gms,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,35,14
+SRI SAKTHI MESS,Pakoda 250 Gms,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,36,14
+SRI SAKTHI MESS,Vanilla Butter Cream Cake 1 Kg,,350,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,37,14
+SRI SAKTHI MESS,Chocolate Butter Cream Cake 1 Kg,,390,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,38,14
+SRI SAKTHI MESS,Honey Cake 1 Kg,,390,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Sweets, Snacks & Chaats",,0,,39,14

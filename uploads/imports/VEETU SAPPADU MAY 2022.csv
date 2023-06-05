@@ -1,0 +1,56 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+VEETTU SAPADU MESS,Idly 2 Pcs,,25,,,,3,veg,,,8:00AM,9:30AM,,,,,"1,2,3,4,5,6,7",1,,Idly,,0,,1,1
+VEETTU SAPADU MESS,Idly Fry,,80,,,,3,veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly,,0,,1,2
+VEETTU SAPADU MESS,Podi Idly,,80,,,,3,veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly,,0,,1,3
+VEETTU SAPADU MESS,Idiyappam,,60,,,,3,veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idiyappam,,0,,2,1
+VEETTU SAPADU MESS,Idiyappam Fry,,80,,,,3,veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idiyappam,,0,,2,2
+VEETTU SAPADU MESS,Idiyappam Egg Fry,,90,,,,3,Non Veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idiyappam,,0,,2,3
+VEETTU SAPADU MESS,Idiyappam with Coconut Milk,,60,,,,5,veg,,,8:00AM,9:30AM,,,,,"1,2,3,4,5,6,7",1,,Idiyappam,,0,,2,4
+VEETTU SAPADU MESS,Poori 2 Pcs,,60,,,,5,veg,,,8:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,3,1
+VEETTU SAPADU MESS,Wheat Upuma,,60,,,,5,veg,,,8:00AM,10:30AM,,,,,3,1,,Tiffin Items,,0,,3,2
+VEETTU SAPADU MESS,Rava Kichadi,,60,,,,5,veg,,,8:00AM,10:30AM,,,,,"1,4",1,,Tiffin Items,,0,,3,3
+VEETTU SAPADU MESS,Venpongal,,60,,,,5,veg,,,8:00AM,10:30AM,,,,,"2,5",1,,Tiffin Items,,0,,3,4
+VEETTU SAPADU MESS,Semiya Kichadi,,60,,,,5,veg,,,8:00AM,10:30AM,,,,,6,1,,Tiffin Items,,0,,3,5
+VEETTU SAPADU MESS,Parotta 2 Pcs with Veg Kuruma,,35,,,,5,veg,8:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,1
+VEETTU SAPADU MESS,Parotta 2 Pcs with Chicken Kulambu,,45,,,,5,Non Veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,2
+VEETTU SAPADU MESS,Veechu Parotta,,30,,,,5,veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,3
+VEETTU SAPADU MESS,Veg Kothu Parotta,,80,,,,5,veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,4
+VEETTU SAPADU MESS,Egg Lappa,,90,,,,5,Non Veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,5
+VEETTU SAPADU MESS,Egg Veechu Parotta,,50,,,,5,Non Veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,6
+VEETTU SAPADU MESS,Egg Kothu Parotta,,100,,,,5,Non Veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,7
+VEETTU SAPADU MESS,Plain Dosa,,30,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,1
+VEETTU SAPADU MESS,Adai Dosa,,40,,,,5,veg,,,8:00AM,10:30AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,2
+VEETTU SAPADU MESS,Podi Dosa,,60,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,3
+VEETTU SAPADU MESS,Egg Dosai,,60,,,,5,Non Veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,4
+VEETTU SAPADU MESS,Podi Vattam,,60,,,,5,veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,5
+VEETTU SAPADU MESS,Garlic Dosa,,70,,,,5,veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,6
+VEETTU SAPADU MESS,Wheat Dosa,,40,,,,5,veg,,,,,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,7
+VEETTU SAPADU MESS,Kaldosa 2 Pcs,,60,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,8
+VEETTU SAPADU MESS,Podi Uthappam,,75,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,6,1
+VEETTU SAPADU MESS,Onion Uthappam,,80,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,6,2
+VEETTU SAPADU MESS,Roast,,55,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast,,0,,7,2
+VEETTU SAPADU MESS,Rava Roast,,80,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast,,0,,7,3
+VEETTU SAPADU MESS,Ghee Roast,,80,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast,,0,,7,5
+VEETTU SAPADU MESS,Podi Roast,,75,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast,,0,,7,1
+VEETTU SAPADU MESS,Onion Roast,,80,,,,5,veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast,,0,,7,4
+VEETTU SAPADU MESS,Egg Roast,,80,,,,5,Non Veg,,,8:00AM,11:00AM,,,7:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast,,0,,7,6
+VEETTU SAPADU MESS,Chappathi 2 Pcs,,50,,,,5,veg,8:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chappathi,,0,,8,1
+VEETTU SAPADU MESS,Chappathi 2 Pcs Chicken Kulambu,,60,,,,5,Non Veg,,,,,12:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Chappathi,,0,,8,2
+VEETTU SAPADU MESS,Chappathi Veg Kothu,,80,,,,5,veg,,,,,12:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Chappathi,,0,,8,3
+VEETTU SAPADU MESS,Chappathi Egg Kothu,,100,,,,5,Non Veg,,,,,12:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Chappathi,,0,,8,4
+VEETTU SAPADU MESS,Egg Chappathi,,50,,,,5,Non Veg,,,,,12:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Chappathi,,0,,8,5
+VEETTU SAPADU MESS,Veg Meals,,115,,,,10,veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,9,1
+VEETTU SAPADU MESS,Non-Veg Meals,,140,,,,10,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,9,2
+VEETTU SAPADU MESS,Tomato Rice,,60,,,,5,veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,9,3
+VEETTU SAPADU MESS,Curd Rice,,60,,,,5,veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,9,4
+VEETTU SAPADU MESS,Sambar Rice,,60,,,,5,veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,9,5
+VEETTU SAPADU MESS,Rasam Rice,,60,,,,5,veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,9,6
+VEETTU SAPADU MESS,Chicken Biriyani,,120,,,,5,Non Veg,,,,,12:00PM,04:00PM,,,"3,7",1,,Biriyani,,0,,10,1
+VEETTU SAPADU MESS,Mushroom Biriyani,,120,,,,5,veg,,,,,12:00PM,04:00PM,,,"1,2,4,5,6",1,,Biriyani,,0,,10,2
+VEETTU SAPADU MESS,Mushroom Chilli,,100,,,,10,veg,,,,,12:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,11,1
+VEETTU SAPADU MESS,Nattukozhi Varuval,,230,,,,10,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,11,1
+VEETTU SAPADU MESS,Mutton Varuval,,300,,,,10,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,11,1
+VEETTU SAPADU MESS,Fried Fish,,100,,,,5,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,11,1
+VEETTU SAPADU MESS,Nattukozhi Milagu Kari,,250,,,,10,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,11,1
+VEETTU SAPADU MESS,Mutton Chukka,,320,,,,10,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,11,1
+VEETTU SAPADU MESS,Chilli Chicken,,100,,,,5,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,11,1

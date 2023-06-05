@@ -1,0 +1,24 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,max_packaging_charge,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+CHUNKS OF HEAVEN,Chocolate Cake 1/2  Kg,Order Before 6 Hrs,450,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,1
+CHUNKS OF HEAVEN,Chocolate Truffle Cake 1/2  Kg,Order Before 6 Hrs,550,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,4
+CHUNKS OF HEAVEN,Chocolate Glaze 1/2  Kg,Order Before 6 Hrs,550,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,5
+CHUNKS OF HEAVEN,Chocolate Over Loaded 1/2  Kg,Order Before 6 Hrs,625,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,7
+CHUNKS OF HEAVEN,Butter Scotch Cake 1/2 Kg,Order Before 6 Hrs,450,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,2
+CHUNKS OF HEAVEN,Vanila Cake 1/2 Kg,Order Before 6 Hrs,450,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Blueberry Cake 1/2 Kg,Order Before 6 Hrs,550,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Strawberry Cake 1/2 Kg,Order Before 6 Hrs,550,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Pinata with Chocolate Cake 1/2 Kg,Order Before 6 Hrs,750,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Pinata with Vanila Cake 1/2 Kg,Order Before 6 Hrs,750,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Less Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Chocolate Cup Cake 6 Pcs,Order Before 6 Hrs,300,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cup Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Vanilla Cup Cake 6 Pcs,Order Before 6 Hrs,300,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cup Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Butter Scotch Cup Cake 6 Pcs,Order Before 6 Hrs,300,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cup Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Muffins Cup Cake 6 Pcs,Order Before 6 Hrs,480,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cup Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Rasamalai Cake 1/2 Kg,Order Before 6 Hrs,625,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dessert Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Gulab Jamun Cake 1/2 Kg,Order Before 6 Hrs,625,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dessert Cakes,,0,,2,6
+CHUNKS OF HEAVEN,Plain Chocolates 5 Pcs,Order Before 2 Hrs,70,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolates,,0,,2,6
+CHUNKS OF HEAVEN,Chocolate with Crunchies 5 Pcs,"(Rice Crisp, Wafers, Biscuits) Order Before 2 Hrs",100,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolates,,0,,2,6
+CHUNKS OF HEAVEN,Chocolate with Dry Fruits and Nuts 5 Pcs,Order Before 2 Hrs,150,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolates,,0,,2,6
+CHUNKS OF HEAVEN,Pinata with Mixed Homemade Chocolates 1/2 Kg,Order Before 2 Hrs,600,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolates,,0,,2,6
+CHUNKS OF HEAVEN,Dark Chocolate Bar 1 Pc,Order Before 2 Hrs,200,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bar Chocolates,,0,,2,6
+CHUNKS OF HEAVEN,White Chocolate Bar 1 Pc,Order Before 2 Hrs,250,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bar Chocolates,,0,,2,6
+CHUNKS OF HEAVEN,Milk Chocolate Bar 1 Pc,Order Before 2 Hrs,175,,,,0,Veg,,08:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bar Chocolates,,0,,2,6

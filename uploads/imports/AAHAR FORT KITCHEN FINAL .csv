@@ -1,0 +1,156 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+AAHAR FORT KITCHEN,Veg Clear Soup,,52.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+AAHAR FORT KITCHEN,Tomato Soup,,63,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+AAHAR FORT KITCHEN,Cream Of Mushroom Soup,,63,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+AAHAR FORT KITCHEN,Veg Manchow Soup,,63,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+AAHAR FORT KITCHEN,Hot & Sour Veg Soup,,63,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+AAHAR FORT KITCHEN,Chicken Clear Soups,,63,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+AAHAR FORT KITCHEN,Sweet Corn Chicken Soup,,73.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+AAHAR FORT KITCHEN,Chicken Manchow Soup,,73.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+AAHAR FORT KITCHEN,Hot & Sour Chicken Soup,,73.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,9
+AAHAR FORT KITCHEN,Sweet Potato Cashew Cutlet,Sweet Potato And Cashew Binned And Flavoured With Aromatic Spices,94.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+AAHAR FORT KITCHEN,Sweet Corn Peppernota Cutlet,Bread Of Corn And Pepper With Cinnamon Flavours And Aromatic Spices,94.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+AAHAR FORT KITCHEN,Thai Chilli Basill Paneer,Asian Spices Flavoured Cottage Cheese,120.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+AAHAR FORT KITCHEN,Tandoori Broccoli Cheese Kebab,Broccoli And Cheese Flavoured Smokey Kebab,131.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+AAHAR FORT KITCHEN,Paneer 65,,115.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+AAHAR FORT KITCHEN,Gobi 65,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+AAHAR FORT KITCHEN,Spicy Potato Wedges,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,7
+AAHAR FORT KITCHEN,Tandoori Paneer Tikka,,131.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+AAHAR FORT KITCHEN,Chicken Shwarma Roll,Smoky Chicken Wrapped And Served With Garlic Mayo,136.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,9
+AAHAR FORT KITCHEN,Egg Bhurji,Egg Cooked With Onion Tomato And Chilli With Spices,47.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,10
+AAHAR FORT KITCHEN,Tandoori Chicken (Full),,393.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,11
+AAHAR FORT KITCHEN,Tandoori Chicken (Half),,204.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,12
+AAHAR FORT KITCHEN,Chicken Tikka (Boneless),Smokey Flacoured Chicken With Tandoori Spices,178.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,13
+AAHAR FORT KITCHEN,Chicken 65 (Boneless),,157.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,14
+AAHAR FORT KITCHEN,River Pomfret Fish Fry,Spicey Masala Fried Fish,131.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,15
+AAHAR FORT KITCHEN,Vanjram Meen Tawa Fry,Southern Spices And Curry Leaves Flavoured King Fish Slices,225.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,16
+AAHAR FORT KITCHEN,Nethilli Meen Varuval,Anchovy Fried Fish,152.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,17
+AAHAR FORT KITCHEN,Chicken Lollypop,Aromatic Spices Flavoured Chicken Wings,152.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,18
+AAHAR FORT KITCHEN,Chicken Joojeh Kebab (Boneless),Aromatic Spices Flavoured Kebab,168,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,19
+AAHAR FORT KITCHEN,Nattukozhi Varuval,Spicy Deep Fried Country Chicken,173.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,20
+AAHAR FORT KITCHEN,Butterfly Prawns,Breaded Prawns Deep Fried Served With Fries,210,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,21
+AAHAR FORT KITCHEN,Cajun Spiced Prawns,Smoky Prawns Flavoured With Mixed Herbs And Spices,210,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,22
+AAHAR FORT KITCHEN,Aahar Mix Platter,"Chicken Tikka, Joojek Kebab, Tandoori Chicken Breast, Fish Tikka, Tandoori Cheese Broccoli",483,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,23
+AAHAR FORT KITCHEN,Plain Rice,,36.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,1
+AAHAR FORT KITCHEN,Curd Rice,,73.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,2
+AAHAR FORT KITCHEN,Lemon Rice,,78.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,3
+AAHAR FORT KITCHEN,Jeera Rice,,78.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,4
+AAHAR FORT KITCHEN,Ghee Rice,,78.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,5
+AAHAR FORT KITCHEN,Veg Pulao,,78.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,6
+AAHAR FORT KITCHEN,Vegetable Briyani,,115.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,7
+AAHAR FORT KITCHEN,Mushroom Briyani,,115.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,8
+AAHAR FORT KITCHEN,Egg Briyani,,126,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,9
+AAHAR FORT KITCHEN,Chicken Briyani,,173.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,10
+AAHAR FORT KITCHEN,Chicken Tikka Briyani (Boneless),,199.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,11
+AAHAR FORT KITCHEN,Mutton Briyani,,220.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,12
+AAHAR FORT KITCHEN,Prawn Briyani,,220.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,13
+AAHAR FORT KITCHEN,South Indian Veg Meals,"Rice, Chappathi, Sambar, Rasam, Kara Kuzhambu, Curd, Veg Korma, Kottu, Poriyal, Etc",94.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,14
+AAHAR FORT KITCHEN,South Indian Chicken Meals,"Rice, Chappathi, Sambar, Rasam, Kara Kuzhambu, Curd, Chicken Korma, Kottu, Poriyal, Etc",126,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,15
+AAHAR FORT KITCHEN,Chapathi,,15.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,1
+AAHAR FORT KITCHEN,Tawa Paratha,,21,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,2
+AAHAR FORT KITCHEN,Veechu Paratha,,26.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,3
+AAHAR FORT KITCHEN,Tawa Wheat Paratha,,26.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,4
+AAHAR FORT KITCHEN,Plain Tandoori Paratha,,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,5
+AAHAR FORT KITCHEN,Methi Tandoori Paratha,,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,6
+AAHAR FORT KITCHEN,Pudina Tandoori Paratha,,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,7
+AAHAR FORT KITCHEN,Naan,,31.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,8
+AAHAR FORT KITCHEN,Garlic Naan,,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,9
+AAHAR FORT KITCHEN,Butter Naan,,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,10
+AAHAR FORT KITCHEN,Cheese Naan,,52.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,11
+AAHAR FORT KITCHEN,Roti,,26.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,12
+AAHAR FORT KITCHEN,Butter Roti,,36.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,13
+AAHAR FORT KITCHEN,Aloo Paratha,Served With Curd & Pickles,52.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,14
+AAHAR FORT KITCHEN,Kulcha,,36.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,15
+AAHAR FORT KITCHEN,Masala Kulcha,,47.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,16
+AAHAR FORT KITCHEN,Stuffed Chicken Naan,,57.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,17
+AAHAR FORT KITCHEN,Stuffed Mutton Naan,,63,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,18
+AAHAR FORT KITCHEN,Veg Noodles,,94.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,5,1
+AAHAR FORT KITCHEN,Egg Noodles,,99.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,2
+AAHAR FORT KITCHEN,Chicken Noodles,,131.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,3
+AAHAR FORT KITCHEN,Mix Noodles,"Egg, Chicken, Prawns",157.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,4
+AAHAR FORT KITCHEN,Veg Schezwan Noodles,,99.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,5
+AAHAR FORT KITCHEN,Chicken Schezwan Noodles,,131.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,6
+AAHAR FORT KITCHEN,Veg Fried Rice,,94.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,1
+AAHAR FORT KITCHEN,Mushroom Fried Rice,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,2
+AAHAR FORT KITCHEN,Egg Fried Rice,,105,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,3
+AAHAR FORT KITCHEN,Chicken Fried Rice,,126,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,4
+AAHAR FORT KITCHEN,Prawns Fried Rice,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,5
+AAHAR FORT KITCHEN,Mixed Fried Rice,"Egg, Chicken, Prawns",157.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,6
+AAHAR FORT KITCHEN,Veg Schezwan Fried Rice,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,7
+AAHAR FORT KITCHEN,Chicken Schezwan Fried Rice,,131.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,8
+AAHAR FORT KITCHEN,Prawns Schezwan Fried Rice,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,9
+AAHAR FORT KITCHEN,Veg Manchurian Gravy,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,1
+AAHAR FORT KITCHEN,Gobi Manchurian Gravy,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,2
+AAHAR FORT KITCHEN,Mushroom Manchurian Gravy,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,3
+AAHAR FORT KITCHEN,Paneer Manchurian Gravy,,131.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,4
+AAHAR FORT KITCHEN,Chilli Mushroom Gravy,,105,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,5
+AAHAR FORT KITCHEN,Chilli Paneer Gravy,,126,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,6
+AAHAR FORT KITCHEN,Chilli Egg Gravy,,105,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,7
+AAHAR FORT KITCHEN,Egg Manchurian Gravy,,115.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,8
+AAHAR FORT KITCHEN,Chicken Manchurian Gravy,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,9
+AAHAR FORT KITCHEN,Chilli Chicken Gravy,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,10
+AAHAR FORT KITCHEN,Dragon Chicken Gravy,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,11
+AAHAR FORT KITCHEN,Garlic Chicken Gravy,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,12
+AAHAR FORT KITCHEN,Chilli Prawns Gravy,,173.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy'S,,0,,7,13
+AAHAR FORT KITCHEN,Veg Manchurian Dry,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,1
+AAHAR FORT KITCHEN,Gobi Manchurian Dry,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,2
+AAHAR FORT KITCHEN,Mushroom Manchurian Dry,,99.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,3
+AAHAR FORT KITCHEN,Paneer Manchurian Dry,,131.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,4
+AAHAR FORT KITCHEN,Chilli Mushroom Dry,,105,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,5
+AAHAR FORT KITCHEN,Chilli Paneer Dry,,126,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,6
+AAHAR FORT KITCHEN,Chilli Egg Dry,,105,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,7
+AAHAR FORT KITCHEN,Egg Manchurian Dry,,115.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,8
+AAHAR FORT KITCHEN,Chicken Manchurian Dry,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,9
+AAHAR FORT KITCHEN,Chilli Chicken Dry,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,10
+AAHAR FORT KITCHEN,Dragon Chicken Dry,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,11
+AAHAR FORT KITCHEN,Garlic Chicken Dry,,141.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,12
+AAHAR FORT KITCHEN,Chilli Prawns Dry,,173.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry,,0,,8,13
+AAHAR FORT KITCHEN,Onion Salad,,21,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,9,1
+AAHAR FORT KITCHEN,Cucumber Salad,,31.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,9,2
+AAHAR FORT KITCHEN,Mixed Green Salad,,47.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,9,3
+AAHAR FORT KITCHEN,French Fries,,78.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,European Corners,,0,,9,4
+AAHAR FORT KITCHEN,Fried Fish Fingers,Served With Fries And Ketchup,131.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,European Corners,,0,,9,5
+AAHAR FORT KITCHEN,Veg Sandwich,Toasted / Grilled,73.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,European Corners,,0,,9,6
+AAHAR FORT KITCHEN,Chicken Sandwich,Toasted / Grilled,89.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,European Corners,,0,,9,7
+AAHAR FORT KITCHEN,Cheese Sandwich,,89.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,European Corners,,0,,9,8
+AAHAR FORT KITCHEN,Egg Omlette,,31.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,European Corners,,0,,9,9
+AAHAR FORT KITCHEN,Bread Omlette,,52.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,European Corners,,0,,9,10
+AAHAR FORT KITCHEN,Bread Butter,,36.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,European Corners,,0,,9,11
+AAHAR FORT KITCHEN,Dal Tadka,Yellow Tempered With Garlic And Chilli,89.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,1
+AAHAR FORT KITCHEN,Dal Fry,Yellow Tempered With Garlic And Chilli,89.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,2
+AAHAR FORT KITCHEN,Aloo Jeera,Cumin Flavoured Potatoes,89.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,3
+AAHAR FORT KITCHEN,Subzi Handi,Mixed Vegetable Cooke In Rich Cashew & Tomato Gravy,94.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,4
+AAHAR FORT KITCHEN,Mushroom Leek Piyaz,Mushroom And Onion Cooked In Rich Gravy,126,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,5
+AAHAR FORT KITCHEN,Paneer Mutter Curry,Green Pea & Paneer Cooked With Rich Gravy,126,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,6
+AAHAR FORT KITCHEN,Kadai Paneer,Mix Spices With Red Chilli Cooked Paneer,141.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,7
+AAHAR FORT KITCHEN,Aloo Gobi Masala,Potato And Cauliflower Cooked With Dry Spices,115.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,8
+AAHAR FORT KITCHEN,Kadai Vegetable,Mix Of Veg Cooked With Whole Spices And Flavoured Masala,131.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,9
+AAHAR FORT KITCHEN,Paneer Butter Masala,Rich Tomato Cashew Gravy Cooked With Paneer,131.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,10
+AAHAR FORT KITCHEN,Paneer Babycorn Kurchan,Paneer And Babycorn Cooked In Mild Spicy Gravy,131.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,11
+AAHAR FORT KITCHEN,Kathrikai Kara Kuzhambu,Tangy Falvoured Brinjal Or Ladies Finger Gravy,105,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,12
+AAHAR FORT KITCHEN,Vendakkai Kara Kuzhambu,Tangy Falvoured Brinjal Or Ladies Finger Gravy,105,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,13
+AAHAR FORT KITCHEN,Vegetable Khorma,Coconut Flavoured Mix Vegetable Curry,126,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,14
+AAHAR FORT KITCHEN,Egg Curry,Thick Gravy With Spices,131.25,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,15
+AAHAR FORT KITCHEN,Egg Masala,Thick Gravy With Spices,15.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,16
+AAHAR FORT KITCHEN,Kozhi Khorma (Chicken),Chicken With Aromatic Spices Thick Gracy,183.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,17
+AAHAR FORT KITCHEN,Chicken Pepper Fry,Chicken Cooked With Pepper And Spicy,157.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,18
+AAHAR FORT KITCHEN,Kozhi Varutharachathu (Chicken),Typical Chettinad Style Chicken Gravy,157.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,19
+AAHAR FORT KITCHEN,Nattukozhi Kozhambu,Country Chicken Cooked With Spicy Gravy,183.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,20
+AAHAR FORT KITCHEN,Celery Butter Chicken,Smoky Chicken Cooked With Rich Cashw Tomato Gravy,157.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,21
+AAHAR FORT KITCHEN,Chicken Tikka Masala,Smokey Chicken Cooked With Aromatic Spices,157.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,22
+AAHAR FORT KITCHEN,Mutton Masala,Mutton Cooked With Tomato And Spices,220.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,23
+AAHAR FORT KITCHEN,Mutton Liver Pepper Masala,Liver Cooked With Spice Gravy,204.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,24
+AAHAR FORT KITCHEN,Mutton Chukka,Dry Mutton With Spicy Spices,225.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,25
+AAHAR FORT KITCHEN,Aaterachi Kozhambu (Mutton),Mix Of Spices And Lamb Stew,225.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,26
+AAHAR FORT KITCHEN,Mutton Pepper Fry,Coconut Flavoured Lamb,225.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,27
+AAHAR FORT KITCHEN,Nethili Meen Curry,Nethili Meen Curry,157.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,28
+AAHAR FORT KITCHEN,Nellore Meen Curry,Nellore Meen Curry,157.5,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,29
+AAHAR FORT KITCHEN,Prawn Curry,Prawns Cooked With Semi Gravy With Spices,225.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,30
+AAHAR FORT KITCHEN,Prawn Chettinad,Prawns Cooked With Chettinad Spices,225.75,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Courses,,0,,10,31
+AAHAR FORT KITCHEN,Orange,,52.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,11,1
+AAHAR FORT KITCHEN,Mosambi,,52.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,11,2
+AAHAR FORT KITCHEN,Pomegranate,,52.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,11,3
+AAHAR FORT KITCHEN,Pineapple,,52.5,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,11,4
+AAHAR FORT KITCHEN,Fresh Apple Juice,,78.75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,11,5
+AAHAR FORT KITCHEN,Lassi Salt,,47.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,11,6
+AAHAR FORT KITCHEN,Lassi Sweet,,47.25,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,11,7

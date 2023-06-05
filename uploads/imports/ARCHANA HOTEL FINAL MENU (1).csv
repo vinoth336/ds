@@ -1,0 +1,186 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KARUR HOTEL ARCHANA,Tomato Soup,,53,,,,3,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+KARUR HOTEL ARCHANA,Vegetable Soup,,53,,,,3,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+KARUR HOTEL ARCHANA,Veg Clear Soup,,53,,,,3,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Soups,,0,,1,3
+KARUR HOTEL ARCHANA,Mushroom Soup,,63,,,,4,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+KARUR HOTEL ARCHANA,Sweet Corn Veg Soup,,42,,,,3,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+KARUR HOTEL ARCHANA,Hot & Soup Veg Soup,,63,,,,4,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+KARUR HOTEL ARCHANA,Veg Manchow Soup,,42,,,,3,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+KARUR HOTEL ARCHANA,Mulugu Thani Soup,,63,,,,4,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+KARUR HOTEL ARCHANA,Green Salad,,37,,,,2,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+KARUR HOTEL ARCHANA,Roasted Pappad,,32,,,,2,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+KARUR HOTEL ARCHANA,Masala Pappad,,37,,,,2,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+KARUR HOTEL ARCHANA,French Fried,,79,,,,4,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+KARUR HOTEL ARCHANA,Veg Lolly Pop,,84,,,,5,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+KARUR HOTEL ARCHANA,Pepper Mushroom,,126,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+KARUR HOTEL ARCHANA,Aloo Jeera Dry,,95,,,,5,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,7
+KARUR HOTEL ARCHANA,Panneer Finger,,110,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+KARUR HOTEL ARCHANA,Veg Spring Roll,,74,,,,4,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,9
+KARUR HOTEL ARCHANA,Mushroom Pallipalayam,,116,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,10
+KARUR HOTEL ARCHANA,Mushroom Sukka,,142,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,11
+KARUR HOTEL ARCHANA,Panneer Tikka,,152,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,12
+KARUR HOTEL ARCHANA,Panneer Sukka,,163,,,,9,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,13
+KARUR HOTEL ARCHANA,Chilly Gobi,,105,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,14
+KARUR HOTEL ARCHANA,Chilly Panner,,147,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,15
+KARUR HOTEL ARCHANA,Chilly Mushroom,,110,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,16
+KARUR HOTEL ARCHANA,Archana Gobi,,137,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,17
+KARUR HOTEL ARCHANA,Archana Panneer,,158,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,18
+KARUR HOTEL ARCHANA,Archana Mushroom,,147,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,19
+KARUR HOTEL ARCHANA,Manchurian Gobi,,105,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,20
+KARUR HOTEL ARCHANA,Manchurian Panneer,,147,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,21
+KARUR HOTEL ARCHANA,Mushroom Manchurian,,126,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,22
+KARUR HOTEL ARCHANA,Chinese Chilly Gobi,,105,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,23
+KARUR HOTEL ARCHANA,Chinese Chilly Panneer,,147,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,24
+KARUR HOTEL ARCHANA,Baby Corn Manchurian Dry,,84,,,,5,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,25
+KARUR HOTEL ARCHANA,Baby Corn Golden Fry,,116,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,26
+KARUR HOTEL ARCHANA,Veg Ball Manchurian,,89,,,,5,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,27
+KARUR HOTEL ARCHANA,Dosa,,60,,,,3,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,1
+KARUR HOTEL ARCHANA,Podi Roast,,68,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,2
+KARUR HOTEL ARCHANA,Ghee Roast,,89,,,,5,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,3
+KARUR HOTEL ARCHANA,Paper Roast,,137,,,,7,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,4
+KARUR HOTEL ARCHANA,Onion Roast,,70,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,5
+KARUR HOTEL ARCHANA,Butter Rost,,68,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,6
+KARUR HOTEL ARCHANA,Rocket Roast,,63,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,7
+KARUR HOTEL ARCHANA,Masala Roast,,70,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,8
+KARUR HOTEL ARCHANA,Ghee Masala Roast,,89,,,,5,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,9
+KARUR HOTEL ARCHANA,Butter Onion Roast,,80,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,10
+KARUR HOTEL ARCHANA,Onion Masala Roast,,74,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,11
+KARUR HOTEL ARCHANA,Veg Uthappam,,68,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,12
+KARUR HOTEL ARCHANA,Podi Uthappam,,63,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,13
+KARUR HOTEL ARCHANA,Ghee Uthappam,,63,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,14
+KARUR HOTEL ARCHANA,Onion Uthappam,,66,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,15
+KARUR HOTEL ARCHANA,Garlic Uthappam,,79,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,16
+KARUR HOTEL ARCHANA,Butter Uthappam,,63,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,17
+KARUR HOTEL ARCHANA,Tomato Uthappam,,63,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,18
+KARUR HOTEL ARCHANA,Rava Roast,,65,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,19
+KARUR HOTEL ARCHANA,Ghee Rava Roast,,81,,,,5,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,20
+KARUR HOTEL ARCHANA,Onion Rava Roast,,68,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,21
+KARUR HOTEL ARCHANA,Onion Rava Masala Roast,,75,,,,4,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,22
+KARUR HOTEL ARCHANA,Ghee Cashewnut Rava Roast,,100,,,,5,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,23
+KARUR HOTEL ARCHANA,Dry Fruits Rava Roast,,89,,,,5,Veg,,,,,,,4:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,8,24
+KARUR HOTEL ARCHANA,Chappathi,,58,,,,3,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,1
+KARUR HOTEL ARCHANA,Parotta,,26,,,,2,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,2
+KARUR HOTEL ARCHANA,Chilli Parotta,,70,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,3
+KARUR HOTEL ARCHANA,Chilli Pchappathi,,84,,,,5,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,4
+KARUR HOTEL ARCHANA,Bun Parotta,,47,,,,3,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,5
+KARUR HOTEL ARCHANA,Wheat Parotta With Chettinad Gravy,,63,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,6
+KARUR HOTEL ARCHANA,Veechu Parotta,,47,,,,3,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,7
+KARUR HOTEL ARCHANA,Veechu Onion,,58,,,,3,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,8
+KARUR HOTEL ARCHANA,Veechu Panner,,85,,,,5,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,9
+KARUR HOTEL ARCHANA,Mushroom Panneer,,68,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,10
+KARUR HOTEL ARCHANA,Coin Parotta,,63,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,11
+KARUR HOTEL ARCHANA,Veg Kheema Parotta,,63,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,12
+KARUR HOTEL ARCHANA,Panneer Parotta,,79,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,13
+KARUR HOTEL ARCHANA,Mushroom Parotta,,68,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,14
+KARUR HOTEL ARCHANA,Chettinadu Parotta,,63,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,15
+KARUR HOTEL ARCHANA,Japan Parotta,,68,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,16
+KARUR HOTEL ARCHANA,Chinese Parotta,,63,,,,4,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,17
+KARUR HOTEL ARCHANA,Navadhaniya Dosa,,79,,,,4,Veg,,,,,,,5:00PM,11:00PM,7,1,,Millet Dosa Varieties,,0,,14,1
+KARUR HOTEL ARCHANA,Kuthiri Vally Dosa,,68,,,,4,Veg,,,,,,,5:00PM,11:00PM,1,1,,Millet Dosa Varieties,,0,,14,2
+KARUR HOTEL ARCHANA,Wheat Dosa,,63,,,,4,Veg,,,,,,,5:00PM,11:00PM,2,1,,Millet Dosa Varieties,,0,,14,3
+KARUR HOTEL ARCHANA,Saamai Dosa,,68,,,,4,Veg,,,,,,,5:00PM,11:00PM,3,1,,Millet Dosa Varieties,,0,,14,4
+KARUR HOTEL ARCHANA,Thinai Dosa,,68,,,,4,Veg,,,,,,,5:00PM,11:00PM,4,1,,Millet Dosa Varieties,,0,,14,5
+KARUR HOTEL ARCHANA,Kambu Dosa,,68,,,,4,Veg,,,,,,,5:00PM,11:00PM,5,1,,Millet Dosa Varieties,,0,,14,6
+KARUR HOTEL ARCHANA,Chola Dosa,,68,,,,4,Veg,,,,,,,5:00PM,11:00PM,6,1,,Millet Dosa Varieties,,0,,14,7
+KARUR HOTEL ARCHANA,Idly,,16,,,,1,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,1
+KARUR HOTEL ARCHANA,Ghee Mini Idly,,58,,,,3,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,2
+KARUR HOTEL ARCHANA,Sambar Idly,,37,,,,2,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,3
+KARUR HOTEL ARCHANA,Pepper Idly,,58,,,,3,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,4
+KARUR HOTEL ARCHANA,Poondu Podi Idly,,68,,,,4,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,5
+KARUR HOTEL ARCHANA,Fried Idly,,63,,,,4,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,6
+KARUR HOTEL ARCHANA,Chilli Idly,,63,,,,4,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,7
+KARUR HOTEL ARCHANA,Dilwale Idly,,68,,,,4,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,8
+KARUR HOTEL ARCHANA,Chinese Idly,,63,,,,4,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,9
+KARUR HOTEL ARCHANA,Kheema Idly,,63,,,,4,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,10
+KARUR HOTEL ARCHANA,Veg Kothu Curry,,68,,,,4,Veg,,,,,,,5:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Idly Varieties,,0,,9,11
+KARUR HOTEL ARCHANA,Archana Special Meals,,158,,,,8,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,1
+KARUR HOTEL ARCHANA,Bombay Meals,,189,,,,10,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,3
+KARUR HOTEL ARCHANA,Mini Meals,,100,,,,5,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,4
+KARUR HOTEL ARCHANA,Sambar Rice,,53,,,,3,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,1
+KARUR HOTEL ARCHANA,Curd Rice,,58,,,,3,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,2
+KARUR HOTEL ARCHANA,Jeera Rice,,74,,,,4,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,3
+KARUR HOTEL ARCHANA,Tomato Rice,,53,,,,3,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,4
+KARUR HOTEL ARCHANA,Vatha Kuzhambu Rice,,58,,,,3,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,5
+KARUR HOTEL ARCHANA,Variety Rice Of The Day,,75,,,,4,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Rice Treasures,,0,,4,6
+KARUR HOTEL ARCHANA,Mushroom Dum Biriyani (Ambur),,84,,,,5,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,7
+KARUR HOTEL ARCHANA,Veg Dum Biriyani,,58,,,,3,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,8
+KARUR HOTEL ARCHANA,Veg Pulao,,105,,,,6,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,9
+KARUR HOTEL ARCHANA,Kashmiri Pulao,,105,,,,6,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,10
+KARUR HOTEL ARCHANA,Panneer Pulao,,120,,,,6,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice Treasures,,0,,4,11
+KARUR HOTEL ARCHANA,Mushroom Pulao,,120,,,,6,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Rice Treasures,,0,,4,12
+KARUR HOTEL ARCHANA,Greenpeas Pulao,,120,,,,6,Veg,11:30AM,3:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Rice Treasures,,0,,4,13
+KARUR HOTEL ARCHANA,Veg Noodles,,95,,,,5,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,1
+KARUR HOTEL ARCHANA,Chinese Chopsy,,120,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Noodles,,0,,11,2
+KARUR HOTEL ARCHANA,Panner Noodles,,116,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,3
+KARUR HOTEL ARCHANA,Mushroom Noodles,,105,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,4
+KARUR HOTEL ARCHANA,Mix Veg Noodles,,100,,,,5,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,5
+KARUR HOTEL ARCHANA,American Chopsy,,126,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,6
+KARUR HOTEL ARCHANA,Crispy Veg Noodles,,116,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,7
+KARUR HOTEL ARCHANA,Singapore Noodles,,105,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,8
+KARUR HOTEL ARCHANA,Schezwan Veg Noodles,,116,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,9
+KARUR HOTEL ARCHANA,Veg Fried Rice,,105,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,1
+KARUR HOTEL ARCHANA,Garlic Fried Rice,,89,,,,5,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,2
+KARUR HOTEL ARCHANA,Panneer Fried Rice,,137,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,3
+KARUR HOTEL ARCHANA,Mix Veg Fried Rice,,100,,,,5,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,4
+KARUR HOTEL ARCHANA,Mushroom Fried Rice,,116,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,5
+KARUR HOTEL ARCHANA,Schezwan Veg Fried Rice,,126,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,6
+KARUR HOTEL ARCHANA,Singapore Veg Fried Rice,,105,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,7
+KARUR HOTEL ARCHANA,Kulcha,,47,,,,3,Veg,12:00PM,11:00PM,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,1
+KARUR HOTEL ARCHANA,Garlic Naan,,53,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,2
+KARUR HOTEL ARCHANA,Masala Kulcha,,47,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,3
+KARUR HOTEL ARCHANA,Veg Stuffed Naan,,47,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",0,,Tandoori,,0,,13,4
+KARUR HOTEL ARCHANA,Roti,,37,,,,2,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,5
+KARUR HOTEL ARCHANA,Butter Roti,,47,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,6
+KARUR HOTEL ARCHANA,Naan ,,42,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,7
+KARUR HOTEL ARCHANA,Butter Naan,,47,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,8
+KARUR HOTEL ARCHANA,Fulka,,47,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,9
+KARUR HOTEL ARCHANA,Romali Roti ,,47,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,10
+KARUR HOTEL ARCHANA,Aloo Parotta & Gravy,,79,,,,4,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,11
+KARUR HOTEL ARCHANA,Onion Kulcha,,58,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,13,12
+KARUR HOTEL ARCHANA,Stuffed Parotta,,58,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",0,,Tandoori,,0,,13,13
+KARUR HOTEL ARCHANA,Tandoori Parotta,,58,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",0,,Tandoori,,0,,13,14
+KARUR HOTEL ARCHANA,Set Dosa Vada Curry,,70,,,,4,Veg,,,,,,,6:00PM,11:00PM,"5,6,7",1,,Weekend Specials,,0,,5,1
+KARUR HOTEL ARCHANA,Chettinadu Veg Kari Dosa,,74,,,,4,Veg,,,,,,,6:00PM,11:00PM,"5,6,7",1,,Weekend Specials,,0,,5,2
+KARUR HOTEL ARCHANA,Mysore  Masala Roast,,89,,,,5,Veg,,,,,,,6:00PM,11:00PM,6,1,,Weekend Specials,,0,,5,4
+KARUR HOTEL ARCHANA,Vaalaipoo Masala Roast,,68,,,,4,Veg,,,,,,,6:00PM,11:00PM,6,1,,Weekend Specials,,0,,5,5
+KARUR HOTEL ARCHANA,Veg Keema Roast,,84,,,,5,Veg,,,,,,,6:00PM,11:00PM,7,1,,Weekend Specials,,0,,5,6
+KARUR HOTEL ARCHANA,Bread Channa,,47,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,1
+KARUR HOTEL ARCHANA,Adai With Aviyal,,68,,,,4,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,2
+KARUR HOTEL ARCHANA,Kuzhi Paniyaram,,45,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,3
+KARUR HOTEL ARCHANA,Channa Battura,,75,,,,4,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",0,,Archana Evening Specials,,0,,6,4
+KARUR HOTEL ARCHANA,Panneer Masala Roast,,84,,,,5,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,5
+KARUR HOTEL ARCHANA,Valaipoo Adai,,68,,,,4,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,6
+KARUR HOTEL ARCHANA,Mushroom Masala Roast,,84,,,,5,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,7
+KARUR HOTEL ARCHANA,Chinna Vengayam Uthappam,,79,,,,4,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,8
+KARUR HOTEL ARCHANA,Idly With Poondu Kuzhambu,,19,,,,1,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,9
+KARUR HOTEL ARCHANA,Idiyappam With Coconut Milk,,42,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,10
+KARUR HOTEL ARCHANA,Kaldosa With Poondu Kuzhambu,,74,,,,4,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,11
+KARUR HOTEL ARCHANA,Wheat Parotta With Chettinad Gravy,,63,,,,4,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Archana Evening Specials,,0,,6,12
+KARUR HOTEL ARCHANA,Dhal Fry,,74,,,,4,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,1
+KARUR HOTEL ARCHANA,Dhal Tadka,,75,,,,4,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,2
+KARUR HOTEL ARCHANA,Channa Masala,,79,,,,4,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,3
+KARUR HOTEL ARCHANA,Green Peas Masala,,116,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,4
+KARUR HOTEL ARCHANA,Mix Veg Curry,,105,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,5
+KARUR HOTEL ARCHANA,Kadai Vegetable,,105,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,6
+KARUR HOTEL ARCHANA,Aloo Gobi Masala,,100,,,,5,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,7
+KARUR HOTEL ARCHANA,Chettinad Veg Curry,,116,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,8
+KARUR HOTEL ARCHANA,Navarathna Kurma,,126,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,9
+KARUR HOTEL ARCHANA,Veg Malai Kofta Curry,,137,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,10
+KARUR HOTEL ARCHANA,Panneer Mutter,,137,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Side Dishes,,0,,14,11
+KARUR HOTEL ARCHANA,Panneer Kofta,,126,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,12
+KARUR HOTEL ARCHANA,Kadai Panneer,,140,,,,7,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Side Dishes,,0,,14,13
+KARUR HOTEL ARCHANA,Panneer Tikka Masala,,152,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,14
+KARUR HOTEL ARCHANA,Panneer Butter Masala,,147,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,15
+KARUR HOTEL ARCHANA,Dingri Mutter,,150,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Side Dishes,,0,,14,16
+KARUR HOTEL ARCHANA,Kadai Mushroom,,152,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Side Dishes,,0,,14,17
+KARUR HOTEL ARCHANA,Mushroom Masala,,142,,,,8,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,18
+KARUR HOTEL ARCHANA,Chettinad Mushroom,,116,,,,6,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Dishes,,0,,14,19
+KARUR HOTEL ARCHANA,Veg Cutlet,,47,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,7,1
+KARUR HOTEL ARCHANA,Onion Bajji (2 Pieces),,28,,,,2,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,7,2
+KARUR HOTEL ARCHANA,Potato Bajji (2 Pieces),,26,,,,2,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,7,3
+KARUR HOTEL ARCHANA,Banana Bajji (2 Pieces),,26,,,,2,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,7,4
+KARUR HOTEL ARCHANA,Gobi Pakkoda,,47,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,7,5
+KARUR HOTEL ARCHANA,Onion Pakkoda,,37,,,,2,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,7,6
+KARUR HOTEL ARCHANA,Panneer Pakkoda,,58,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,7,7
+KARUR HOTEL ARCHANA,Cashew Pakkoda,,105,,,,6,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,7,8
+KARUR HOTEL ARCHANA,Mix Veg Pakkoda,,53,,,,3,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,7,9

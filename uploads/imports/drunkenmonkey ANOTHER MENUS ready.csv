@@ -1,0 +1,215 @@
+restaurant_name,food_item,description,special_price,special_from,special_to,packaging_charge,max_packaging_charge,price,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DRUNKEN MONKEY,Red Sunflower Smoothie Bowl Lite,"An exquisite bowl of strawberries, beetroot, pomegranate, blended with apple, banana, pineapple, coconut milk, topped with sunflower seeds, kiwi and basil seeds",,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,1,1
+DRUNKEN MONKEY,Dry Fruit Smoothie Bowl Lite,"A wholesome bowl from the deserts of sahara packed with dates, figs, cashews, almonds, blended with apple, chikoo, coconut milk, banana, topped with granola, pumpkin seeds and pecan nuts",,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,1,2
+DRUNKEN MONKEY,Tropical Characoal Smoothie Bowl Lite,"A luscious goodness bowl from the tropics with pineapple, pomegranate, chikoo, blended with apple, banana, infused by activated charcoal, topped with kiwi and coconut",,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,1,1
+DRUNKEN MONKEY,Spinach & Beet Smoothie Bowl Lite,"A lush and divine bowl of spinach, beetroot, apple, strawberry, blended with coconut milk, sunflower seeds, banana, topped with kiwi, pumpkin seeds, basil seeds and chia seeds.",,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,1,1
+DRUNKEN MONKEY,Cereal & Malt Smoothie Bowl Lite,"A nutritious bowl with healthy cereal, apple, malt, blended with banana, chikoo with a dash of coconut milk, topped with pomegranate, pecan nuts, cashews, almonds and chia seeds.",,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,1,2
+DRUNKEN MONKEY,Chocolate & Love Smoothie Bowl Lite,"A sumptuous and healthy bowl packed with love, chocolate, hazelnut, oreo, blended with apple, chikoo, banana, coconut milk, topped with cashews, almonds, pumpkin seeds and chia seeds.",,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,2,1
+DRUNKEN MONKEY,Mango The Dark Night Smoothie Bowl Lite,"A rare combination of mango infused with activated charcoal, blended with pineapple, chikoo, banana, topped with coconut, pomegranate and kiwi",,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,2,1
+DRUNKEN MONKEY,Mango The Emperors Smoothie Bowl Lite,"A regal bowl of mango 'the king of fruits’, blended with apple, chikoo, coconut milk, banana, topped with kiwi, pomegranate and basil seeds",,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,2,1
+DRUNKEN MONKEY,Red Sunflower Smoothie Bowl Regular,"An exquisite bowl of strawberries, beetroot, pomegranate, blended with apple, banana, pineapple, coconut milk, topped with sunflower seeds, kiwi and basil seeds",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,2,1
+DRUNKEN MONKEY,Dry Fruit Smoothie Bowl Regular,"A wholesome bowl from the deserts of sahara packed with dates, figs, cashews, almonds, blended with apple, chikoo, coconut milk, banana, topped with granola, pumpkin seeds and pecan nuts",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,2,1
+DRUNKEN MONKEY,Tropical Characoal Smoothie Bowl Regular,"A luscious goodness bowl from the tropics with pineapple, pomegranate, chikoo, blended with apple, banana, infused by activated charcoal, topped with kiwi and coconut",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,2,1
+DRUNKEN MONKEY,Spinach & Beet Smoothie Bowl Regular,"A lush and divine bowl of spinach, beetroot, apple, strawberry, blended with coconut milk, sunflower seeds, banana, topped with kiwi, pumpkin seeds, basil seeds and chia seeds.",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,3,1
+DRUNKEN MONKEY,Cereal & Malt Smoothie Bowl Regular,"A nutritious bowl with healthy cereal, apple, malt, blended with banana, chikoo with a dash of coconut milk, topped with pomegranate, pecan nuts, cashews, almonds and chia seeds.",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,3,1
+DRUNKEN MONKEY,Chocolate & Love Smoothie Bowl Regular,"A sumptuous and healthy bowl packed with love, chocolate, hazelnut, oreo, blended with apple, chikoo, banana, coconut milk, topped with cashews, almonds, pumpkin seeds and chia seeds.",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,3,1
+DRUNKEN MONKEY,Mango The Dark Night Smoothie Bowl Regular,"A rare combination of mango infused with activated charcoal, blended with pineapple, chikoo, banana, topped with coconut, pomegranate and kiwi",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,3,1
+DRUNKEN MONKEY,Mango The Emperors Smoothie Bowl Regular,"A regal bowl of mango 'the king of fruits’, blended with apple, chikoo, coconut milk, banana, topped with kiwi, pomegranate and basil seeds",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls,,0,,3,1
+DRUNKEN MONKEY,Strawberry Epic Body & Soul 1,blended with watermelon and basil seeds,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Black Grape Magic Body & Soul 1,"blended with watermelon, pineapple and banana",,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Watermelon Classic Mint Body & Soul 1,blended with a ting of mint,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Mushmelon Epic Body & Soul 1,"blended with coconut, watermelon, apple, pumpkin seeds and basil seeds",,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Avocado Shake Body & Soul 2,blended with dairy,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Pomegranate Epic Body & Soul 2,"blended with pineapple, apple and coconut",,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Chikoo Choco Magic Body & Soul 2,"blended with banana, chocolate, almonds, cashews and 10% dairy",,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Watermelon Lime Hydrator Body & Soul 2,,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Super Fibre Meal Body & Soul 3,"blended with avocado, apple, pineapple, banana, green grape, cashews, almonds, chia seeds and basil seeds",,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Sexy Spinach Body & Soul 3,"blended with green grape, cucumber, lime, mint and chia seeds",,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Beet the Root Body & Soul 3,"blended with apple, carrot, cashews and almonds",,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Cucumber Cooler Body & Soul 3,"blended with watermelon, lime and mint",,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Body & Souls,,0,,3,1
+DRUNKEN MONKEY,Nutcase Smoothie Naturally High Part 1,"blended with dates, figs, almonds, cashews and 10% dairy",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Strawberry Nutella Magic Smoothie Naturally High Part 1,"blended with nutella, banana, cashews, almonds and 10% dairy",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Black Grape Shake Naturally High Part 1,blended with dairy,,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Apple Caramel Magic Naturally High Part 1,"blended with chikoo, caramel, almonds, cashews and 10% dairy",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Dragon Fruit Epic Naturally High Part 2,blended with watermelon and basil seeds,,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Avocada Magic The Pharaoh Naturally High Part 2,"blended with dates, figs, almonds, cashews, basil seeds, apple, banana and 10% dairy",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Pomegranate Magic Naturally High Part 2,"blended with black grape, apple, chia seeds, basil seeds and 10% dairy",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Watermelon Summertime Madness Naturally High Part 2,"blended with green grapes, muskmelon, basil seeds and 10% dairy",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Date Nite Naturally High Part 3,"blended with dates, cashews, almonds, apple, banana and muskmelon",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Fig-er-it-Out Naturally High Part 3,"blended with figs, cashews, almonds, apple, banana and muskmelon",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Nutcase Naturally High Part 3,"blended with dates, figs, coconut milk, almonds and cashews",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Crazy Stupid Vegan Naturally High Part 3,"blended with apple, watermelon, banana, pomegranate, pumpkin seeds, chia seeds and basil seeds",,,,0,0,599,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naturally High Parts,,0,,3,1
+DRUNKEN MONKEY,Watermelon Smoothies Classic,,,,,0,0,129,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Watermelon Smoothies Classic Mint,blended with a ting of mint,,,,0,0,129,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Watermelon Smoothies Epic,blended with pineapple,,,,0,0,129,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Watermelon Smoothies Magic,"blended with apple, basil seeds, muskmelon and 10% dairy",,,,0,0,129,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Watermelon Smoothies Shake,blended with dairy,,,,0,0,129,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Watermelon Smoothies Summer Time Madness,"blended with green grapes, muskmelon, basil seeds and 10% dairy",,,,0,0,129,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Pineapple Smoothi Classic,,,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Pineapple Smoothi Classic Mint,blended with a ting of mint,,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Pineapple Smoothi Epic,blended with watermelon,,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Pineapple Smoothi Magic,blended with apple and coconut,,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Banana Smoothi Classic,blended with 10%,,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Banana Smoothi Epic,"blended with apple, chikoo, chia seeds, basil seeds, sunflower seeds, cashews and almonds",,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Banana Smoothi Nutella Magic,"blended with chikoo, nutella, cashew, almonds, sunflower seeds and 10% dairy",,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Banana Smoothi Shake,blended with dairy,,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Muskmelon Smoothi Classic,blended with 10% dairy,,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Muskmelon Smoothi Epic,"blended with coconut, watermelon, apple, pumpkin seeds and basil seeds",,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Muskmelon Smoothi Magic,"blended with banana, basil seeds, cashews, almonds and 10% dairy",,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Mushmelon Smoothi Shake,blended with dairy,,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Papaya Smoothi Epic,blended with pineapple,,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Papaya Smoothi Magic,"blended with chikoo, banana, sunflower seeds, chia seeds, basil seeds, almonds and cashews",,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Chikoo Smoothi Classic,,,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Chikoo Smoothi Epic,"blended with dates, cashews, almonds, chia seeds and 10% dairy",,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Chikoo Smoothi Choco Magic,"blended with banana, chocolate, almonds, cashews and 10% dairy",,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Chikoo Smoothi Shake,blended with dairy,,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Apple Smoothi Classic Mint,blended with a ting of mint,,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Apple Smoothi Epic,"blended with pineapple, banana, chia seeds, basil seeds and pumpkin seeds",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Apple Smoothi Caramel Magic,"blended with chikoo, caramel, almonds, cashews and 10% dairy",,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Apple Smoothi Cinnamon Shake,,,,,0,0,199,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Apple Smoothi Cinnamon Caffe Latte,,,,,0,0,199,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Pomegranate Smoothi Classic,,,,,0,0,169,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Pomegranate Smoothi Epic,"blended with pineapple, apple and coconut",,,,0,0,169,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Pomegranate Smoothi Magic,"blended with black grape, apple, chia seeds, basil seeds and 10% dairy",,,,0,0,169,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Pomegranate Smoothi Shake,blended with dairy,,,,0,0,169,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Kiwi Smoothi Epic,"blended with watermelon, apple and basil seeds",,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Kiwi Smoothi Magic,"blended with pomegranate, coconut, apple, carrot and banana",,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Kiwi Smoothi Shake,blended with dairy,,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Dragon Fruit Smoothi Epic,blended with watermelon and basil seeds,,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Dragon Fruit Smoothi Magic,"blended with apple, banana, almonds, cashews, chia seeds and 10% dairy",,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Dragon Fruit Smoothi Shake,blended with dairy,,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Avocado Smoothi Epic,"blended with spinach, chia seeds, banana, almonds and cashews",,,,0,0,279,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Avocado Smoothi Magic The Pharoah,"blended with dates, figs, apple, banana, almonds, cashews, basil seeds, and 10% dairy",,,,0,0,279,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Avocado Smoothi Shake,blended with dairy,,,,0,0,279,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Date Nite Smoothi Original,"blended with dates, cashews, almonds, apple, banana and 10% dairy",,,,0,0,199,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Date Nite Smoothi Vegan,"blended with dates, cashews, almonds, apple, banana and muskmelon",,,,0,0,199,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Date Nite Smoothi Shake,blended with dairy,,,,0,0,219,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Fig-er-it-out Smoothi Original,"blended with figs, cashews, almonds, apple, banana and 10% dairy",,,,0,0,219,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Fig-er-it-out Smoothi Vegan,"blended with figs, cashews, almonds, apple, banana and muskmelon",,,,0,0,219,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Fig-er-it-out Smoothi Shake,blended with dairy,,,,0,0,239,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Nutcase Part 1 Original,"blended with dates, figs, almonds, cashews and 10% dairy",,,,0,0,199,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Nutcase Part 2,"blended with dates, figs, nutella, cashews, almonds, apple, banana and 10% dairy",,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Nutcased Coffee,"blended with dates, figs, coffee, almonds, cashews and 10% dairy",,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Nutcase Vegan,"blended with dates, figs, coconut milk, almonds and cashews",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Crazy Stupid Smoothi Part 1,"blended with dates, figs, apple, chikoo, pomegranate, pumpkin seeds, almonds, cashews, chia seeds, basil seeds and 10% dairy",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Crazy Stupid Smoothi Vegan,"blended with apple, watermelon, pomegranate, banana, pumpkin seeds, chia seeds and basil seeds",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Crazy Stupid Smoothi Shake,"blended with watermelon, apple, kiwi, chikoo, cashews, almonds and 10% dairy",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Crazy Stupid Smoothi Part 2,"blended with nutella, dates, figs, apple, chikoo, pomegranate, pumpkin seeds, chia seeds, basil seeds, almonds, cashews and 10% dairy",,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Money Confidential Smoothi Part 1,,,,,0,0,199,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Money Confidential Smoothi Vegan,,,,,0,0,199,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Money Confidential Smoothi Part 2,,,,,0,0,239,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Money Confidential Smoothi Part 3,,,,,0,0,239,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Mondy Confidential Smoothi Money King ,,,,,0,0,239,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Veggie Smoothi Beet The Root,"blended with apple, carrot, cashews and almonds",,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Veggie Smoothi Sexy Spinach ,"blended with green grape, cucumber, lime, mint and chia seeds",,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Veggie Smoothi Cucumber Cooler,"blended with watermelon, lime and mint",,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Veggie Smoothi Crazy Carrot,"blended with pineapple, cashews and almonds",,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Veggie Smoothi Super Veggie,"blended with cucumber, spinach, carrot, apple, beetroot, chia seeds and basil seeds",,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Dates and Cereal Meal,"blended with dates, cereal, apple, green grapes and 10% dairy",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Wholesome Coffee Meal,"blended with coffee, cereal, apple, almonds, cashews and 10% dairy",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Caramel & Muesli Meal,"blended with caramel, muesli, apple, chikoo, muskmelon, almonds, cashews, chia seeds and 10% dairy",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Horlicks Meal,"blended with horlicks, cereal, muesli, apple, banana, almonds, cashews and 10% dairy",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Nutella Meal,"blended with nutella, muesli, apple, banana, cashews, almonds, and 10% dairy",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Abc Meal,"blended with apple, beetroot, carrot, banana, mint, basil seeds and 10% dairy",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Super Fiber Meal,"blended with avocado, apple, pineapple, banana, green grapes, cashews, almonds, chia seeds and basil seeds",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Iron Man Green Meal,"blended with spinach, cucumber, avocado, carrot, apple, banana, chia seeds and basil seeds",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Dry Fruit Meal,"blended with dates, figs, almonds, cashews, apple and 10% dairy",,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Fruits,,0,,3,1
+DRUNKEN MONKEY,Dolphin Nose Protein Smoothi,watermelon based,,,,0,0,299,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Protein,,0,,3,1
+DRUNKEN MONKEY,Meth Protein Smoothi,coffee based with apple and 10% dairy,,,,0,0,299,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Protein,,0,,3,1
+DRUNKEN MONKEY,Arabian Knight Protein Smoothi,dry fruit (dates and figs) based with banana,,,,0,0,299,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies By Protein,,0,,3,1
+DRUNKEN MONKEY,Lime Sweet Hydrator,,,,,0,0,119,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Lime Sweet Hydrator with Electrolyte Salts,,,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Lime Sweet Salt Hydrator,,,,,0,0,119,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Lime Sweet Salt Hydrator with Electrolyte Salts,,,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Mint Hydrator,,,,,0,0,119,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Mint Hydrator with Electrolyte Salts,,,,,0,0,139,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Watermelon Hydrator,,,,,0,0,129,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Watermelon Hydrator with Electrolyte Salts,,,,,0,0,149,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Strawberry Hydrator,,,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Strawberry Hydrator with Electrolyte Salts,,,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,3,1
+DRUNKEN MONKEY,Hangover Warriors Last Nites Sin,"blended with pineapple, green grape, apple, chia seeds, basil seeds, lime and rehydration salts",,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hangover Warriers,,0,,3,1
+DRUNKEN MONKEY,Hangover Warriors Party Monster,"blended with dates, apple, banana, lime and rehydration salts",,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hangover Warriers,,0,,3,1
+DRUNKEN MONKEY,Hangover Warriors Afterparty Caffeine,"blended with apple, coffee, rehydration salts and 10% dairy",,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hangover Warriers,,0,,3,1
+DRUNKEN MONKEY,Smooth Criminal Detox,"lime based with cucumber and mint We have an assassin in the house! This smoothie takes up the job to execute the unwanted oxidants (the ultimate enemy) to keep you safe. The lime, cucumber and mint are its weapons. You pay for the smoothie, the smoothie does your job. Hence smooth criminal",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Eternal Sunshine Detox,"cucumber based with spinach, apple and mint. This detox smoothie combined with cucumber, spinach, apple & mint will be the eternal sunshine for your day, even if you consume it at night! Fresh on the go",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,"U Kill, I Kill Detox","spinach based with cucumber, pineapple and mint Its a battle between the warriors like spinach, cucumber, pineapple, mint against the titan of destruction. They would do anything to fight it off from your body.",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Beach Body Detox,pineapple and lime blended with carrot and kiwi Be in love with the shape of your body! This detox drink will provide you with all the nutrients that you deserve! Pineapple and lime blended with carrot and kiwi will energise your body! Grab this one and get beach-ready!,,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Mirror Mirror Detox,"carrot blended with apple, lime and pineapple Mirror mirror, who is the fittest of all! This detox potion not only removes the toxins from your body, but also, nourishes your body with essential vitamins. Make this your go to smoothie and fall in love with your reflection.",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Full Throttle Detox,"beetroot based with apple and carrot This trio of beetroot, apple and carrot when combined together turned out to be the fastest killer for toxins. Then step on the accelerator and drink it up right away",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Forbidden Detox,"apple based with avocado, spinach, cucumber and mint This smoothie acts as your guardian in your ups and down and forbids the toxins to take a charge against your health. With the wisdom of apple, avocado, spinach, cucumber & mint this guru is the ultimate yoda you'll always need.",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Black Magic Detox,"black grape based with spinach, apple and mint Ooo let that unhealthy venomous toxin in your body know that this smoothie is made by the witches of health. And the potion consumed by you with ingredients like black grape, spinach, apple and mint is a killer for them.",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Superfood Detox,"avocado based with cucumber, apple and mint Are you hungry and confused with what to eat when on diet? We might have a perfect solution with avocado based drink with cucumber, apple & mint. This super food will take care of you as an antioxidant and also keep you full.",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Shot Glass Detox,"green grape based with avocado, apple",,,,0,0,159,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Smooth Criminal Detox 4 Pack A,,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Beach Body Detox 4 Pack A,,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Mirror Mirror Detox 4 Pack A,,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Eternal Sunshine Detox Detox 4 Pack A,,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Smooth Criminal Detox 4 Pack B,,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,"U Kill, I Kill Detox 4 Pack B",,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Forbidden Detox 4 Pack B,,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Full Throtle Detox 4 Pack B,,,,,0,0,499,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Smooth Criminal Detox 8 Pack,,,,,0,0,990,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Eternal Sunshine Detox 8 Pack,,,,,0,0,990,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Forbidden Detox 8 pack,,,,,0,0,990,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Full Throttle Detox 8 Pack,,,,,0,0,990,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,U Kill I Kill Detox 8 Pack,,,,,0,0,990,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Beach Body Detox 8 Pack,,,,,0,0,990,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Shot Glass Detox 8 Pack,,,,,0,0,990,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Mirror Mirror Detox 8 Pack,,,,,0,0,990,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox,,0,,3,1
+DRUNKEN MONKEY,Cold Brew,,,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Cold Coffee Classic,,,,,0,0,219,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Cold Cappuccino,,,,,0,0,219,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Cold Mocaccino,,,,,0,0,219,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Turkish Cardamon Cold Coffee,,,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Cold coffee Nutella,,,,,0,0,259,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Coffee Oreo,,,,,0,0,259,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Coffee Brownie,,,,,0,0,259,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Coffee Caramel,,,,,0,0,259,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Irish Cream Coffee,,,,,0,0,259,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,3,1
+DRUNKEN MONKEY,Choco,,,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,French Vanilla,,,,,0,0,209,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Oreo,,,,,0,0,219,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Crunchy Horlicks,,,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Caramelized,,,,,0,0,259,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Choco Almond,,,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Brownie,,,,,0,0,229,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Choco Nutella,,,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Pure Nutella,,,,,0,0,249,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Cheese Cake,,,,,0,0,259,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Red Velvet,,,,,0,0,259,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Kit Kat Caramel,,,,,0,0,299,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Brownie Nutella,,,,,0,0,299,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,All Star,,,,,0,0,299,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Oreo Red Velvet,,,,,0,0,299,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence,,0,,3,1
+DRUNKEN MONKEY,Mosambi Classic,,,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Mosambi Epic,,,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Mosambi Magic,,,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Orange Classic,,,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Orange Epic,,,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Orange Magic,,,,,0,0,189,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Custard AppleWhite Walker,,,,,0,0,169,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Custard Apple Chick and Dale,blended with 10% dairy,,,,0,0,169,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Custard Apple Appleton,blended with apple,,,,0,0,169,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Custard Apple Musketeer,blended with muskmelon,,,,0,0,169,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Custard Apple Persian Princess,"blended with dates, figs, almonds, cashews and 10% dairy",,,,0,0,169,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Mango Classic Emperor,the king of fruits in its purest self,,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Mango Epic Queen of Dragons,"blended with dragon fruit, coconut and basil seeds",,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Mango Caramel Magic,"blended with pineapple, caramel, almonds, cashews and 10% diary",,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Mango Shake,blended with dairy,,,,0,0,179,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal,,0,,3,1
+DRUNKEN MONKEY,Extra Protein,,,,,0,0,120,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Avocado,,,,,0,0,60,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Irish Cream,,,,,0,0,50,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Kitkat,,,,,0,0,40,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Oreo,,,,,0,0,40,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Corn Flakes,,,,,0,0,40,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Muesli,,,,,0,0,40,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Caramel,,,,,0,0,40,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Horlicks,,,,,0,0,40,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Hazelnut,,,,,0,0,40,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Almonds and Cashews,,,,,0,0,30,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Chocolate Powder,,,,,0,0,30,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Extra Coffee,,,,,0,0,30,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Electrolyte Salts,,,,,0,0,30,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Basil Seeds,,,,,0,0,30,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Chia Seeds,,,,,0,0,30,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1
+DRUNKEN MONKEY,Mint,,,,,0,0,20,veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,3,1

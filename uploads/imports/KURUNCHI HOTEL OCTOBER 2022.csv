@@ -1,0 +1,151 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KURUNCHI HOTEL (Pure Veg),Veg Omelette,,35,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,1
+KURUNCHI HOTEL (Pure Veg),Panner Manchuriyan,,200,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,2
+KURUNCHI HOTEL (Pure Veg),Gobi Manchuriyan,,180,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,3
+KURUNCHI HOTEL (Pure Veg),Mushroom Manchuriayn,,195,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,4
+KURUNCHI HOTEL (Pure Veg),Panner 65,,190,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,5
+KURUNCHI HOTEL (Pure Veg),Gobi 65,,160,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,6
+KURUNCHI HOTEL (Pure Veg),Mushroom 65,,170,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,7
+KURUNCHI HOTEL (Pure Veg),Bread Chilli,,70,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,8
+KURUNCHI HOTEL (Pure Veg),Veg Fish 1 Pc,,50,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,9
+KURUNCHI HOTEL (Pure Veg),Gobi Gravy,,210,,,,5,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,2,1
+KURUNCHI HOTEL (Pure Veg),Panner Gravy,,250,,,,5,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,2,2
+KURUNCHI HOTEL (Pure Veg),Mushroom Gravy,,230,,,,5,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,2,3
+KURUNCHI HOTEL (Pure Veg),Gobi Chettinadu Gravy,,220,,,,5,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,2,4
+KURUNCHI HOTEL (Pure Veg),Panner Chettinadu Gravy,,260,,,,5,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,2,5
+KURUNCHI HOTEL (Pure Veg),Mushroom Chettinadu Gravy,,240,,,,5,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,2,6
+KURUNCHI HOTEL (Pure Veg),Chappathi 2 Pcs,,70,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,1
+KURUNCHI HOTEL (Pure Veg),Kothu Chappathi ,,120,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,2
+KURUNCHI HOTEL (Pure Veg),Parotta 1 Pc,,35,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,3
+KURUNCHI HOTEL (Pure Veg),Wheat Parotta 1 Pc,,50,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,4
+KURUNCHI HOTEL (Pure Veg),Bun Parotta 1 Pc,,50,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,5
+KURUNCHI HOTEL (Pure Veg),Panner Parotta 1 Pc,,100,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,6
+KURUNCHI HOTEL (Pure Veg),Ghee Parotta 1 Pc,,60,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,7
+KURUNCHI HOTEL (Pure Veg),Layer Parotta 1Pc,,50,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,8
+KURUNCHI HOTEL (Pure Veg),Masala Parotta 1Pc,,70,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,9
+KURUNCHI HOTEL (Pure Veg),Mushroom Parotta 1Pc,,80,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,10
+KURUNCHI HOTEL (Pure Veg),Gobi Parotta 1 Pc,,80,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,11
+KURUNCHI HOTEL (Pure Veg),Kothu Parotta Veg,,120,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,12
+KURUNCHI HOTEL (Pure Veg),Veechu Parotta 1 Pc,,50,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,13
+KURUNCHI HOTEL (Pure Veg),Banana Leaf Parotta,,150,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,14
+KURUNCHI HOTEL (Pure Veg),Panner Chilli Parotta,,150,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,15
+KURUNCHI HOTEL (Pure Veg),Chilli Parotta,,120,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,16
+KURUNCHI HOTEL (Pure Veg),Mushroom Chilli Parotta,,150,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,17
+KURUNCHI HOTEL (Pure Veg),Kaima Parotta,,130,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,18
+KURUNCHI HOTEL (Pure Veg),Idly 2 Pcs,,40,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+KURUNCHI HOTEL (Pure Veg),Idiyappam 2 Pcs,,60,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,2
+KURUNCHI HOTEL (Pure Veg),Raghi Rotti,,60,,,,5,0,Veg,08:00AM,11:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,3
+KURUNCHI HOTEL (Pure Veg),Pepper Idly,,80,,,,5,0,Veg,,,,,,,05:00PM,09:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,4
+KURUNCHI HOTEL (Pure Veg),Chilly Idly,,80,,,,5,0,Veg,,,,,,,05:00PM,09:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,5
+KURUNCHI HOTEL (Pure Veg),Poori 2 Pcs,,80,,,,5,0,Veg,,,,,,,05:00PM,09:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,6
+KURUNCHI HOTEL (Pure Veg),Chola Poori ,,100,,,,5,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,7
+KURUNCHI HOTEL (Pure Veg),Podi Idly,,80,,,,5,0,Veg,,,,,,,05:00PM,09:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,8
+KURUNCHI HOTEL (Pure Veg),Kothu Idly,,80,,,,5,0,Veg,,,,,,,05:00PM,09:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,9
+KURUNCHI HOTEL (Pure Veg),Sambar Idly,,75,,,,5,0,Veg,,,,,,,05:00PM,09:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,10
+KURUNCHI HOTEL (Pure Veg),Ghee Pongal,,70,,,,5,0,Veg,,,08:00AM,09:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,11
+KURUNCHI HOTEL (Pure Veg),Vadai,,20,,,,5,0,Veg,,,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,12
+KURUNCHI HOTEL (Pure Veg),Sambar Vadai,,25,,,,5,0,Veg,,,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,13
+KURUNCHI HOTEL (Pure Veg),Utthappam,,80,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,14
+KURUNCHI HOTEL (Pure Veg),Onion Utthappam,,120,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,15
+KURUNCHI HOTEL (Pure Veg),Garlic Utthappam,,110,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,16
+KURUNCHI HOTEL (Pure Veg),Podi Utthappam,,90,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,17
+KURUNCHI HOTEL (Pure Veg),Podi Dosa,,90,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,18
+KURUNCHI HOTEL (Pure Veg),Wheat Dosa,,80,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,19
+KURUNCHI HOTEL (Pure Veg),Ragi Dosa,,80,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,20
+KURUNCHI HOTEL (Pure Veg),Noodles Dosa,,120,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,21
+KURUNCHI HOTEL (Pure Veg),Rava Roast,,70,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,22
+KURUNCHI HOTEL (Pure Veg),Ghee Rava Roast,,120,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,23
+KURUNCHI HOTEL (Pure Veg),Ghee Onion Rava,,150,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,24
+KURUNCHI HOTEL (Pure Veg),Ghee Onion Roast,,150,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,25
+KURUNCHI HOTEL (Pure Veg),Ghee Roast,,120,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,26
+KURUNCHI HOTEL (Pure Veg),Ghee Podi Roast,,100,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,27
+KURUNCHI HOTEL (Pure Veg),Ghee Rava Roast,,120,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,28
+KURUNCHI HOTEL (Pure Veg),Garlic Roast,,110,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,29
+KURUNCHI HOTEL (Pure Veg),Masala Rava Dosa,,150,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,30
+KURUNCHI HOTEL (Pure Veg),Roast,,80,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,31
+KURUNCHI HOTEL (Pure Veg),Onion Roast,,125,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,32
+KURUNCHI HOTEL (Pure Veg),Onion Rava Roast,,130,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,33
+KURUNCHI HOTEL (Pure Veg),Masala Roast,,120,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,34
+KURUNCHI HOTEL (Pure Veg),Ghee Masala Roast,,150,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,35
+KURUNCHI HOTEL (Pure Veg),Mushroom Roast,,150,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,36
+KURUNCHI HOTEL (Pure Veg),Gobi Roast,,150,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,37
+KURUNCHI HOTEL (Pure Veg),Paper Roast,,150,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,38
+KURUNCHI HOTEL (Pure Veg),Paneer Roast,,160,,,,5,0,Veg,,,08:00AM,10:00AM,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,39
+KURUNCHI HOTEL (Pure Veg),Veg Biriyani,,90,,,,5,0,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,1
+KURUNCHI HOTEL (Pure Veg),Mushroom Biriyani,,160,,,,5,0,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,2
+KURUNCHI HOTEL (Pure Veg),Meals,,120,,,,5,0,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,3
+KURUNCHI HOTEL (Pure Veg),Tomato Rice,,80,,,,5,0,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,4
+KURUNCHI HOTEL (Pure Veg),Sambar Rice,,80,,,,5,0,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,5
+KURUNCHI HOTEL (Pure Veg),Curd Rice,,80,,,,5,0,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,6
+KURUNCHI HOTEL (Pure Veg),Veg Fried Rice,,120,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,1
+KURUNCHI HOTEL (Pure Veg),Mushroom Fried Rice,,150,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,2
+KURUNCHI HOTEL (Pure Veg),Gobi Fried Rice,,150,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,3
+KURUNCHI HOTEL (Pure Veg),Panner Fried Rice,,170,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,4
+KURUNCHI HOTEL (Pure Veg),Mixed Fried Rice,,200,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,5
+KURUNCHI HOTEL (Pure Veg),Schezwan Veg Fried Rice,,130,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,6
+KURUNCHI HOTEL (Pure Veg),Schezwan Mushroom Fried Rice,,170,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,7
+KURUNCHI HOTEL (Pure Veg),Schezwan Panner Fried Rice,,180,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,8
+KURUNCHI HOTEL (Pure Veg),Schezwan Gobi Fried Rice,,130,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,9
+KURUNCHI HOTEL (Pure Veg),Veg Noodles,,120,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,10
+KURUNCHI HOTEL (Pure Veg),Gobi Noodles,,150,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,11
+KURUNCHI HOTEL (Pure Veg),Mushroom Noodles,,150,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,12
+KURUNCHI HOTEL (Pure Veg),Panner Noodles,,160,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,13
+KURUNCHI HOTEL (Pure Veg),Mixed Veg Noodles,,200,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,14
+KURUNCHI HOTEL (Pure Veg),Schezwan Veg Noodles,,130,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,15
+KURUNCHI HOTEL (Pure Veg),Schezwan Mushroom Noodles,,170,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,16
+KURUNCHI HOTEL (Pure Veg),Schezwan Panner Noodles,,180,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,17
+KURUNCHI HOTEL (Pure Veg),Schezwan Gobi Noodles,,160,,,,5,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,18
+KURUNCHI HOTEL (Pure Veg),Jangiri 250 Grams,,200,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,1
+KURUNCHI HOTEL (Pure Veg),Badusha 250 Grams,,200,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,2
+KURUNCHI HOTEL (Pure Veg),Palkova 250 Grams,,210,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,3
+KURUNCHI HOTEL (Pure Veg),Masala Kadalai 250 Grams,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,4
+KURUNCHI HOTEL (Pure Veg),Coconut Bun,,70,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,5
+KURUNCHI HOTEL (Pure Veg),Mushroom Puffs 2 Nos,,60,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,6
+KURUNCHI HOTEL (Pure Veg),Egg Puffs 1 No,,30,,,,0,0,Non Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,7
+KURUNCHI HOTEL (Pure Veg),Gulab Jamun 2 Nos,,70,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,8
+KURUNCHI HOTEL (Pure Veg),Bread 1 Pkt,,50,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,9
+KURUNCHI HOTEL (Pure Veg),Wheat Bread 1 Pkt,,50,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,10
+KURUNCHI HOTEL (Pure Veg),Rusk 1 Pkt,,60,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,11
+KURUNCHI HOTEL (Pure Veg),Potato Chips 1 Pkt,,80,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,12
+KURUNCHI HOTEL (Pure Veg),Milk Sweet 250 Grams,,210,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,13
+KURUNCHI HOTEL (Pure Veg),Special Mysore Pak 250 Grams,,200,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,14
+KURUNCHI HOTEL (Pure Veg),Laddu 250 Grams,,200,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,15
+KURUNCHI HOTEL (Pure Veg),Ottu Pakkoda (50 Grams,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,16
+KURUNCHI HOTEL (Pure Veg),Kara Boondhi 250 Grams,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,17
+KURUNCHI HOTEL (Pure Veg),Mixer 250 Grams,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,18
+KURUNCHI HOTEL (Pure Veg),Sweet Boondi 250 Grams,,200,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,19
+KURUNCHI HOTEL (Pure Veg),Salted Cookies 250 Grams,,200,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,20
+KURUNCHI HOTEL (Pure Veg),Coconut Cookies 250 Grams,,200,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,21
+KURUNCHI HOTEL (Pure Veg),Nendram Chips 250 Grams,,180,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,22
+KURUNCHI HOTEL (Pure Veg),Pavarkai Chips 250 Grams,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,23
+KURUNCHI HOTEL (Pure Veg),Andra Muruku 250 Grams,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,24
+KURUNCHI HOTEL (Pure Veg),Karasev 250 Grams,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,25
+KURUNCHI HOTEL (Pure Veg),Thattuvadai 250 Grams,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,26
+KURUNCHI HOTEL (Pure Veg),Omapodi 250 Grams,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,27
+KURUNCHI HOTEL (Pure Veg),Samosa 2 Pcs,,50,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,7,28
+KURUNCHI HOTEL (Pure Veg),Cake 1 Pc,,30,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,1
+KURUNCHI HOTEL (Pure Veg),Mouse Cake 1 Pc,,120,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,2
+KURUNCHI HOTEL (Pure Veg),Roll Cake 1 Pc,,70,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,3
+KURUNCHI HOTEL (Pure Veg),Black Forest Cake 1 Pc,,100,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,4
+KURUNCHI HOTEL (Pure Veg),White Forest Cake 1 Pc,,70,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,5
+KURUNCHI HOTEL (Pure Veg),Plain Cake 250 Grams,,180,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,6
+KURUNCHI HOTEL (Pure Veg),Puding Cake 2 Pcs,,70,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,7
+KURUNCHI HOTEL (Pure Veg),Birthday Cake 1/2 Kg,,350,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,8
+KURUNCHI HOTEL (Pure Veg),Birthday Cake 1 Kg,,600,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,9
+KURUNCHI HOTEL (Pure Veg),Black Forest Cake 1/2 Kg,,500,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,10
+KURUNCHI HOTEL (Pure Veg),Black Forest Cake 1 Kg,,900,,,,5,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake,,0,,8,11
+KURUNCHI HOTEL (Pure Veg),Tea,,80,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,9,1
+KURUNCHI HOTEL (Pure Veg),Coffee,,90,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,9,2
+KURUNCHI HOTEL (Pure Veg),Milk,,60,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,9,3
+KURUNCHI HOTEL (Pure Veg),Horlicks Milk,,90,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,9,4
+KURUNCHI HOTEL (Pure Veg),Boost Milk,,90,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,9,5
+KURUNCHI HOTEL (Pure Veg),Jaggery Milk,,80,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,9,6
+KURUNCHI HOTEL (Pure Veg),Apple Juice,,100,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,10,1
+KURUNCHI HOTEL (Pure Veg),Pomogranate Juice,,150,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,10,2
+KURUNCHI HOTEL (Pure Veg),Lemon Juice,,50,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,10,3
+KURUNCHI HOTEL (Pure Veg),Musk Juice,,100,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,10,4
+KURUNCHI HOTEL (Pure Veg),Orange Juice,,100,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,10,5
+KURUNCHI HOTEL (Pure Veg),Vanila Shake,,100,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,1
+KURUNCHI HOTEL (Pure Veg),Chocolate Shake,,160,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,2
+KURUNCHI HOTEL (Pure Veg),Badam Milk Cold,,80,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,3
+KURUNCHI HOTEL (Pure Veg),Rose Milk,,80,,,,0,0,Veg,08:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,11,4

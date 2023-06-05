@@ -1,0 +1,67 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+shree GANESH BHAVAN,Idly (2 Pcs),,35,,,,1.75,0,Veg,,,07:30AM,11:00AM,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+shree GANESH BHAVAN,Pongal,,60,,,,3,0,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+shree GANESH BHAVAN,Vadai,,15,,,,0.75,0,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+shree GANESH BHAVAN,Poori Masal,,60,,,,3,0,Veg,,,07:30AM,11:00AM,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+shree GANESH BHAVAN,Chola Poori,,95,,,,4.75,0,Veg,,,07:30AM,11:00AM,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+shree GANESH BHAVAN,Chappathi (1Set),,53,,,,2.65,0,Veg,,,07:30AM,11:00AM,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+shree GANESH BHAVAN,Chilli Idly,,72,,,,3.6,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+shree GANESH BHAVAN,Curey Leaves Idly,,72,,,,3.6,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,2
+shree GANESH BHAVAN,Ghee Sambar Idly,,60,,,,3,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,2
+shree GANESH BHAVAN,Idly Machurian,,72,,,,3.6,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,2
+shree GANESH BHAVAN,Mini Idly,,65,,,,3.25,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,2
+shree GANESH BHAVAN,Pepper Idly,,72,,,,3.6,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,2
+shree GANESH BHAVAN,Podi Idly,,72,,,,3.6,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,7,2
+shree GANESH BHAVAN,Special Idly,,35,,,,1.75,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,3
+shree GANESH BHAVAN,Parotta With Kuruma,,47,,,,2.35,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,3
+shree GANESH BHAVAN,Kothu Parotta,,70,,,,3.5,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,3
+shree GANESH BHAVAN,Chilli Parotta,,70,,,,3.5,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,3
+shree GANESH BHAVAN,Roast,,70,,,,3.5,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,3
+shree GANESH BHAVAN,Ghee Roast,,75,,,,3.75,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,4
+shree GANESH BHAVAN,Mushroom Roast,,105,,,,5.25,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,4
+shree GANESH BHAVAN,Gopi Roast,,105,,,,5.25,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,4
+shree GANESH BHAVAN,Green Peas Roast,,105,,,,5.25,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,4
+shree GANESH BHAVAN,Panner Roast,,105,,,,5.25,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,4
+shree GANESH BHAVAN,Podi Roast,,95,,,,4.75,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,4
+shree GANESH BHAVAN,Onion Roast,,95,,,,4.75,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,7,4
+shree GANESH BHAVAN,Onion Rava Roast,,95,,,,4.75,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,5
+shree GANESH BHAVAN,Ghee Rava masala Roast,,130,,,,6.5,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,5
+shree GANESH BHAVAN,Podi Rava Roast,,100,,,,5,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,5
+shree GANESH BHAVAN,Onion Utthappam,,110,,,,5.5,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,5
+shree GANESH BHAVAN,Soft Dosai With Garlic Gravy(2pcs),,75,,,,3.75,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+shree GANESH BHAVAN,Set Dosai With Vadacurry(2pcs),,70,,,,3.5,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,2
+shree GANESH BHAVAN,V I P Special Meals,"White Rice, Sambar,Rasam,Pulikulambu, Kuttu,Poriyal,Payasam,Appalam,Vadai,Chappathi with Kuruma,",140,,,,7,0,Veg,12:30PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,3
+shree GANESH BHAVAN,Chilli Mushroom,,130,,,,6.5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,4
+shree GANESH BHAVAN,Chilli Gobi,,100,,,,5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,5
+shree GANESH BHAVAN,Cashewnut Gobi,,130,,,,6.5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,6,6
+shree GANESH BHAVAN,Cashewnut Mushroom,,140,,,,7,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,7
+shree GANESH BHAVAN,Cashewnut Panner,,160,,,,8,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+shree GANESH BHAVAN,Green Chilli Gobi,,120,,,,6,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,1
+shree GANESH BHAVAN,Green Chilli Mushroom,,130,,,,6.5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,2
+shree GANESH BHAVAN,Gobi Manchuriyan,,120,,,,6,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,3
+shree GANESH BHAVAN,Green Chilli Panner,,160,,,,8,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,6,4
+shree GANESH BHAVAN,Hot Pepper Mushroom,,140,,,,7,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,5
+shree GANESH BHAVAN,Mushroom 65,,120,,,,6,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,8,6
+shree GANESH BHAVAN,Mushroom Manchuriyan,,140,,,,7,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,9,7
+shree GANESH BHAVAN,Panner Machuriyan,,160,,,,8,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,10,8
+shree GANESH BHAVAN,Panner Podimas,,160,,,,8,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,11,9
+shree GANESH BHAVAN,Red Chilli Gobi,,120,,,,6,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,12,10
+shree GANESH BHAVAN,Red Chilli Mushroom,,140,,,,7,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+shree GANESH BHAVAN,Curd Rice,,60,,,,3,0,Veg,012:30PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,2,2
+shree GANESH BHAVAN,lemon Rice,,60,,,,3,0,Veg,012:30PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,3
+shree GANESH BHAVAN,Mushroom Biriyani,,90,,,,4.5,0,Veg,012:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,4,4
+shree GANESH BHAVAN,Tomatto Rice,,60,,,,3,0,Veg,012:30PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,5,5
+shree GANESH BHAVAN,Veg Biriyani,,75,,,,3.75,0,Veg,012:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,6,6
+shree GANESH BHAVAN,Veg Noodles,,100,,,,5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,7
+shree GANESH BHAVAN,Mushroom Noodles,,120,,,,6,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,8
+shree GANESH BHAVAN,Panner Noodles,,130,,,,6.5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,9,9
+shree GANESH BHAVAN,Baby Corn Noodles,,130,,,,6.5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,10,10
+shree GANESH BHAVAN,Gobi Noodles,,130,,,,6.5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,11
+shree GANESH BHAVAN,Veg Rice,,100,,,,5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,12
+shree GANESH BHAVAN,Gobi Fried Rice,,120,,,,6,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+shree GANESH BHAVAN,panner Fried Rice,,130,,,,6.5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,2,2
+shree GANESH BHAVAN,Baby Corn Fried Rice,,130,,,,6.5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,3
+shree GANESH BHAVAN,Mushroom Fried Rice,,120,,,,6,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,4
+shree GANESH BHAVAN,Mushroom Maharani,,120,,,,6,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,5
+shree GANESH BHAVAN,Gobi Maharani,,120,,,,6,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,6,6
+shree GANESH BHAVAN,Baby Corn Maharani,,130,,,,6.5,0,Veg,011:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,7

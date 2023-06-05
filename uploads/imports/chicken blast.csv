@@ -1,0 +1,18 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+CHICK BLAST,Blue Mania,,65,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,0,,1,1
+CHICK BLAST,Mama Berry,,65,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,0,,2,1
+CHICK BLAST,Cool Mint,,65,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,0,,3,1
+CHICK BLAST,Apple Green,,65,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,0,,4,1
+CHICK BLAST,Melon Blasty,,65,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,0,,5,1
+CHICK BLAST,Angel Venni,,75,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Smoothiees,,0,,1,1
+CHICK BLAST,Sctoch Breakers,,75,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Smoothiees,,0,,2,1
+CHICK BLAST,Lovely Choco,,75,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Smoothiees,,0,,3,1
+CHICK BLAST,Darling Berry,,75,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Smoothiees,,0,,4,1
+CHICK BLAST,Crunchy Choco,,90,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy Blast,,0,,1,1
+CHICK BLAST,Nut n Scotch,,90,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy Blast,,0,,2,1
+CHICK BLAST,Berry n Crush,,9,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy Blast,,0,,3,1
+CHICK BLAST,Classic Cappuccino,,90,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy Blast,,0,,4,1
+CHICK BLAST,Oreo Shake,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,1,1
+CHICK BLAST,Kitkat  Shake,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,1
+CHICK BLAST,Banana Butter Scotch Shake,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,3,1
+CHICK BLAST,Cold Coffee Syrup Shake,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,4,1

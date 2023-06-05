@@ -1,0 +1,321 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SUPRABAATHAM COFFEE POINT,Veg Clear Soup,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+SUPRABAATHAM COFFEE POINT,Cream Of Veg Soup,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+SUPRABAATHAM COFFEE POINT,Cream Of Mushroom Soup,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+SUPRABAATHAM COFFEE POINT,Cream Of Tomato Soup,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+SUPRABAATHAM COFFEE POINT,Hot & Sour Veg Soup,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+SUPRABAATHAM COFFEE POINT,Sweet Corn Veg Soup,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+SUPRABAATHAM COFFEE POINT,Veg Chettinad Soup,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+SUPRABAATHAM COFFEE POINT,Today'S Special Soup,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+SUPRABAATHAM COFFEE POINT,French Fries,,75,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+SUPRABAATHAM COFFEE POINT,Veg Nuggets,,75,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+SUPRABAATHAM COFFEE POINT,Smileys,,75,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+SUPRABAATHAM COFFEE POINT,Paneer Roll,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+SUPRABAATHAM COFFEE POINT,Veg Roll,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+SUPRABAATHAM COFFEE POINT,Gobi 65,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+SUPRABAATHAM COFFEE POINT,Mushroom 65,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,7
+SUPRABAATHAM COFFEE POINT,Paneer 65,,140,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+SUPRABAATHAM COFFEE POINT,Baby Corn 65,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,9
+SUPRABAATHAM COFFEE POINT,Baby Corn Salt & Pepper,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,10
+SUPRABAATHAM COFFEE POINT,Gobi Peper Fry,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,11
+SUPRABAATHAM COFFEE POINT,Mushroom Pepper Fry,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,12
+SUPRABAATHAM COFFEE POINT,Baby Corn Pepper Fry,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,13
+SUPRABAATHAM COFFEE POINT,Paneer Pepper Fry,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,14
+SUPRABAATHAM COFFEE POINT,Pappad,,35,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,15
+SUPRABAATHAM COFFEE POINT,Masala Pappad,,45,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,16
+SUPRABAATHAM COFFEE POINT,Masala Peanut,,45,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,17
+SUPRABAATHAM COFFEE POINT,Aloo Jeera,,95,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,18
+SUPRABAATHAM COFFEE POINT,Veg Pulav,,120,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavs,,0,,3,1
+SUPRABAATHAM COFFEE POINT,Jeera Pulav,,120,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavs,,0,,3,2
+SUPRABAATHAM COFFEE POINT,Paneer Pulav,,150,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavs,,0,,3,3
+SUPRABAATHAM COFFEE POINT,Mushroom Pulav,,140,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavs,,0,,3,4
+SUPRABAATHAM COFFEE POINT,Kashmiri Pulav,,150,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavs,,0,,3,5
+SUPRABAATHAM COFFEE POINT,Veg Fried Rice,,90,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,1
+SUPRABAATHAM COFFEE POINT,Gobi Fried Rice,,90,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,2
+SUPRABAATHAM COFFEE POINT,Mushroom Fried Rice,,110,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,3
+SUPRABAATHAM COFFEE POINT,Paneer Fried Rice,,120,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,4
+SUPRABAATHAM COFFEE POINT,Schezwan Veg Fried Rice,,120,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,5
+SUPRABAATHAM COFFEE POINT,Schezwan Mushroom Fried Rice,,140,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,6
+SUPRABAATHAM COFFEE POINT,Schezwan Paneer Fried Rice,,150,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,7
+SUPRABAATHAM COFFEE POINT,Schezwan Baby Corn Fried Rice,,150,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,8
+SUPRABAATHAM COFFEE POINT,American Chopsuey,,160,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,9
+SUPRABAATHAM COFFEE POINT,Veg Noodles,,90,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,1
+SUPRABAATHAM COFFEE POINT,Gobi Noodles,,90,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,2
+SUPRABAATHAM COFFEE POINT,Mushroom Noodles,,110,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,3
+SUPRABAATHAM COFFEE POINT,Paneer Noodles,,130,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,4
+SUPRABAATHAM COFFEE POINT,Schezwan Veg Noodles,,120,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,5
+SUPRABAATHAM COFFEE POINT,Schezwan Mushroom Noodles,,140,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,6
+SUPRABAATHAM COFFEE POINT,Schezwan Paneer Noodles,,150,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,7
+SUPRABAATHAM COFFEE POINT,Schezwan Baby Corn Noodles,,150,,,,10,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,8
+SUPRABAATHAM COFFEE POINT,Paneer Butter Masala,,160,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,1
+SUPRABAATHAM COFFEE POINT,Kadai Paneer,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,2
+SUPRABAATHAM COFFEE POINT,Palak Paneer,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,3
+SUPRABAATHAM COFFEE POINT,Shahi Paneer,,160,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,4
+SUPRABAATHAM COFFEE POINT,Paneer Kofta,,160,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,5
+SUPRABAATHAM COFFEE POINT,Paneer Tikka Masala,,200,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,6
+SUPRABAATHAM COFFEE POINT,Paneer Bhurji,,170,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,7
+SUPRABAATHAM COFFEE POINT,Mushroom Paneer Masala,,160,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,8
+SUPRABAATHAM COFFEE POINT,Mushroom Masala,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,9
+SUPRABAATHAM COFFEE POINT,Mushroom Baby Corn Masala,,140,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,10
+SUPRABAATHAM COFFEE POINT,Baby Corn Masala,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,11
+SUPRABAATHAM COFFEE POINT,Aloo Gobi Masala,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,12
+SUPRABAATHAM COFFEE POINT,Bhindi Masala,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,13
+SUPRABAATHAM COFFEE POINT,Capsicum Masala,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,14
+SUPRABAATHAM COFFEE POINT,Green Peas Masala,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,15
+SUPRABAATHAM COFFEE POINT,Kadai Veg,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,16
+SUPRABAATHAM COFFEE POINT,Veg Chettinad,,140,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,17
+SUPRABAATHAM COFFEE POINT,Mix Veg Curry,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,18
+SUPRABAATHAM COFFEE POINT,Dhal Palak,,100,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,19
+SUPRABAATHAM COFFEE POINT,Dhal Makhani,,100,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,20
+SUPRABAATHAM COFFEE POINT,Dhal Fry,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,21
+SUPRABAATHAM COFFEE POINT,Rajma Dhal,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,North Indian Sabji,,0,,6,22
+SUPRABAATHAM COFFEE POINT,Phulka (2 Nos),,35,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,1
+SUPRABAATHAM COFFEE POINT,Plain Roti,,30,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,2
+SUPRABAATHAM COFFEE POINT,Plain Naan,,35,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,3
+SUPRABAATHAM COFFEE POINT,Plain Kulcha,,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,4
+SUPRABAATHAM COFFEE POINT,Butter Roti,,35,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,5
+SUPRABAATHAM COFFEE POINT,Butter Naan,,45,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,6
+SUPRABAATHAM COFFEE POINT,Butter Kulcha,,50,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,7
+SUPRABAATHAM COFFEE POINT,Methi Roti,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,8
+SUPRABAATHAM COFFEE POINT,Tawa Aloo Parotta,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,9
+SUPRABAATHAM COFFEE POINT,Stuffed Roti,"Aloo, Paneer, Veg",90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,10
+SUPRABAATHAM COFFEE POINT,Stuffed Naan,"Aloo, Paneer, Veg",90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,11
+SUPRABAATHAM COFFEE POINT,Stuffed Kulcha,"Aloo, Paneer, Veg",90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,12
+SUPRABAATHAM COFFEE POINT,Kashmiri Naan,,100,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,13
+SUPRABAATHAM COFFEE POINT,Rumali Roti,,50,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,14
+SUPRABAATHAM COFFEE POINT,Masala Kulcha,,75,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,15
+SUPRABAATHAM COFFEE POINT,Ragi Ball,,55,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,1
+SUPRABAATHAM COFFEE POINT,Wheat Ball,,55,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,2
+SUPRABAATHAM COFFEE POINT,Rice Ball,,50,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,3
+SUPRABAATHAM COFFEE POINT,Vaazhai Poo Pakoda,,70,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,4
+SUPRABAATHAM COFFEE POINT,Raagi Pakoda,,70,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,5
+SUPRABAATHAM COFFEE POINT,Sambar Rice,,60,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,6
+SUPRABAATHAM COFFEE POINT,Rasam Rice,,60,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,7
+SUPRABAATHAM COFFEE POINT,Veg Briyani,,80,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,8
+SUPRABAATHAM COFFEE POINT,Chapatti (2 Nos),,50,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,9
+SUPRABAATHAM COFFEE POINT,Parotta (2 Nos),,60,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,10
+SUPRABAATHAM COFFEE POINT,North Indian Meals,,180,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,11
+SUPRABAATHAM COFFEE POINT,Quick Lunch,,140,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,12
+SUPRABAATHAM COFFEE POINT,Curd Rice,,50,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,13
+SUPRABAATHAM COFFEE POINT,Small Onion Curd Rice,,70,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,8,14
+SUPRABAATHAM COFFEE POINT,Gobi Manchurian,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Manchurian Dishes,,0,,9,1
+SUPRABAATHAM COFFEE POINT,Veg Manchurian,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Manchurian Dishes,,0,,9,2
+SUPRABAATHAM COFFEE POINT,Baby Corn Manchurian,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Manchurian Dishes,,0,,9,3
+SUPRABAATHAM COFFEE POINT,Mushroom Manchurian,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Manchurian Dishes,,0,,9,4
+SUPRABAATHAM COFFEE POINT,Paneer Manchurian,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Manchurian Dishes,,0,,9,5
+SUPRABAATHAM COFFEE POINT,Chilly Gobi,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chilly Dishes,,0,,10,1
+SUPRABAATHAM COFFEE POINT,Chilly Baby Corn,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chilly Dishes,,0,,10,2
+SUPRABAATHAM COFFEE POINT,Chilly Mushroom,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chilly Dishes,,0,,10,3
+SUPRABAATHAM COFFEE POINT,Chilly Paneer,,160,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chilly Dishes,,0,,10,4
+SUPRABAATHAM COFFEE POINT,Lime,,50,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,1
+SUPRABAATHAM COFFEE POINT,Mint Lime,,65,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,2
+SUPRABAATHAM COFFEE POINT,Mosambi,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,3
+SUPRABAATHAM COFFEE POINT,Orange,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,4
+SUPRABAATHAM COFFEE POINT,Mango,,100,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,5
+SUPRABAATHAM COFFEE POINT,Pineapple,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,6
+SUPRABAATHAM COFFEE POINT,Grape,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,7
+SUPRABAATHAM COFFEE POINT,Apple,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,8
+SUPRABAATHAM COFFEE POINT,Pomegranate,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,9
+SUPRABAATHAM COFFEE POINT,Water Melon,,70,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,10
+SUPRABAATHAM COFFEE POINT,Musk Melon,,70,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,11
+SUPRABAATHAM COFFEE POINT,Mix Fruits,,70,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,12
+SUPRABAATHAM COFFEE POINT,Carrot,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,13
+SUPRABAATHAM COFFEE POINT,Seasonal Fruit,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,14
+SUPRABAATHAM COFFEE POINT,Guava,,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,15
+SUPRABAATHAM COFFEE POINT,Lychee,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,16
+SUPRABAATHAM COFFEE POINT,Strawbeery,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,17
+SUPRABAATHAM COFFEE POINT,Butter Fruit,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,18
+SUPRABAATHAM COFFEE POINT,Anjoor,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,19
+SUPRABAATHAM COFFEE POINT,Rose Milk,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,20
+SUPRABAATHAM COFFEE POINT,Fresh Lime Soda,,65,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,21
+SUPRABAATHAM COFFEE POINT,Lassi,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,22
+SUPRABAATHAM COFFEE POINT,Nannari Sarbath,,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,23
+SUPRABAATHAM COFFEE POINT,Jigar Thanda,,100,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,24
+SUPRABAATHAM COFFEE POINT,Badam Milk,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,25
+SUPRABAATHAM COFFEE POINT,Cold Boost,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,26
+SUPRABAATHAM COFFEE POINT,Cold Horlicks,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,27
+SUPRABAATHAM COFFEE POINT,Cold Coffee,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,28
+SUPRABAATHAM COFFEE POINT,Ice Tea,,20,,,,0,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,29
+SUPRABAATHAM COFFEE POINT,Ice Coffee,,30,,,,0,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,30
+SUPRABAATHAM COFFEE POINT,Ice Horlicks,,50,,,,0,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,31
+SUPRABAATHAM COFFEE POINT,Ice Bournvita,,50,,,,0,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Cold Beverages,,0,,11,32
+SUPRABAATHAM COFFEE POINT,South Village Meals,"Rahi Ball, Wheat Ball, Rice Ball, Verkadalai Chutney, Keera Kuzhambu, Vatha Kuzhambu, Pacha Puli Rasam, Natural Honey With Curd Sweet",150,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,1
+SUPRABAATHAM COFFEE POINT,South Indian Special Meals,"Sweet Of The Day, White Rice, Ghee Paruppu Podi, Daal Sambar, Vatha Kuzhambu, More Kuzhambu, Keera Kootu, Rasam, Butter Milk, Sundal, Curd, Poriyal Kootu, Pachadi, Pickle, Thuvaiyal, Appalam",120,,,,10,,Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,2
+SUPRABAATHAM COFFEE POINT,Gulab Jamun,,30,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,1
+SUPRABAATHAM COFFEE POINT,Basundi,,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,2
+SUPRABAATHAM COFFEE POINT,Rasmalai,,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,3
+SUPRABAATHAM COFFEE POINT,Sweet Of The Day,,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,4
+SUPRABAATHAM COFFEE POINT,Fruit Salad,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,5
+SUPRABAATHAM COFFEE POINT,Gulab Jamun With Ice Cream,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,6
+SUPRABAATHAM COFFEE POINT,Fruit Salad With Ice Cream,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,7
+SUPRABAATHAM COFFEE POINT,Lychee With Ice Cream,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,8
+SUPRABAATHAM COFFEE POINT,Cheery Jubliyet,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,9
+SUPRABAATHAM COFFEE POINT,Peach Melba,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,10
+SUPRABAATHAM COFFEE POINT,Apricot With Ice Cream,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,11
+SUPRABAATHAM COFFEE POINT,Fruit Jackpot,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,12
+SUPRABAATHAM COFFEE POINT,Black Forest With Ice Cream,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,13
+SUPRABAATHAM COFFEE POINT,Hot Chocolate Fudge,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,14
+SUPRABAATHAM COFFEE POINT,Almond Fudge,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,15
+SUPRABAATHAM COFFEE POINT,Chocolate Fudge,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,16
+SUPRABAATHAM COFFEE POINT,Death By Chocolate,,140,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,17
+SUPRABAATHAM COFFEE POINT,Dry Fruit Sundae,,140,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,18
+SUPRABAATHAM COFFEE POINT,Royal Butter Scotch,,140,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,19
+SUPRABAATHAM COFFEE POINT,Oreo With Ice Cream,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,20
+SUPRABAATHAM COFFEE POINT,Browine,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,21
+SUPRABAATHAM COFFEE POINT,Browine With Ice Cream,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,22
+SUPRABAATHAM COFFEE POINT,Custard,,70,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,23
+SUPRABAATHAM COFFEE POINT,Trilogy,,150,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Deserts,,0,,13,24
+SUPRABAATHAM COFFEE POINT,Sweet Lassi,,30,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,1
+SUPRABAATHAM COFFEE POINT,Banana Lassi,,40,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,2
+SUPRABAATHAM COFFEE POINT,Mango Lassi,,50,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,3
+SUPRABAATHAM COFFEE POINT,Chocolate Lassi,,50,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,4
+SUPRABAATHAM COFFEE POINT,Falooda,,70,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,5
+SUPRABAATHAM COFFEE POINT,Fruit Salad,,60,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,6
+SUPRABAATHAM COFFEE POINT,Fruit Salad With Ice,,80,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,7
+SUPRABAATHAM COFFEE POINT,Jai Jeera,,30,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,8
+SUPRABAATHAM COFFEE POINT,Rose Milk,,40,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,9
+SUPRABAATHAM COFFEE POINT,Orange,,40,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,10
+SUPRABAATHAM COFFEE POINT,Mint Lime Soda,,40,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,11
+SUPRABAATHAM COFFEE POINT,Carrot Ginger Lime,,50,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,12
+SUPRABAATHAM COFFEE POINT,Watermelon Lime,,50,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,13
+SUPRABAATHAM COFFEE POINT,Pineapple Lime,,50,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices & Desserts,,0,,14,14
+SUPRABAATHAM COFFEE POINT,Lemon Mojito,,60,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,1
+SUPRABAATHAM COFFEE POINT,Momma Mojito,,60,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,2
+SUPRABAATHAM COFFEE POINT,Watermelon Mojito,,60,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,3
+SUPRABAATHAM COFFEE POINT,Litchi Mojito,,60,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,4
+SUPRABAATHAM COFFEE POINT,Pomegranate Mojito,,70,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,5
+SUPRABAATHAM COFFEE POINT,Stawberry Mojito,,70,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,6
+SUPRABAATHAM COFFEE POINT,Litchi With Ice Cream,,90,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,7
+SUPRABAATHAM COFFEE POINT,Browine With Ice Cream,,90,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,8
+SUPRABAATHAM COFFEE POINT,Black Forest With Ice Cream,,90,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,9
+SUPRABAATHAM COFFEE POINT,Pista With Ice Cream,,110,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,10
+SUPRABAATHAM COFFEE POINT,Cashewnut With Ice Cream,,140,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,11
+SUPRABAATHAM COFFEE POINT,Almond With Ice Cream,,140,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,12
+SUPRABAATHAM COFFEE POINT,Banana Split,,90,,,,10,,Veg,11:00PAM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,15,13
+SUPRABAATHAM COFFEE POINT,Irani Chai (250 Ml),,60,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,1,,16,1
+SUPRABAATHAM COFFEE POINT,Coffee (250 Ml),,70,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,2
+SUPRABAATHAM COFFEE POINT,Lemon Tea (250 Ml),,70,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,3
+SUPRABAATHAM COFFEE POINT,Green Tea (250 Ml),,70,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,4
+SUPRABAATHAM COFFEE POINT,Boost (250 Ml),,100,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,5
+SUPRABAATHAM COFFEE POINT,Horlicks (250 Ml),,100,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,6
+SUPRABAATHAM COFFEE POINT,Sukku Milk (250 Ml),,100,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,7
+SUPRABAATHAM COFFEE POINT,Sugar Nut Milk (250 Ml),,100,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,8
+SUPRABAATHAM COFFEE POINT,Chocolate Milk (250 Ml),,100,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,9
+SUPRABAATHAM COFFEE POINT,Ginger Tea (250 Ml),,90,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,10
+SUPRABAATHAM COFFEE POINT,Mint Tea (250 Ml),,90,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,11
+SUPRABAATHAM COFFEE POINT,Irani Chai (500 Ml),,90,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,12
+SUPRABAATHAM COFFEE POINT,Coffee (500 Ml),,100,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,13
+SUPRABAATHAM COFFEE POINT,Lemon Tea (500 Ml),,100,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,14
+SUPRABAATHAM COFFEE POINT,Green Tea (500 Ml),,100,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,15
+SUPRABAATHAM COFFEE POINT,Boost (500 Ml),,140,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,16
+SUPRABAATHAM COFFEE POINT,Horlicks (500 Ml),,140,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,17
+SUPRABAATHAM COFFEE POINT,Sukku Milk (500 Ml),,140,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,18
+SUPRABAATHAM COFFEE POINT,Sugar Nut Milk (500 Ml),,140,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,19
+SUPRABAATHAM COFFEE POINT,Chocolate Milk (500 Ml),,140,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,20
+SUPRABAATHAM COFFEE POINT,Ginger Tea (500 Ml),,130,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,21
+SUPRABAATHAM COFFEE POINT,Mint Tea (500 Ml),,130,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,22
+SUPRABAATHAM COFFEE POINT,Irani Chai (1L),,150,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,23
+SUPRABAATHAM COFFEE POINT,Coffee (1L),,160,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,24
+SUPRABAATHAM COFFEE POINT,Lemon Tea (1L),,160,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,25
+SUPRABAATHAM COFFEE POINT,Green Tea (1L),,160,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,26
+SUPRABAATHAM COFFEE POINT,Boost (1L),,210,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,27
+SUPRABAATHAM COFFEE POINT,Horlicks (1L),,210,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,28
+SUPRABAATHAM COFFEE POINT,Sukku Milk (1L),,210,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,29
+SUPRABAATHAM COFFEE POINT,Sugar Nut Milk (1L),,210,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,30
+SUPRABAATHAM COFFEE POINT,Chocolate Milk (1L),,210,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,31
+SUPRABAATHAM COFFEE POINT,Ginger Tea (1L),,180,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,0,,16,32
+SUPRABAATHAM COFFEE POINT,Mint Tea (1L),,180,,,,0,,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refreshments,,1,,16,33
+SUPRABAATHAM COFFEE POINT,Salt Biscuit (4 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,1
+SUPRABAATHAM COFFEE POINT,Rusk (4 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,2
+SUPRABAATHAM COFFEE POINT,Bun (4 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,3
+SUPRABAATHAM COFFEE POINT,Tea Cake (4 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,4
+SUPRABAATHAM COFFEE POINT,Samosa (2 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,5
+SUPRABAATHAM COFFEE POINT,Vada (2 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,6
+SUPRABAATHAM COFFEE POINT,Baji (2 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,7
+SUPRABAATHAM COFFEE POINT,Idiyappam (2 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,8
+SUPRABAATHAM COFFEE POINT,Masala Vada (2 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,9
+SUPRABAATHAM COFFEE POINT,Sundal (2 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,10
+SUPRABAATHAM COFFEE POINT,Kuli Paniyaram (5 Nos),,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,11
+SUPRABAATHAM COFFEE POINT,Chakkara Pongal,,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,12
+SUPRABAATHAM COFFEE POINT,Melagu Pongal,,20,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,17,13
+SUPRABAATHAM COFFEE POINT,Green Salad,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,18,1
+SUPRABAATHAM COFFEE POINT,Onion Salad,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,18,2
+SUPRABAATHAM COFFEE POINT,Cucumber Salad,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,18,3
+SUPRABAATHAM COFFEE POINT,Carrot Salad,,60,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,18,4
+SUPRABAATHAM COFFEE POINT,Pineapple Salad,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,18,5
+SUPRABAATHAM COFFEE POINT,Litchi Shake,,80,,,,10,,Veg,11:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,1
+SUPRABAATHAM COFFEE POINT,Dates Shake,,90,,,,10,,Veg,11:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,2
+SUPRABAATHAM COFFEE POINT,Pista Shake,,90,,,,10,,Veg,11:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,3
+SUPRABAATHAM COFFEE POINT,Oreo Shake,,110,,,,10,,Veg,11:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,4
+SUPRABAATHAM COFFEE POINT,Banana Shake,,90,,,,10,,Veg,11:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,5
+SUPRABAATHAM COFFEE POINT,Vanilla Shake,,150,,,,10,,Veg,11:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,6
+SUPRABAATHAM COFFEE POINT,Strawberry Shake,,160,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,7
+SUPRABAATHAM COFFEE POINT,Chocolate Shake,,160,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,8
+SUPRABAATHAM COFFEE POINT,Butter Scotch Shake,,180,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,9
+SUPRABAATHAM COFFEE POINT,Pista,,170,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,19,10
+SUPRABAATHAM COFFEE POINT,Small Onion Uthappam,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,20,1
+SUPRABAATHAM COFFEE POINT,Pepper Ghee Uthappam,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,20,2
+SUPRABAATHAM COFFEE POINT,Tomato Uthappam,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,20,3
+SUPRABAATHAM COFFEE POINT,Cheese Uthappam,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,20,4
+SUPRABAATHAM COFFEE POINT,Paneer Uthappam,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,20,5
+SUPRABAATHAM COFFEE POINT,Podi Uthappam,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,20,6
+SUPRABAATHAM COFFEE POINT,3 Taste Uthappam,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,20,7
+SUPRABAATHAM COFFEE POINT,5 Taste Uthappam,,180,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,20,8
+SUPRABAATHAM COFFEE POINT,Vanilla Milkshake,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,21,1
+SUPRABAATHAM COFFEE POINT,Strawbeery Milkshake,,120,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,21,2
+SUPRABAATHAM COFFEE POINT,Chocolate Milkashake,,140,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,21,3
+SUPRABAATHAM COFFEE POINT,Butter Scotch Milkshake,,140,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,21,4
+SUPRABAATHAM COFFEE POINT,Pista Milkshake,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,21,5
+SUPRABAATHAM COFFEE POINT,Vanilla (Single Scoop),,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,1
+SUPRABAATHAM COFFEE POINT,Strawberry (Single Scoop),,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,2
+SUPRABAATHAM COFFEE POINT,Butter Scotch (Single Scoop),,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,3
+SUPRABAATHAM COFFEE POINT,Chocolate (Single Scoop),,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,4
+SUPRABAATHAM COFFEE POINT,Ice Cream Of The Day (Single Scoop),,40,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,5
+SUPRABAATHAM COFFEE POINT,Vanilla (Double Scoop),,75,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,6
+SUPRABAATHAM COFFEE POINT,Strawberry (Double Scoop),,75,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,7
+SUPRABAATHAM COFFEE POINT,Butter Scotch (Double Scoop),,75,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,8
+SUPRABAATHAM COFFEE POINT,Chocolate (Double Scoop),,75,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,9
+SUPRABAATHAM COFFEE POINT,Ice Cream Of The Day (Double Scoop),,75,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,22,10
+SUPRABAATHAM COFFEE POINT,Bonda (2 Nos),,30,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,1
+SUPRABAATHAM COFFEE POINT,Bajji (2 Nos),,30,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,2
+SUPRABAATHAM COFFEE POINT,Veg Cutlet (2 Nos),,45,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,3
+SUPRABAATHAM COFFEE POINT,Mini Bonda + Veg Paaya  (6 Nos),,45,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,4
+SUPRABAATHAM COFFEE POINT,Vaazhai Poo Vadai (3 Nos),,50,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,5
+SUPRABAATHAM COFFEE POINT,Verkadalai Vadai (3 Nos),,50,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,6
+SUPRABAATHAM COFFEE POINT,Raagi Vadai (3 Nos),,50,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,7
+SUPRABAATHAM COFFEE POINT,Kambu Vadai (3 Nos),,50,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,8
+SUPRABAATHAM COFFEE POINT,Kuli Paniyaram (6 Nos),,45,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,9
+SUPRABAATHAM COFFEE POINT,Idly With Paaya (2 Nos),,70,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,10
+SUPRABAATHAM COFFEE POINT,Virudhunagar Parotta (2 Nos),,100,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,11
+SUPRABAATHAM COFFEE POINT,Kotthu Parotta,,100,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,12
+SUPRABAATHAM COFFEE POINT,Chilli Parotta,,90,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,13
+SUPRABAATHAM COFFEE POINT,Podi Idly,,70,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,14
+SUPRABAATHAM COFFEE POINT,Chilli Idly,,70,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,15
+SUPRABAATHAM COFFEE POINT,Paneer Stuffed Idly (2 Nos),,50,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,16
+SUPRABAATHAM COFFEE POINT,Kanchipuram Idly (2 Nos),,50,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,17
+SUPRABAATHAM COFFEE POINT,Thattai Idly (2 Nos),,60,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,18
+SUPRABAATHAM COFFEE POINT,Idiyappam,,45,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,19
+SUPRABAATHAM COFFEE POINT,Thaalicha Idiyappam,,100,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,20
+SUPRABAATHAM COFFEE POINT,Paneer Kotthu Idiyappam,,100,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,21
+SUPRABAATHAM COFFEE POINT,Lemon Idiyappam,,100,,,,10,,Veg,,,,,,,04:00PM,07:30PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,23,22
+SUPRABAATHAM COFFEE POINT,Plain Dosa,,50,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,1
+SUPRABAATHAM COFFEE POINT,Ragi Dosa,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,2
+SUPRABAATHAM COFFEE POINT,Kambu Dosa,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,3
+SUPRABAATHAM COFFEE POINT,Wheat Dosa,,80,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,4
+SUPRABAATHAM COFFEE POINT,Diet Dosa,,100,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,5
+SUPRABAATHAM COFFEE POINT,Andhra Dosa,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,6
+SUPRABAATHAM COFFEE POINT,Set Dosa,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,7
+SUPRABAATHAM COFFEE POINT,Bangalore Masala Dosa,,85,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,8
+SUPRABAATHAM COFFEE POINT,Mysore Masala Dosai,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,9
+SUPRABAATHAM COFFEE POINT,Keera Dosai,,100,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,10
+SUPRABAATHAM COFFEE POINT,Cashew Nut Masala Dosai,,130,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,11
+SUPRABAATHAM COFFEE POINT,Kambu Rava Dosai,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,12
+SUPRABAATHAM COFFEE POINT,Benna Dosai,,90,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,13
+SUPRABAATHAM COFFEE POINT,Tomato Rava Dosai,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,14
+SUPRABAATHAM COFFEE POINT,Pineapple Ragi Dosai,,110,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,15
+SUPRABAATHAM COFFEE POINT,Today'S Special Dosai,,140,,,,10,,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosas,,0,,24,16
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,, 

@@ -1,0 +1,33 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SPOT,Chicken 65 (6Pcs),,176,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+SPOT,Chicken Lollipop (6Pcs),,203,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+SPOT,Grill Full,,468,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,1
+SPOT,Grill Half,,234,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,1
+SPOT,Pepper Grill Full,,515,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,1,,1,1
+SPOT,Pepper Grill Half,,258,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,1
+SPOT,Regular Chicken Sandwich,,108,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,1,1
+SPOT,Regular Chicken Cheese Sandwich,,122,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,1,1
+SPOT,Special Chicken Sandwich,,135,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,1,1
+SPOT,Special Chicken Cheese Sandwich,,162,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,1,1
+SPOT,Bread Omlet,,68,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,1,1
+SPOT,Bread Chicken Omlet,,135,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,1,1
+SPOT,Shawarma Regular Roll,,82,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+SPOT,Shawarma Regular Pepper Roll,,94,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+SPOT,Shawarma Regular Cheese Roll,,106,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+SPOT,Shawarma Regular Mexican Roll,,106,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,1,,1,1
+SPOT,Shawarma Regular Peri Peri Roll,,106,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+SPOT,Shawarma Special Roll,,117,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+SPOT,Shawarma Special Pepper Roll,,140,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+SPOT,Shawarma Special Cheese Roll,,165,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+SPOT,Shawarma Special Mexican Roll,,165,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+SPOT,Shawarma Special Peri Peri Roll,,165,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+SPOT,Shawarma Regular Plate,,152,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,2
+SPOT,Shawarma Regular Pepper Plate,,176,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,3
+SPOT,Shawarma Regular Cheese Plate,,199,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+SPOT,Shawarma Regular Mexican Plate,,199,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+SPOT,Shawarma Regular Peri Peri Plate,,199,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+SPOT,Shawarma Special Plate,,222,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+SPOT,Shawarma Special Pepper Plate,,270,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+SPOT,Shawarma Special Cheese Plate,,316,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+SPOT,Shawarma Special Mexican Plate,,316,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+SPOT,Shawarma Special Peri Peri Plate,,316,,,,0,0,Non Veg,04:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1

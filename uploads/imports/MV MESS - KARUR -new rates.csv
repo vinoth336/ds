@@ -1,0 +1,31 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+M V MESS VENGAMEDU,Omellet,,24,,,,0.6,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,2,1
+M V MESS VENGAMEDU,Kalaki,,24,,,,0.6,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,2,2
+M V MESS VENGAMEDU,Chicken Kalaki,,95,,,,2.25,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,2,2
+M V MESS VENGAMEDU,Kulambu Kalaki,,30,,,,0.6,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,2,3
+M V MESS VENGAMEDU,Egg Poriyal,,30,,,,0.6,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,2,4
+M V MESS VENGAMEDU, Meal ,,119,,,,5.85,0,Non Veg,,,,,12:00PM,03:30PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,3
+M V MESS VENGAMEDU,Parotta (2 Nos),,34,,,,0.72,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,1
+M V MESS VENGAMEDU,Bun Parotta,,24,,,,0.6,0,Veg,,,,,,,06:00PM,09:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,2
+M V MESS VENGAMEDU,Ceylon Parotta,,77,,,,1.95,0,Veg,,,,,,,06:00PM,09:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,3
+M V MESS VENGAMEDU,Chilli Parotta,,83,,,,2.1,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,4
+M V MESS VENGAMEDU,Chicken Veechu Parotta,,213,,,,5.4,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,4
+M V MESS VENGAMEDU,Egg Kothu Parotta,,83,,,,1.8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,5
+M V MESS VENGAMEDU,Chicken Kothu Parotta,,213,,,,5.4,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,4,6
+M V MESS VENGAMEDU,Garlic Dosai,,48,,,,1.05,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,1
+M V MESS VENGAMEDU,Kal Dosai(2pcs),,95,,,,1.38,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,2
+M V MESS VENGAMEDU,Plain Dosai,,42,,,,1.05,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,3
+M V MESS VENGAMEDU,Podi Dosai,,48,,,,1.05,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,4
+M V MESS VENGAMEDU,Pepper Dosai,,48,,,,0.9,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,5
+M V MESS VENGAMEDU,Onion Dosai,,60,,,,1.38,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,7
+M V MESS VENGAMEDU,Egg Dosai,,48,,,,1.05,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,8
+M V MESS VENGAMEDU,Kaima Dosai,,89,,,,4.14,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,9
+M V MESS VENGAMEDU,Chicken Dosai,,166,,,,3.45,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,5,10
+M V MESS VENGAMEDU,Chilli Chicken 1 Plate,,119,,,,2.4,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,6,1
+M V MESS VENGAMEDU,Pepper Chicken,,189,,,,4.14,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,6,2
+M V MESS VENGAMEDU,Chicken Manchurian,,213,,,,4.5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,6,3
+M V MESS VENGAMEDU,Chicken Gravy,,189,,,,3.45,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,6,4
+M V MESS VENGAMEDU,Chicken Pallipalayam,,189,,,,4.14,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Special,,0,,7,1
+M V MESS VENGAMEDU,Nattukozhi Gravy,,213,,,,4.8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Special,,0,,7,2
+M V MESS VENGAMEDU,Veechu Parotta,,30,,,,4.8,0,Non Veg,,,,,,,06:00PM,09:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,7,
+M V MESS VENGAMEDU,Egg Veechu Parotta,,48,,,,4.8,0,Non Veg,,,,,,,06:00PM,09:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,7,

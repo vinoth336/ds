@@ -1,0 +1,315 @@
+restaurant_name,food_item,description,price,special_price,special_from,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOTEL DELHI DHARBAR   Reddipalayam,Plain Naan,,33,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,1
+HOTEL DELHI DHARBAR   Reddipalayam,Butter Naan,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,2
+HOTEL DELHI DHARBAR   Reddipalayam,Tandoori Rotti,,33,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,3
+HOTEL DELHI DHARBAR   Reddipalayam,Butter Rotti,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,4
+HOTEL DELHI DHARBAR   Reddipalayam,Romali Rotti,,33,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,4
+HOTEL DELHI DHARBAR   Reddipalayam,Puthina Rotti,,39,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,5
+HOTEL DELHI DHARBAR   Reddipalayam,Puthina Parotta,,39,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,6
+HOTEL DELHI DHARBAR   Reddipalayam,Tandoori Parotta,,33,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,7
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Parotta,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,8
+HOTEL DELHI DHARBAR   Reddipalayam,Kashmiri Naan,,55,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,8
+HOTEL DELHI DHARBAR   Reddipalayam,Latcher Parotta,,39,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,1,8
+HOTEL DELHI DHARBAR   Reddipalayam,Allu Parotta,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,5,2
+HOTEL DELHI DHARBAR   Reddipalayam,Plain Kulcha,,39,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,5,3
+HOTEL DELHI DHARBAR   Reddipalayam,Butter Kulcha,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,5,4
+HOTEL DELHI DHARBAR   Reddipalayam,Stuffed KulchaVeg,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,5,5
+HOTEL DELHI DHARBAR   Reddipalayam,Stuffed Kulcha Non Veg,,39,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,5,6
+HOTEL DELHI DHARBAR   Reddipalayam,Garlic Naan,,39,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,5,7
+HOTEL DELHI DHARBAR   Reddipalayam,Cheese Naan,,50,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,5,8
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Naan,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,5,9
+HOTEL DELHI DHARBAR   Reddipalayam,Spl Tandoori Naan,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti Item,,0,,5,10
+HOTEL DELHI DHARBAR   Reddipalayam,Plain Grill Full,,396,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,8
+HOTEL DELHI DHARBAR   Reddipalayam,Plain Grill Half,,209,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,10
+HOTEL DELHI DHARBAR   Reddipalayam,Plain Grill Quorter,,110,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,11
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Grill Full,,440,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,2,1
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Grill half,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,2,2
+HOTEL DELHI DHARBAR   Reddipalayam,Chettinadu Grill Full,,440,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,2,3
+HOTEL DELHI DHARBAR   Reddipalayam,Chettinadu Grill Half,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,2,4
+HOTEL DELHI DHARBAR   Reddipalayam,Monika Grill Full,,440,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,2,5
+HOTEL DELHI DHARBAR   Reddipalayam,Monika Grill Half,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,5,1
+HOTEL DELHI DHARBAR   Reddipalayam,Tandoori Chicken Full,,418,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,5,10
+HOTEL DELHI DHARBAR   Reddipalayam,Tandoori Chicken Half,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,5,11
+HOTEL DELHI DHARBAR   Reddipalayam,Tandoori Chicke Quarter,,110,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,5,12
+HOTEL DELHI DHARBAR   Reddipalayam,Tandoori Pepper Dry Full,,440,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,5,13
+HOTEL DELHI DHARBAR   Reddipalayam,Tandoori pepper Dry Half,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,6,1
+HOTEL DELHI DHARBAR   Reddipalayam,Tandoori Monika Full,,440,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,6,2
+HOTEL DELHI DHARBAR   Reddipalayam,Tandoori Monika Half,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,6,3
+HOTEL DELHI DHARBAR   Reddipalayam,Paneer Tikka Dry,,198,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,6,3
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Sikh Kebab Dry,,209,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,6,3
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi Tikka Dry,,198,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,6,3
+HOTEL DELHI DHARBAR   Reddipalayam,Paneer Sikh Kebab Dry,,209,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,6,3
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Tikka,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,4
+HOTEL DELHI DHARBAR   Reddipalayam,Hariyali Kebab,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,5
+HOTEL DELHI DHARBAR   Reddipalayam,Reshmi Kebab,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,6
+HOTEL DELHI DHARBAR   Reddipalayam,Malai Tikka,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,7
+HOTEL DELHI DHARBAR   Reddipalayam,Anghura Kebab,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,8
+HOTEL DELHI DHARBAR   Reddipalayam,Kashmiri Tikka,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,9
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Bubisha,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,10
+HOTEL DELHI DHARBAR   Reddipalayam,Sushmitha Chicken,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,11
+HOTEL DELHI DHARBAR   Reddipalayam,Tangiri Kebab 3Pcs,,264,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,12
+HOTEL DELHI DHARBAR   Reddipalayam,Afghani Kebab,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,12
+HOTEL DELHI DHARBAR   Reddipalayam,Arabian Barbique Full,,462,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,9,13
+HOTEL DELHI DHARBAR   Reddipalayam,Arabian Barbique Half,,231,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,9,14
+HOTEL DELHI DHARBAR   Reddipalayam,Arabian Barbique Quarter,,121,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,9,14
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Barbique Full,,484,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,9,20
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Barbique Half,,242,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,9,21
+HOTEL DELHI DHARBAR   Reddipalayam,Chettinadu Barbique Full,,462,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,9,22
+HOTEL DELHI DHARBAR   Reddipalayam,Chettinadu Barbique Half,,231,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,9,26
+HOTEL DELHI DHARBAR   Reddipalayam,Alfaham Chicken Full,,462,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,7,1
+HOTEL DELHI DHARBAR   Reddipalayam,Alfaham Chicken Half,,231,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,7,2
+HOTEL DELHI DHARBAR   Reddipalayam,Alfaham Chicken Quarter,,121,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,7,2
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Alfaham Full,,462,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,7,3
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Alfaham Half,,242,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,4,1
+HOTEL DELHI DHARBAR   Reddipalayam,Monika Alfaham Full,,484,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,4,2
+HOTEL DELHI DHARBAR   Reddipalayam,Monika Alfaham Half,,242,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,4,3
+HOTEL DELHI DHARBAR   Reddipalayam,Chettinadu Alfaham Full,,484,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,4,4
+HOTEL DELHI DHARBAR   Reddipalayam,Chettinadu Alfaham Half,,242,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbique Items,,0,,4,5
+HOTEL DELHI DHARBAR   Reddipalayam,Shawarma Roll,,77,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,12
+HOTEL DELHI DHARBAR   Reddipalayam,Spl Shawarma Roll,,121,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,13
+HOTEL DELHI DHARBAR   Reddipalayam,SPL Shawarma Plate,,130,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,14
+HOTEL DELHI DHARBAR   Reddipalayam,Shawarma Plate,,121,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,14
+HOTEL DELHI DHARBAR   Reddipalayam,Lemon Shawarma Roll,,88,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,15
+HOTEL DELHI DHARBAR   Reddipalayam,Lemon Shawarma Plate,,121,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,16
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Shawarma Roll,,88,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,17
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Shawarma Plate,,121,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,18
+HOTEL DELHI DHARBAR   Reddipalayam,Spicy Shawarma Roll,,88,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,19
+HOTEL DELHI DHARBAR   Reddipalayam,Spicy Shawarma Plate,,121,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,20
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Shawarma Roll,,66,,,0,Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,21
+HOTEL DELHI DHARBAR   Reddipalayam,Spl Shawarma Plate,,130,,,0,Non Veg,05:30PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Items,,0,,4,21
+HOTEL DELHI DHARBAR   Reddipalayam,Dharbar Spl Chicken,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,4,22
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Spring Roll,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,4,23
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Lolly Pop 4 Pcs,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,15,1
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Leg 3 Pcs,,198,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,15,1
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Chilly Dry,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,15,2
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Manjuriyan,,154,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,1
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken 65,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,1
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Chicken Dry,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,2
+HOTEL DELHI DHARBAR   Reddipalayam,Garlic Chicken Dry,,154,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,3
+HOTEL DELHI DHARBAR   Reddipalayam,Ginger Chicken Dry,,154,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,4
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Monika Dry,,154,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,5
+HOTEL DELHI DHARBAR   Reddipalayam,Schezuan Chicken Dry,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,6
+HOTEL DELHI DHARBAR   Reddipalayam,Drogen Chicken,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,6
+HOTEL DELHI DHARBAR   Reddipalayam,Cashew Chicken,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,6
+HOTEL DELHI DHARBAR   Reddipalayam,Hunan Chicken,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,8
+HOTEL DELHI DHARBAR   Reddipalayam,Coconut Chicken,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,14,8
+HOTEL DELHI DHARBAR   Reddipalayam,Malaysian Chicken,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,1
+HOTEL DELHI DHARBAR   Reddipalayam,Indonesia Chicken,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,2
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Balls 6 Pcs,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,3
+HOTEL DELHI DHARBAR   Reddipalayam,Hongkong Chicken,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,4
+HOTEL DELHI DHARBAR   Reddipalayam,Indonesia Ginger Chicken,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,5
+HOTEL DELHI DHARBAR   Reddipalayam,Spicy Kodi Kora,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,6
+HOTEL DELHI DHARBAR   Reddipalayam,DrumStick,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,7
+HOTEL DELHI DHARBAR   Reddipalayam,Kerala Chicken Fry,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,8
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Leg 3Pcs,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,9
+HOTEL DELHI DHARBAR   Reddipalayam,Hot Pepper Chicken,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,13,1
+HOTEL DELHI DHARBAR   Reddipalayam,Pichu Pota Kari,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,13,2
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Sukka,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,3
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Onion Fry,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,4
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Pepper Fry,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,4
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Pepper & Salt,,242,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,5
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Manjurian,,253,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,6
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton PalliPalayam,,253,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,7
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Chettinadu,,242,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,8
+HOTEL DELHI DHARBAR   Reddipalayam,Kadai Mutton Gravy,,253,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,9
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Balls 6pcs,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,9
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Monika,,242,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,10
+HOTEL DELHI DHARBAR   Reddipalayam,Kuchi Mutton,,242,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dry Items,,0,,13,11
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Fried Rice,,88,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,13,12
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Schezuan Fried Rice,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,13,13
+HOTEL DELHI DHARBAR   Reddipalayam,Mixed Veg Fried Rice,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,13,14
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Fried Rice,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,13,15
+HOTEL DELHI DHARBAR   Reddipalayam,Mushroom Fried Rice,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,13,16
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi Fried Rice,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,13,16
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Noodles,,88,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,13,17
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Schezuan Noodles,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,13,18
+HOTEL DELHI DHARBAR   Reddipalayam,Mixed Veg Noodles,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,13,19
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Noodles,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,13,20
+HOTEL DELHI DHARBAR   Reddipalayam,Mushroom Noodles,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,10,1
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi Noodles,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,10,1
+HOTEL DELHI DHARBAR   Reddipalayam,Egg Fried Rice,,110,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Egg Schezwan Fried Rice,,121,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Fried Rice,,132,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Schezwan Fried Rice,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Hong Kong Fried Rice,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Triple Fried Rice,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Fried Rice,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Schezwan Fried Rice,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mixed Non Veg Fried Rice,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Prawn Fried Rice,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Prawn Schezwan Fried Rice,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Noodles,,132,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Schezwan Noodles,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Hong Kong Nooldes,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Hakka Noodles,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mixed Non Veg Noodles,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Prawn Noodles,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Prawn Schezwan Noodles,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Egg Noodles,,110,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Egg Schezwan Noodles,,121,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Noodles,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Schezwan Noodles,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Biriyani,,242,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,2
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Mugal Biriyani,,264,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,3
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Biriyani,,132,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,4
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Mugal Biriyani,,154,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,5
+HOTEL DELHI DHARBAR   Reddipalayam,NattuKozhi Biriyani,,253,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,6
+HOTEL DELHI DHARBAR   Reddipalayam,Prawn Biriyani,,209,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,7
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Plain Biriyani,,110,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,7
+HOTEL DELHI DHARBAR   Reddipalayam,Plain Biriyani,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,7
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Biriyani 1 Kg,Serves 2 Members,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,7
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Biriyani 2 Kg,Serves 3 to 4 Members,440,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,7
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Biriyani 1 Kg,Serves 2 Members,440,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,7
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Biriyani 2 Kg,Serves 3 to 4 Members,880,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,7
+HOTEL DELHI DHARBAR   Reddipalayam,Plain Biriyani 1 Kg,Serves 2 Members,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,7
+HOTEL DELHI DHARBAR   Reddipalayam,Mixed Veg Curry,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,10,7
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi Masala,,154,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,10,8
+HOTEL DELHI DHARBAR   Reddipalayam,Kadai Gobi,,165,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,10,8
+HOTEL DELHI DHARBAR   Reddipalayam,Green Peas Masala,,154,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,10,9
+HOTEL DELHI DHARBAR   Reddipalayam,Kadai Mushroom Chettinadu,,165,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,11,1
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi Kalimiruchi,,154,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,11,2
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Mushroom Masala,,154,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,11,2
+HOTEL DELHI DHARBAR   Reddipalayam,Kadai Paneer,,165,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,11,3
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Kadai,,154,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,11,5
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Methi Masala,,165,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,11,6
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Butter Masala,,165,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,11,7
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Masala,,154,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,11,7
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Pulao,,99,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavo,,0,,11,8
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Pulao,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavo,,0,,11,9
+HOTEL DELHI DHARBAR   Reddipalayam,Green Peas Pulao,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavo,,0,,3,1
+HOTEL DELHI DHARBAR   Reddipalayam,Mushroom Pulao,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavo,,0,,3,2
+HOTEL DELHI DHARBAR   Reddipalayam,Kashmiri Pulao,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavo,,0,,3,3
+HOTEL DELHI DHARBAR   Reddipalayam,Jeera Rice,,99,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavo,,0,,3,4
+HOTEL DELHI DHARBAR   Reddipalayam,Ghee Rice,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulavo,,0,,3,5
+HOTEL DELHI DHARBAR   Reddipalayam,Hyderabad Chicken,,198,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,3,6
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken PalliPalayam,,198,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,3,7
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Chettinadu,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,3,8
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Chicken Masala,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,3,9
+HOTEL DELHI DHARBAR   Reddipalayam,Kerala Chicken Masala,,198,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,3,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Varuval Gravy,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,3,11
+HOTEL DELHI DHARBAR   Reddipalayam,Garlic Chicken Gravy,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,3,12
+HOTEL DELHI DHARBAR   Reddipalayam,Ginger Chicken Gravy,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,3,13
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Monika Gravy,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,3,14
+HOTEL DELHI DHARBAR   Reddipalayam,Schezuan Chicken Gravy,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,1
+HOTEL DELHI DHARBAR   Reddipalayam,Cocount Chicken Gravy,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,2
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Manjuraiyan Gravy,,187,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,3
+HOTEL DELHI DHARBAR   Reddipalayam,Butter Chicken Masala,,198,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,4
+HOTEL DELHI DHARBAR   Reddipalayam,Banaras Chicken Gravy,,209,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,4
+HOTEL DELHI DHARBAR   Reddipalayam,Kadai Chicken Gravy,,198,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,4
+HOTEL DELHI DHARBAR   Reddipalayam,Darbar Special Chicken Gravy,,209,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,4
+HOTEL DELHI DHARBAR   Reddipalayam,Noipoor Hungama Chicken Gravy,,209,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,4
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Tikka Masala,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,5
+HOTEL DELHI DHARBAR   Reddipalayam,Egg Masala,,132,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,6
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Gravy 2pcs,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Chicken Gravy,,0,,8,7
+HOTEL DELHI DHARBAR   Reddipalayam,Parotta 2 Pcs with Veg Kuruma,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,8,8
+HOTEL DELHI DHARBAR   Reddipalayam,Parotta 2 Pcs with Non Veg Kulambu,,44,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,8,8
+HOTEL DELHI DHARBAR   Reddipalayam,Bun Parotta 1 Pc with Veg Kuruma,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,8,9
+HOTEL DELHI DHARBAR   Reddipalayam,Bun Parotta 1 Pc with Non Veg Kulambu,,44,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,8,9
+HOTEL DELHI DHARBAR   Reddipalayam,Veechu Parotta,,39,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,8,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Veechu Parotta,,55,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,8,11
+HOTEL DELHI DHARBAR   Reddipalayam,Egg Lapa,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,1
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Lapa,,132,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,1,,16,2
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Lapa,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,3
+HOTEL DELHI DHARBAR   Reddipalayam,Butter Parotta,,33,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,4
+HOTEL DELHI DHARBAR   Reddipalayam,Caulifower Porotta,,66,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,5
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Parotta,,66,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,5
+HOTEL DELHI DHARBAR   Reddipalayam,Mushroom Parotta,,66,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,5
+HOTEL DELHI DHARBAR   Reddipalayam,Kothu Parotta,,99,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,4
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Kothu Parotta,,132,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,5
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Kothu Parotta,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,5
+HOTEL DELHI DHARBAR   Reddipalayam,Chilly Parotta,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,16,5
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Clear Soup,,77,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,16,5
+HOTEL DELHI DHARBAR   Reddipalayam,Sweet Corn Veg Soup,,77,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,16,6
+HOTEL DELHI DHARBAR   Reddipalayam,Corn Noodles Soup,,77,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,16,7
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Hot & Sour Soup,,77,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,16,8
+HOTEL DELHI DHARBAR   Reddipalayam,Veg Manchoo Soup,,77,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,16,9
+HOTEL DELHI DHARBAR   Reddipalayam,French Onion Soup,,77,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,16,10
+HOTEL DELHI DHARBAR   Reddipalayam,Tomato Soup,,77,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,16,11
+HOTEL DELHI DHARBAR   Reddipalayam,Baby Corn Soup,,77,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,16,12
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Clear Soup,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,16,13
+HOTEL DELHI DHARBAR   Reddipalayam,Sweet Corn Chicken Soup,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,16,14
+HOTEL DELHI DHARBAR   Reddipalayam,Tomato Egg Drop Soup,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,16,15
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Hot & Sour Soup,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,16,16
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Soup,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,16,17
+HOTEL DELHI DHARBAR   Reddipalayam,Pepper Chicken Soup,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,16,18
+HOTEL DELHI DHARBAR   Reddipalayam,Chicken Manchoo Soup,,99,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,16,17
+HOTEL DELHI DHARBAR   Reddipalayam,Baby Corn Pepper Fry,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,16,18
+HOTEL DELHI DHARBAR   Reddipalayam,Golden Fried Baby Corn,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,16,18
+HOTEL DELHI DHARBAR   Reddipalayam,Baby Corn Chiily,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,16,18
+HOTEL DELHI DHARBAR   Reddipalayam,Baby Corn Manjuriyan,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,16,18
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi Chilly,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,1
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi Monika,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,1
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi Pepper Fry,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,1
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi Manjuriyan,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,2
+HOTEL DELHI DHARBAR   Reddipalayam,Honey Chilly Gobi ,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,3
+HOTEL DELHI DHARBAR   Reddipalayam,Honey Chilly Potato,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,3
+HOTEL DELHI DHARBAR   Reddipalayam,Gobi 65,,88,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,3
+HOTEL DELHI DHARBAR   Reddipalayam,Mushroom Manjurian,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,4
+HOTEL DELHI DHARBAR   Reddipalayam,Mushroom 65,,99,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,1,,17,5
+HOTEL DELHI DHARBAR   Reddipalayam,Mushroom Chilly,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,6
+HOTEL DELHI DHARBAR   Reddipalayam,Golden Fry Mushroom,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,7
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Manjuriyan,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,8
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Monika,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,7
+HOTEL DELHI DHARBAR   Reddipalayam,Dragon Panner ,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,8
+HOTEL DELHI DHARBAR   Reddipalayam,Hunan Panner,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,18,2
+HOTEL DELHI DHARBAR   Reddipalayam,Panner Chilly ,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,18,3
+HOTEL DELHI DHARBAR   Reddipalayam,Paneer Pepper Fry,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,18,4
+HOTEL DELHI DHARBAR   Reddipalayam,Methi Paneer,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,18,5
+HOTEL DELHI DHARBAR   Reddipalayam,Prawns Manjuriyan,,209,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,6
+HOTEL DELHI DHARBAR   Reddipalayam,Prawn  Chilly Pepper Fry,,209,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,7
+HOTEL DELHI DHARBAR   Reddipalayam,Prawn Chilly,,198,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,8
+HOTEL DELHI DHARBAR   Reddipalayam,Prawn Masala,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,8
+HOTEL DELHI DHARBAR   Reddipalayam,Prawn Chettinadu Masala,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,8
+HOTEL DELHI DHARBAR   Reddipalayam,Kadai Prawn ,,220,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,8
+HOTEL DELHI DHARBAR   Reddipalayam,Fish Manjuriyan,,154,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,9
+HOTEL DELHI DHARBAR   Reddipalayam,Fish Masala,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Fish Curry,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Fish Chettinadu Masala,,176,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chilli Fish,,132,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Vanjaram Fish,,165,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Nethili Fish,,110,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Idiyapam with Aatukal Paya,,132,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Idiyappam,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Idiyapam 2 Pcs,,33,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Idiyappam,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mutton Kola Urandai 1pc,,17,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Kola Uruntai,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chappathi 1Set,,33,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Omblete,,20,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Kuboos Plain 1Pcs,,15,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Extra Mionius,,10,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Carrot Halwa 100grms,,40,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dessert,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,NaattuKozhi Varuval,,231,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Spl,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Royal Falooda,,99,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Kulfi Falooda,,110,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mixed Icecream Falooda,,121,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chocolate Falooda,,132,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Dry Fruits Falooda,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Special Falooda,,154,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Vanila Shake,,99,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Strawberry Shake,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Butterscotch Shake,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chocolate Shake,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mango Shake,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Badam Shake,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Pista Shake,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Cold Coffee,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Black Current Shake,,143,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Sweet Lassi,,55,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Strawberry Lassi,,66,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mango Lassi,,66,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chocolate Oreo Shake,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Oreo Shake Special,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Brownie Oreo Shake,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Oreo Shake Special,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Kitkat Oreo Shake,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Oreo Shake Special,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Butterscotch Oreo Shake,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Oreo Shake Special,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Blackcurrent Oreo Shake,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Oreo Shake Special,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Pista Oreo Shake,,143,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Oreo Shake Special,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Fresh Lemon Soda,,22,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Lemon Soda,,33,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Lime and Mint Soda,,44,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Strawberry Mojito,,66,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Blue Curraco,,66,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Fruit Custard,,121,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Custard Special,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Butterscotch Ice Cream,,88,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Chocolate Ice Cream,,88,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Strawberry Ice Cream,,88,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Mango Ice Cream,,88,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Jackfruit Ice Cream,,110,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,18,10
+HOTEL DELHI DHARBAR   Reddipalayam,Blackcurrent Ice Cream,,110,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,18,10

@@ -1,0 +1,23 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THIRUPPATHI FISH SHOP,Parai Fish 1 kg,,200,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dam Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Kattla Fish 1kg,,220,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dam Fish,,0,,1,2
+THIRUPPATHI FISH SHOP,Rogu Fish 1 kg,,200,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dam Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Small  Jilaypi(Pattai) 1kg,,150,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dam Fish,,0,,1,2
+THIRUPPATHI FISH SHOP,Big Jilaypi 1kg,,200,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dam Fish,,0,,1,3
+THIRUPPATHI FISH SHOP,Neimen 1kg,,150,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dam Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Vanjaram Fish 1kg,,800,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Ooli 1kg,,500,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Iral (prawn)1kg,,500,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Nethilli 1kg,,350,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Sangara Fish,,350,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Aaila Fish,,350,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Velaimen 1kg,,500,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Manjaparai Fish 1kg,,600,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Vaval Fish 1kg,,700,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Nandu(crab)1kg,,350,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Kilimen 1kg,,500,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Koduva 1kg,,700,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,White Vaval Fish (1kg),,550,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Salmon Fish (1 kg),,700,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Mural Fish (1kg),,500,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1
+THIRUPPATHI FISH SHOP,Poo Fish (1kg),,500,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Fish,,0,,1,1

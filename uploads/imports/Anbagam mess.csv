@@ -1,0 +1,37 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+ANBAGAM MESS,Meal,,87,,,,0,0,Non Veg,11:30AM,03:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,1,1
+ANBAGAM MESS,Chicken Biriyani,,115,,,,0,0,Non Veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,1
+ANBAGAM MESS,Egg Biriyani,,81,,,,0,0,Non Veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,3,1
+ANBAGAM MESS,Plain Biriyani,,69,,,,0,0,Non Veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,4,1
+ANBAGAM MESS,Parotta,,14,,,,0,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+ANBAGAM MESS,Veechu Parotta,,18,,,,0,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+ANBAGAM MESS,Bun Parotta,,20,,,,0,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+ANBAGAM MESS,Chilly Parotta,,69,,,,0,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,2
+ANBAGAM MESS,Kothu Parotta,,69,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,2
+ANBAGAM MESS,Egg Veechu Parotta,,35,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,2
+ANBAGAM MESS,Egg Lappa,,46,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,2
+ANBAGAM MESS,Tomato Rice,,41,,,,0,0,Veg,11:30AM,03:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,6,2
+ANBAGAM MESS,Curd Rice,,41,,,,0,0,Veg,11:30AM,03:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,7,2
+ANBAGAM MESS,Sambar Rice,,41,,,,0,0,Veg,11:30AM,03:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,1,3
+ANBAGAM MESS,Lemon Rice,,41,,,,0,0,Veg,11:30AM,03:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,3
+ANBAGAM MESS,Chicken Fried Rice,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,3
+ANBAGAM MESS,Egg Fried Rice,,81,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,3
+ANBAGAM MESS,Veg Fried Rice,,69,,,,0,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,5,3
+ANBAGAM MESS,Chicken Noodles,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,4
+ANBAGAM MESS,Egg Noodles,,81,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,4
+ANBAGAM MESS,Veg Noodles,,69,,,,0,0,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,3,4
+ANBAGAM MESS,NattuKozhi Varuval,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,4,4
+ANBAGAM MESS,NattuKozhi UppuKari,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,5,4
+ANBAGAM MESS,Mutton Varuval,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,6,4
+ANBAGAM MESS,Kaadi Roast,,92,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,7,4
+ANBAGAM MESS,Kaadi Chilly,,92,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,1,5
+ANBAGAM MESS,Kaadai Gravy,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,2,5
+ANBAGAM MESS,kaadai Fry,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,1,1
+ANBAGAM MESS,Chicken Chilly Boneless,,81,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,3,1
+ANBAGAM MESS,Chicken Chilly Bone,,58,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,4,1
+ANBAGAM MESS,Chicken LolliPop 1set,,69,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,6,1
+ANBAGAM MESS,Chicken Leg Pc,,58,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,1,2
+ANBAGAM MESS,Chettinadu Chicken,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,2,2
+ANBAGAM MESS,Pepper Chicken,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,3,2
+ANBAGAM MESS,Chicken Pallipalayam,,127,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,4,2
+ANBAGAM MESS,Chicken Manchuriyan,,115,,,,0,0,Non Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Startes,,0,,5,2

@@ -1,0 +1,211 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DELHI INIPPAGAM - GANDHIGRAMAM,Rose Milk ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Lemon Juice ,,25,,,,1,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Pineapple Juice ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Grape Juice ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Water Melon ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Orange Juice ,,65,,,,3,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Apple Juice ,,75,,,,3,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Madhulai Juice ,,75,,,,4,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,8
+DELHI INIPPAGAM - GANDHIGRAMAM,Mulam Fruit Juice ,,45,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Sathukudi Juice ,,65,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Sappota Juice ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,11
+DELHI INIPPAGAM - GANDHIGRAMAM,Nellikai Juice ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,12
+DELHI INIPPAGAM - GANDHIGRAMAM,Vennila Cake (1 Kg),,440,,,,20,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Vennila Cake (1/2 Kg),,220,,,,20,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Honey Cake (1 Kg),,480,,,,20,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Honey Cake (1/2 Kg),,240,,,,20,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Chocolate Cake (1 Kg),,480,,,,20,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Chocolate Cake (1/2 Kg),,240,,,,20,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Strawberry Butter Cream (1 Kg),,600,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Strawberry Butter Cream (1/2 Kg),,300,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Pinapple Butter Cream (1 Kg),,600,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Pinapple Butter Cream (1/2 Kg),,300,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Mango Butter Cream (1 Kg),,600,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Mango Butter Cream (1/2 Kg),,300,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Orange Butter Cream (1 Kg),,600,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Orange Butter Cream (1/2 Kg),,300,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Black Current Butter (1 Kg),,600,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,8
+DELHI INIPPAGAM - GANDHIGRAMAM,Black Current Butter (1/2 Kg),,300,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,8
+DELHI INIPPAGAM - GANDHIGRAMAM,Blueberry Butter Cream (1 Kg),,600,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Blueberry Butter Cream (1/2 Kg),,300,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Butter Scotch Butter Cream (1 Kg),,600,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Butter Scotch Butter Cream (1 Kg),,300,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Black Forest Cake (1 Kg),,600,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Black Forest Cake (1/2 Kg),,300,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,1
+DELHI INIPPAGAM - GANDHIGRAMAM,White Forest Cake (1 Kg),,600,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,2
+DELHI INIPPAGAM - GANDHIGRAMAM,White Forest Cake (1/2 Kg),,300,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Strawberry Fresh Cream Cake (1 Kg),,800,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Strawberry Fresh Cream Cake (1/2 Kg),,400,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Pinnapple Fresh Cream Cake (1 Kg),,800,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Pinnapple Fresh Cream Cake (1/2Kg),,400,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Manggo Fresh Cream Cake (1 Kg),,800,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Manggo Fresh Cream Cake (1/2Kg),,400,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Black Current Fresh Cream Cake (1 Kg),,800,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Black Current Fresh Cream Cake (1/2 Kg),,400,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Blueberry Fresh Cake (1 Kg),,800,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Blueberry Fresh Cake (1/2 Kg),,400,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Butter Scotch Fresh Cream Cake (1 Kg),,800,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Butter Scotch Fresh Cream Cake (1/2 Kg),,400,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Chocolate Fresh Cream Cake (1 Kg),,800,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,11
+DELHI INIPPAGAM - GANDHIGRAMAM,Chocolate Fresh Cream Cake (1/2 Kg),,400,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,11
+DELHI INIPPAGAM - GANDHIGRAMAM,Choco Truffle (1 Kg),,900,,,,25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,12
+DELHI INIPPAGAM - GANDHIGRAMAM,Sweet Boondhi (100 Gms),,34,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Jangiri (100 Gms),,40,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Badhusha (100 Gms),,40,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Chadhirakala (100 Gms),,44,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Bombay Halwa (100 Gms),,44,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Badam Halwa (100 Gms),,72,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Dry Fruit Halwa (100 Gms),,48,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Wheat Halwa (100 Gms),,44,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Dates Parfi (100 Gms),,48,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,8
+DELHI INIPPAGAM - GANDHIGRAMAM,Mixed Sweets (100 Gms),,42,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Panaras Halwa (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Carret Halwa (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,11
+DELHI INIPPAGAM - GANDHIGRAMAM,Milk Halwa (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,12
+DELHI INIPPAGAM - GANDHIGRAMAM,Pal Kova (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,13
+DELHI INIPPAGAM - GANDHIGRAMAM,Milk Sweets (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,14
+DELHI INIPPAGAM - GANDHIGRAMAM,Sone Papudi (100 Gms),,48,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,15
+DELHI INIPPAGAM - GANDHIGRAMAM,Mothi Parfi (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,17
+DELHI INIPPAGAM - GANDHIGRAMAM,Carret Parfi (100 Gms),,50,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,18
+DELHI INIPPAGAM - GANDHIGRAMAM,Milk Cake (100 Gms),,50,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,19
+DELHI INIPPAGAM - GANDHIGRAMAM,Milk Peda (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,20
+DELHI INIPPAGAM - GANDHIGRAMAM,Laddu (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,21
+DELHI INIPPAGAM - GANDHIGRAMAM,Bengali Sweets (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,22
+DELHI INIPPAGAM - GANDHIGRAMAM,Dry Jamoon (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,23
+DELHI INIPPAGAM - GANDHIGRAMAM,Paneer Jamoon (100 Gms),,48,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,24
+DELHI INIPPAGAM - GANDHIGRAMAM,Mysorepak Special (100 Gms),,50,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,25
+DELHI INIPPAGAM - GANDHIGRAMAM,Mysorepak (Milk) (100 Gms),,50,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,26
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushorepak (Horlicks) (100 Gms),,52,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,27
+DELHI INIPPAGAM - GANDHIGRAMAM,Mundhiri Cake (100 Gms),,72,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,28
+DELHI INIPPAGAM - GANDHIGRAMAM,Pista Roll (100 Gms),,72,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,29
+DELHI INIPPAGAM - GANDHIGRAMAM,Kajuflower (100 Gms),,72,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,30
+DELHI INIPPAGAM - GANDHIGRAMAM,Kaju Sonali Roll (100 Gms),,72,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,31
+DELHI INIPPAGAM - GANDHIGRAMAM,Choco Parfi (100 Gms),,72,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,32
+DELHI INIPPAGAM - GANDHIGRAMAM,Badam Parfi (100 Gms),,72,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,33
+DELHI INIPPAGAM - GANDHIGRAMAM,Jamoon (2 Nos),,60,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,34
+DELHI INIPPAGAM - GANDHIGRAMAM,Rasagulla (2 Nos),,50,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,35
+DELHI INIPPAGAM - GANDHIGRAMAM,Rasamala,,50,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,36
+DELHI INIPPAGAM - GANDHIGRAMAM,Basanthi ,,50,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,37
+DELHI INIPPAGAM - GANDHIGRAMAM,Karuppatti Paruthipal Halwa (100 Gms),,62,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,38
+DELHI INIPPAGAM - GANDHIGRAMAM,Mixer  (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Kara Boondhi (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Kara Sevu (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Murruku (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Butter Murruku (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Onion Pakoda (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Omapodi (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Thattai (100 Gms),,36,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,8
+DELHI INIPPAGAM - GANDHIGRAMAM,Masala Kadalai (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Pavakkai Chips (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Ottu Pakoda (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,11
+DELHI INIPPAGAM - GANDHIGRAMAM,Maidha Cake (100 Gms),,32,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,12
+DELHI INIPPAGAM - GANDHIGRAMAM,Aval Mixer (100 Gms),,36,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,13
+DELHI INIPPAGAM - GANDHIGRAMAM,Mixer Special (100 Gms),,34,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,14
+DELHI INIPPAGAM - GANDHIGRAMAM,Navathaniyam (100 Gms),,36,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,15
+DELHI INIPPAGAM - GANDHIGRAMAM,Cashue Pakoda (100 Gms),,36,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,16
+DELHI INIPPAGAM - GANDHIGRAMAM,Finger Chips (100 Gms),,36,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,17
+DELHI INIPPAGAM - GANDHIGRAMAM,Potato Chips (100 Gms),,36,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,18
+DELHI INIPPAGAM - GANDHIGRAMAM,Vathal ,,30,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,20
+DELHI INIPPAGAM - GANDHIGRAMAM,Munthiri (100 Gms),,125,,,,6,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,21
+DELHI INIPPAGAM - GANDHIGRAMAM,Sweet Mixture (100 Gms),,36,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,22
+DELHI INIPPAGAM - GANDHIGRAMAM,Ragi Mixture (100 Gms),,34,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,23
+DELHI INIPPAGAM - GANDHIGRAMAM,Kai Murukku (100 Gms),,34,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,24
+DELHI INIPPAGAM - GANDHIGRAMAM,Mixture (Puthina) (100 Gms),,34,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,25
+DELHI INIPPAGAM - GANDHIGRAMAM,Ragi Pakkoda (100 Gms),,34,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,26
+DELHI INIPPAGAM - GANDHIGRAMAM,Mini Bun (2 Nos),,25,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Bread ,,35,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Wheat Bread ,,35,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Coconut Bread (Big) ,,48,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Plain Cake (100 Gms),,30,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Pudding Cake (100 Gms),,34,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Plum Cake (100 Gms),,50,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Varruki ,,50,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,8
+DELHI INIPPAGAM - GANDHIGRAMAM,Rusk ,,45,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Apple Cake (2 Nos),,20,,,,1,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,12
+DELHI INIPPAGAM - GANDHIGRAMAM,Veg Puffs (2 Nos),,30,,,,1,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,13
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Puffs (2 Nos),,30,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,14
+DELHI INIPPAGAM - GANDHIGRAMAM,Egg Puffs (2 Nos),,40,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,15
+DELHI INIPPAGAM - GANDHIGRAMAM,Sandwich (2 Nos),,30,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,16
+DELHI INIPPAGAM - GANDHIGRAMAM,Cutlet (2 Nos),,30,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,17
+DELHI INIPPAGAM - GANDHIGRAMAM,Samosa (2 Nos),,30,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,18
+DELHI INIPPAGAM - GANDHIGRAMAM,Veg Roll (2 Nos),,30,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,19
+DELHI INIPPAGAM - GANDHIGRAMAM,Cream Bun (2 Nos),,40,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,20
+DELHI INIPPAGAM - GANDHIGRAMAM,Jam Bun (2 Nos),,40,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,21
+DELHI INIPPAGAM - GANDHIGRAMAM,Donut (2 Nos),,30,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,22
+DELHI INIPPAGAM - GANDHIGRAMAM,Sweet Puffs (2 Nos),,30,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,23
+DELHI INIPPAGAM - GANDHIGRAMAM,Fruit Roll (2 Nos),,30,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,24
+DELHI INIPPAGAM - GANDHIGRAMAM,Bread Chilly (2 Nos),,40,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,25
+DELHI INIPPAGAM - GANDHIGRAMAM,Thilpasanth (Roll) ,,48,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,26
+DELHI INIPPAGAM - GANDHIGRAMAM,Butter Cooks ,,65,,,,4,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,27
+DELHI INIPPAGAM - GANDHIGRAMAM,Rainbow Cake,,55,,,,4,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,28
+DELHI INIPPAGAM - GANDHIGRAMAM,Jam Cake ,,20,,,,4,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,29
+DELHI INIPPAGAM - GANDHIGRAMAM,Beans Cokki ,,35,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,30
+DELHI INIPPAGAM - GANDHIGRAMAM,Boost Cooki ,,50,,,,4,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,31
+DELHI INIPPAGAM - GANDHIGRAMAM,Cahew Biscut,,50,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,32
+DELHI INIPPAGAM - GANDHIGRAMAM,Pani Poori ,,50,,,,2,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Beal Poori ,,50,,,,2,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Masala Poori ,,50,,,,2,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Chenna Masala ,,50,,,,2,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Shev Poori ,,60,,,,3,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Pav Paji ,,70,,,,3,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Chenna Samosa ,,60,,,,3,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,8
+DELHI INIPPAGAM - GANDHIGRAMAM,Thai Poori ,,60,,,,3,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Fry Pav Paji,,75,,,,4,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Gobi Manchurian Gravy ,,90,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Veg Manchurian Gravy ,,90,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Chettinad Gravy ,,95,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Manchurian Gravy ,,105,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Paneer Manchurian Gravy ,,110,,,,5,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Chenna Masala Gravy ,,75,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Pallipalayam Gravy,,95,,,,5,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Masala,,95,,,,5,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Paneer Butter Masala,,110,,,,5,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Gobi Manchurian Dry ,,80,,,,4,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Veg Manchurian Dry ,,80,,,,4,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Manchurian Dry ,,90,,,,4,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Paneer Manchurian Dry ,,100,,,,5,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Paneer Chilly ,,100,,,,4,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Pepper Fry,,95,,,,5,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Gobi Pepper Fry ,,85,,,,4,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Paneer Pepper Fry ,,100,,,,5,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,8
+DELHI INIPPAGAM - GANDHIGRAMAM,Veg Noodles ,,75,,,,3,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Noodles ,,90,,,,3,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Paneer Noodles ,,105,,,,4,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,11
+DELHI INIPPAGAM - GANDHIGRAMAM,Veg Fried Rice ,,75,,,,3,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,12
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Fried Rice,,90,,,,3,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,13
+DELHI INIPPAGAM - GANDHIGRAMAM,Schezwan Mushroom Fried Rice,,90,,,,3,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,13
+DELHI INIPPAGAM - GANDHIGRAMAM,Paneer Fried Rice ,,105,,,,4,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,14
+DELHI INIPPAGAM - GANDHIGRAMAM,Chilly Gopi ,,65,,,,3,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,15
+DELHI INIPPAGAM - GANDHIGRAMAM,Chilly Mushroom ,,75,,,,3,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,16
+DELHI INIPPAGAM - GANDHIGRAMAM,Chilly Parota ,,75,,,,4,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,17
+DELHI INIPPAGAM - GANDHIGRAMAM,Chilly Idly ,,60,,,,3,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,18
+DELHI INIPPAGAM - GANDHIGRAMAM,Pepper Idly,,60,,,,3,Veg,06:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,19
+DELHI INIPPAGAM - GANDHIGRAMAM,Parota ,,40,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Kothu Parota ,,90,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,1
+DELHI INIPPAGAM - GANDHIGRAMAM,Veechu Parota ,,55,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,2
+DELHI INIPPAGAM - GANDHIGRAMAM,Butter Veechu Parota ,,75,,,,4,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,3
+DELHI INIPPAGAM - GANDHIGRAMAM,Chappathi Set,,45,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,4
+DELHI INIPPAGAM - GANDHIGRAMAM,Rava Roast ,,80,,,,4,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,5
+DELHI INIPPAGAM - GANDHIGRAMAM,Onion Rava Roast ,,90,,,,4,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,6
+DELHI INIPPAGAM - GANDHIGRAMAM,Uthappam ,,60,,,,3,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,7
+DELHI INIPPAGAM - GANDHIGRAMAM,Onion Uthappam ,,80,,,,4,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,8
+DELHI INIPPAGAM - GANDHIGRAMAM,Sambar Idly ,,40,,,,2,Veg,,,07:30AM,11:30AM,,,06:00PM,9:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,9
+DELHI INIPPAGAM - GANDHIGRAMAM,Podi Roast ,,80,,,,4,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,10
+DELHI INIPPAGAM - GANDHIGRAMAM,Masala Roast ,,80,,,,4,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,11
+DELHI INIPPAGAM - GANDHIGRAMAM,Onion Roast ,,80,,,,4,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,12
+DELHI INIPPAGAM - GANDHIGRAMAM,Ghee Roast ,,90,,,,4,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,13
+DELHI INIPPAGAM - GANDHIGRAMAM,Pepper Roast ,,105,,,,4,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,14
+DELHI INIPPAGAM - GANDHIGRAMAM,Paneer Roast ,,95,,,,5,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,15
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Roast ,,80,,,,5,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,16
+DELHI INIPPAGAM - GANDHIGRAMAM,Plain Roast,,60,,,,3,Veg,,,07:30AM,11:30AM,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,17
+DELHI INIPPAGAM - GANDHIGRAMAM,Mini Meals ,,105,,,,5,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,18
+DELHI INIPPAGAM - GANDHIGRAMAM,Sambar Sadam,,50,,,,3,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,19
+DELHI INIPPAGAM - GANDHIGRAMAM,Curd Rice ,,50,,,,3,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,20
+DELHI INIPPAGAM - GANDHIGRAMAM,Mushroom Briyani,,85,,,,4,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,21
+DELHI INIPPAGAM - GANDHIGRAMAM,Idly Set ,,20,,,,1,Veg,,,07:30AM,11:00AM,,,5:00PM,9:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,23
+DELHI INIPPAGAM - GANDHIGRAMAM,Pongal ,,50,,,,3,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,24
+DELHI INIPPAGAM - GANDHIGRAMAM,Kichadi ,,50,,,,3,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,26
+DELHI INIPPAGAM - GANDHIGRAMAM,Poori Set,,50,,,,3,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,27
+DELHI INIPPAGAM - GANDHIGRAMAM,Veg Biriyani,,50,,,,5,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,18
+DELHI INIPPAGAM - GANDHIGRAMAM,Variety Rice,,50,,,,5,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,18

@@ -1,0 +1,133 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+OREO,Dark World,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,1
+OREO,Kashmir,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,2
+OREO,Mushu,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,3
+OREO,Banana Punch,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,4
+OREO,Chickku Honey King,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,5
+OREO,Apple Scotch,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,6
+OREO,Pineapple Scotch,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,7
+OREO,Kela,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,8
+OREO,Dark World (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,9
+OREO,Kashmir (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,10
+OREO,Mushu (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,11
+OREO,Banana Punch (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,12
+OREO,Chickku Honey King (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,13
+OREO,Apple Scotch (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,14
+OREO,Pineapple Scotch (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,15
+OREO,Kela (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special Shakes,,0,,4,16
+OREO,Choco Apple,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,1
+OREO,Choco Banana,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,2
+OREO,Choco Chicku,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,3
+OREO,Choco Mango ,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,4
+OREO,Choco Pineapple,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,5
+OREO,Choco Apple (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,6
+OREO,Choco Banana (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,7
+OREO,Choco Chick (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,8
+OREO,Choco Mango (1+1) ,Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,9
+OREO,Choco Pineapple (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Specials,,0,,5,10
+OREO,Apple Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,1
+OREO,Mango Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,2
+OREO,Chikku Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,3
+OREO,Mushkemelon Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,4
+OREO,Jack Fruit Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,5
+OREO,Guava Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,6
+OREO,Watermellon Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,7
+OREO,Grapes Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,8
+OREO,Pineapple Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,9
+OREO,Carrot Milkshake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,10
+OREO,Apple Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,11
+OREO,Mango Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,12
+OREO,Chikku Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,13
+OREO,Mushkemelon Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,14
+OREO,Jack Fruit Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,15
+OREO,Guava Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,16
+OREO,Watermellon Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,17
+OREO,Grapes Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,18
+OREO,Pineapple Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,19
+OREO,Carrot Milkshake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,20
+OREO,Peanuts ,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,1
+OREO,Sharjah,,70,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,2
+OREO,Cashewnuts,,80,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,3
+OREO,Arabian Delight,,70,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,4
+OREO,Mix Mix,,70,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,5
+OREO,Old Boy,,80,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,6
+OREO,Blue Diamond,,70,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,7
+OREO,Y2K,,70,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,8
+OREO,Peanuts (1+1) ,Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,9
+OREO,Sharjah (1+1),Buy 1 Get 1,120,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,10
+OREO,Cashewnuts (1+1),Buy 1 Get 1,140,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,11
+OREO,Arabian Delight (1+1),Buy 1 Get 1,120,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,12
+OREO,Mix Mix (1+1),Buy 1 Get 1,120,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,13
+OREO,Old Boy (1+1),Buy 1 Get 1,140,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,14
+OREO,Blue Diamond (1+1),Buy 1 Get 1,120,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,15
+OREO,Y2K (1+1),Buy 1 Get 1,120,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Healthy Shakes,,0,,7,16
+OREO,Fresh Lime,,20,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,1
+OREO,Apple,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,2
+OREO,Orange,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,3
+OREO,Watermellon,,30,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,4
+OREO,Grapes,,30,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,5
+OREO,Pineapple,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,6
+OREO,Pomogranate,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,7
+OREO,Muskemelon,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,8
+OREO,Papaya,,30,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,9
+OREO,Mango,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,10
+OREO,Carrot ,,40,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetable Juices,,0,,9,1
+OREO,Cucumber,,40,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetable Juices,,0,,9,2
+OREO,Beetroot,,40,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetable Juices,,0,,9,3
+OREO,Carrot With Beetroot,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetable Juices,,0,,9,4
+OREO,Tomato,,30,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetable Juices,,0,,9,5
+OREO,Chocolate Icecream Shake,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,1
+OREO,Vannila Icecream Shake,,40,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,2
+OREO,Butterscotch Icecream Shake,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,3
+OREO,Strawberry Icecream Shake,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,4
+OREO,Black Currant Icecream Shake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,5
+OREO,Pistha Icecream Shake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,6
+OREO,Blueberry Icecream Shake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,7
+OREO,Green Apple Icecream Shake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,8
+OREO,Chocolate Icecream Shake (1+1),Buy 1 Get 1,80,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,9
+OREO,Vannila Icecream Shake (1+1),Buy 1 Get 1,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,10
+OREO,Butterscotch Icecream Shake (1+1),Buy 1 Get 1,80,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,11
+OREO,Strawberry Icecream Shake (1+1),Buy 1 Get 1,80,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,12
+OREO,Black Currant Icecream Shake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,13
+OREO,Pistha Icecream Shake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,14
+OREO,Blueberry Icecream Shake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,15
+OREO,Green Apple Icecream Shake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Icecream Shakes,,0,,10,16
+OREO,Veg Sandwich,,30,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,3,1
+OREO,Mushroom Sandwich,,40,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,3,2
+OREO,Paneer Sandwich,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,3,3
+OREO,Egg Sandwich,,40,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,3,4
+OREO,Chicken Sandwich,,50,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,3,5
+OREO,Veg Burger,,50,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,2,1
+OREO,Egg Burger,,50,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,2,2
+OREO,Chicken Burger,,60,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,2,3
+OREO,Smileys Small,,40,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,1
+OREO,French Fries Small,,40,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,2
+OREO,Smileys Large,,70,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,3
+OREO,French Fries Large,,70,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,4
+OREO,Bread Omlette,,50,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,5
+OREO,Chicken Bread Omlette,,60,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,6
+OREO,Veg Nuggets Small,,50,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,7
+OREO,Chicken Nuggets Small,,50,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,8
+OREO,Veg Nuggets Large,,80,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,9
+OREO,Chicken Nuggets Large,,80,,,,5,Non Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bites,,0,,1,10
+OREO,Oreo Chocolate Thick Shake,,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,11,1
+OREO,Cashewnuts Chocolate Thick Shake,,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,11,2
+OREO,Strawberry Thick Shake,,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,11,3
+OREO,BlackCurrant Thick Shake,,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,11,4
+OREO,Chocolate Oreo Shake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,5
+OREO,Strawberry Oreo Shake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,6
+OREO,Blackcurrant Oreo Shake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,7
+OREO,Scotch Oreo Shake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,8
+OREO,Pistha Oreo Shake,,60,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,9
+OREO,Brownie Oreo Shake,,70,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,10
+OREO,Chocolate Oreo Shake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,11
+OREO,Strawberry Oreo Shake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,12
+OREO,Blackcurrant Oreo Shake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,13
+OREO,Scotch Oreo Shake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,14
+OREO,Pistha Oreo Shake (1+1),Buy 1 Get 1,100,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,15
+OREO,Brownie Oreo Shake (1+1),Buy 1 Get 1,120,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Specials,,0,,11,16
+OREO,Lime Soda,,30,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crushes,,0,,12,1
+OREO,Lime Mint Crush,,30,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crushes,,0,,12,2
+OREO,Choco Crush,,40,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crushes,,0,,12,3
+OREO,Veg Combo,Veg Burger + French Fries + Any Crush,110,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,4
+OREO,Non Veg Combo,Chicken Burger + French Fries + Any Crush,120,,,,5,Veg,11:00AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,5

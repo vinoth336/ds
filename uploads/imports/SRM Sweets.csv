@@ -1,0 +1,51 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+JAYAM VEGETABLES,Ooty Potato 1/4 Kg,,15,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,1
+JAYAM VEGETABLES,Normal Potato  1/4 Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,2
+JAYAM VEGETABLES,Bark Him (Pattai Avarai) 1/4 Kg,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,3
+JAYAM VEGETABLES,Chicken Him (Kozhi Avarai) 1/4Kg,,25,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,4
+JAYAM VEGETABLES,Capsicum 1/4 Kg,,25,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,5
+JAYAM VEGETABLES,Cluster Beans (Kothavarankai) 1/4 Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,6
+JAYAM VEGETABLES,Bottle Gourd (Surakai) 1/4 Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,7
+JAYAM VEGETABLES,Green Chilly 1/4Kg,,15,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,8
+JAYAM VEGETABLES,Bitter Gourd (Bavarkai) 1/4Kg,,15,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,9
+JAYAM VEGETABLES,Ridge Gourd (Peerkangai)1/4Kg,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,10
+JAYAM VEGETABLES,Snake Gourd (Pudalangai) 1/4Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,11
+JAYAM VEGETABLES,Water Pumpkin (Neer Busani) 1/2Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,12
+JAYAM VEGETABLES,Pumpkin (Parankigai) 1/2Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,13
+JAYAM VEGETABLES,Drum Stick (Murungakai) 1/4 Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,14
+JAYAM VEGETABLES,Plantain (Valakai) 1 No,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,15
+JAYAM VEGETABLES,Kovakkay 1/4Kg,,15,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,16
+JAYAM VEGETABLES,Ladys Fingers (Ventankai) 1/4Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,17
+JAYAM VEGETABLES,Beans 1/4Kg,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Fresh Vegetables,,0,,1,18
+JAYAM VEGETABLES,Tomato 1/2 Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,19
+JAYAM VEGETABLES,Plantain Flower (Valaipoo Small) ,,15,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,20
+JAYAM VEGETABLES,Plantain Flower(valaipoo Big) ,,15,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,21
+JAYAM VEGETABLES,Green Kathirikai(Pachai Kathirikai) 1/4Kg,,15,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,22
+JAYAM VEGETABLES,Small Onion 1/4Kg,,12,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Fresh Vegetables,,0,,1,23
+JAYAM VEGETABLES,Big Onion 1/4Kg,,8,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,24
+JAYAM VEGETABLES,Coconut 1 No,,25,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,25
+JAYAM VEGETABLES,Mango 1/2Kg,,40,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,26
+JAYAM VEGETABLES,Radish (Mullanki) 1/4Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,27
+JAYAM VEGETABLES,Red Radish (Sivappu Mullanki) 1/4Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,28
+JAYAM VEGETABLES,Carrot 1/4Kg,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,29
+JAYAM VEGETABLES,Beetroot 1/4Kg,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,30
+JAYAM VEGETABLES,Karuna Kizhangu 1/2Kg,,30,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,31
+JAYAM VEGETABLES,Cabbage (Muttaikos)1/2Kg,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,32
+JAYAM VEGETABLES,Cauliflower 1 no,,35,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Fresh Vegetables,,0,,1,33
+JAYAM VEGETABLES,Seppa Kizhangu 1/4Kg,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,34
+JAYAM VEGETABLES,Senai Kizhangu 1/2Kg,,30,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,35
+JAYAM VEGETABLES,Kothamalli 1 Kattu,,22,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,36
+JAYAM VEGETABLES,Karuvai Pillai 1 Kattu,,22,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,37
+JAYAM VEGETABLES,Garlic (Old) 1/4Kg,,40,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,38
+JAYAM VEGETABLES,Mushroom ( 1 Pkt),,50,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,39
+JAYAM VEGETABLES,Green Beans (Pachai Pattani) 1/4Kg,,23,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,40
+JAYAM VEGETABLES,Puthina 1 Kattu,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,41
+JAYAM VEGETABLES,Kathirikai 1/4Kg,,15,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,42
+JAYAM VEGETABLES,Uritha Garlic 1/4Kg,,65,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,43
+JAYAM VEGETABLES,Baji Milagai 1/4Kg,,33,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,44
+JAYAM VEGETABLES,Cucumber 1Kg,,40,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,45
+JAYAM VEGETABLES,Nookal 1/4Kg,,14,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,46
+JAYAM VEGETABLES,Mochai Vithai 1/4Kg,,25,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,47
+JAYAM VEGETABLES,Banglore Tomato 1/2Kg,,15,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,48
+JAYAM VEGETABLES,Chocho 1/2 Kg,,10,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,49
+JAYAM VEGETABLES,Lemon 1 No,,6,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,50

@@ -1,0 +1,192 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+FOOD FACTORY,Veg Clear Soup,,75,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,1
+FOOD FACTORY,Sweet Corn Soup,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,2
+FOOD FACTORY,Tomato Soup,,90,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,3
+FOOD FACTORY,Mushroom Creamy Soup,,105,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,4
+FOOD FACTORY,Mancho Soup,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,5
+FOOD FACTORY,Gobi 65,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters Veg,,0,,2,1
+FOOD FACTORY,Mushroom 65,,130,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters Veg,,0,,2,2
+FOOD FACTORY,Paneer 65,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters Veg,,0,,2,3
+FOOD FACTORY,Gobi Manchurian,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters Veg,,0,,2,4
+FOOD FACTORY,Mushroom Manchurian,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters Veg,,0,,2,5
+FOOD FACTORY,Paneer Manchurian,,170,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters Veg,,0,,2,6
+FOOD FACTORY,Schezwan Paneer,,180,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters Veg,,0,,2,7
+FOOD FACTORY,Schezwan Mushroom,,180,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters Veg,,0,,2,8
+FOOD FACTORY,Veg Grilled Sandwich,,75,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,1
+FOOD FACTORY,American Corn Sandwich,,75,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,2
+FOOD FACTORY,Spicy Paneer Masala Sandwich,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,3
+FOOD FACTORY,Paneer Bhurji Sandwich,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,4
+FOOD FACTORY,Mushroom Masala Sandwich,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,5
+FOOD FACTORY,Capsicum Paneer Masala Sandwich,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,6
+FOOD FACTORY,Peri Peri Paneer Sandwich,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,7
+FOOD FACTORY,Penne Pasta Masala Sandwich,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,8
+FOOD FACTORY,Cutlet Masala Sandwich,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,9
+FOOD FACTORY,Chilli Cheese Garlic Sandwich,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,10
+FOOD FACTORY,Garlic Bread Toast,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,11
+FOOD FACTORY,Mumbai Club Sandwich,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwich,,0,,4,1
+FOOD FACTORY,Paneer Club Sandwich,,130,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwich,,0,,4,2
+FOOD FACTORY,Egg Club Sandwich,,130,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwich,,0,,4,3
+FOOD FACTORY,Omelette Masala Sandwich,,100,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Special Sandwich,,0,,5,1
+FOOD FACTORY,Egg Masala Sandwich,,100,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Special Sandwich,,0,,5,2
+FOOD FACTORY,Egg Pepper Fry Sandwich,,100,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Special Sandwich,,0,,5,3
+FOOD FACTORY,Jam Sandwich,,50,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kids Special Sandwich,,0,,6,1
+FOOD FACTORY,Chocolate Sandwich,,60,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kids Special Sandwich,,0,,6,2
+FOOD FACTORY,Fries Sandwich,,80,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kids Special Sandwich,,0,,6,3
+FOOD FACTORY,Veg Burger,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,7,1
+FOOD FACTORY,American Corn Burger,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,7,2
+FOOD FACTORY,Spicy Paneer Burger,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,7,3
+FOOD FACTORY,Mushroom Burger,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,7,4
+FOOD FACTORY,Corn Paneer Burger,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,7,5
+FOOD FACTORY,Chilly Cheese Garlic Burger,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,7,6
+FOOD FACTORY,Veg Pizza Burger,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,7,7
+FOOD FACTORY,Egg Patty Burger,,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,7,8
+FOOD FACTORY,Extra Cheese,,20,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,7,8
+FOOD FACTORY,Veg Wrap,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,8,1
+FOOD FACTORY,Mexican Wrap,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,8,2
+FOOD FACTORY,Aloo Tikki Wrap,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,8,3
+FOOD FACTORY,Paneer Wrap,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,8,4
+FOOD FACTORY,Mushroom Wrap,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,8,5
+FOOD FACTORY,American Corn Wrap,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,8,6
+FOOD FACTORY,American Corn Paneer Wrap,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,8,7
+FOOD FACTORY,Egg Wrap,,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Wraps,,0,,8,8
+FOOD FACTORY,Veg Steamed Momos (4 Pcs),,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,9,1
+FOOD FACTORY,Paneer Steamed Momos (4 Pcs),,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,9,2
+FOOD FACTORY,Mushroom Steamed Momos (4 Pcs),,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,9,3
+FOOD FACTORY,American Corn Steamed Momos (4 Pcs),,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,9,4
+FOOD FACTORY,Veg Fried Momos (4 Pcs),,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,10,1
+FOOD FACTORY,Paneer Momos (4 Pcs),,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,10,2
+FOOD FACTORY,Mushroom Momos (4 Pcs),,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,10,3
+FOOD FACTORY,American Corn Momos (4 Pcs),,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,10,4
+FOOD FACTORY,Veg Cheesy Shawarma,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,11,1
+FOOD FACTORY,Paneer Cheesy Shawarma,,130,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,11,2
+FOOD FACTORY,American Corn Cheesy Shawarma,,130,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,11,3
+FOOD FACTORY,Mushroom Cheesy Shawarma,,130,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,11,4
+FOOD FACTORY,Egg Shawarma,,140,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,11,5
+FOOD FACTORY,Classic Bread Omelette,,75,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelettes,,0,,12,1
+FOOD FACTORY,Masala Bread Omelette,,85,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelettes,,0,,12,2
+FOOD FACTORY,Chilly Cheese Bread Omelette,,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelettes,,0,,12,3
+FOOD FACTORY,F2 Special Bread Omelette,,110,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelettes,,0,,12,4
+FOOD FACTORY,Plain Omelette,Double Egg,60,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,1
+FOOD FACTORY,Onion Omelette,Double Egg,70,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,2
+FOOD FACTORY,Mushroom Omelette,Double Egg,85,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,3
+FOOD FACTORY,American Corn Omelette,Double Egg,85,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,4
+FOOD FACTORY,Paneer Omelette,Double Egg,85,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,5
+FOOD FACTORY,Cheese Omelette,Double Egg,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,6
+FOOD FACTORY,Chilly Garlic Omelette,Double Egg,85,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,7
+FOOD FACTORY,Spicy Masala Omelette,Double Egg,85,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,8
+FOOD FACTORY,Schezwan Omelette,Double Egg,75,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,9
+FOOD FACTORY,F2 Special Omelette,Double Egg,110,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelettes,,0,,13,10
+FOOD FACTORY,Spicy Red Pasta,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,14,1
+FOOD FACTORY,Creamy White Pasta,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,14,2
+FOOD FACTORY,Spicy Egg Red Pasta,,155,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,14,3
+FOOD FACTORY,Smiley (4 Pcs),,75,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,15,1
+FOOD FACTORY,French Fries,,75,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,15,2
+FOOD FACTORY,Cheese French Fries,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,15,3
+FOOD FACTORY,Peri Peri French Fries,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,15,4
+FOOD FACTORY,Cutlet (2 Pcs),,75,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,15,5
+FOOD FACTORY,Venila Sundae,Single Scoop,60,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,16,1
+FOOD FACTORY,Strawberry Sundae,Single Scoop,70,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,16,2
+FOOD FACTORY,Butterscotch Sundae,Single Scoop,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,16,3
+FOOD FACTORY,Chocolate Sundae,Single Scoop,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,16,4
+FOOD FACTORY,Pista Sundae,Single Scoop,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,16,5
+FOOD FACTORY,Spicy Khakkara Chat,,75,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chats,,0,,17,1
+FOOD FACTORY,Cheese Thattuvadaset,,60,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chats,,0,,17,2
+FOOD FACTORY,Bhel Poori,,60,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chats,,0,,17,3
+FOOD FACTORY,Cutlet Mix,,75,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chats,,0,,17,4
+FOOD FACTORY,Pani Poori,,60,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chats,,0,,17,5
+FOOD FACTORY,Corn Flakes Masala Chat,,50,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chats,,0,,17,6
+FOOD FACTORY,Cheese Pav Bhaji,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chats,,0,,17,7
+FOOD FACTORY,Pav Bhaji,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chats,,0,,17,8
+FOOD FACTORY,Chuney Murukku,,40,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chats,,0,,17,9
+FOOD FACTORY,Masala Egg Balls,,85,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Balls,,0,,18,1
+FOOD FACTORY,American Corn Egg Balls,,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Balls,,0,,18,2
+FOOD FACTORY,Paneer Egg Bals,,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Balls,,0,,18,3
+FOOD FACTORY,Mushroom Egg Balls,,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Balls,,0,,18,4
+FOOD FACTORY,Cheese Egg Balls,,110,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Balls,,0,,18,5
+FOOD FACTORY,F2 Special Egg Balls,,110,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Balls,,0,,18,6
+FOOD FACTORY,Egg Lollipop,,85,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Lollipops,,0,,19,1
+FOOD FACTORY,American Corn Egg Lollipop,,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Lollipops,,0,,19,2
+FOOD FACTORY,Paneer Egg Lollipop,,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Lollipops,,0,,19,3
+FOOD FACTORY,Mushroom Egg Lollipop,,95,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Lollipops,,0,,19,4
+FOOD FACTORY,F2 Special Egg Lollipop,,110,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Lollipops,,0,,19,5
+FOOD FACTORY,Veg Fried Rice,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,1
+FOOD FACTORY,Schezwan Fried Rice,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,2
+FOOD FACTORY,Paneer Fried Rice,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,3
+FOOD FACTORY,Mushroom Fried Rice,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,4
+FOOD FACTORY,Egg Fried Rice,,145,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,5
+FOOD FACTORY,Veg Noodles,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,6
+FOOD FACTORY,Schezwan Noodles,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,7
+FOOD FACTORY,Paneer Noodles,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,8
+FOOD FACTORY,Mushroom Noodles,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,9
+FOOD FACTORY,Egg Noodles,,145,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,10
+FOOD FACTORY,Maggi Masala Noodles,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,11
+FOOD FACTORY,Veg Delight Pizza 6 Inch,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,1
+FOOD FACTORY,Spicy Paneer Pizza 6 Inch,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,2
+FOOD FACTORY,Mexican Veg Pizza 6 Inch,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,3
+FOOD FACTORY,Mushroom Pizza 6 Inch,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,4
+FOOD FACTORY,American Corn Pizza 6 Inch,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,5
+FOOD FACTORY,Chilly Cheese Garlic Pizza 6 Inch,,125,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,6
+FOOD FACTORY,Crunchy Chocolate Pizza 6 Inch,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,7
+FOOD FACTORY,Chocolate Nuts Pizza 6 Inch,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,8
+FOOD FACTORY,F2 Special Veg Pizza 6 Inch,,170,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,9
+FOOD FACTORY,Caramelized Onion Pizza 6 Inch,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,10
+FOOD FACTORY,Cheese Burst Pizza 6 Inch,,180,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,11
+FOOD FACTORY,Scrambled Egg Pizza 6 Inch,,145,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,12
+FOOD FACTORY,Maragarita Pizza 6 Inch,,125,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,13
+FOOD FACTORY,Momo Pizza 6 Inch,,210,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,14
+FOOD FACTORY,Veg Delight Pizza 8 Inch,,180,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,15
+FOOD FACTORY,Spicy Paneer Pizza 8 Inch,,205,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,16
+FOOD FACTORY,Mexican Veg Pizza 8 Inch,,180,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,17
+FOOD FACTORY,Mushroom Pizza 8 Inch,,199,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,18
+FOOD FACTORY,American Corn Pizza 8 Inch,,199,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,19
+FOOD FACTORY,Chilly Cheese Garlic Pizza 8 Inch,,180,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,20
+FOOD FACTORY,Crunchy Chocolate Pizza 8 Inch,,180,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,21
+FOOD FACTORY,Chocolate Nuts Pizza 8 Inch,,199,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,22
+FOOD FACTORY,F2 Special Veg Pizza 8 Inch,,240,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,23
+FOOD FACTORY,Caramelized Onion Pizza 8 Inch,,199,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,24
+FOOD FACTORY,Cheese Burst Pizza 8 Inch,,220,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,25
+FOOD FACTORY,Scrambled Egg Pizza 8 Inch,,199,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,26
+FOOD FACTORY,Maragarita Pizza 8 Inch,,180,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,27
+FOOD FACTORY,Momo Pizza 8 Inch,,270,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,21,28
+FOOD FACTORY,Sizzling Brownies,,150,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,F2 Specials,,0,,22,1
+FOOD FACTORY,Brownie Fudge,,170,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,F2 Specials,,0,,22,2
+FOOD FACTORY,Cheesy Nachos,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,F2 Specials,,0,,22,3
+FOOD FACTORY,Egg Paneer Fry,,145,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,F2 Specials,,0,,22,4
+FOOD FACTORY,Cold Coffee,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,F2 Specials,,0,,22,5
+FOOD FACTORY,Creamy Hot Coffee,,50,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,F2 Specials,,0,,22,6
+FOOD FACTORY,White Mist Falooda,,140,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,23,1
+FOOD FACTORY,Fruit Jelly Falooda,,140,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,23,2
+FOOD FACTORY,Honey Due Falooda,,140,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,23,3
+FOOD FACTORY,Choco Crunch Falooda,,140,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,23,4
+FOOD FACTORY,Candy Crush Falooda,,140,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,23,5
+FOOD FACTORY,F2 Special Dry Fruits Falooda,,170,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,23,6
+FOOD FACTORY,Strawberry Jelly Milkshake,,135,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jelly Milkshakes,,0,,24,1
+FOOD FACTORY,Blueberry Jelly Milkshake,,135,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jelly Milkshakes,,0,,24,2
+FOOD FACTORY,Coconut Jelly Milkshake,,135,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jelly Milkshakes,,0,,24,3
+FOOD FACTORY,Bubble Mocktails,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,1
+FOOD FACTORY,Lime Mocktails,,60,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,2
+FOOD FACTORY,Green Apple Mocktails,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,3
+FOOD FACTORY,Blue Curacao,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,4
+FOOD FACTORY,Kiwi Mocktail,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,5
+FOOD FACTORY,Litchi Mocktail,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,6
+FOOD FACTORY,Mango Mocktails,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,7
+FOOD FACTORY,Guava Mocktails,,85,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,8
+FOOD FACTORY,Strawberry Mocktails,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,9
+FOOD FACTORY,Blueberry Mocktails,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,10
+FOOD FACTORY,Jeera Masala Soda,,70,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,25,11
+FOOD FACTORY,Bubble Shake,,175,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,1
+FOOD FACTORY,Vennila Milkshake,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,2
+FOOD FACTORY,Strawberry Milkshake,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,3
+FOOD FACTORY,Butterscotch Milkshake,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,4
+FOOD FACTORY,Pista Milkshake,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,5
+FOOD FACTORY,Chocolate Milkshake,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,6
+FOOD FACTORY,Oreo Milkshake,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,7
+FOOD FACTORY,Kitkat Milkshake,,145,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,8
+FOOD FACTORY,Brownie Milkshake,,155,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,9
+FOOD FACTORY,Rose Milkshake,,95,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,26,10
+FOOD FACTORY,Lime Float,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Floats,,0,,27,1
+FOOD FACTORY,Strawberry Float,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Floats,,0,,27,2
+FOOD FACTORY,Mango Float,,110,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Floats,,0,,27,3
+FOOD FACTORY,Black Current Float,,120,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Floats,,0,,27,4
+FOOD FACTORY,Green Apple Float,,130,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Floats,,0,,27,5
+FOOD FACTORY,Blueberry Float,,140,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Floats,,0,,27,6

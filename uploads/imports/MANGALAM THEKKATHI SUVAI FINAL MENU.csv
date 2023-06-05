@@ -1,0 +1,33 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+MANGALAM THEKKATHI SUVAI,Non Veg Meals,,70,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,1
+MANGALAM THEKKATHI SUVAI,Mutton Briyani,,150,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,2
+MANGALAM THEKKATHI SUVAI,Chicken Briyani,,100,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,3
+MANGALAM THEKKATHI SUVAI,Iraal Briyani,,200,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,4
+MANGALAM THEKKATHI SUVAI,Dosa,,30,,,,,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin,,0,,2,1
+MANGALAM THEKKATHI SUVAI,Chappathi (2 Pcs),,30,,,,,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin,,0,,2,2
+MANGALAM THEKKATHI SUVAI,Aappam Paaya,,125,,,,,Non Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin,,0,,2,3
+MANGALAM THEKKATHI SUVAI,Karandi Omlette,,30,,,,,Non Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin,,0,,2,4
+MANGALAM THEKKATHI SUVAI,Idly (4 Pcs),,30,,,,,Veg,,,,,,,6:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin,,0,,2,5
+MANGALAM THEKKATHI SUVAI,Kuzhambu Meen,,100,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish,,0,,3,1
+MANGALAM THEKKATHI SUVAI,Vanjaram Meen Varuval,,150,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish,,0,,3,2
+MANGALAM THEKKATHI SUVAI,Paarai Meen varuval,,120,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish,,0,,3,2
+MANGALAM THEKKATHI SUVAI,Vaval Meen Varuval,,150,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish,,0,,3,2
+MANGALAM THEKKATHI SUVAI,Nethili Varuval,,100,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish,,0,,3,4
+MANGALAM THEKKATHI SUVAI,Nandu,,140,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish,,0,,3,8
+MANGALAM THEKKATHI SUVAI,Iraal,,140,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish,,0,,3,9
+MANGALAM THEKKATHI SUVAI,Karuvattu Kuzhambu,,100,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,10
+MANGALAM THEKKATHI SUVAI,Iyrameen Kuzhambu,,175,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,5
+MANGALAM THEKKATHI SUVAI,Keluththi Meen Kuzhambu,,175,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,6
+MANGALAM THEKKATHI SUVAI,Viral Meen Kuzhambu,,175,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,7
+MANGALAM THEKKATHI SUVAI,Kudal Kuzhambu,,100,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,1
+MANGALAM THEKKATHI SUVAI,Kozhi Kuzhambu,,100,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,2
+MANGALAM THEKKATHI SUVAI,Meen kuzhambu,,120,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,3
+MANGALAM THEKKATHI SUVAI,Naattukizhi Gravy,,140,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,11
+MANGALAM THEKKATHI SUVAI,Uppukandam kuzhambu,,175,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,12
+MANGALAM THEKKATHI SUVAI,Mutton Sukka,,140,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,4
+MANGALAM THEKKATHI SUVAI,Mutton Varuval,,140,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,5
+MANGALAM THEKKATHI SUVAI,Thalai Kari,,120,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,6
+MANGALAM THEKKATHI SUVAI,Eeral,,120,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,7
+MANGALAM THEKKATHI SUVAI,Kudal Fry,,130,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,8
+MANGALAM THEKKATHI SUVAI,Naattukozhi Uppukari,,140,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,9
+MANGALAM THEKKATHI SUVAI,Naattukozhi Varuval,,140,,,,,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,10

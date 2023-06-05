@@ -1,0 +1,93 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+MARGHERITALY ,Premium Ice Cream Scoop,,50,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Scoops,,0,,1,1
+MARGHERITALY ,Royal Ice Cream Scoop,,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Scoops,,0,,1,2
+MARGHERITALY ,Plain Waffle,,100,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Waffles,,0,,8,1
+MARGHERITALY ,Waffle With Ice Cream,,150,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Waffles,,0,,8,2
+MARGHERITALY ,Chocolate Sauce,,15,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Toppings,,0,,9,1
+MARGHERITALY ,Caramel Sauce ,,15,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Toppings,,0,,9,2
+MARGHERITALY ,Strawberry Sauce,,15,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Toppings,,0,,9,3
+MARGHERITALY ,Natural Honey,,20,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Toppings,,0,,9,4
+MARGHERITALY ,Roasted Nuts,,30,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Toppings,,0,,9,5
+MARGHERITALY ,Fresh Fruits,,20,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Toppings,,0,,9,6
+MARGHERITALY ,Chocolate Shavings,,20,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Toppings,,0,,9,7
+MARGHERITALY ,Brownie Toppings,,30,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Toppings,,0,,9,8
+MARGHERITALY ,Chocolate Frosting,,30,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Toppings,,0,,9,9
+MARGHERITALY ,Extra Cheese,,50,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Add On's,,0,,10,1
+MARGHERITALY ,Natural Milkshake,One Scoop Of Ice Cream Fresh Organic Milk Natural Sugar,100,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Natural Milk Shake,,0,,7,1
+MARGHERITALY ,Choco Fanatic,2 Chocolate Flavours+Choco Sauce+Choco Shavings,140,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Combo Bowls,,0,,2,1
+MARGHERITALY ,Fruit Dream,2 Fresh Fruits Flavours+Strawberry Sauce+Fresh Fruits,140,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Combo Bowls,,0,,2,2
+MARGHERITALY ,Nuts Experience,2 Nuts Flavours + Nuts Topping+Caramel Sauce,140,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Combo Bowls,,0,,2,3
+MARGHERITALY ,Brownie Bliss,2 Milk Flavours+Brownie+Choco Frosting,140,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Combo Bowls,,0,,2,4
+MARGHERITALY ,Mozzarella Cheese Margherita Pizza,"Tomato Puree, Basil And Mozzarella Cheese For The Classic Italian Pizza, The Queen",200,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,1
+MARGHERITALY ,Premium Italian Mozzarella Margherita Pizza,"Tomato Puree, Basil And Premium Italian Mozzarella For The Classic Italian Pizza, The Queen",270,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,2
+MARGHERITALY ,Mozzarella Cheese Mariana Pizza,"The Pizza Without Cheese, Fresh Tomato Puree Meets Garlic And Oregan, On A Crunchy Pizza Base",150,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,3
+MARGHERITALY ,Mozzarella Cheese Verdure Pizza,"The Pizza Vegetables, With Tomato Puree And Mozzarella Chees, You Can Taste Roasted Capsicum And Fresh Sliced Onions.",230,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,4
+MARGHERITALY ,Premium Italian Mozzarella Verdure Pizza,"The Pizza Vegetables, With Tomato Puree And Premium Italian Mozzarella, You Can Taste Roasted Capsicum And Fresh Sliced Onions.",300,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,5
+MARGHERITALY ,Mozzarella Cheese Quattro Stagioni Pizza,"Why Not Taste 4 Pizza In One? Margherita, Parmigiana, Ai Funghi And Verdure, One Flavor For Each Season. Quattro Stagioni Is The Italian Translation For Four Seasons, And Each Season Has It Unique Taste",250,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,6
+MARGHERITALY ,Premium Italian Mozzarella Quattro Stagioni,"Why Not Taste 4 Pizza In One? Margherita, Parmigiana, Ai Funghi And Verdure, One Flavor For Each Season. Quattro Stagioni Is The Italian Translation For Four Seasons, And Each Season Has It Unique Taste",320,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,7
+MARGHERITALY , Mozzarella Cheese Pizza (Special),"With Tomato And Mozzarella You Can Find Onions, And The Pizza  Is Topped With Sliced Olives.",250,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,8
+MARGHERITALY ,Premium Italian Mozzarella Pizza (Special),"With Tomato And Mozzarella You Can Find Onions, And The Pizza  Is Topped With Sliced Olives.",320,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,9
+MARGHERITALY ,Mozzarella Cheese Ai Funghi Pizza,"The Pizza With Mushroom They Are Joining Fresh Garlic, The Tomato Puree And The Mozzarella Cheese",230,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,10
+MARGHERITALY ,Premium Italian Mozzarella Ai Funghi Pizza,"The Pizza With Mushroom They Are Joining Fresh Garlic, The Tomato Puree And The Premium Italian Mozzarella",300,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,11
+MARGHERITALY ,Mozzarella Cheese Parmigiana Pizza,"The Recreation Of A Typical South Italian Dish. Roasted Brinjals, With Basil, Tomato Puree, Garlic And Cheese For A Unique Taste Of South Italy.",230,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,12
+MARGHERITALY ,Premium Italian Mozzarella Parmigiana Pizza,"The Recreation Of A Typical South Italian Dish. Roasted Brinjals, With Basil, Tomato Puree, Garlic And Cheese For A Unique Taste Of South Italy.",300,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,13
+MARGHERITALY ,Mozzarella Cheese Diavola Pizza,"India Means Spiciness, So We Created This Pizza Topped With Hot Chili Sliced And Cooked With Onion And Roasted Green Capsium Super Extra Spicy.",230,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,14
+MARGHERITALY ,Premium Italian Mozzarella Diavola Pizza,"India Means Spiciness, So We Created This Pizza Topped With Hot Chili Sliced And Cooked With Onion And Roasted Green Capsium Super Extra Spicy.",300,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,3,15
+MARGHERITALY ,Espresso ,,50,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Italian Coffee,,0,,4,1
+MARGHERITALY ,Americano ,,50,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Italian Coffee,,0,,4,2
+MARGHERITALY ,Cappuccino ,,80,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Italian Coffee,,0,,4,3
+MARGHERITALY ,Caffelatte,,80,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Italian Coffee,,0,,4,4
+MARGHERITALY ,Latte Macchiato,,100,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Italian Coffee,,0,,4,5
+MARGHERITALY ,Ice Caramel Coffee,,100,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Italian Coffee,,0,,4,6
+MARGHERITALY ,Ice Chocolate Coffee,,100,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Italian Coffee,,0,,4,7
+MARGHERITALY ,Affogato,,90,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Premium Italian Coffee,,0,,4,8
+MARGHERITALY ,Water Bottle 1 Liter,,20,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Drinks,,0,,5,1
+MARGHERITALY ,Plain Soda,,20,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Drinks,,0,,5,2
+MARGHERITALY ,Fresh Lime Soda,,30,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Drinks,,0,,5,3
+MARGHERITALY ,Fresh Virgin Mojito,,40,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Drinks,,0,,5,4
+MARGHERITALY ,Coca Cola,,30,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Drinks,,0,,5,5
+MARGHERITALY ,Fanta,,30,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Drinks,,0,,5,6
+MARGHERITALY ,Sprite,,30,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Drinks,,0,,5,7
+MARGHERITALY ,Mango (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,1
+MARGHERITALY ,Strawberry (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,2
+MARGHERITALY ,Watermelon (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,3
+MARGHERITALY ,Banana (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,4
+MARGHERITALY ,Red Banana (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,5
+MARGHERITALY ,Orange (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,6
+MARGHERITALY ,Muskmelon (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,7
+MARGHERITALY ,Mojito (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,8
+MARGHERITALY ,Raw Coco Cream (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,9
+MARGHERITALY ,Hazelnut (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,10
+MARGHERITALY ,Pista (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,11
+MARGHERITALY ,Cheese Cake (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,12
+MARGHERITALY ,Dark Chocolate (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,13
+MARGHERITALY ,Triple Chocolate (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,14
+MARGHERITALY ,Wow (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,15
+MARGHERITALY ,Cookies And Cream  (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,16
+MARGHERITALY ,Stella (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,17
+MARGHERITALY ,Butter Cream (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,18
+MARGHERITALY ,Milk And Honey (60 Ml Scoop) ,,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,19
+MARGHERITALY ,Cocount (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,20
+MARGHERITALY ,Butter Scotch (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,21
+MARGHERITALY ,Kewie (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,22
+MARGHERITALY ,Litchee (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,23
+MARGHERITALY ,Sapota (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,24
+MARGHERITALY ,Pineapple (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,25
+MARGHERITALY ,Citress Cream (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,26
+MARGHERITALY ,Papaya (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,27
+MARGHERITALY ,Theramisu (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,28
+MARGHERITALY ,Jack Fruit (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,29
+MARGHERITALY ,Venila (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,30
+MARGHERITALY ,Apple Pie (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,31
+MARGHERITALY ,Apple And Cinnamon (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,32
+MARGHERITALY ,Indian Cream (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,33
+MARGHERITALY ,Kulfi (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,34
+MARGHERITALY ,Kiss Cream (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,35
+MARGHERITALY ,Coffee (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,36
+MARGHERITALY ,Caramel (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,37
+MARGHERITALY ,Fieqee (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,38
+MARGHERITALY ,Italian Break (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,39
+MARGHERITALY ,Brownie (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,40
+MARGHERITALY ,Lime And Jinger (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,41
+MARGHERITALY ,Double Chocolate (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,42
+MARGHERITALY ,Pomogrante (60 Ml Scoop),,60,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,43

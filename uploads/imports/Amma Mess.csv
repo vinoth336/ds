@@ -1,0 +1,36 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+AMMA MESS,Idly (2 Nos),,15,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+AMMA MESS,Pongal,,30,,,,0,0,veg,,,08:00AM,11:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+AMMA MESS,Uppuma,,30,,,,0,0,veg,,,08:00AM,11:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+AMMA MESS,Poori set,,35,,,,0,0,veg,,,08:00AM,11:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+AMMA MESS,Dosai,,20,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+AMMA MESS,Roast,,30,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+AMMA MESS,Onion Roast,,40,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+AMMA MESS,Onion Utthappam,,40,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+AMMA MESS,Podi Roast,,40,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+AMMA MESS,Podi Dosai,,30,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+AMMA MESS,Ghee Roast,,40,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+AMMA MESS,Chappathi Set,,30,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+AMMA MESS,Utthappam,,30,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+AMMA MESS,Masala Roast,,40,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+AMMA MESS,Tomoto Utthappam,,40,,,,0,0,veg,,,08:00AM,11:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+AMMA MESS,Meals,,70,,,,0,0,veg,,,,,11:00AM,04:30PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,1
+AMMA MESS,Tomoto Rice,,30,,,,0,0,veg,,,,,11:00AM,04:30PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,1
+AMMA MESS,Lemon Rice,,30,,,,0,0,veg,,,,,11:00AM,04:30PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,1
+AMMA MESS,Curd Rice,,35,,,,0,0,veg,,,,,11:00AM,04:30PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,1
+AMMA MESS,Tamric Rice,,30,,,,0,0,veg,,,,,11:00AM,04:30PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,1
+AMMA MESS,Veg Biriyani,,40,,,,0,0,veg,,,,,11:00AM,04:30PM,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,4,1
+AMMA MESS,Mushroom Biriyani,,80,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,4,1
+AMMA MESS,Veg Rice,,50,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice,,0,,4,1
+AMMA MESS,Veg Noodles,,50,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,1
+AMMA MESS,Parotta set,,20,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+AMMA MESS,Egg parotta,,50,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+AMMA MESS,Gobi Chilly,,50,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+AMMA MESS,Gobi Gravy,,90,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+AMMA MESS,Egg laba,,50,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+AMMA MESS,Omlet,,10,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+AMMA MESS,Chilly Parotta,,60,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+AMMA MESS,Mushroom Chilly,,70,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,1
+AMMA MESS,Mushroom Gravy,,100,,,,0,0,veg,,,,,11:00AM,04:30PM,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,1
+AMMA MESS,Rava Roast,,40,,,,0,0,veg,,,,,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+AMMA MESS,Rava Onion Roast,,40,,,,0,0,veg,,,,,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,7,1

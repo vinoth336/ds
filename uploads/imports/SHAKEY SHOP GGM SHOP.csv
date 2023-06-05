@@ -1,0 +1,131 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SHAKEY SHOP (Gandhigramam),Vanilla Falooda,,99,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,1
+SHAKEY SHOP (Gandhigramam),Mango Falooda,,99,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,2
+SHAKEY SHOP (Gandhigramam),Pista Falooda,,109,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,3
+SHAKEY SHOP (Gandhigramam),Strawberry Falooda,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,4
+SHAKEY SHOP (Gandhigramam),Bom Bom Falooda,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,5
+SHAKEY SHOP (Gandhigramam),Chocolate Falooda,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,6
+SHAKEY SHOP (Gandhigramam),Black Diamond Falooda,,130,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,7
+SHAKEY SHOP (Gandhigramam),Trible Top Falooda,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,8
+SHAKEY SHOP (Gandhigramam),Double Top Falooda,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,8
+SHAKEY SHOP (Gandhigramam),Jelly Mix Falooda,,130,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,9
+SHAKEY SHOP (Gandhigramam),Karur King Falooda,,130,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,10
+SHAKEY SHOP (Gandhigramam),TN Tastee Falooda,,130,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,11
+SHAKEY SHOP (Gandhigramam),Kulfi Falooda,,130,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,12
+SHAKEY SHOP (Gandhigramam),Oreo Treat Falooda,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,13
+SHAKEY SHOP (Gandhigramam),Special Strawberry Falooda,,126,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,14
+SHAKEY SHOP (Gandhigramam),Dry Time Falooda,,200,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,15
+SHAKEY SHOP (Gandhigramam),Colo Coffee,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,1
+SHAKEY SHOP (Gandhigramam),Chocolate Coffee,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,2
+SHAKEY SHOP (Gandhigramam),Coffee Mud,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,3
+SHAKEY SHOP (Gandhigramam),Coffee with Cream,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,4
+SHAKEY SHOP (Gandhigramam),Coffee with Choco,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,5
+SHAKEY SHOP (Gandhigramam),Caramel Coffee,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,6
+SHAKEY SHOP (Gandhigramam),Coffee Oreo,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,7
+SHAKEY SHOP (Gandhigramam),Coffee Druful,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Coffee,,0,,2,8
+SHAKEY SHOP (Gandhigramam),Master Malai Signature,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,3,1
+SHAKEY SHOP (Gandhigramam),Sharjah Nut Signature,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,3,2
+SHAKEY SHOP (Gandhigramam),Apple Dates Signature,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,3,3
+SHAKEY SHOP (Gandhigramam),Delicious Way Signature,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,3,4
+SHAKEY SHOP (Gandhigramam),Strawberry Nut Signature,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,3,5
+SHAKEY SHOP (Gandhigramam),Almound Nut Signature,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,3,6
+SHAKEY SHOP (Gandhigramam),Banana Nut Signature,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,3,7
+SHAKEY SHOP (Gandhigramam),Multi Treat Signature,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,3,8
+SHAKEY SHOP (Gandhigramam),Fig & Honey Signature,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature,,0,,3,9
+SHAKEY SHOP (Gandhigramam),Apple Fruit Shake,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Shakes,,0,,4,1
+SHAKEY SHOP (Gandhigramam),Mango Fruit Shake,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Shakes,,0,,4,2
+SHAKEY SHOP (Gandhigramam),Pomegranate Fruit Shake,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Shakes,,0,,4,3
+SHAKEY SHOP (Gandhigramam),Banana Fruit Shake,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Shakes,,0,,4,4
+SHAKEY SHOP (Gandhigramam),Strawberry Fruit Shake,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Shakes,,0,,4,5
+SHAKEY SHOP (Gandhigramam),Dragon Fruit Shake,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Shakes,,0,,4,6
+SHAKEY SHOP (Gandhigramam),Chickos Fruit Shake,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Shakes,,0,,4,7
+SHAKEY SHOP (Gandhigramam),Avocado Fruit Shake,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Shakes,,0,,4,8
+SHAKEY SHOP (Gandhigramam),Banana Shake,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,1
+SHAKEY SHOP (Gandhigramam),Pomegranate Shake,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,2
+SHAKEY SHOP (Gandhigramam),Mango Shake,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,3
+SHAKEY SHOP (Gandhigramam),Choco Chips Shake,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,4
+SHAKEY SHOP (Gandhigramam),Litchee Shake,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,5
+SHAKEY SHOP (Gandhigramam),Kitkat Shake,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,6
+SHAKEY SHOP (Gandhigramam),Rose Milk Shake,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,7
+SHAKEY SHOP (Gandhigramam),Badam Shake,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,8
+SHAKEY SHOP (Gandhigramam),Dairy Milk Shake,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,9
+SHAKEY SHOP (Gandhigramam),Snickers Shake,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,10
+SHAKEY SHOP (Gandhigramam),Boost Shake,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,11
+SHAKEY SHOP (Gandhigramam),Brownie Shake,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,12
+SHAKEY SHOP (Gandhigramam),Oreo Shake,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,13
+SHAKEY SHOP (Gandhigramam),Borun Shake,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,14
+SHAKEY SHOP (Gandhigramam),Harlicks Shake,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,15
+SHAKEY SHOP (Gandhigramam),Green Apple Shake,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,5,16
+SHAKEY SHOP (Gandhigramam),Vanilla Vibe Monster,,130,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,1
+SHAKEY SHOP (Gandhigramam),Chocolate Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,2
+SHAKEY SHOP (Gandhigramam),Butter Scotch Bam Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,3
+SHAKEY SHOP (Gandhigramam),Big Pista Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,4
+SHAKEY SHOP (Gandhigramam),Strawberry Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,5
+SHAKEY SHOP (Gandhigramam),Oreo Over Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,6
+SHAKEY SHOP (Gandhigramam),Kitkat Kingdom Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,7
+SHAKEY SHOP (Gandhigramam),Black Pearl Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,8
+SHAKEY SHOP (Gandhigramam),Dairy Time Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,9
+SHAKEY SHOP (Gandhigramam),Mango Maind Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,10
+SHAKEY SHOP (Gandhigramam),Malai Kulfi Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,11
+SHAKEY SHOP (Gandhigramam),Lachee Cruher Monster,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakey Monster,,0,,6,12
+SHAKEY SHOP (Gandhigramam),Banana Smoothie,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie,,0,,7,1
+SHAKEY SHOP (Gandhigramam),Mango Smoothie,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie,,0,,7,2
+SHAKEY SHOP (Gandhigramam),Strawberry Smoothie,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie,,0,,7,3
+SHAKEY SHOP (Gandhigramam),Pineapple Smoothie,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie,,0,,7,4
+SHAKEY SHOP (Gandhigramam),Black Currant Smoothie,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie,,0,,7,5
+SHAKEY SHOP (Gandhigramam),Natural Protein,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Protein,,0,,8,1
+SHAKEY SHOP (Gandhigramam),Whey Protein,,150,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Protein,,0,,8,2
+SHAKEY SHOP (Gandhigramam),Monster Salad Special,,199,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special,,0,,9,1
+SHAKEY SHOP (Gandhigramam),Way to Ship Special,,199,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special,,0,,9,2
+SHAKEY SHOP (Gandhigramam),Puttu Ice Cream Special,,220,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special,,0,,9,3
+SHAKEY SHOP (Gandhigramam),Watermelon Secret Special,,220,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special,,0,,9,4
+SHAKEY SHOP (Gandhigramam),Crazy Mood Special,,250,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special,,0,,9,5
+SHAKEY SHOP (Gandhigramam),Puttu Falooda Special,,220,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special,,0,,9,6
+SHAKEY SHOP (Gandhigramam),Dazzling Tower Special,,250,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special,,0,,9,7
+SHAKEY SHOP (Gandhigramam),Pineapple Secret Special,,220,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special,,0,,9,8
+SHAKEY SHOP (Gandhigramam),Bucket Falooda Special,,200,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Special,,0,,9,9
+SHAKEY SHOP (Gandhigramam),Vannila Ice Cream,,50,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,10,1
+SHAKEY SHOP (Gandhigramam),Strawberry Ice Cream,,50,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,10,2
+SHAKEY SHOP (Gandhigramam),Chocolate Ice Cream,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,10,3
+SHAKEY SHOP (Gandhigramam),Mango Ice Cream,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,10,4
+SHAKEY SHOP (Gandhigramam),Pista Ice Cream,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,10,5
+SHAKEY SHOP (Gandhigramam),Butter Scotch Ice Cream,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,10,6
+SHAKEY SHOP (Gandhigramam),Black Currant Ice Cream,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,10,7
+SHAKEY SHOP (Gandhigramam),Vannila Ice Cream Shake,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,11,1
+SHAKEY SHOP (Gandhigramam),Strawberry Ice Cream Shake,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,11,2
+SHAKEY SHOP (Gandhigramam),Chocolate Ice Cream Shake,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,11,3
+SHAKEY SHOP (Gandhigramam),Mango Ice Cream Shake,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,11,4
+SHAKEY SHOP (Gandhigramam),Pista Ice Cream Shake,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,11,5
+SHAKEY SHOP (Gandhigramam),Butter Scotch Ice Cream Shake,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,11,6
+SHAKEY SHOP (Gandhigramam),Black Currant Ice Cream Shake,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shake,,0,,11,7
+SHAKEY SHOP (Gandhigramam),Strawberry Mango Double Taste,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Double Tasty,,0,,12,1
+SHAKEY SHOP (Gandhigramam),Strawberry Banana Double Taste,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Double Tasty,,0,,12,2
+SHAKEY SHOP (Gandhigramam),Apple Chocolate Double Taste,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Double Tasty,,0,,12,3
+SHAKEY SHOP (Gandhigramam),Oreo Chocolate Double Taste,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Double Tasty,,0,,12,4
+SHAKEY SHOP (Gandhigramam),Choco Oreo Double Taste,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Double Tasty,,0,,12,5
+SHAKEY SHOP (Gandhigramam),Kitkat Oreo Double Taste,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Double Tasty,,0,,12,6
+SHAKEY SHOP (Gandhigramam),Brownie Oreo Double Taste,,130,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Double Tasty,,0,,12,7
+SHAKEY SHOP (Gandhigramam),Dairy Kit Double Taste,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Double Tasty,,0,,12,8
+SHAKEY SHOP (Gandhigramam),Fruity Bowel,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,1
+SHAKEY SHOP (Gandhigramam),Fruity with Ice,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,2
+SHAKEY SHOP (Gandhigramam),Brownie with Ice,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,3
+SHAKEY SHOP (Gandhigramam),Brownie with Choco,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,4
+SHAKEY SHOP (Gandhigramam),Choco Candy,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,5
+SHAKEY SHOP (Gandhigramam),Kitkat Candy,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,6
+SHAKEY SHOP (Gandhigramam),Choco Nut,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,7
+SHAKEY SHOP (Gandhigramam),Bread Pudding,,90,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,8
+SHAKEY SHOP (Gandhigramam),Watermelon Ice,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,9
+SHAKEY SHOP (Gandhigramam),Mango with Ice,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,13,10
+SHAKEY SHOP (Gandhigramam),Sharjah Shake Mocktail,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,14,1
+SHAKEY SHOP (Gandhigramam),Peanut Banana Mocktail,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,14,2
+SHAKEY SHOP (Gandhigramam),Chocolate Filled Mocktail,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,14,3
+SHAKEY SHOP (Gandhigramam),Strawberry Side Mocktail,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,14,4
+SHAKEY SHOP (Gandhigramam),Brownie Shake Mocktail,,110,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,14,5
+SHAKEY SHOP (Gandhigramam),Honey Dates Mocktail,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,14,6
+SHAKEY SHOP (Gandhigramam),Trible Treat Mocktail,,100,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,14,7
+SHAKEY SHOP (Gandhigramam),Blue Osan Mojito,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,1
+SHAKEY SHOP (Gandhigramam),Red Blood Mojito,,70,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,2
+SHAKEY SHOP (Gandhigramam),Green Apple Mojito,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,3
+SHAKEY SHOP (Gandhigramam),Mint Mine Mojito,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,4
+SHAKEY SHOP (Gandhigramam),Spicy Point Mojito,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,5
+SHAKEY SHOP (Gandhigramam),Watermelon Mojito,,80,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,6

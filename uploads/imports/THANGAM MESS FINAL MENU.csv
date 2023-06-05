@@ -1,0 +1,208 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THANGAM MESS,Veg Manchow Soup,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+THANGAM MESS,Chicken Manchow Soup,,60,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+THANGAM MESS,Veg Clear Soup,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+THANGAM MESS,Chicken Clear Soup,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+THANGAM MESS,Sweet Corn Veg Soup,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+THANGAM MESS,Sweet Corn Chicken Soup,,60,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+THANGAM MESS,Lemon Corn Soup,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+THANGAM MESS,Cream Of Veg Soup,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+THANGAM MESS,Cream Of Chicken Soup,,60,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+THANGAM MESS,Paneer 65,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,1
+THANGAM MESS,Paneer Tikka,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,2
+THANGAM MESS,Salt & Pepper Paneer,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,3
+THANGAM MESS,Veg Sheek Kebab,,120,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,4
+THANGAM MESS,Mushroom Pepper Fry,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,5
+THANGAM MESS,Mushroom Manchurian,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,6
+THANGAM MESS,Mushroom 65,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,7
+THANGAM MESS,Mushroom Salt & Pepper,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,8
+THANGAM MESS,Crispy Fried Veg,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,9
+THANGAM MESS,Chilli Pepper,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,10
+THANGAM MESS,Chilli Gopi,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,11
+THANGAM MESS,Chilli Mushroom,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,12
+THANGAM MESS,Gopi 65,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,13
+THANGAM MESS,Gopi Manchurian,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,14
+THANGAM MESS,Gopi Pakoda,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,15
+THANGAM MESS,Cashew Nut Pakoda,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,16
+THANGAM MESS,Boiled Mushroom,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,17
+THANGAM MESS,Saut Vegetables,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,18
+THANGAM MESS,Chicken Keema Dosa,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,1
+THANGAM MESS,Mutton Keema Dosa,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,2
+THANGAM MESS,Egg Dosa,,90,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,3
+THANGAM MESS,Egg Masala Dosa,,90,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,4
+THANGAM MESS,Ceylon Parota,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,5
+THANGAM MESS,Ceylon Parota Mutton ,,110,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,6
+THANGAM MESS,Ceylon Patrota Chicken,,100,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,7
+THANGAM MESS,Adakozhi Parota,,100,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,8
+THANGAM MESS,Prawn Ceylon Parota,,130,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,9
+THANGAM MESS,99 Dosa Onion  Veg,,169,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,10
+THANGAM MESS,Idly,,10,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,11
+THANGAM MESS,Sambar Idly,,40,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,12
+THANGAM MESS,Ghee Idly,,40,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,13
+THANGAM MESS,Masala Idly,,30,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,14
+THANGAM MESS,Dosa,,50,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,15
+THANGAM MESS,Ghee Dosa,,70,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,16
+THANGAM MESS,Onion Dosa,,60,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,17
+THANGAM MESS,Masala Dosa,,60,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,18
+THANGAM MESS,Rava Dosa,,60,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,19
+THANGAM MESS,Raagi Dosa,,60,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,20
+THANGAM MESS,Palak Dosa,,60,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,21
+THANGAM MESS,Nellore Dosa,,70,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,22
+THANGAM MESS,Kal Dosa,,60,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,23
+THANGAM MESS,Dosa,,60,,,,5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,24
+THANGAM MESS,Paneer Keema Dosa,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,25
+THANGAM MESS,Mushroom Masala Dosa,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,26
+THANGAM MESS,Mushroom Chettinadu Dosa,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,27
+THANGAM MESS,Veg Chettinadu Dosa,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,28
+THANGAM MESS,Nellore Masala Dosa,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,29
+THANGAM MESS,Gobi Chettinadu Dosa,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,30
+THANGAM MESS,Mushroom Masala Dosa,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,31
+THANGAM MESS,Nellore Masala Dosa,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,32
+THANGAM MESS,Gobi Masala Dosa,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,33
+THANGAM MESS,Raagi Masala Dosa,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,34
+THANGAM MESS,Plain Uthappam,,40,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,35
+THANGAM MESS,Podi Uthappam,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,36
+THANGAM MESS,Onoin Uthappam ,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,37
+THANGAM MESS,G.G.Podi Uthappam,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,38
+THANGAM MESS,Veechu Parota -Veg,,60,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,39
+THANGAM MESS,Ceylon Paraota-Veg,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,40
+THANGAM MESS,99 Dosa Veg,,139,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian Dishes,,0,,3,41
+THANGAM MESS,Vadai (2 Pcs),,20,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,21,1
+THANGAM MESS,Curd Vada (2 Pcs),,40,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,21,2
+THANGAM MESS,Keera Vada (2 Pcs),,40,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,21,3
+THANGAM MESS,Tanoori Roti,,30,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,1
+THANGAM MESS,Tandoori Butter Roti,,40,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,2
+THANGAM MESS,Plain Naan,,30,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,3
+THANGAM MESS,Butter Naan,,40,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,4
+THANGAM MESS,Tandoori Paratha,,40,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,5
+THANGAM MESS,Kulcha,,40,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,6
+THANGAM MESS,Veg Stuffed Kulcha,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,7
+THANGAM MESS,Paneer Stuffed Kulcha,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,8
+THANGAM MESS,Mushroom Staffed Kulcha,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,9
+THANGAM MESS,Garlic Naan,,50,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,10
+THANGAM MESS,Phulka,,20,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,11
+THANGAM MESS,Chapathi,,30,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,12
+THANGAM MESS,Veg Meals,Rice+Sambar+Rasam+Kara Puttus+ Curd+Poriyal+Oil Fry+Sweet+Papped+Pickel,70,,,,5,Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,1
+THANGAM MESS,Non Veg Meals,Rice+Sambar+Fish Curry+Chicken Curry+ Rasam+ Curd+Poriyal+Sweet+Papped+Pickel,80,,,,5,Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,2
+THANGAM MESS,Special Meals,Soup+Rice+Chapathi+Sambar+Poriyal+Koottu+Rasam+Kara Kulambu+Butter Milk+Pickle+Appalam+Gobi 65+Sweet+Ice Cream+Banan+Sweet Beeda.,100,,,,5,Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,3
+THANGAM MESS,Mutton Dum Briyani,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,1
+THANGAM MESS,Prawn Briyani,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,2
+THANGAM MESS,Fish Briyani,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,3
+THANGAM MESS,Mutton Fry Briyani,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,4
+THANGAM MESS,Nattukozhi Fry Briyani,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,5
+THANGAM MESS,Chicken Dum Briyani,,110,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,6
+THANGAM MESS,Mutton Lever Briyani,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,7
+THANGAM MESS,Vankozhi Briyani (Seasonal),,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,8
+THANGAM MESS,Chicken Special Briyani,,180,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,9
+THANGAM MESS,Egg Briyani,,80,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,10
+THANGAM MESS,Veg Briyani,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,11
+THANGAM MESS,Paneer Briyani ,,120,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,12
+THANGAM MESS,Mushroom Briyani,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,13
+THANGAM MESS,Veg Pulao,,90,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,1
+THANGAM MESS,Jeera Rice,,80,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,2
+THANGAM MESS,Navrathina Pulao,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,3
+THANGAM MESS,Veg Fried Rice,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,4
+THANGAM MESS,Gopi Fried Rice,,70,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,5
+THANGAM MESS,Mushroom Veg Fried Rice,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,6
+THANGAM MESS,Paneer Fried Rice,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,7
+THANGAM MESS,Schezwan Veg Fried Rice,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,8
+THANGAM MESS,Mutton Fried Rice,,100,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,9
+THANGAM MESS,Prawn Fried Rice,,130,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,10
+THANGAM MESS,Chicken Fried Rice,,90,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,11
+THANGAM MESS,Mixed Fried Rice,,110,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,12
+THANGAM MESS,Schezwan Chicken Fried Rice,,100,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,13
+THANGAM MESS,Singapore Fried Rice,,130,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,14
+THANGAM MESS,Egg Fried Rice,,80,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,15
+THANGAM MESS,Fish Fried Rice,,130,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,16
+THANGAM MESS,Mutton Fried Noodels,,100,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,1
+THANGAM MESS,Prawn Fried Noodels,,130,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,2
+THANGAM MESS,Chicken Fried Noodels,,90,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,3
+THANGAM MESS,Mixed Fried Noodels,,110,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,4
+THANGAM MESS,Schezwan Chicken Fried Noodels,,100,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,5
+THANGAM MESS,Singapore Fried Noodels,,130,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,6
+THANGAM MESS,Egg Fried Noodels,,80,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,7
+THANGAM MESS,Fish Fried Noodels,,130,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,8
+THANGAM MESS,Prawn Manchurian,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Dishes,,0,,16,1
+THANGAM MESS,Chilli Prawn,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Dishes,,0,,16,2
+THANGAM MESS,Prawn 65,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Dishes,,0,,16,3
+THANGAM MESS,Prawn Pepper Fry,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Dishes,,0,,16,4
+THANGAM MESS,Prawn Salt & Pepper,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Dishes,,0,,16,5
+THANGAM MESS,Tandoori Jinga,,210,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Dishes,,0,,16,6
+THANGAM MESS,Palak Paneer ,,140,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,1
+THANGAM MESS,Paneer Tikka Masala,,140,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,2
+THANGAM MESS,Paneer Butter Masala,,140,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,3
+THANGAM MESS,Mushuroom Pepper Masala,,130,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,4
+THANGAM MESS,Aloo Palak,,120,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,5
+THANGAM MESS,Aloo Gobi Masala,,120,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,6
+THANGAM MESS,Mix Veg Curry,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,7
+THANGAM MESS,Dal Fry,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,8
+THANGAM MESS,Dal Palak,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,9
+THANGAM MESS,Dal Lasooni,,100,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,10
+THANGAM MESS,Dal Tadks,,110,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,11
+THANGAM MESS,Mutton Masala,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,12
+THANGAM MESS,Mutton Rogan Josh,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,13
+THANGAM MESS,Mutton Chettinadu,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,14
+THANGAM MESS,Mutton Keema Masala,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,15
+THANGAM MESS,Kadai Mutton,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,16
+THANGAM MESS,Chicken Chettinadu,,130,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,17
+THANGAM MESS,Chicken Mogali,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,18
+THANGAM MESS,Chicken Kalapuri,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,19
+THANGAM MESS,Chicken Tikka Masala,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,20
+THANGAM MESS,Butter Chicken Masala,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,21
+THANGAM MESS,Nattu Kozhi Masala,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,22
+THANGAM MESS,Nattu Kozhi Varutha Curry,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,9,23
+THANGAM MESS,Mutton Paaya,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,1
+THANGAM MESS,Mutton Seekh Kebab,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,2
+THANGAM MESS,Mutton Fry,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,3
+THANGAM MESS,Mutton Sukka,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,4
+THANGAM MESS,Chilli Lamb,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,5
+THANGAM MESS,Mutton Manchurian,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,6
+THANGAM MESS,Mutton Keema Vada,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,7
+THANGAM MESS,Mutton Keema Balls,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,8
+THANGAM MESS,Mutton Peper Fry,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,9
+THANGAM MESS,Mutton Liver Fry,,110,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,10
+THANGAM MESS,Muttion Boti Fry,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,10,11
+THANGAM MESS,Chicken Malai Tikka,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,1
+THANGAM MESS,Chicken Hariyali Tikka,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,2
+THANGAM MESS,Kalmi Kebab,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,3
+THANGAM MESS,Tangri Kebab,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,4
+THANGAM MESS,Chicken Lolly Pop,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,5
+THANGAM MESS,Chicken 65,,80,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,6
+THANGAM MESS,Chicken Leg Fry,,80,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,7
+THANGAM MESS,Chicken Kebab,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,8
+THANGAM MESS,Chicken Roast,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,9
+THANGAM MESS,Chicken Manchurian,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,10
+THANGAM MESS,Chicken Salt & Pepper,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,11
+THANGAM MESS,Garlic Chicken,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,12
+THANGAM MESS,Ginger Chicken,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,13
+THANGAM MESS,Dragon Chicken,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,14
+THANGAM MESS,Lemon Chicken,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,15
+THANGAM MESS,Nattu Kozhi Fry,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,16
+THANGAM MESS,Nattu Kozhi 65,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,17
+THANGAM MESS,Nattu Kozhi Pepper Fry,,140,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Dishes,,0,,11,18
+THANGAM MESS,Vanjaram Fish Fry,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Dishes,,0,,12,1
+THANGAM MESS,Fish Tikka,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Dishes,,0,,12,2
+THANGAM MESS,Fish Manchurian,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Dishes,,0,,12,3
+THANGAM MESS,Fish 65,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Dishes,,0,,12,4
+THANGAM MESS,Chilli Fish,,120,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Dishes,,0,,12,5
+THANGAM MESS,Hariyali Fish Tikka,,150,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Dishes,,0,,12,6
+THANGAM MESS,Crab Fry,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crab Dishes,,0,,13,1
+THANGAM MESS,Crab Pepper Fry,,160,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crab Dishes,,0,,13,2
+THANGAM MESS,Rabbit Fry,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rabbit Dishes,,0,,14,1
+THANGAM MESS,Rabbit Masala,,200,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rabbit Dishes,,0,,14,2
+THANGAM MESS,Kaadai Fry,,100,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Dishes,,0,,15,1
+THANGAM MESS,Kaadai Masala,,100,,,,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Dishes,,0,,15,2
+THANGAM MESS,Shawarma Roll,,60,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,1
+THANGAM MESS,Special Shawarma,,70,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,2
+THANGAM MESS,Mexican Shawarma,,70,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,3
+THANGAM MESS,Shawarma Plate,,90,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,4
+THANGAM MESS,Mexican Shawarma Plate,,100,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,5
+THANGAM MESS,Grill Chicken Full,,300,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Grills,,0,,18,1
+THANGAM MESS,Grill Chicken Half,,150,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Grills,,0,,18,2
+THANGAM MESS,Grill Chicken Quater,,80,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Grills,,0,,18,3
+THANGAM MESS,Tandoori Chicken Full,,300,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandooris,,0,,19,1
+THANGAM MESS,Tandoori Chicken Half,,150,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandooris,,0,,19,2
+THANGAM MESS,Tandoori Chicken Quater,,80,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandooris,,0,,19,3
+THANGAM MESS,Non Veg Special Combo,Nannari Sarbath+Mutton Chukka+Eral Thokku+Nattu Kozhi Fry+Pepper Nandu Fry+Mutton Briyani+Fish Fry+Egg Thokku+Boti Fry+Thalakari Kulambu+Nattu Kozhi Kulambu+Fish Kulambu+Ponni Pulugal Arisi Sadham+Sweet Beeda+Welcome Cooldrinks+Rasam+Butter Milk+Appalam+Sweet+Banana+Ice Cream,499,,,,5,Non Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Combos,,0,,20,1
+THANGAM MESS,Combo 1,Chicken Soup+ Chicken Fried Rice+ Lemon Chicken+ Chicken Manchurian,220,,,,5,Non Veg,,,,,11:00AM,04:00PM,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Combos,,0,,20,2
+THANGAM MESS,Combo 2,Grill Chicken Full + Shawarma Roll,320,,,,5,Non Veg,,,,,11:00AM,04:00PM,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Combos,,0,,20,3

@@ -1,0 +1,221 @@
+restaurant_name,food_item,description,price,special_price,special_from,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DINDIGUL VELU BRIYANI,Mutton Briyani,,240,,,12,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+DINDIGUL VELU BRIYANI,Mutton Briyani 1/4,,130,,,6.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,2
+DINDIGUL VELU BRIYANI,Chicken Briyani,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,3
+DINDIGUL VELU BRIYANI,Chicken 65 Briyani,,220,,,11,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,4
+DINDIGUL VELU BRIYANI,Nattu Kozhi Briyani,,240,,,12,Non Veg,09:00AM,11:00PM,,,,,,,7,1,,Briyani,,0,,1,5
+DINDIGUL VELU BRIYANI,Hyderabad Chicken Dum Briyani,,220,,,11,Non Veg,09:00AM,11:00PM,,,,,,,7,1,,Briyani,,0,,1,5
+DINDIGUL VELU BRIYANI,Egg Briyani,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,6
+DINDIGUL VELU BRIYANI,Egg Briyani 1/4,,110,,,5.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,7
+DINDIGUL VELU BRIYANI,Plain Mutton Biriyani,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,8
+DINDIGUL VELU BRIYANI,Plain Mutton Biriyani 1/4,,110,,,5.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,8
+DINDIGUL VELU BRIYANI,Plain Chicken Biriyani,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,8
+DINDIGUL VELU BRIYANI,Plain Chicken Biriyani 1/4,,100,,,5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,8
+DINDIGUL VELU BRIYANI,Veg Briyani,,130,,,6.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,10
+DINDIGUL VELU BRIYANI,Mushroom Briyani,,140,,,7,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,11
+DINDIGUL VELU BRIYANI,Non Veg Meals,,160,,,8,Non Veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,2,1
+DINDIGUL VELU BRIYANI,Veg Meals,,90,,,4.5,Veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,2,2
+DINDIGUL VELU BRIYANI,Curd Rice,,50,,,2.5,Veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,2,3
+DINDIGUL VELU BRIYANI,Extra Rice,,30,,,1.5,Veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,2,4
+DINDIGUL VELU BRIYANI,Curd,,20,,,1,Veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,2,5
+DINDIGUL VELU BRIYANI,Mutton Sukka,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,1
+DINDIGUL VELU BRIYANI,Mutton Egg Kari,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,2
+DINDIGUL VELU BRIYANI,Mutton Kothu Kari,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,3
+DINDIGUL VELU BRIYANI,Mutton Nenju Chops,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,4
+DINDIGUL VELU BRIYANI,Mutton Nalli Chops,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,5
+DINDIGUL VELU BRIYANI,Mutton Kudal,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,6
+DINDIGUL VELU BRIYANI,Mutton Egg Kudal,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,7
+DINDIGUL VELU BRIYANI,Mutton Brain,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,8
+DINDIGUL VELU BRIYANI,Mutton Egg Brain,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,9
+DINDIGUL VELU BRIYANI,Mutton Liver,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,10
+DINDIGUL VELU BRIYANI,Mutton Thalakari,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,10
+DINDIGUL VELU BRIYANI,Mutton Suvaroti,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,11
+DINDIGUL VELU BRIYANI,Mutton Maanga,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,12
+DINDIGUL VELU BRIYANI,Mutton Kola 1 Pc,,25,,,1.25,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,13
+DINDIGUL VELU BRIYANI,Nattukozhi Sukka Dry,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Starters ,,0,,6,1
+DINDIGUL VELU BRIYANI,Nattukozhi Chops Dry,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Starters ,,0,,6,2
+DINDIGUL VELU BRIYANI,Nattukozhi Uppukari Dry,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Starters ,,0,,6,3
+DINDIGUL VELU BRIYANI,Nattukozhi Pallipalayam Dry,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Starters ,,0,,6,4
+DINDIGUL VELU BRIYANI,Nattukozhi Chittenadu Gravy,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Starters ,,0,,6,3
+DINDIGUL VELU BRIYANI,Nattukozhi Pepper Masala,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Starters ,,0,,6,4
+DINDIGUL VELU BRIYANI,Panneer Butter Masala,,160,,,8,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,9,1
+DINDIGUL VELU BRIYANI,Kadaai Panneer Masala,,160,,,8,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,9,2
+DINDIGUL VELU BRIYANI,Panneer Tikka Masala,,210,,,10.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,9,3
+DINDIGUL VELU BRIYANI,Gobi Masala,,140,,,7,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,9,4
+DINDIGUL VELU BRIYANI,Mushroom Masala,,150,,,7.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,9,5
+DINDIGUL VELU BRIYANI,Chettinad Chicken Gravy,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,9,6
+DINDIGUL VELU BRIYANI,Kadaai Chicken Gravy,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,9,7
+DINDIGUL VELU BRIYANI,Ginger Chicken Gravy,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,9,8
+DINDIGUL VELU BRIYANI,Garlic Chicken Gravy,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,9,9
+DINDIGUL VELU BRIYANI,Pepper Chicken Gravy,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,9,10
+DINDIGUL VELU BRIYANI,Butter Chicken Gravy,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,9,11
+DINDIGUL VELU BRIYANI,Hyderabad Chicken Gravy,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,9,12
+DINDIGUL VELU BRIYANI,Chicken Wings Pepper Masala,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,9,13
+DINDIGUL VELU BRIYANI,Chicken Tikka Masala,,210,,,10.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,9,14
+DINDIGUL VELU BRIYANI,Mutton Kudal Kuzhambu,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,9,20
+DINDIGUL VELU BRIYANI,Mutton Chettinad Gravy,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,9,21
+DINDIGUL VELU BRIYANI,Mutton Pepper Masala,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,9,22
+DINDIGUL VELU BRIYANI,Kaadai Masala,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Starters,,0,,9,26
+DINDIGUL VELU BRIYANI,Kaadai Roast Dry,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Starters,,0,,7,1
+DINDIGUL VELU BRIYANI,Kaadai 65 Dry,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Starters,,0,,7,2
+DINDIGUL VELU BRIYANI,Kaadai Pepper Fry Dry,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Starters,,0,,7,3
+DINDIGUL VELU BRIYANI,Chicken Sukka Dry,,130,,,6.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,1
+DINDIGUL VELU BRIYANI,Chicken Kothu Kari,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,2
+DINDIGUL VELU BRIYANI,Chicken Pallipalayam Dry,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,3
+DINDIGUL VELU BRIYANI,Chicken Chinthamani,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,4
+DINDIGUL VELU BRIYANI,Chicken 65,,140,,,7,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,5
+DINDIGUL VELU BRIYANI,Chicken Lollypop 2 Pcs,,95,,,4.75,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,6
+DINDIGUL VELU BRIYANI,Chicken Lolliypop 4 Pcs,,170,,,8.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,7
+DINDIGUL VELU BRIYANI,Chicken Lolliypop 4 Pcs/Saucy,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,8
+DINDIGUL VELU BRIYANI,Chicken Kebab,,100,,,5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,9
+DINDIGUL VELU BRIYANI,Chicken Manchuriyan Dry,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,10
+DINDIGUL VELU BRIYANI,Chilly Chicken,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,11
+DINDIGUL VELU BRIYANI,Chicken Wings Pepper Fry,,160,,,8,Non Veg,09:00AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,12
+DINDIGUL VELU BRIYANI,Black Chicken Pepper,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,13
+DINDIGUL VELU BRIYANI,Hot Pepper Chicken,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,14
+DINDIGUL VELU BRIYANI,Chicken Leg Pepper,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,15
+DINDIGUL VELU BRIYANI,Pepper Chicken,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,16
+DINDIGUL VELU BRIYANI,Garlic Chicken,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,17
+DINDIGUL VELU BRIYANI,Ginger Chicken,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,18
+DINDIGUL VELU BRIYANI,Lemon Chicken,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,19
+DINDIGUL VELU BRIYANI,Mangolian Chicken,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,20
+DINDIGUL VELU BRIYANI,Dragon Chicken,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,21
+DINDIGUL VELU BRIYANI,Onion Fry Chicken,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,22
+DINDIGUL VELU BRIYANI,Schezwan Chicken,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,23
+DINDIGUL VELU BRIYANI,Grill Chicken Quarter,,110,,,5.5,Non Veg,,,,,01:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Grills,,0,,15,1
+DINDIGUL VELU BRIYANI,Grill Chicken Half,,200,,,10,Non Veg,,,,,01:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Grills,,0,,15,1
+DINDIGUL VELU BRIYANI,Grill Chicken Full,,390,,,19.5,Non Veg,,,,,01:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Grills,,0,,15,2
+DINDIGUL VELU BRIYANI,Tandoori Chicken Quarter,,110,,,5.5,Non Veg,,,,,12:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,1
+DINDIGUL VELU BRIYANI,Tandoori Chicken Half,,200,,,10,Non Veg,,,,,12:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,1
+DINDIGUL VELU BRIYANI,Tandoori Chicken Full,,390,,,19.5,Non Veg,,,,,12:00PM,11:00PM,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,2
+DINDIGUL VELU BRIYANI,Tandoori Kebab,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,3
+DINDIGUL VELU BRIYANI,Reshmi Kebab,,210,,,10.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,4
+DINDIGUL VELU BRIYANI,Garlic Kebab,,210,,,10.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,5
+DINDIGUL VELU BRIYANI,Hariyali Kebab,,210,,,10.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,6
+DINDIGUL VELU BRIYANI,Murugu Malai,,210,,,10.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,6
+DINDIGUL VELU BRIYANI,Kaali Mirchi Kebab,,210,,,10.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,6
+DINDIGUL VELU BRIYANI,Malai Tikka,,210,,,10.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,8
+DINDIGUL VELU BRIYANI,Chicken Tikka,,210,,,10.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,14,8
+DINDIGUL VELU BRIYANI,Egg Masala,,90,,,4.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,1
+DINDIGUL VELU BRIYANI,Podimass,,30,,,1.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,2
+DINDIGUL VELU BRIYANI,Omlette,,25,,,1.25,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,3
+DINDIGUL VELU BRIYANI,One Side Omlette,,25,,,1.25,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,4
+DINDIGUL VELU BRIYANI,Karandi Omlette,,30,,,1.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,5
+DINDIGUL VELU BRIYANI,Plain Omlette,,20,,,1,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,6
+DINDIGUL VELU BRIYANI,Full  Boiled,,20,,,1,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,7
+DINDIGUL VELU BRIYANI,Kalakki,,25,,,1.25,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,8
+DINDIGUL VELU BRIYANI,Boiled Egg,,10,,,0.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,9
+DINDIGUL VELU BRIYANI,Nethily Fry,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,1
+DINDIGUL VELU BRIYANI,Fish 65,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,2
+DINDIGUL VELU BRIYANI,Fish Fingers,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,3
+DINDIGUL VELU BRIYANI,Fish Manchurian,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,4
+DINDIGUL VELU BRIYANI,Fish Poriyal,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,4
+DINDIGUL VELU BRIYANI,Garlic Fish,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,5
+DINDIGUL VELU BRIYANI,Ginger Fish,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,6
+DINDIGUL VELU BRIYANI,Dragon Fish,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,7
+DINDIGUL VELU BRIYANI,Schezwan Fish,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,8
+DINDIGUL VELU BRIYANI,Fish Gravy,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,9
+DINDIGUL VELU BRIYANI,Prawns 65,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,10
+DINDIGUL VELU BRIYANI,Prawns Pepper Fry,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,11
+DINDIGUL VELU BRIYANI,Prawns Manchurian,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,12
+DINDIGUL VELU BRIYANI,Chilli Prawns,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,13
+DINDIGUL VELU BRIYANI,Garlic Prawns,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,14
+DINDIGUL VELU BRIYANI,Ginger Prawns,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,15
+DINDIGUL VELU BRIYANI,Schezwan Prawns,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,16
+DINDIGUL VELU BRIYANI,Prawn Masala,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,17
+DINDIGUL VELU BRIYANI,Nandu Soup,,140,,,7,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,18
+DINDIGUL VELU BRIYANI,Nandu Masala,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,19
+DINDIGUL VELU BRIYANI,Nandu Pepper Fry,,190,,,9.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,20
+DINDIGUL VELU BRIYANI,Veg Fried Rice,,120,,,6,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,1
+DINDIGUL VELU BRIYANI,Schezwan Veg Fried Rice,,130,,,6.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,2
+DINDIGUL VELU BRIYANI,Mushroom Fried Rice,,140,,,7,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,3
+DINDIGUL VELU BRIYANI,Panneer Fried Rice,,150,,,7.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,4
+DINDIGUL VELU BRIYANI,Egg Fried Rice,,140,,,7,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,5
+DINDIGUL VELU BRIYANI,Chicken Fried Rice,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,6
+DINDIGUL VELU BRIYANI,Schezwan Egg Fried Rice,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,7
+DINDIGUL VELU BRIYANI,Schezwan Chicken Fried Rice,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,7
+DINDIGUL VELU BRIYANI,Prawn Fried Rice,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,8
+DINDIGUL VELU BRIYANI,Mixed Fried Rice(Non veg),,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,9
+DINDIGUL VELU BRIYANI,Veg Noodles,,120,,,6,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,1
+DINDIGUL VELU BRIYANI,Schezwan Veg Noodles,,130,,,6.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,2
+DINDIGUL VELU BRIYANI,Mushroom Noodles,,140,,,7,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,3
+DINDIGUL VELU BRIYANI,Panneer Noodles,,150,,,7.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,4
+DINDIGUL VELU BRIYANI,Egg Noodles,,140,,,7,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,5
+DINDIGUL VELU BRIYANI,Chicken Noodles,,150,,,7.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,6
+DINDIGUL VELU BRIYANI,Schezwan Egg Noodles,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,7
+DINDIGUL VELU BRIYANI,Schezwan Chicken Noodles,,160,,,8,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,7
+DINDIGUL VELU BRIYANI,Prawn Noodles,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,8
+DINDIGUL VELU BRIYANI,Mixed Noodles(Non Veg ),,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,9
+DINDIGUL VELU BRIYANI,Gobi 65,,110,,,5.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,1
+DINDIGUL VELU BRIYANI,Mushroom 65,,120,,,6,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,2
+DINDIGUL VELU BRIYANI,Babycorn 65,,120,,,6,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,3
+DINDIGUL VELU BRIYANI,Panneer 65,,140,,,7,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+DINDIGUL VELU BRIYANI,Gobi Manchurian,,140,,,7,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,5
+DINDIGUL VELU BRIYANI,Mushroom Manchurian,,150,,,7.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,6
+DINDIGUL VELU BRIYANI,Babycorn Manchurian,,150,,,7.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,7
+DINDIGUL VELU BRIYANI,Panneer Manchurian,,160,,,8,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,8
+DINDIGUL VELU BRIYANI,Chilli Gobi,,140,,,7,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,9
+DINDIGUL VELU BRIYANI,Chilli Mushroom,,150,,,7.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,10
+DINDIGUL VELU BRIYANI,Chilli Babycorn,,150,,,7.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,11
+DINDIGUL VELU BRIYANI,Chilli Panneer,,160,,,8,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,12
+DINDIGUL VELU BRIYANI,Hot Pepper Mushroom,,150,,,7.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,13
+DINDIGUL VELU BRIYANI,Panneer Tikka,,190,,,9.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,14
+DINDIGUL VELU BRIYANI,Chapathi,,30,,,1.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,1
+DINDIGUL VELU BRIYANI,Rotti,,35,,,1.75,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,2
+DINDIGUL VELU BRIYANI,Naan,,35,,,1.75,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,3
+DINDIGUL VELU BRIYANI,Kulcha,,40,,,2,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,4
+DINDIGUL VELU BRIYANI,Butter Rotti,,40,,,2,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,5
+DINDIGUL VELU BRIYANI,Butter Naan,,40,,,2,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,6
+DINDIGUL VELU BRIYANI,Butter Kulcha,,50,,,2.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,7
+DINDIGUL VELU BRIYANI,Masala Kulcha,,50,,,2.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,8
+DINDIGUL VELU BRIYANI,Onion Kulcha,,50,,,2.5,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,9
+DINDIGUL VELU BRIYANI,Panneer Kulcha,,55,,,2.75,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,10
+DINDIGUL VELU BRIYANI,Tandoori Parotta,,40,,,2,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,11
+DINDIGUL VELU BRIYANI,Idly,,15,,,0.75,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,1
+DINDIGUL VELU BRIYANI,Idly Kudal Kulambu,,190,,,9.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,2
+DINDIGUL VELU BRIYANI,Mutton Kari Idly,,180,,,9,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,3
+DINDIGUL VELU BRIYANI,Chicken Kari Idlly,,170,,,8.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,4
+DINDIGUL VELU BRIYANI,Roast,,60,,,3,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,5
+DINDIGUL VELU BRIYANI,Onion Roast,,80,,,4,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,5
+DINDIGUL VELU BRIYANI,Egg Roast,,70,,,3.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,5
+DINDIGUL VELU BRIYANI,Kal Dosai,,30,,,1.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,5
+DINDIGUL VELU BRIYANI,Egg Dosai,,50,,,2.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,6
+DINDIGUL VELU BRIYANI,Mutton Kari Dosai,,180,,,9,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,7
+DINDIGUL VELU BRIYANI,Chicken Kari Dosai,,170,,,8.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,8
+DINDIGUL VELU BRIYANI,Uthappam,,30,,,1.5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,9
+DINDIGUL VELU BRIYANI,Onion Uthappam,,80,,,4,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,10
+DINDIGUL VELU BRIYANI,Parotta,,25,,,1.25,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,11
+DINDIGUL VELU BRIYANI,Egg Kothu Parotta,,90,,,4.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,12
+DINDIGUL VELU BRIYANI,Mutton Kothu Parotta,,180,,,9,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,13
+DINDIGUL VELU BRIYANI,Chicken Kothu Parotta,,170,,,8.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,14
+DINDIGUL VELU BRIYANI,Chilli Parotta,,110,,,5.5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,15
+DINDIGUL VELU BRIYANI,Veechu Parotta,,40,,,2,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,16
+DINDIGUL VELU BRIYANI,Egg Veechu Parotta,,50,,,2.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,17
+DINDIGUL VELU BRIYANI,Butter Veechu Parotta,,50,,,2.5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,18
+DINDIGUL VELU BRIYANI,Egg Veechu Parotta,,50,,,2.5,Non Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,17
+DINDIGUL VELU BRIYANI,,,50,,,2.5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,18
+DINDIGUL VELU BRIYANI,Bun Parotta,,30,,,1.5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,18
+DINDIGUL VELU BRIYANI,Ceylon Egg Parotta,,120,,,6,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,18
+DINDIGUL VELU BRIYANI,Ceylon Chicken Parotta,,170,,,8.5,Veg,,,,,,,07:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Evening Specials,,0,,16,18
+DINDIGUL VELU BRIYANI,Ceylon Mutton Parotta,,180,,,9,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,1
+DINDIGUL VELU BRIYANI,Barbeque Chicken Quarter,,110,,,5.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,1
+DINDIGUL VELU BRIYANI,Barbeque Chicken Half,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,1
+DINDIGUL VELU BRIYANI,Barbeque Chicken Full,,390,,,19.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,2
+DINDIGUL VELU BRIYANI,Alfaham Barbeque Chicken Quarter,,110,,,5.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,3
+DINDIGUL VELU BRIYANI,Alfaham Barbeque Chicken Half,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,3
+DINDIGUL VELU BRIYANI,Alfaham Barbeque Chicken Full,,390,,,19.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,4
+DINDIGUL VELU BRIYANI,Pepper Barbeque Chicken Half,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,5
+DINDIGUL VELU BRIYANI,Pepper Barbeque Chicken Full,,390,,,19.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,6
+DINDIGUL VELU BRIYANI,Chicken Seek Kebab,,390,,,19.5,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,7
+DINDIGUL VELU BRIYANI,Barbeque Fish,,200,,,10,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Barbeques,,0,,17,8
+DINDIGUL VELU BRIYANI,Mutton Biriyani 1/2 Padi,6 To 7 Person Aprox,1500,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Orders,,0,,17,7
+DINDIGUL VELU BRIYANI,Mutton Biriyani 1 Padi,13 To 14 Person Aprox,2950,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Orders,,0,,17,8
+DINDIGUL VELU BRIYANI,Chicken Biriyani 1/2 Padi,6 To 7 Person Aprox,1250,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Orders,,0,,18,2
+DINDIGUL VELU BRIYANI,Chicken Biriyani 1 Padi,13 To 14 Person Aprox,2450,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Orders,,0,,18,3
+DINDIGUL VELU BRIYANI,Nattukozhi Biriyani 1/2 Padi,6 To 7 Person Aprox,1500,,,0,Non Veg,09:00AM,11:00PM,,,,,,,7,1,,Party Orders,,0,,18,4
+DINDIGUL VELU BRIYANI,Nattukozhi Biriyani 1 Padi,13 To 14 Person Aprox,2950,,,0,Non Veg,09:00AM,11:00PM,,,,,,,7,1,,Party Orders,,0,,18,5
+DINDIGUL VELU BRIYANI,Mutton Sukka With Bone 1Kg,1 kg Meat 8 Person Aprox,1100,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Orders,,0,,18,6
+DINDIGUL VELU BRIYANI,Mutton Sukka Boneless 1Kg,1 kg Meat 8 Person Aprox,1300,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Orders,,0,,18,7
+DINDIGUL VELU BRIYANI,Nattukozhi Sukka 1 Kg,1 kg Meat 8 Person Aprox,1100,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Orders,,0,,18,8
+DINDIGUL VELU BRIYANI,Chicken Sukka 1 Kg,1 kg Meat 8 Person Aprox,650,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Orders,,0,,18,9
+DINDIGUL VELU BRIYANI,Chicken 65 Boneless 1 kg,1 kg Meat 8 Person Aprox,850,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Orders,,0,,18,10

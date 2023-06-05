@@ -1,0 +1,85 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+ONLY PARCEL,Crab Soup,,20,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+ONLY PARCEL,Veg Soup,,20,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+ONLY PARCEL,Nattu Kozhi Soup,,25,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+ONLY PARCEL,Sweet Corn Veg Soup,,40,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+ONLY PARCEL,Sweet Corn Chicken Soup,,40,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+ONLY PARCEL,Sweet Corn Egg Soup,,40,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+ONLY PARCEL,Paneer 65,,60,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,1
+ONLY PARCEL,Mushroom 65,,60,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,2
+ONLY PARCEL,Gobi 65,,30,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,3
+ONLY PARCEL,Baby Corn 65,,30,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,4
+ONLY PARCEL,Paneer Manchurian,,75,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,5
+ONLY PARCEL,Gobi Manchurian,,75,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,6
+ONLY PARCEL,Mushroom Manchurian,,75,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,7
+ONLY PARCEL,Babycorn Manchurian,,75,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,8
+ONLY PARCEL,Panner Pepper Fry,,75,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,9
+ONLY PARCEL,Gobi Pepper Fry,,75,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,10
+ONLY PARCEL,Mushroom Pepper Fry,,75,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,11
+ONLY PARCEL,Babycorn Pepper Fry,,75,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry Specials,,0,,2,12
+ONLY PARCEL,Paneer Butter Masala,,80,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,3,1
+ONLY PARCEL,Mushroom Pepper Masala,,80,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,3,2
+ONLY PARCEL,Kadai Paneer,,80,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,3,3
+ONLY PARCEL,Aloo Gobi Masala,,80,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,3,4
+ONLY PARCEL,Kadai Vegetable,,80,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,3,5
+ONLY PARCEL,Babaycorn Masala,,80,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,3,6
+ONLY PARCEL,Shai Paneer,,90,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,3,7
+ONLY PARCEL,Grill Chicken Quarter,,80,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Chicken,,0,,4,1
+ONLY PARCEL,Grill Chicken Half,,140,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Chicken,,0,,4,2
+ONLY PARCEL,Grill Chicken Full,,250,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Chicken,,0,,4,3
+ONLY PARCEL,Chicken Tikka,,110,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Chicken,,0,,5,1
+ONLY PARCEL,Tangiri Kebab,,60,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Chicken,,0,,5,2
+ONLY PARCEL,Hariyali Kebab,,60,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Chicken,,0,,5,3
+ONLY PARCEL,Chettinad Chicken Masala,,90,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,6,1
+ONLY PARCEL,Kadai Chicken (Boneless),,110,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,6,2
+ONLY PARCEL,Chicken Varuval,,80,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,6,3
+ONLY PARCEL,Chicken Pepper Fry (Boneless),,100,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,6,4
+ONLY PARCEL,Chicken 65 (Bone) 150 Gms,,50,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,6,5
+ONLY PARCEL,Chicken 65 (Boneless),,80,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,6,6
+ONLY PARCEL,Chicken Manchurian Dry,,100,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,6,7
+ONLY PARCEL,Chicken Lolly Pop (4 Pcs),,100,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,6,8
+ONLY PARCEL,Mutton Varuval,,120,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,6,9
+ONLY PARCEL,Mutton Masala,,120,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,6,10
+ONLY PARCEL,Nattukozhi Palli Palayam,,120,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Specials,,0,,7,1
+ONLY PARCEL,Nattukozhi Uppukari,,120,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Specials,,0,,7,2
+ONLY PARCEL,Chettinad Nattukozhi Masala,,120,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattukozhi Specials,,0,,7,3
+ONLY PARCEL,Velur Fish Fry,,50,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Seafood Specials,,0,,8,1
+ONLY PARCEL,Fish 65,,60,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Seafood Specials,,0,,8,2
+ONLY PARCEL,Fish Manchurian Fry (Boneless),,90,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Seafood Specials,,0,,8,3
+ONLY PARCEL,Nethili 65,,80,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Seafood Specials,,0,,8,4
+ONLY PARCEL,Prawn 65,,80,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Seafood Specials,,0,,8,5
+ONLY PARCEL,Prawn Pepper Fry,,100,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Seafood Specials,,0,,8,6
+ONLY PARCEL,Prawn Manchurian,,100,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Seafood Specials,,0,,8,7
+ONLY PARCEL,Kaadai 65,,70,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,9,1
+ONLY PARCEL,Kaadai Pepper Fry,,90,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,9,2
+ONLY PARCEL,Naan,,20,,,,10,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,10,1
+ONLY PARCEL,Tandoori Roti,,15,,,,10,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,10,2
+ONLY PARCEL,Butter Naan,,25,,,,10,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,10,3
+ONLY PARCEL,Butter Roti,,25,,,,10,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,10,4
+ONLY PARCEL,Tandoori Parotta,,20,,,,10,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,10,5
+ONLY PARCEL,Parotta (2 Pcs),,24,,,,10,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tawa Specials,,0,,11,1
+ONLY PARCEL,Bun Parotta (2 Pcs),,36,,,,10,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tawa Specials,,0,,11,2
+ONLY PARCEL,Egg Lappa,,25,,,,10,0,Non Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tawa Specials,,0,,11,3
+ONLY PARCEL,Kothu Parotta,,50,,,,10,0,Non Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tawa Specials,,0,,11,4
+ONLY PARCEL,Chappathi (2 Pcs),,30,,,,10,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tawa Specials,,0,,11,5
+ONLY PARCEL,Kal Dosai (2 Pcs),,20,,,,10,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tawa Specials,,0,,11,6
+ONLY PARCEL,Chilli Parotta,,40,,,,10,0,Non Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tawa Specials,,0,,11,7
+ONLY PARCEL,Chicken Briyani,,65,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,12,1
+ONLY PARCEL,Plain Briyani,,40,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,12,2
+ONLY PARCEL,Mutton Briyani (Boneless),,130,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,12,3
+ONLY PARCEL,Veg Fried Rice,,50,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,13,1
+ONLY PARCEL,Egg Fried Rice,,60,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,13,2
+ONLY PARCEL,Chicken Fried Rice,,80,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,13,3
+ONLY PARCEL,Fish Fried Rice,,80,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,13,4
+ONLY PARCEL,Prawn Fried Rice,,100,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,13,5
+ONLY PARCEL,Schezwan Veg Fried Rice,,60,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,13,6
+ONLY PARCEL,Schezwan Egg Fried Rice,,70,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,13,7
+ONLY PARCEL,Schezwan Chicken Fried Rice,,90,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,13,8
+ONLY PARCEL,Veg Noodles,,50,,,,10,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,14,1
+ONLY PARCEL,Egg Noodles,,60,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,14,2
+ONLY PARCEL,Chicken Noodles,,80,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,14,3
+ONLY PARCEL,Fish Noodles,,80,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,14,4
+ONLY PARCEL,Prawn Noodles,,100,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,14,5
+ONLY PARCEL,Schezwan Veg Noodles,,60,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,14,6
+ONLY PARCEL,Schezwan Egg Noodles,,70,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,14,7
+ONLY PARCEL,Schezwan Chicken Noodles,,90,,,,10,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,14,8

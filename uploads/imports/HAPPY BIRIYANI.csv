@@ -1,0 +1,13 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HAPPY BIRIYANI,Chicken Biriyani,,120,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+HAPPY BIRIYANI,Chicken Biriyani Bucket (5 Persons),Approx 5 Persons,599,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,2,1
+HAPPY BIRIYANI,Chicken Biriyani 1/2 Bucket (3 Persons),Approx 3 Persons,375,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,2,2
+HAPPY BIRIYANI,Egg Biriyani Bucket (5 Persons),Approx 5 Persons,450,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,2,3
+HAPPY BIRIYANI,Mutton Biriyani Bucket (5 Persons),Approx 5 Persons,1100,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Biriyani,,0,,3,1
+HAPPY BIRIYANI,Eral Biriyani Bucket (5 Persons),Approx 5 Persons,850,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Eral Biriyani,,0,,4,1
+HAPPY BIRIYANI,Veg Biriyani Bucket (5 Persons),Approx 5 Persons,399,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani Veg,,0,,5,1
+HAPPY BIRIYANI,Mushroom Biriyani Bucket (5 Persons),Approx 5 Persons,450,,,,0,0,Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani Veg,,0,,5,2
+HAPPY BIRIYANI,Biriyani Noodles Bucket (3 Persons),Approx 3 Persons,299,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles Biriyani,,0,,6,1
+HAPPY BIRIYANI,Biriyani Noodles,,100,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles Biriyani,,0,,6,2
+HAPPY BIRIYANI,Idiyappa Biriyani Bucket (3 Persons),Approx 3 Persons,299,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Idiyappa Biriyani,,0,,7,1
+HAPPY BIRIYANI,Idiyappa Biriyani,,100,,,,0,0,Non Veg,11:00AM,9:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Idiyappa Biriyani,,0,,7,2

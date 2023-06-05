@@ -1,0 +1,35 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOTEL M.S,Parotta(2 No),,25,,,,5,0,Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+HOTEL M.S,Bun Parotta ( 1pc),,20,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+HOTEL M.S,Kothu Parotta,,80,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+HOTEL M.S,Veechu Parotta,,20,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+HOTEL M.S,Egg Veechu Parotta,,30,,,,5,0,Non Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+HOTEL M.S,Egg Laba,,60,,,,5,0,Non Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+HOTEL M.S,Dosa,,20,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+HOTEL M.S,Egg Dosa,,30,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,2
+HOTEL M.S,Onion Dosa,,35,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,2
+HOTEL M.S,Roast,,35,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,2
+HOTEL M.S,Egg Roast,,45,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,2
+HOTEL M.S,Onion Roast,,50,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,2
+HOTEL M.S,Onion Dosa,,35,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,3
+HOTEL M.S,Utthappam,,30,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,3
+HOTEL M.S,Onion Utthappam,,40,,,,5,0,Veg,,,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,3
+HOTEL M.S,Chicken Biriyani,,65,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,4,3
+HOTEL M.S,Spl Chicken Biriyani,,110,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,5,3
+HOTEL M.S,Spl Egg Fry Chicken Biriyani,,60,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,4
+HOTEL M.S,Chicken 65,,50,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,2,4
+HOTEL M.S,Chicken Pepper Fry (Full),,80,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,3,4
+HOTEL M.S,Chicken Pepper Fry (Half),,50,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,3,4
+HOTEL M.S,Chicken Pepper Semi Gravy,,80,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,4
+HOTEL M.S,Chicken Pepper Gravy,,80,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,5,4
+HOTEL M.S,Omblet,,20,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,6,4
+HOTEL M.S,Spl Omblet,,25,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,7,4
+HOTEL M.S,Full Boil,,12,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,1,5
+HOTEL M.S,Egg Poriyal,,20,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,2,5
+HOTEL M.S,Egg Fry,,30,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,1,1
+HOTEL M.S,Kalaki,,12,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,3,1
+HOTEL M.S,Kolambu Kalaki,,15,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,4,1
+HOTEL M.S,Chicken Fried Rice,,75,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,1
+HOTEL M.S,Egg Fried Rice,,65,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,1
+HOTEL M.S,Veg Fried Rice,,60,,,,5,0,Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,1
+HOTEL M.S,Banana leaf Parotta With Chicken,,140,,,,5,0,Non Veg,12:00PM,2:30PM,,,,,06:00PM,8:30PM,"1,2,3,4,5,6,7",1,,Banana Leaf Parotta,,0,,4,1

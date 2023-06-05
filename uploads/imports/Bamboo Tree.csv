@@ -1,0 +1,127 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BAMBOO TREE RESTAURANT,Sweet Corn Veg Soup ,,69,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+BAMBOO TREE RESTAURANT,Veg Clear Soup,,59,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+BAMBOO TREE RESTAURANT,Hot & Sour Veg Soup,,69,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+BAMBOO TREE RESTAURANT,Manchurian Veg Soup,,69,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+BAMBOO TREE RESTAURANT,Sweet Corn Chicken Soup,,79,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+BAMBOO TREE RESTAURANT,Chicken Clear Soup,,69,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+BAMBOO TREE RESTAURANT,Hot & Chicken Soup,,79,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+BAMBOO TREE RESTAURANT,Manchurian Chicken Soup,,79,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+BAMBOO TREE RESTAURANT,Omlette,,69,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Variety,,0,,1,9
+BAMBOO TREE RESTAURANT,Egg Bhurji,,79,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Variety,,0,,1,10
+BAMBOO TREE RESTAURANT,Masala Omlette,,79,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Variety,,0,,1,11
+BAMBOO TREE RESTAURANT,Egg Masala,,129,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Variety,,0,,1,12
+BAMBOO TREE RESTAURANT,Cauliflower 65 ,,79,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+BAMBOO TREE RESTAURANT,Mushroom 65,,99,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+BAMBOO TREE RESTAURANT,Panner 65,,109,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+BAMBOO TREE RESTAURANT,Chilli Cauliflower,,149,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+BAMBOO TREE RESTAURANT,Chilli Mushroom,,159,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+BAMBOO TREE RESTAURANT,Chilli Paneer ,,169,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+BAMBOO TREE RESTAURANT,French Fries,,69,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,7
+BAMBOO TREE RESTAURANT,Veg Roll,,119,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+BAMBOO TREE RESTAURANT,Cauliflower Manchurian,,149,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,9
+BAMBOO TREE RESTAURANT,Mushroom Manchurian,,159,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,10
+BAMBOO TREE RESTAURANT,Paneer Manchurian,,169,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,11
+BAMBOO TREE RESTAURANT,Quail 65,,129,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,12
+BAMBOO TREE RESTAURANT,Chicken Lollipop,,139,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,13
+BAMBOO TREE RESTAURANT,Sticks Special Lollipop,,159,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,14
+BAMBOO TREE RESTAURANT,Chicken Finger,,149,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,15
+BAMBOO TREE RESTAURANT,Dragon Chicken,,189,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,16
+BAMBOO TREE RESTAURANT,Chicken 65,,99,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,17
+BAMBOO TREE RESTAURANT,Chicken Roll,,129,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,18
+BAMBOO TREE RESTAURANT,Chicken Pepper Fry,,159,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,19
+BAMBOO TREE RESTAURANT,Chilli Chicken,,169,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,20
+BAMBOO TREE RESTAURANT,Chicken Manchurian,,169,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,21
+BAMBOO TREE RESTAURANT,Desi Chicken Fry (Naatu Kozhi),,199,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,22
+BAMBOO TREE RESTAURANT,Mutton Meat Balls (Kola Urandai),,199,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,23
+BAMBOO TREE RESTAURANT,Mutton Pepper Fry,,229,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,24
+BAMBOO TREE RESTAURANT,Mutton Fry,,229,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,25
+BAMBOO TREE RESTAURANT,Vanjaram Fish Fry,,219,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,26
+BAMBOO TREE RESTAURANT,Vanjaram Fish Tawa Fry,,249,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,27
+BAMBOO TREE RESTAURANT,Nethili Fish 65,,249,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,28
+BAMBOO TREE RESTAURANT,Prawn Pepper Fry,,129,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,29
+BAMBOO TREE RESTAURANT,Prawn 65,,179,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,30
+BAMBOO TREE RESTAURANT,Naan ,,30,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,5,1
+BAMBOO TREE RESTAURANT,Butter Naan,,40,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,5,2
+BAMBOO TREE RESTAURANT,Roti,,25,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,5,3
+BAMBOO TREE RESTAURANT,Butter Roti,,35,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,5,4
+BAMBOO TREE RESTAURANT,Kulcha,,35,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,5,5
+BAMBOO TREE RESTAURANT,Butter Kulcha,,45,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,5,6
+BAMBOO TREE RESTAURANT,Tandoori Parotta,,50,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,5,7
+BAMBOO TREE RESTAURANT,Tandoori Butter Parotta,,60,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Breads,,0,,5,8
+BAMBOO TREE RESTAURANT,Dal Fry,,129,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,1
+BAMBOO TREE RESTAURANT,Kadai Veg,,149,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,2
+BAMBOO TREE RESTAURANT,Veg Chettinad Masala,,149,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,3
+BAMBOO TREE RESTAURANT,Mushroom Chetti9Nad Masala,,159,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,4
+BAMBOO TREE RESTAURANT,Panneer Butter Masala,,169,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,5
+BAMBOO TREE RESTAURANT,Mutton Chettinad Masala,,229,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,6
+BAMBOO TREE RESTAURANT,Mutton Pepper Masala,,219,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,7
+BAMBOO TREE RESTAURANT,Mutton Masala ,,219,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,8
+BAMBOO TREE RESTAURANT,Quail Pepper Masala,,149,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,9
+BAMBOO TREE RESTAURANT,Chicken Hyderabadi,,169,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,10
+BAMBOO TREE RESTAURANT,Chicken Chettinad Masala,,169,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,11
+BAMBOO TREE RESTAURANT,Kadai Chicken,,169,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,12
+BAMBOO TREE RESTAURANT,Chicken Butter Masala,,179,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,6,13
+BAMBOO TREE RESTAURANT,Veg Seekh Kebab,,129,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,1
+BAMBOO TREE RESTAURANT,Chicken Seekh Kebab,,169,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,2
+BAMBOO TREE RESTAURANT,Mutton Seekh Kebab,,229,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,3
+BAMBOO TREE RESTAURANT,Chicken Tangri Kebab,,169,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,4
+BAMBOO TREE RESTAURANT,Hot Pepper Kebab,,169,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,5
+BAMBOO TREE RESTAURANT,Chicken Tikka,,149,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,6
+BAMBOO TREE RESTAURANT,Malai Tikka,,149,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,7
+BAMBOO TREE RESTAURANT,Hariyali Tikka,,149,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,8
+BAMBOO TREE RESTAURANT,Chicken Tandoori (Half),,199,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,9
+BAMBOO TREE RESTAURANT,Chicken Tandoori (Full),,398,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,10
+BAMBOO TREE RESTAURANT,Afghani Tandoori (Half),,209,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,11
+BAMBOO TREE RESTAURANT,Afghani Tandoori (Full),,418,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Pot,,0,,3,12
+BAMBOO TREE RESTAURANT,Mushroom Fried Rice,,139,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+BAMBOO TREE RESTAURANT,Mushroom Schezwan Fried Rice,,145,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,2
+BAMBOO TREE RESTAURANT,Cashew Ghee Rice,,149,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,3
+BAMBOO TREE RESTAURANT,Veg Rice,,119,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,4
+BAMBOO TREE RESTAURANT,Veg Schezwan Fried Rice,,125,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,5
+BAMBOO TREE RESTAURANT,Egg Fried Rice,,119,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,6
+BAMBOO TREE RESTAURANT,Egg Schezwan Fried Rice,,125,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,7
+BAMBOO TREE RESTAURANT,Chicken Fried Rice,,139,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,8
+BAMBOO TREE RESTAURANT,Chicken Schezwan Fried Rice,,145,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,9
+BAMBOO TREE RESTAURANT,Mutton Fried Rice,,179,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,10
+BAMBOO TREE RESTAURANT,Mutton Schezwan Fried Rice,,185,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,11
+BAMBOO TREE RESTAURANT,Prawn Fried Rice,,169,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,12
+BAMBOO TREE RESTAURANT,Prawn Schezwan Fried Rice,,175,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,13
+BAMBOO TREE RESTAURANT,Mixed Fried Rice,,189,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,14
+BAMBOO TREE RESTAURANT,Mixed Schezwan Fried Rice,,195,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,15
+BAMBOO TREE RESTAURANT,Veg Noodles,,119,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,1
+BAMBOO TREE RESTAURANT,Veg Schezwan Noodles,,125,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,2
+BAMBOO TREE RESTAURANT,Mushroom Noodles,,139,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,3
+BAMBOO TREE RESTAURANT,Mushroom Schezwan Noodles,,145,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,4
+BAMBOO TREE RESTAURANT,Egg Noodles,,119,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,5
+BAMBOO TREE RESTAURANT,Egg Schezwan Noodles,,125,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,6
+BAMBOO TREE RESTAURANT,Chicken Noodles,,139,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,7
+BAMBOO TREE RESTAURANT,Chicken Schezwan Noodles,,145,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,8
+BAMBOO TREE RESTAURANT,Mutton Noodles,,179,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,9
+BAMBOO TREE RESTAURANT,Mutton Schezwan Noodles,,185,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,10
+BAMBOO TREE RESTAURANT,Mixed Noodles,,189,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,11
+BAMBOO TREE RESTAURANT,Mixed Schezwan Noodles,,195,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,12
+BAMBOO TREE RESTAURANT,Veg Pasta In Red Sauce,,159,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,9,1
+BAMBOO TREE RESTAURANT,Veg Pasta In White Sauce,,169,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,9,2
+BAMBOO TREE RESTAURANT,Chicken Pasta In Red Sauce,,179,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,9,3
+BAMBOO TREE RESTAURANT,Spaghetti Chicken Bolognese Sauce,,209,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,9,4
+BAMBOO TREE RESTAURANT,Spaghetti Mutton Bolognese Sauce,,249,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,9,5
+BAMBOO TREE RESTAURANT,Veg Briyani,,149,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,4,1
+BAMBOO TREE RESTAURANT,Chicken Pot Briyani,,159,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,4,2
+BAMBOO TREE RESTAURANT,Mutton Pot Briyani,,219,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,4,3
+BAMBOO TREE RESTAURANT,Prawn Briyani,,209,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,4,4
+BAMBOO TREE RESTAURANT,Egg Briyani,,129,,,,5,Non Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,4,5
+BAMBOO TREE RESTAURANT,Plain Briyani,,109,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,4,6
+BAMBOO TREE RESTAURANT,Lemon ,,39,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,1
+BAMBOO TREE RESTAURANT,Sweet Lemon (Mosambi),,59,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,2
+BAMBOO TREE RESTAURANT,Red Banana,,79,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,3
+BAMBOO TREE RESTAURANT,Apple,,79,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,4
+BAMBOO TREE RESTAURANT,Watermelon,,59,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,5
+BAMBOO TREE RESTAURANT,Pomegranate,,79,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,6
+BAMBOO TREE RESTAURANT,Orange,,69,,,,5,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,7
+BAMBOO TREE RESTAURANT,Pepsi,,25,,,,0,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,11,1
+BAMBOO TREE RESTAURANT,Mountain Dew,,25,,,,0,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,11,2
+BAMBOO TREE RESTAURANT,Miranda,,25,,,,0,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,11,3
+BAMBOO TREE RESTAURANT,7 Up,,25,,,,0,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,11,4
+BAMBOO TREE RESTAURANT,Slice,,25,,,,0,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,11,5
+BAMBOO TREE RESTAURANT,Water Bottle,,30,,,,0,Veg,11:59AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,11,6

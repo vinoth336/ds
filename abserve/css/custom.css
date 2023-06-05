@@ -1,0 +1,117 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+/*Header*/
+div.logo-header {float: left;
+}li.nav-header {
+    margin: 50px 0px 0 0;
+}
+.navbar-default .nav > li.logo-header > a:hover {background: transparent;}
+nav.navbar.navbar-static-top.nav-inside {
+    background: #233646 !important;
+    position: fixed;
+    width: 100%;left: 0;
+}
+body.minimize-sidemenu .logo-header {
+    display: block;
+}
+.setings-item ul li a {
+    font-size: 14px;
+}
+.nav > li > a,label,.nav.navbar-top-links a,.navbar-top-links .dropdown-menu li a,table td,table th,.btn,.form-control,.box .infobox p,.footer.fixed {
+    font-size: 16px !important;
+}
+.page-title {
+    float: left;
+}
+.page-header .breadcrumb {float: right;}
+.page-header {padding: 70px 15px 20px;}
+.animated {
+    animation-name: none !important;
+}
+/*Admin Theme*/
+.spin-icon {
+    background: #428bca none repeat scroll 0 0;
+    position: fixed;
+    bottom: 0;
+    width: 40px;
+    top: auto;
+    border-radius: 0;
+}
+.theme-config-box {
+    margin-bottom: -220px;
+    position: fixed;
+    transition-duration: 0.8s;
+    z-index: 2000;
+    Bottom: 0px;
+    left: 0;
+}
+.theme-config-box.show {
+    margin-top: 0;margin-bottom: 0;
+}
+.theme-config-box {
+    margin-top: -220px;
+}
+.select-alt {
+    font-size: 14px;
+}
+/*Social*/
+.abserve_social {list-style: none;float: right;margin: 0;}
+.abserve_social li{float: left;border: 1px solid #e7eaec;}
+.abserve_social a {
+    padding: 10px 20px;
+    float: left;
+}
+.footer.fixed {
+    padding: 0px 20px;
+    }
+.btn-primary {
+    background-color: #364150;
+    border-color: #364150;
+}
+.dd3-handle {
+    border: 1px solid #364150;
+    background: #364150;
+}
+.dd3-handle:hover {
+    background: #364150;
+    opacity: .7;
+}
+.dd-handle:hover {
+    background: #364150;
+    border-color: #364150;
+    opacity: .7;
+}
+.sbox-title {border-width: 0px;background-color: #364150;color: #fff;}
+/* Table */
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    vertical-align: middle;
+}
+table thead th {
+    background: #EFEFEF !important;
+    padding: 10px !important;
+}
+a.tips.btn.btn-xs.btn-white {
+    background: #5bc0de;
+    color: #fff;
+    float: left;
+    padding: 5px 6px;
+    margin: -2px;
+    border-right: 1px dotted #fff;
+    width: 30px;
+}
+/* Form */
+.form-horizontal .control-label {font-weight: 700 !important;}
+.form-control,.select2-container .select2-choice {height: 34px;border-radius: 4px !important;line-height: 30px;}
+
+
+.footer.fixed {margin-left: 250px;}
+@media (min-width: 768px){
+.navbar-static-side {
+    width: 250px;
+}
+#page-wrapper {
+    margin: 0 0 0 250px;
+}
+}

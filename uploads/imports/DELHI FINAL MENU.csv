@@ -1,0 +1,244 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DELHI SWEETS AND RESTAURANT,Rose Milk ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,1
+DELHI SWEETS AND RESTAURANT,Lemon Juice ,,25,,,,1,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,2
+DELHI SWEETS AND RESTAURANT,Pineapple Juice ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,3
+DELHI SWEETS AND RESTAURANT,Grape Juice ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,4
+DELHI SWEETS AND RESTAURANT,Water Melon ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,5
+DELHI SWEETS AND RESTAURANT,Orange Juice ,,65,,,,3,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,6
+DELHI SWEETS AND RESTAURANT,Apple Juice ,,75,,,,3,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,7
+DELHI SWEETS AND RESTAURANT,Madhulai Juice ,,75,,,,4,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,8
+DELHI SWEETS AND RESTAURANT,Mulam Fruit Juice ,,45,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,9
+DELHI SWEETS AND RESTAURANT,Sathukudi Juice ,,65,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,10
+DELHI SWEETS AND RESTAURANT,Sappota Juice ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,11
+DELHI SWEETS AND RESTAURANT,Nellikai Juice ,,35,,,,2,Veg,11:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,10,12
+DELHI SWEETS AND RESTAURANT,Vennila Cake (1 Kg),,440,,,,20,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,1
+DELHI SWEETS AND RESTAURANT,Vennila Cake (1/2 Kg),,220,,,,20,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,1
+DELHI SWEETS AND RESTAURANT,Honey Cake (1 Kg),,480,,,,20,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,2
+DELHI SWEETS AND RESTAURANT,Honey Cake (1/2 Kg),,240,,,,20,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,2
+DELHI SWEETS AND RESTAURANT,Chocolate Cake (1 Kg),,480,,,,20,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,3
+DELHI SWEETS AND RESTAURANT,Chocolate Cake (1/2 Kg),,240,,,,20,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,3
+DELHI SWEETS AND RESTAURANT,Strawberry Butter Cream (1 Kg),,600,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,4
+DELHI SWEETS AND RESTAURANT,Strawberry Butter Cream (1/2 Kg),,300,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,4
+DELHI SWEETS AND RESTAURANT,Pinapple Butter Cream (1 Kg),,600,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,5
+DELHI SWEETS AND RESTAURANT,Pinapple Butter Cream (1/2 Kg),,300,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,5
+DELHI SWEETS AND RESTAURANT,Mango Butter Cream (1 Kg),,600,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,6
+DELHI SWEETS AND RESTAURANT,Mango Butter Cream (1/2 Kg),,300,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,6
+DELHI SWEETS AND RESTAURANT,Orange Butter Cream (1 Kg),,600,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,7
+DELHI SWEETS AND RESTAURANT,Orange Butter Cream (1/2 Kg),,300,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,7
+DELHI SWEETS AND RESTAURANT,Black Current Butter (1 Kg),,600,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,8
+DELHI SWEETS AND RESTAURANT,Black Current Butter (1/2 Kg),,300,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,8
+DELHI SWEETS AND RESTAURANT,Blueberry Butter Cream (1 Kg),,600,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,9
+DELHI SWEETS AND RESTAURANT,Blueberry Butter Cream (1/2 Kg),,300,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,9
+DELHI SWEETS AND RESTAURANT,Butter Scotch Butter Cream (1 Kg),,600,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,10
+DELHI SWEETS AND RESTAURANT,Butter Scotch Butter Cream (1 Kg),,300,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Creams,,0,,9,10
+DELHI SWEETS AND RESTAURANT,Black Forest Cake (1 Kg),,600,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,1
+DELHI SWEETS AND RESTAURANT,Black Forest Cake (1/2 Kg),,300,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,1
+DELHI SWEETS AND RESTAURANT,White Forest Cake (1 Kg),,600,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,2
+DELHI SWEETS AND RESTAURANT,White Forest Cake (1/2 Kg),,300,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,2
+DELHI SWEETS AND RESTAURANT,Strawberry Fresh Cream Cake (1 Kg),,800,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,3
+DELHI SWEETS AND RESTAURANT,Strawberry Fresh Cream Cake (1/2 Kg),,400,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,3
+DELHI SWEETS AND RESTAURANT,Pinnapple Fresh Cream Cake (1 Kg),,800,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,4
+DELHI SWEETS AND RESTAURANT,Pinnapple Fresh Cream Cake (1/2Kg),,400,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,4
+DELHI SWEETS AND RESTAURANT,Manggo Fresh Cream Cake (1 Kg),,800,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,5
+DELHI SWEETS AND RESTAURANT,Manggo Fresh Cream Cake (1/2Kg),,400,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,5
+DELHI SWEETS AND RESTAURANT,Black Current Fresh Cream Cake (1 Kg),,800,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,7
+DELHI SWEETS AND RESTAURANT,Black Current Fresh Cream Cake (1/2 Kg),,400,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,7
+DELHI SWEETS AND RESTAURANT,Blueberry Fresh Cake (1 Kg),,800,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,9
+DELHI SWEETS AND RESTAURANT,Blueberry Fresh Cake (1/2 Kg),,400,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,9
+DELHI SWEETS AND RESTAURANT,Butter Scotch Fresh Cream Cake (1 Kg),,800,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,10
+DELHI SWEETS AND RESTAURANT,Butter Scotch Fresh Cream Cake (1/2 Kg),,400,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,10
+DELHI SWEETS AND RESTAURANT,Chocolate Fresh Cream Cake (1 Kg),,800,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,11
+DELHI SWEETS AND RESTAURANT,Chocolate Fresh Cream Cake (1/2 Kg),,400,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,11
+DELHI SWEETS AND RESTAURANT,Choco Truffle (1 Kg),,900,,,,25,Veg,08:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,8,12
+DELHI SWEETS AND RESTAURANT,Sweet Boondhi (100 Gms),,34,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,1
+DELHI SWEETS AND RESTAURANT,Jangiri (100 Gms),,40,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,2
+DELHI SWEETS AND RESTAURANT,Badhusha (100 Gms),,40,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,3
+DELHI SWEETS AND RESTAURANT,Chadhirakala (100 Gms),,44,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,4
+DELHI SWEETS AND RESTAURANT,Bombay Halwa (100 Gms),,44,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,5
+DELHI SWEETS AND RESTAURANT,Badam Halwa (100 Gms),,72,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,5
+DELHI SWEETS AND RESTAURANT,Dry Fruit Halwa (100 Gms),,48,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,6
+DELHI SWEETS AND RESTAURANT,Wheat Halwa (100 Gms),,44,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,7
+DELHI SWEETS AND RESTAURANT,Dates Parfi (100 Gms),,48,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,8
+DELHI SWEETS AND RESTAURANT,Mixed Sweets (100 Gms),,42,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,9
+DELHI SWEETS AND RESTAURANT,Panaras Halwa (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,10
+DELHI SWEETS AND RESTAURANT,Carret Halwa (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,11
+DELHI SWEETS AND RESTAURANT,Milk Halwa (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,12
+DELHI SWEETS AND RESTAURANT,Pal Kova (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,13
+DELHI SWEETS AND RESTAURANT,Milk Sweets (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,14
+DELHI SWEETS AND RESTAURANT,Sone Papudi (100 Gms),,48,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,15
+DELHI SWEETS AND RESTAURANT,Mothi Parfi (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,16
+DELHI SWEETS AND RESTAURANT,Carret Parfi (100 Gms),,50,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,17
+DELHI SWEETS AND RESTAURANT,Milk Cake (100 Gms),,50,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,18
+DELHI SWEETS AND RESTAURANT,Milk Peda (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,19
+DELHI SWEETS AND RESTAURANT,Laddu (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,20
+DELHI SWEETS AND RESTAURANT,Bengali Sweets (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,21
+DELHI SWEETS AND RESTAURANT,Dry Jamoon (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,22
+DELHI SWEETS AND RESTAURANT,Paneer Jamoon (100 Gms),,48,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,23
+DELHI SWEETS AND RESTAURANT,Mysorepak Special (100 Gms),,50,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,24
+DELHI SWEETS AND RESTAURANT,Mysorepak (Milk) (100 Gms),,50,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,25
+DELHI SWEETS AND RESTAURANT,Mushorepak (Horlicks) (100 Gms),,52,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,26
+DELHI SWEETS AND RESTAURANT,Mundhiri Cake (100 Gms),,72,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,27
+DELHI SWEETS AND RESTAURANT,Pista Roll (100 Gms),,72,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,28
+DELHI SWEETS AND RESTAURANT,Kajuflower (100 Gms),,72,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,29
+DELHI SWEETS AND RESTAURANT,Kaju Sonali Roll (100 Gms),,72,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,30
+DELHI SWEETS AND RESTAURANT,Choco Parfi (100 Gms),,72,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,31
+DELHI SWEETS AND RESTAURANT,Badam Parfi (100 Gms),,72,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,32
+DELHI SWEETS AND RESTAURANT,Jamoon (2 Nos),,60,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,33
+DELHI SWEETS AND RESTAURANT,Rasagulla (2 Nos),,50,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,34
+DELHI SWEETS AND RESTAURANT,Rasamala,,50,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,35
+DELHI SWEETS AND RESTAURANT,Basanthi ,,50,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,36
+DELHI SWEETS AND RESTAURANT,Karuppatti Paruthipal Halwa (100 Gms),,62,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,5,37
+DELHI SWEETS AND RESTAURANT,Mixer  (100 Gms),,32,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,5,38
+DELHI SWEETS AND RESTAURANT,Kara Boondhi (100 Gms),,32,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,1
+DELHI SWEETS AND RESTAURANT,Kara Sevu (100 Gms),,32,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,2
+DELHI SWEETS AND RESTAURANT,Hand Murruku (100 Gms),,34,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,3
+DELHI SWEETS AND RESTAURANT,Butter Murruku (100 Gms),,32,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,4
+DELHI SWEETS AND RESTAURANT,Onion Pakoda (100 Gms),,32,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,5
+DELHI SWEETS AND RESTAURANT,Omapodi (100 Gms),,32,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,6
+DELHI SWEETS AND RESTAURANT,Thattai (100 Gms),,36,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,7
+DELHI SWEETS AND RESTAURANT,Masala Kadalai (100 Gms),,32,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,8
+DELHI SWEETS AND RESTAURANT,Pavakkai Chips (100 Gms),,32,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,9
+DELHI SWEETS AND RESTAURANT,Ottu Pakoda (100 Gms),,32,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,10
+DELHI SWEETS AND RESTAURANT,Maidha Cake (100 Gms),,32,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,11
+DELHI SWEETS AND RESTAURANT,Aval Mixer (100 Gms),,36,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,12
+DELHI SWEETS AND RESTAURANT,Mixer Special (100 Gms),,34,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,13
+DELHI SWEETS AND RESTAURANT,Navathaniyam (100 Gms),,36,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,14
+DELHI SWEETS AND RESTAURANT,Cashue Pakoda (100 Gms),,36,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,15
+DELHI SWEETS AND RESTAURANT,Finger Chips (100 Gms),,36,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,16
+DELHI SWEETS AND RESTAURANT,Potato Chips (100 Gms),,36,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,17
+DELHI SWEETS AND RESTAURANT,Vathal ,,30,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,18
+DELHI SWEETS AND RESTAURANT,Munthiri (100 Gms),,125,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,20
+DELHI SWEETS AND RESTAURANT,Sweet Mixture (100 Gms),,36,,,,6,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,21
+DELHI SWEETS AND RESTAURANT,Ragi Mixture (100 Gms),,34,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,22
+DELHI SWEETS AND RESTAURANT,Kai Murukku (100 Gms),,34,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,23
+DELHI SWEETS AND RESTAURANT,Mixture (Puthina) (100 Gms),,34,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,24
+DELHI SWEETS AND RESTAURANT,Ragi Pakkoda (100 Gms),,34,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,7,25
+DELHI SWEETS AND RESTAURANT,Mini Bun (2 Nos),,25,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,7,26
+DELHI SWEETS AND RESTAURANT,Bread ,,35,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,1
+DELHI SWEETS AND RESTAURANT,Wheat Bread ,,35,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,2
+DELHI SWEETS AND RESTAURANT,Coconut Bread (Big) ,,48,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,3
+DELHI SWEETS AND RESTAURANT,Plain Cake (100 Gms),,30,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,4
+DELHI SWEETS AND RESTAURANT,Pudding Cake (100 Gms),,34,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,5
+DELHI SWEETS AND RESTAURANT,Plum Cake (100 Gms),,50,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,6
+DELHI SWEETS AND RESTAURANT,Varruki ,,50,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,7
+DELHI SWEETS AND RESTAURANT,Rusk ,,45,,,,3,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,8
+DELHI SWEETS AND RESTAURANT,Apple Cake (2 Nos),,20,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,9
+DELHI SWEETS AND RESTAURANT,Veg Puffs (2 Nos),,30,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,10
+DELHI SWEETS AND RESTAURANT,Mushroom Puffs (2 Nos),,30,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,11
+DELHI SWEETS AND RESTAURANT,Egg Puffs (2 Nos),,40,,,,1,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,12
+DELHI SWEETS AND RESTAURANT,Sandwich (2 Nos),,30,,,,1,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,13
+DELHI SWEETS AND RESTAURANT,Cutlet (2 Nos),,30,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,14
+DELHI SWEETS AND RESTAURANT,Samosa (2 Nos),,30,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,15
+DELHI SWEETS AND RESTAURANT,Veg Roll (2 Nos),,30,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,16
+DELHI SWEETS AND RESTAURANT,Cream Bun (2 Nos),,40,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,17
+DELHI SWEETS AND RESTAURANT,Jam Bun (2 Nos),,40,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,18
+DELHI SWEETS AND RESTAURANT,Donut (2 Nos),,30,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,19
+DELHI SWEETS AND RESTAURANT,Sweet Puffs (2 Nos),,30,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,20
+DELHI SWEETS AND RESTAURANT,Fruit Roll (2 Nos),,30,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,21
+DELHI SWEETS AND RESTAURANT,Bread Chilly (2 Nos),,40,,,,2,Veg,11:30AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,22
+DELHI SWEETS AND RESTAURANT,Thilpasanth (Roll) ,,48,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,23
+DELHI SWEETS AND RESTAURANT,Butter Cooks ,,65,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,24
+DELHI SWEETS AND RESTAURANT,Rainbow Cake,,55,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,25
+DELHI SWEETS AND RESTAURANT,Jam Cake ,,20,,,,2,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,26
+DELHI SWEETS AND RESTAURANT,Beans Cokki ,,35,,,,4,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,27
+DELHI SWEETS AND RESTAURANT,Boost Cooki ,,50,,,,4,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,28
+DELHI SWEETS AND RESTAURANT,Cahew Biscut,,50,,,,4,Veg,07:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,6,29
+DELHI SWEETS AND RESTAURANT,Pani Poori ,,50,,,,3,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,6,30
+DELHI SWEETS AND RESTAURANT,Beal Poori ,,50,,,,4,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,6,31
+DELHI SWEETS AND RESTAURANT,Masala Poori ,,50,,,,3,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,6,32
+DELHI SWEETS AND RESTAURANT,Chenna Masala ,,50,,,,2,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,1
+DELHI SWEETS AND RESTAURANT,Shev Poori ,,60,,,,2,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,2
+DELHI SWEETS AND RESTAURANT,Pav Paji ,,70,,,,2,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,3
+DELHI SWEETS AND RESTAURANT,Chenna Samosa ,,60,,,,2,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,4
+DELHI SWEETS AND RESTAURANT,Thai Poori ,,60,,,,3,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,5
+DELHI SWEETS AND RESTAURANT,Fry Pav Paji,,75,,,,3,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,4,6
+DELHI SWEETS AND RESTAURANT,Gobi Manchurian Gravy ,,90,,,,3,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,7
+DELHI SWEETS AND RESTAURANT,Veg Manchurian Gravy ,,90,,,,3,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,8
+DELHI SWEETS AND RESTAURANT,Mushroom Chettinad Gravy ,,95,,,,3,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,9
+DELHI SWEETS AND RESTAURANT,Mushroom Manchurian Gravy ,,105,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,4,10
+DELHI SWEETS AND RESTAURANT,Paneer Manchurian Gravy ,,110,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,1
+DELHI SWEETS AND RESTAURANT,Chenna Masala Gravy ,,75,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,2
+DELHI SWEETS AND RESTAURANT,Mushroom Pallipalayam Gravy,,95,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,3
+DELHI SWEETS AND RESTAURANT,Mushroom Masala,,95,,,,4,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,3
+DELHI SWEETS AND RESTAURANT,Paneer Butter Masala,,110,,,,5,Veg,12:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,3,4
+DELHI SWEETS AND RESTAURANT,Gobi Manchurian Dry ,,80,,,,4,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,3,5
+DELHI SWEETS AND RESTAURANT,Veg Manchurian Dry ,,80,,,,5,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,3,6
+DELHI SWEETS AND RESTAURANT,Mushroom Manchurian Dry ,,90,,,,5,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,3,6
+DELHI SWEETS AND RESTAURANT,Paneer Manchurian Dry ,,100,,,,5,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,3,6
+DELHI SWEETS AND RESTAURANT,Paneer Chilly ,,100,,,,4,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,1
+DELHI SWEETS AND RESTAURANT,Mushroom Pepper Fry,,95,,,,4,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,2
+DELHI SWEETS AND RESTAURANT,Gobi Pepper Fry ,,85,,,,4,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,3
+DELHI SWEETS AND RESTAURANT,Paneer Pepper Fry ,,100,,,,5,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,4
+DELHI SWEETS AND RESTAURANT,Veg Noodles ,,75,,,,4,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,5
+DELHI SWEETS AND RESTAURANT,Mushroom Noodles ,,90,,,,5,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,6
+DELHI SWEETS AND RESTAURANT,Paneer Noodles ,,105,,,,4,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,7
+DELHI SWEETS AND RESTAURANT,Veg Fried Rice ,,75,,,,5,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,8
+DELHI SWEETS AND RESTAURANT,Mushroom Fried Rice,,90,,,,3,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,9
+DELHI SWEETS AND RESTAURANT,Schezwan Mushroom Fried Rice,,90,,,,3,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,10
+DELHI SWEETS AND RESTAURANT,Paneer Fried Rice ,,105,,,,4,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,11
+DELHI SWEETS AND RESTAURANT,Chilly Gopi ,,65,,,,3,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,12
+DELHI SWEETS AND RESTAURANT,Chilly Mushroom ,,75,,,,3,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,13
+DELHI SWEETS AND RESTAURANT,Chilly Parota ,,75,,,,3,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,13
+DELHI SWEETS AND RESTAURANT,Chilly Idly ,,60,,,,4,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,14
+DELHI SWEETS AND RESTAURANT,Pepper Idly,,60,,,,3,Veg,12:30PM,10:00PM,,,,,05:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,15
+DELHI SWEETS AND RESTAURANT,Parota ,,40,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,2,16
+DELHI SWEETS AND RESTAURANT,Mushroom Kothu Parota ,,90,,,,4,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,2,17
+DELHI SWEETS AND RESTAURANT,Veechu Parota ,,55,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,2,18
+DELHI SWEETS AND RESTAURANT,Butter Veechu Parota ,,75,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,2,19
+DELHI SWEETS AND RESTAURANT,Chappathi Set,,45,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,1
+DELHI SWEETS AND RESTAURANT,Rava Roast ,,80,,,,2,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,1
+DELHI SWEETS AND RESTAURANT,Onion Rava Roast ,,90,,,,3,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,2
+DELHI SWEETS AND RESTAURANT,Uthappam ,,60,,,,4,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,3
+DELHI SWEETS AND RESTAURANT,Onion Uthappam ,,80,,,,2,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,4
+DELHI SWEETS AND RESTAURANT,Sambar Idly ,,40,,,,4,Veg,,,07:30AM,11:30AM,,,5:00PM,9:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,5
+DELHI SWEETS AND RESTAURANT,Podi Roast ,,80,,,,4,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,6
+DELHI SWEETS AND RESTAURANT,Masala Roast ,,80,,,,3,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,7
+DELHI SWEETS AND RESTAURANT,Onion Roast ,,80,,,,4,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,8
+DELHI SWEETS AND RESTAURANT,Ghee Roast ,,90,,,,2,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,9
+DELHI SWEETS AND RESTAURANT,Pepper Roast ,,105,,,,4,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,10
+DELHI SWEETS AND RESTAURANT,Paneer Roast ,,95,,,,4,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,11
+DELHI SWEETS AND RESTAURANT,Mushroom Roast ,,80,,,,4,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,12
+DELHI SWEETS AND RESTAURANT,Plain Roast,,60,,,,4,Veg,,,07:30AM,11:30AM,,,11:30AM,10:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,13
+DELHI SWEETS AND RESTAURANT,Mini Meals ,,105,,,,4,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,14
+DELHI SWEETS AND RESTAURANT,Sambar Sadam,,50,,,,5,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,15
+DELHI SWEETS AND RESTAURANT,Curd Rice ,,50,,,,5,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,16
+DELHI SWEETS AND RESTAURANT,Mushroom Briyani,,85,,,,3,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,17
+DELHI SWEETS AND RESTAURANT,Idly Set ,,20,,,,5,Veg,,,07:30AM,11:00AM,,,5:00PM,9:00PM,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Pongal ,,50,,,,3,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,19
+DELHI SWEETS AND RESTAURANT,Kichadi ,,50,,,,3,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,20
+DELHI SWEETS AND RESTAURANT,Poori Set,,50,,,,4,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,21
+DELHI SWEETS AND RESTAURANT,Veg Biriyani,,50,,,,1,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,23
+DELHI SWEETS AND RESTAURANT,Variety Rice,,50,,,,3,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,1,24
+DELHI SWEETS AND RESTAURANT,Vennilla Cake ( 1pc ),,12,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,26
+DELHI SWEETS AND RESTAURANT,Vennilla Cake (1pc ),,15,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,27
+DELHI SWEETS AND RESTAURANT,Vennilla Cake ( 1pc ),,16,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Vennilla Cake  (1pc ),,20,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Chocolate Cake ( 1pc ),,15,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Chocolate Cake ( 1pc ),,22,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Chocolate Cake( 1 Pc ),,35,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Honey Cake Small (1 pc ),,14,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Honey Cake Big ( 1 Pc ),,24,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Jam Roll Cake  ( 1pc ),,20,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Vennilla Roll Cake  ( 1pc ),,20,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Chocolate Roll Cake ( 1pc ),,20,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Rasin Cake  (1pc ),,20,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Vennilla With Stawberry Cake  (1 pc ),,35,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Vennila With Pineapple Cake ( 1pc ),,35,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Vennilla With Kiwi Cake ( 1pc ),,35,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Vennilla With Blackcurrent ( 1pc ),,35,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Vennilla with ButterScotch ( 1pc ),,35,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Vennilla With Mango ( 1pc ),,35,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Black Forest ( 1 Pc ),,60,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,White Forest Cake( 1 pc ),,60,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Stawberry Cake  (1 Pc ),,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Kiwi Cake  (1 Pc ),,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Black Current Cake ( 1 Pc ),,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Red Velvet Cake ( 1 Pc ),,80,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Chocolate Double Roll Cake ( 1pc ),,80,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Rainbow Cake  (1 pc ),,80,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Pineapple Cake  (1 Pc ),,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Mango Cake (1 pc ),,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Butter Scotch Cake ( 1pc ),,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,BlueBerry Cake ( 1Pc ),,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,Butter Scotch Cake ( 1pc ),,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18
+DELHI SWEETS AND RESTAURANT,BlueBerry Cake ( 1Pc ),,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Piece Cake,,0,,1,18

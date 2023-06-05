@@ -1,0 +1,62 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+OREO,Pista Milk Shake,,89,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,1
+OREO,Banana Punch,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,2
+OREO,Dark Work,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,3
+OREO,Blue magic,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,4
+OREO,Kulfi Strom,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,5
+OREO,kiwi Loaded,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,6
+OREO,Filter kaapi,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,7
+OREO,Red Velvet,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,8
+OREO,Snicker Blast,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,9
+OREO,Kesar Badam,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,10
+OREO,Sharjah,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,11
+OREO,Vanilla Milk Shake,,79,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,7
+OREO,Strawberry Milk Shake,,89,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,8
+OREO,Chocolate Milk Shake,,89,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,9
+OREO,ButterSctoch Milk Shake,,89,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,10
+OREO,Black Current Milk Shake,,89,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Milk Shake,,0,,4,11
+OREO,Chocolate Oreo Shake,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Oreo Shake,,0,,4,12
+OREO,Strawberry Oreo shake,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Oreo Shake,,0,,4,13
+OREO,Black Current Oreo Shake,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Oreo Shake,,0,,4,14
+OREO,Scotch Oreo Shake,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Oreo Shake,,0,,4,15
+OREO,Pista Oreo Shake,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Oreo Shake,,0,,4,16
+OREO,KiKat Oreo Shake,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Oreo Shake,,0,,5,1
+OREO,Browine Oreo Shake,,99,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Oreo Shake,,0,,5,2
+OREO,Oreo Chocolate Thickshake,,129,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,ThickShake,,0,,5,3
+OREO,Vanilla Whey Thickshake,,129,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,ThickShake,,0,,5,4
+OREO,KiKat Oreo Thickshake,,129,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,ThickShake,,0,,5,5
+OREO,Gems Thickshake,,129,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,ThickShake,,0,,5,6
+OREO,Cashewnuts Thickshake,,129,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,ThickShake,,0,,5,6
+OREO,Veg Burger,,70,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Burgers,,0,,5,8
+OREO,Chicken Burger,,80,,,,0,Non Veg,11:00AM,10:00PM,,,,,,,,,,Burgers,,0,,5,9
+OREO,Egg Burger,,60,,,,0,Non Veg,11:00AM,10:00PM,,,,,,,,,,Burgers,,0,,5,10
+OREO,Tandoori Cheese Burger,,90,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Burgers,,0,,6,1
+OREO,Filled French Fries Burger,,90,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Burgers,,0,,6,2
+OREO,African Chesse Burger,,90,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Burgers,,0,,6,3
+OREO,Double Cheese Burger,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Burgers,,0,,6,4
+OREO,Roll Baby Roll Wrap,,70,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Wraps,,0,,6,5
+OREO,Tandoori Panner Wrap,,80,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Wraps,,0,,6,6
+OREO,Panner Shawarma Roll,,80,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Wraps,,0,,6,7
+OREO,Twist Corn Wrap,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Wraps,,0,,6,8
+OREO,Cheese Frankie Wrap,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Wraps,,0,,6,9
+OREO,Baby Special Veg Wrap,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Wraps,,0,,6,10
+OREO,Haha Spicy Panner Wrap,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Wraps,,0,,6,11
+OREO,Spicy Chicken Wrap,,110,,,,0,Non Veg,11:00AM,10:00PM,,,,,,,,,,Wraps,,0,,6,12
+OREO,Friench Fries,,60,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Bites,,0,,6,13
+OREO,Load Fries,,70,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Bites,,0,,6,14
+OREO,Cheese Fries,,70,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Bites,,0,,6,15
+OREO,Smiles,,80,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Bites,,0,,6,16
+OREO,Veg Nuggets,,80,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Bites,,0,,6,17
+OREO,Chicken Nuggets,,100,,,,0,Non Veg,11:00AM,10:00PM,,,,,,,,,,Bites,,0,,6,18
+OREO,Veg Sandwich,,50,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,6,19
+OREO,Tandoori Panner Sandwich,,60,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,6,20
+OREO,Mouth Burning spicy Corn Sandwich,,60,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,1
+OREO,Pickel Tickle Sanwich,,60,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,2
+OREO,Temping Chocolate Fudge Sanwich,,60,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,3
+OREO,Peanut Butter jam Sandwich,,50,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,4
+OREO,Garlic Toast Sandwich,,60,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,5
+OREO,Corn Toast Sandwich,,60,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,6
+OREO,Mix Veg Toast Sandwich,,70,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,7
+OREO,Chicken Sandwich,,80,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,8
+OREO,Pizza Double Tucker,,100,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,9
+OREO,Singel Breat Pizza toast,,80,,,,0,Veg,11:00AM,10:00PM,,,,,,,,,,Sandwichs,,0,,7,10

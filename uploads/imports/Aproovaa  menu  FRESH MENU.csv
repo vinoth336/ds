@@ -1,0 +1,203 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOTEL APOORVAA,Veg Soup,,50,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL APOORVAA,Veg Clear Soup,,55,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+HOTEL APOORVAA,Tomatto Soup,,55,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+HOTEL APOORVAA,Sweet Corn Soup,,55,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL APOORVAA,Mushroom Soup,,55,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL APOORVAA,Chettinadu Soup,,55,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+HOTEL APOORVAA,Pepper Leaf Soup,,45,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+HOTEL APOORVAA,Hot Sour Soup,,55,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+HOTEL APOORVAA,Milagu Dhaniya Soup,,55,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+HOTEL APOORVAA,Idly (2 Nos),,30,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+HOTEL APOORVAA,Sambar Idly (2pcs),,40,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+HOTEL APOORVAA,Paniyaram,,40,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+HOTEL APOORVAA,Aappam Single,,40,,,,0,0,veg,,,08:00AM,10:30AM,12:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+HOTEL APOORVAA,Roast,,60,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,5,1
+HOTEL APOORVAA,Onion Masal Roast,,90,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,5,1
+HOTEL APOORVAA,Rava Roast,,60,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,5,1
+HOTEL APOORVAA,Onion Roast,,90,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,5,1
+HOTEL APOORVAA,Ghee Onion Roast,,95,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,6,1
+HOTEL APOORVAA,Ghee Masal Roast,,80,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,6,1
+HOTEL APOORVAA,Podi Ghee Roast,,80,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,6,1
+HOTEL APOORVAA,Mushroom Roast,,90,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+HOTEL APOORVAA,Apoorvaa Spl Roast,,90,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+HOTEL APOORVAA,Panneer Roast,,85,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+HOTEL APOORVAA,Rava Masal Roast,,70,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+HOTEL APOORVAA,Butter Roast,,75,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+HOTEL APOORVAA,Cashewnut Rava Roast,,90,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,8,1
+HOTEL APOORVAA,Onion Rava Masal Roast,,70,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,8,1
+HOTEL APOORVAA,Ghee Rava Masal Roast,,100,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,8,1
+HOTEL APOORVAA,Ghee Onion Uthappam,,90,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Utthappam,,0,,9,1
+HOTEL APOORVAA,Ghee Uthappam,,70,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Utthappam,,0,,9,1
+HOTEL APOORVAA,Onion Uthappam,,80,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Utthappam,,0,,9,1
+HOTEL APOORVAA,Podi Uthappam,,65,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Utthappam,,0,,9,1
+HOTEL APOORVAA,Small Onion Uthappam,,95,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Utthappam,,0,,9,1
+HOTEL APOORVAA,Cashewnut Uthappam,,80,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,10,1
+HOTEL APOORVAA,Kal Dosai Single,,30,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,12,1
+HOTEL APOORVAA,Pesaratu Dosa,,65,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,12,1
+HOTEL APOORVAA,Adai Dosai,,60,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,12,1
+HOTEL APOORVAA,Tomatto Utthappam,,65,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,13,1
+HOTEL APOORVAA,Chappathi 1 Pc,,30,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+HOTEL APOORVAA,Parotta 1 Pc,,30,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta ,,0,,10,1
+HOTEL APOORVAA,Chola Poori,,70,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+HOTEL APOORVAA,Chilly Parotta,,80,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta ,,0,,10,1
+HOTEL APOORVAA,Kaima Parotta,,80,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta ,,0,,11,1
+HOTEL APOORVAA,Pepper Parotta,,90,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta ,,0,,11,1
+HOTEL APOORVAA,Bun Parotta,,45,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta ,,0,,12,1
+HOTEL APOORVAA,Wheat Parotta,,45,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta ,,0,,12,1
+HOTEL APOORVAA,Veg Kothu Parotta,,80,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta ,,0,,11,1
+HOTEL APOORVAA,Mix Veg Parotta,,80,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta ,,0,,12,1
+HOTEL APOORVAA,Gopi Kadai,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+HOTEL APOORVAA,Gopi Pepper Fry,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+HOTEL APOORVAA,Gopi Maharani,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+HOTEL APOORVAA,Gopi Monika,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+HOTEL APOORVAA,Panneer Chilly,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+HOTEL APOORVAA,Panneer 65,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+HOTEL APOORVAA,Panneer Manchurian,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,1
+HOTEL APOORVAA,Panneer Hot Pepper,,125,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panneer Dragon,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panneer Puthina,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Hydrapath Panneer Gravy,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Apoorvaa Spl Panneer,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panneer Chettinadu,,140,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panneer Partha Masal,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panneer Kadai,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panneer Mohalai,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panneer Pepper Fry,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panneer Maharani,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panneer Monika,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn Chilly,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn 65,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn Manchurian,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn Hot Pepper,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn Dragon,,125,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn Methi,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn Puthina,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Apoorvaa Spl Babycorn,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn Pepper Fry,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn Maharani,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Babycorn Monika,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Mushroom Chilly,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Mushroom 65,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Mushroom Manchurian,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Mushroom Hot Pepper,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Mushroom Dragon,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Mushroom Methi,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Mushroom Puthina,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Apoorvaa Spl Mushroom,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Chettinadu,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Partha Masal,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Kadai,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Pepper Fry,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Hydrabath Mushroom Gravy,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Maharani,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,11,1
+HOTEL APOORVAA,Gopi Masala,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Gopi Chilly,,100,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Gopi 65,,100,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Gopi Manchurian,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Gopi Hot Pepper,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Gopi Dragon,,100,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Gopi Puthina,,100,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Sukka,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Kheema Mushroom,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Hydrabath Gopi,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Apoorvaa Spl Gopi,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Veg Chinesh Biriyani,,90,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,15,1
+HOTEL APOORVAA,Hydrabath Veg Biriyani,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,15,1
+HOTEL APOORVAA,Mushroom Briyani,,80,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,15,1
+HOTEL APOORVAA,Veg Briyani,,60,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,15,1
+HOTEL APOORVAA,Hyderabad Panner Biriyani,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,15,1
+HOTEL APOORVAA,Hyderabad Mushroom Biriyani,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,15,1
+HOTEL APOORVAA,Tomatto Rice,,60,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,15,1
+HOTEL APOORVAA,Rasam Rice,,55,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,15,1
+HOTEL APOORVAA,Curd Rice,,50,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,15,1
+HOTEL APOORVAA,Sambar Rice,,60,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,15,1
+HOTEL APOORVAA,Variety Rice Of The Day,,65,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,15,1
+HOTEL APOORVAA,Puthina Rice,,60,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,15,1
+HOTEL APOORVAA,Lemon Rice,,50,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,15,1
+HOTEL APOORVAA,SZ Panner Noodles,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,15,1
+HOTEL APOORVAA,Mushroom Noodles,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,15,1
+HOTEL APOORVAA,Panneer Noodles,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,15,1
+HOTEL APOORVAA,Mix Noodles,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,15,1
+HOTEL APOORVAA,American Chopcy,,150,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,15,1
+HOTEL APOORVAA,Szechwan Noodles,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,15,1
+HOTEL APOORVAA,Singapoor Noodles,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,15,1
+HOTEL APOORVAA,Veg Noodles,,100,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,15,1
+HOTEL APOORVAA,Cashewnut Noodles,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,15,1
+HOTEL APOORVAA,Garlic Fried Rice,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,15,1
+HOTEL APOORVAA,Mushroom Fried Rice,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,15,1
+HOTEL APOORVAA,Panneer Fried Rice,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,15,1
+HOTEL APOORVAA,Mix Fried Rice,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,15,1
+HOTEL APOORVAA,Szechwan Fried Rice,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,15,1
+HOTEL APOORVAA,Cashewnut Fried Rice,,140,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,15,1
+HOTEL APOORVAA,Veg Fried Rice,,100,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,15,1
+HOTEL APOORVAA,Veg Pulav,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulav,,0,,15,1
+HOTEL APOORVAA,Mushroom Pulav,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulav,,0,,15,1
+HOTEL APOORVAA,Panneer Pulav,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulav,,0,,15,1
+HOTEL APOORVAA,Kashmir Pulav,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulav,,0,,15,1
+HOTEL APOORVAA,Panneer Kaj Pulav 1,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulav,,0,,15,1
+HOTEL APOORVAA,Cashwenut Pulav,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulav,,0,,15,1
+HOTEL APOORVAA,Green Peas Pulav,,95,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulav,,0,,15,1
+HOTEL APOORVAA,Jeera Rice,,100,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,15,1
+HOTEL APOORVAA,Ghee Rice,,100,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,15,1
+HOTEL APOORVAA,Naan,,30,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Butter Naan,,35,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Garlic Naan,,45,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Kashmir Naan,,50,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Rotti,,30,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Butter Rotti,,35,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Garlic Rotti,,35,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Romali Rotti,,40,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Kulcha,,35,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Butter Kulcha,,40,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Pulka,,25,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Panneer Kulcha,,50,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Stuffed Kulcha,,45,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Dall Thadukka,,90,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,15,1
+HOTEL APOORVAA,Diet Kitchadi,,55,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,15,1
+HOTEL APOORVAA,Veg Chettinadu,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Paneer Sai Kuruma,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Spl Dry,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Spl Gravy,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Chinese Briyani,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Masala,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Gopi Chettinadu,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Alu Gopi Masal,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Panneer Butter Masala,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Channa Masala,,90,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Green Peas Masala,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Veg Kadai,,100,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Panneer Parotta,,90,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta ,,0,,15,1
+HOTEL APOORVAA,Karaikudi Chettinad Mushroom,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Gopi Dhobiyasa Gravy,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Dhobiyasa Gravy,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Apoorvaa Mushroom,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Apoorvaa Gopi Pallipalayam,,90,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Apoorvaa Panner Pallipalayam,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Veg Mutton Gravy,,60,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,15,1
+HOTEL APOORVAA,Mushroom Tikka,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,15,1
+HOTEL APOORVAA,Mushroom Tikka Masala,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,15,1
+HOTEL APOORVAA,Aloo Tikka,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,15,1
+HOTEL APOORVAA,Aloo Tikka Masala,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,15,1
+HOTEL APOORVAA,Panneer Finger,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,15,1
+HOTEL APOORVAA,Spl Tikka,,145,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,15,1
+HOTEL APOORVAA,Panner Methi,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Kheema Panner,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panner Chinthamani,,130,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panner Firefoori(Hot Spicy),,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Panner Mutter Rogan Gravy,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Gopi Methi,,110,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Gopi Partha Masala,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Alu Gopi Capsicum Masala,,120,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,1
+HOTEL APOORVAA,Punjabi Payasam,,35,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,15,1
+HOTEL APOORVAA,SPl Meals ,,140,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,15,1
+HOTEL APOORVAA,Mysore Masal Dosai,,80,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,15,1
+HOTEL APOORVAA,Set Dosa Vada Curry,,70,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,15,1
+HOTEL APOORVAA,Ragi Dosa,,40,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,15,1
+HOTEL APOORVAA,Appoorva Special Idly,,80,,,,0,0,veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,15,1
+HOTEL APOORVAA,Bonda (2 Nos),,10,,,,0,0,veg,12:00PM,07:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,15,1
+HOTEL APOORVAA,Arisimaavu Bonda (8 Pcs),,20,,,,0,0,veg,12:00PM,07:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,15,1
+HOTEL APOORVAA,Vaalakkai Bajji,,10,,,,0,0,veg,12:00PM,07:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,15,1
+HOTEL APOORVAA,Chilli Bajji,,10,,,,0,0,veg,12:00PM,07:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,15,1
+HOTEL APOORVAA,Kesari,,40,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,07:30PM,,,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,15,1
+HOTEL APOORVAA,Ulunda Vadai,,12,,,,0,0,veg,,,08:00AM,10:30AM,05:00PM,07:30PM,,,"1,2,3,4,5,6,7",1,,Evening Snacks,,0,,15,1

@@ -1,0 +1,207 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THE PIZZA HUB,Margherita Pizza( R ),(Single Coat of Cheese),124,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Simple Pizza,,0,,1,1
+THE PIZZA HUB,Margherita Pizza( M ),(Single Coat of Cheese),195,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Simple Pizza,,0,,1,2
+THE PIZZA HUB,Extra Cheese( R ),,75,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Simple Pizza,,0,,1,3
+THE PIZZA HUB,Extra Cheese( M ),,95,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Simple Pizza,,0,,1,4
+THE PIZZA HUB,Double Cheese Pizza( R ),Double Coat Cheese,205,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,1
+THE PIZZA HUB,Double Cheese Pizza( M ),Double Coat Cheese,275,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,2
+THE PIZZA HUB,Cheese & Corn Pizza( R ),,205,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,3
+THE PIZZA HUB,Cheese & Corn Pizza( M ),,275,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,4
+THE PIZZA HUB,Cheese & Onions( R ),,205,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,5
+THE PIZZA HUB,Cheese & Onions( M ),,275,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,6
+THE PIZZA HUB,Cheese & Tomato( R ),,205,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,7
+THE PIZZA HUB,Cheese & Tomato( M ),,275,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,8
+THE PIZZA HUB,Extra Cheese( R ),,75,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,9
+THE PIZZA HUB,Extra Cheese( M ),,95,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Standard Pizza,,0,,2,10
+THE PIZZA HUB,Garden Delight( R ),"( Green Bell Pepper,Onions,Mushroom,Baby Corn,Jalapenos)",275,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,1
+THE PIZZA HUB,Panner World( R ),"(Onion,Yellow Bell Pepper,Olives,Tomatoes,Panner)",275,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,2
+THE PIZZA HUB,Schezwan Veggie( R ),"(Spicy Corn,Capsicum,Spicy Panner,in Spicy Sauce )",275,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,3
+THE PIZZA HUB,Green Veggie( R ),"(Corn,Red Bell Pepper,Olives,JalaPeno,Brocolli)",275,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,4
+THE PIZZA HUB,Garden Delight( M ),"( Green Bell Pepper,Onions,Mushroom,Baby Corn,Jalapenos)",345,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,5
+THE PIZZA HUB,Panner World( M ),"(Onion,Yellow Bell Pepper,Olives,Tomatoes,Panner)",345,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,6
+THE PIZZA HUB,Green Veggie( M ),"(Corn,Red Bell Pepper,Olives,JalaPeno,Brocolli)",345,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,7
+THE PIZZA HUB,Schezwan Veggie( M ),"(Spicy Corn,Capsicum,Spicy Panner,in Spicy Sauce )",345,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,8
+THE PIZZA HUB,Garden Delight( L ),"( Green Bell Pepper,Onions,Mushroom,Baby Corn,Jalapenos)",435,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,9
+THE PIZZA HUB,Panner World( L ),"(Onion,Yellow Bell Pepper,Olives,Tomatoes,Panner)",435,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,10
+THE PIZZA HUB,Green Veggie( L ),"(Corn,Red Bell Pepper,Olives,JalaPeno,Brocolli)",435,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,11
+THE PIZZA HUB,Schezwan Veggie( L ),"(Spicy Corn,Capsicum,Spicy Panner,in Spicy Sauce )",435,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,12
+THE PIZZA HUB,Extra Cheese( R ),,75,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,13
+THE PIZZA HUB,Extra Cheese( M ),,95,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,14
+THE PIZZA HUB,Extra Cheese( L ),,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Supreme Pizza,,0,,3,15
+THE PIZZA HUB,Pepper Paneer Paradise( M ),"(Pepper Fried Panner ,Yellow &Green Bell Pepper ,Onions,Olives,and Red Parika & Tomatoes )",395,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,1
+THE PIZZA HUB,Veggie Mediteranean( M ) ,"(Green &Red Bell Pepper .Pineapple,Baby Corn,Green Chillies,Mushroom,Jalapenos)",395,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,2
+THE PIZZA HUB,Green Florets( M ) ,"(Onion,Mushroom,Green Bell Pepper ,Brocolli,Baby Corn Roasted In Peri Peri Masala)",395,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,3
+THE PIZZA HUB,Pasta In Pizza( M ) ,"(Loaded with Cheese ,Creamy Pasta,olives,Yellow Bell Pepper)",395,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,4
+THE PIZZA HUB,Veggie Extreme( M ) ,"(Mushroom ,Golden Corns Bell Pepper Tomatoes,Panner & Red Paprika)",395,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,5
+THE PIZZA HUB,Pepper Paneer Paradise( L ),"(Pepper Fried Panner ,Yellow &Green Bell Pepper ,Onions,Olives,and Red Parika & Tomatoes )",505,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,6
+THE PIZZA HUB,Veggie Mediteranean( L ),"(Green &Red Bell Pepper .Pineapple,Baby Corn,Green Chillies,Mushroom,Jalapenos)",505,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,7
+THE PIZZA HUB,Green Florest( L ),"(Onion,Mushroom,Green Bell Pepper ,Brocolli,Baby Corn Roasted In Peri Peri Masala)",505,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,8
+THE PIZZA HUB,Pasta In Pizza( L),"(Loaded with Cheese ,Creamy Pasta,olives,Yellow Bell Pepper)",505,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,9
+THE PIZZA HUB,Veggie Extreme( L ),"(Mushroom ,Golden Corns Bell Pepper Tomatoes,Panner & Red Paprika)",505,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,10
+THE PIZZA HUB,Extra Cheese( R ),,75,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,11
+THE PIZZA HUB,Extra Cheese( M ),,95,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,12
+THE PIZZA HUB,Extra Cheese( L ),,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Ultimate  Pizza,,0,,4,13
+THE PIZZA HUB,Spicy Chicken Pizza( R ),Single Coat of Cheese with Spicy Chicken and Crunchy Capsicum,255,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,1
+THE PIZZA HUB,Pepper Chicken Pizza( R ),Single Coat of Cheese with Pepper Chicken and Crunchy Onions,255,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,2
+THE PIZZA HUB,BBQ Chicken Pizza( R ),BBQ Chicken Onions And Capsicums,255,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,3
+THE PIZZA HUB,Peri Peri Chicken Pizza( R ),BBQ Chicken Onions And Capsicums,255,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,4
+THE PIZZA HUB,Spicy Chicken Pizza( M ),Single Coat of Cheese with Spicy Chicken and Crunchy Capsicum,335,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,5
+THE PIZZA HUB,Pepper Chicken Pizza( M ),Single Coat of Cheese with Pepper Chicken and Crunchy Onions,335,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,6
+THE PIZZA HUB,BBQ Chicken Pizza( M ),BBQ Chicken Onions And Capsicums,335,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,7
+THE PIZZA HUB,Peri Peri Chicken Pizza( M ),BBQ Chicken Onions And Capsicums,335,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,8
+THE PIZZA HUB,Extra Cheese( R ),,75,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,9
+THE PIZZA HUB,Extra Cheese( M ),,95,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,10
+THE PIZZA HUB,Extra Chicken Topping( R ),,75,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,11
+THE PIZZA HUB,Extra Chicken Topping( M ),,115,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Simple Pizza,,0,,5,12
+THE PIZZA HUB,Chicken Twister( M ),"Peri Peri Chicken, Golden Corns, Tomatoes, Capsicums",395,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,1
+THE PIZZA HUB,Garlic Chicken Pizza( M ),"Chicken Tikka, Garlic, Tomatoes, Olives and Red Paprika",395,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,2
+THE PIZZA HUB,Tandoori Chicken Pizza( M ),"Hot & Spicy Tandoori Chicken, Onion, Jalapenos, Green Chillies, Red Paprika",395,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,3
+THE PIZZA HUB,Chicken Ultimo( M ),"Pepper Chicken, Baby Corn, Jalapenos, Chicken Sausage",395,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,4
+THE PIZZA HUB,Chicken Twister( L),"Peri Peri Chicken, Golden Corns, Tomatoes, Capsicums",505,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,5
+THE PIZZA HUB,Garlic Chicken Pizza( L ),"Chicken Tikka, Garlic, Tomatoes, Olives and Red Paprika",505,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,6
+THE PIZZA HUB,Tandoori Chicken Pizza( L ),"Hot & Spicy Tandoori Chicken, Onion, Jalapenos, Green Chillies, Red Paprika",505,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,7
+THE PIZZA HUB,Chicken Ultimo( L ),"Pepper Chicken, Baby Corn, Jalapenos, Chicken Sausage",505,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,8
+THE PIZZA HUB,Extra Cheese( M ),,95,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,9
+THE PIZZA HUB,Extra Cheese( L ),,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,10
+THE PIZZA HUB,Extra Chicken Topping( M ),,75,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,11
+THE PIZZA HUB,Extra Chicken Topping( L ),,115,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Standard Pizza,,0,,6,12
+THE PIZZA HUB,Chicken Fiesta( M ),"Chicken Ham,Spicy Chicken,Tomatoes,Corn,Green Bell Pepper & Jalapenos ",475,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,1
+THE PIZZA HUB,Hawaian Chicken Loaded( M ),"Cheese,Creamy Chicken,Capsicums,Pineapple,Tomato,Olives",475,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,2
+THE PIZZA HUB,Cheese & pepperoni Festival( M ),Loaded With Full of Delicious Chicken Pepperoni,475,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,3
+THE PIZZA HUB,Chicken Mediteranean( M ),"Peri Peri Chicken ,Chicken Sausage,Baby Corn ,Brocolli,Green Chillies,Onions",475,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,4
+THE PIZZA HUB,Pasta In Pizza( M ),"Loaded With Cheese,Creamy Pasta, Crunchy Capsicum",475,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,5
+THE PIZZA HUB,Chicken Fiesta( L ),"Chicken Ham,Spicy Chicken,Tomatoes,Corn,Green Bell Pepper & Jalapenos ",575,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,6
+THE PIZZA HUB,Hawaian Chicken Delight( L ),"Cheese,Creamy Chicken,Capsicums,Pineapple,Tomato,Olives",575,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,7
+THE PIZZA HUB,Cheese & Pepperoni Festival( L ),Loaded With Full of Delicious Chicken Pepperoni,575,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,8
+THE PIZZA HUB,Chicken Mediteranean( L ),"Peri Peri Chicken ,Chicken Sausage,Baby Corn ,Brocolli,Green Chillies,Onions",575,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,9
+THE PIZZA HUB,Pasta In Pizza( L ),"Loaded With Cheese,Creamy Pasta, Crunchy Capsicum",575,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Supreme Pizza,,0,,7,10
+THE PIZZA HUB,TPHs Ultimate Pizza( L ),"Peri Peri Chicken ,BBq Chicken ,Chicken Salami,Spicy Chicken Sausage,Capsicums,Corns,Brocolli",625,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Ultimate Pizza,,0,,7,11
+THE PIZZA HUB,Extra Cheese( M ),,95,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Ultimate Pizza,,0,,7,12
+THE PIZZA HUB,Extra Cheese( L ),,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Ultimate Pizza,,0,,7,13
+THE PIZZA HUB,Extra Chicken Topping,,75,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Ultimate Pizza,,0,,7,14
+THE PIZZA HUB,Extra Chicken Topping,,115,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Ultimate Pizza,,0,,7,15
+THE PIZZA HUB,Aloo Tikka  Burger( R ),,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,1
+THE PIZZA HUB,Mexican Burger(R ),,145,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,2
+THE PIZZA HUB,Crispy Veg Burger( R ),,125,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,3
+THE PIZZA HUB,BBQ Veg Burger(R ),,155,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,4
+THE PIZZA HUB,Indian Panner Burger( R ),,185,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,5
+THE PIZZA HUB,Aloo Tikka  Burger( J ),,155,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,6
+THE PIZZA HUB,Mexican Burger( J ),,205,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,7
+THE PIZZA HUB,Crispy Veg Burger( J ),,185,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,8
+THE PIZZA HUB,BBQ Veg Burger( J ),,205,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,9
+THE PIZZA HUB,Indian Panner Burger( J ) ,,255,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,10
+THE PIZZA HUB,Chicken Burger( R ),,145,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,11
+THE PIZZA HUB,BBQ Chicken Burger( R ),,165,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,12
+THE PIZZA HUB,Crispy Fish Burger( R ),,175,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,13
+THE PIZZA HUB,Crispy Crab Burger( R ),,175,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,14
+THE PIZZA HUB,BBQ Chicken Steck Burger( R ),,205,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,15
+THE PIZZA HUB,Chicken Burger( J ),,225,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,16
+THE PIZZA HUB,BBQ Chicken Burger( J ),,245,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,17
+THE PIZZA HUB,Crispy Fish Burger( J ),,255,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,18
+THE PIZZA HUB,Crispy Crab Burger( J ),,285,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,19
+THE PIZZA HUB,BBQ Chicken Steck Burger( J ),,285,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,20
+THE PIZZA HUB,Extra Mayo Dip,,55,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,21
+THE PIZZA HUB,Extra Cheese,,75,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,8,22
+THE PIZZA HUB,Chilli Cheese Sandwich( R ),,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,1
+THE PIZZA HUB,Corn and Cheese Sandwich( R ),,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,2
+THE PIZZA HUB,Panner Masala Sandwich( R ),,155,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,3
+THE PIZZA HUB,Tandoori Panner Sandwich( R ),,175,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,4
+THE PIZZA HUB,Chilli Cheese Club Sandwich ,,175,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,5
+THE PIZZA HUB,Corn and Cheese Club Sandwich ,,185,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,6
+THE PIZZA HUB,Panner Masala Club Sandwich ,,235,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,7
+THE PIZZA HUB,Tandoori Panner Club Sandwich ,,255,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,8
+THE PIZZA HUB,Egg Masala Sandwich (R ),,115,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,9
+THE PIZZA HUB,Chicken Cheese Sandwich( R ),,165,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,10
+THE PIZZA HUB,Creamy Chicken Sandwich( R ),,165,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,11
+THE PIZZA HUB,BBQ Chicken Sandwich( R ),,175,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,12
+THE PIZZA HUB,Tandoori Chicken Sandwich( R ),,205,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,13
+THE PIZZA HUB,Egg Masala Club Sandwich,,185,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,14
+THE PIZZA HUB,Chicken Cheese Club Sandwich,,245,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,15
+THE PIZZA HUB,Creamy Chicken Club Sandwich,,245,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,16
+THE PIZZA HUB,BBQ Chicken Club Sandwich,,255,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,17
+THE PIZZA HUB,Tandoori Chicken Club Sandwich,,285,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,18
+THE PIZZA HUB,Extra Mayo Dip,,55,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,19
+THE PIZZA HUB,Extra Cheese,,75,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,20
+THE PIZZA HUB,Bread Butter and Jam,,65,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwichs Sweet,,0,,10,1
+THE PIZZA HUB,Nutella Sandwich,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwichs Sweet,,0,,10,2
+THE PIZZA HUB,Banana Peanut Butter Sandwich,,100,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwichs Sweet,,0,,10,3
+THE PIZZA HUB,Bread Butter and Jam Club Sandwich,,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwichs Sweet,,0,,10,4
+THE PIZZA HUB,Nutella Club Sandwich,,185,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwichs Sweet,,0,,10,5
+THE PIZZA HUB,Banana Peanut Butter Club Sandwich,,150,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwichs Sweet,,0,,10,6
+THE PIZZA HUB,Extra Mayo Dip,,55,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwichs Sweet,,0,,10,7
+THE PIZZA HUB,Extra Cheese,,75,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwichs Sweet,,0,,10,8
+THE PIZZA HUB,Cream On Murshroom Veg,,225,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,11,1
+THE PIZZA HUB,Arabiatta Pasta,,275,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,11,2
+THE PIZZA HUB,Cream On Murshroom Non Veg,,305,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,11,3
+THE PIZZA HUB,Arabiatta Pasta Non Veg,,355,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,11,4
+THE PIZZA HUB,Vegtable Maggi,,95,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,12,1
+THE PIZZA HUB,Masala Maggi,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,12,2
+THE PIZZA HUB,Panner Maggi,,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,12,3
+THE PIZZA HUB,Cheese Maggi,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,12,4
+THE PIZZA HUB,Egg Maggi,,115,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,12,5
+THE PIZZA HUB,Chicken Maggi,,125,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,12,6
+THE PIZZA HUB,Garlic Bread,,95,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,1
+THE PIZZA HUB,Cheesy Garlic Bread,,125,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,2
+THE PIZZA HUB,Cheese & Corn,,155,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,3
+THE PIZZA HUB,French Fries,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,4
+THE PIZZA HUB,French Fries Peri Peri,,125,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,5
+THE PIZZA HUB,French Fries Masala,,145,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,6
+THE PIZZA HUB,Potato Cheese Shots 6 Pcs,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,7
+THE PIZZA HUB,Potato Wedges,,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,8
+THE PIZZA HUB,Chicken Nuggets 7 Pcs,,125,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,9
+THE PIZZA HUB,Fish Finger 5 Pcs,,125,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,10
+THE PIZZA HUB,Chicken Popcorn 12 Pcs,,135,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Side Eats,,0,,13,11
+THE PIZZA HUB,Fried Chicken Wings,,145,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Starters ,,0,,14,1
+THE PIZZA HUB,Spicy Chicken Leg 2 Pcs,,185,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Starters ,,0,,14,2
+THE PIZZA HUB,BBQ Chicken Leg 2 Pcs,,225,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Starters ,,0,,14,3
+THE PIZZA HUB,Classic Vannila ,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,1
+THE PIZZA HUB,Cold Coffee Classic,,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,2
+THE PIZZA HUB,Butter Scotch Shake ,,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,3
+THE PIZZA HUB,Strawberry Shake,,125,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,4
+THE PIZZA HUB,Blue Berry Shake,,125,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,5
+THE PIZZA HUB,Mango Shake,,125,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,6
+THE PIZZA HUB,Choco Brownie,,145,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,7
+THE PIZZA HUB,Kitkat Caramel,,155,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,8
+THE PIZZA HUB,Choco Oreo,,155,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,9
+THE PIZZA HUB,Snickers Shake,,155,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,10
+THE PIZZA HUB,Coffee Oreo,,175,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,11
+THE PIZZA HUB,Coffe Brownie Magic,,195,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,12
+THE PIZZA HUB,Nuts For Life - The Signature Shake,,185,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,15,13
+THE PIZZA HUB,Mint Mojito,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,16,1
+THE PIZZA HUB,Blue Curracao Mojito,,125,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,16,2
+THE PIZZA HUB,Green Apple Mojito,,135,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,16,3
+THE PIZZA HUB,Orange Mojito,,135,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,16,4
+THE PIZZA HUB,Mango Mojito,,135,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,16,5
+THE PIZZA HUB,Pineapple Mojito,,145,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,16,6
+THE PIZZA HUB,Arabian Home Style Normal Shawarma Veg,,85,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,1
+THE PIZZA HUB,Arabian Home Style Special Shawarma Veg,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,2
+THE PIZZA HUB,Arabian Home Style Tangy Veg  Shawarma,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,3
+THE PIZZA HUB,Arabian Home Style Cheesy Shawarma Veg,,115,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,4
+THE PIZZA HUB,Arabian Home Style Normal Chicken Shawarma ,,95,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,5
+THE PIZZA HUB,Arabian Home Style Special Chicken Shawarma ,,115,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,6
+THE PIZZA HUB,Arabian Home Style Tangy  Chicken Shawarma ,,115,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,7
+THE PIZZA HUB,Arabian Home Style Cheesy Chicken Shawarma ,,125,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,8
+THE PIZZA HUB,Arabian Home Style Pepper Chicken Shawarma ,,125,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,17,9
+THE PIZZA HUB,Grilled Chicken Half,,225,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,18,1
+THE PIZZA HUB,Grilled Chicken Full,,405,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,18,2
+THE PIZZA HUB,Plain Omelette,,55,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelette Hub,,0,,20,1
+THE PIZZA HUB,Normal Bread Omellette,,75,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelette Hub,,0,,20,2
+THE PIZZA HUB,Cheese Omellette,,75,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelette Hub,,0,,20,3
+THE PIZZA HUB,Chilli Cheese Bread Omellette,,105,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelette Hub,,0,,20,4
+THE PIZZA HUB,Chicken Omellette,,105,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelette Hub,,0,,20,5
+THE PIZZA HUB,Masala Cheese Bread Omellette,,115,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelette Hub,,0,,20,6
+THE PIZZA HUB,Chicken Cheese Bread Omllette,,155,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omelette Hub,,0,,20,7
+THE PIZZA HUB,Vannila Treat,,75,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,21,1
+THE PIZZA HUB,ButterScotch Scoops,,85,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,21,2
+THE PIZZA HUB,Strawberry Scoops,,85,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,21,3
+THE PIZZA HUB,Saucy Chocky,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,21,4
+THE PIZZA HUB,Brownie ,,105,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,22,1
+THE PIZZA HUB,Brownie With Ice Cream,,175,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,22,2
+THE PIZZA HUB,Veg Burger + Fries + Milkshake,,255,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,TPH Combos,,0,,23,1
+THE PIZZA HUB,Chicken Burger + Fries + Milkshake,,285,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,TPH Combos,,0,,23,2
+THE PIZZA HUB,Schezwan Veggie Regular + Potato Wedges + Milkshake,Meal for 1 Veg,395,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,TPH Combos,,0,,23,3
+THE PIZZA HUB,Spicy Chicken Pizza Regular + Chicken Nuggets + Milkshake,Meal for 1 Non Veg,415,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,TPH Combos,,0,,23,4
+THE PIZZA HUB,Pepper Paneer Paradise Large + 2 Potato Wedges + 2 Milkshake,Meal for 2 Veg,805,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,TPH Combos,,0,,23,5
+THE PIZZA HUB,Chicken Fiesta Large + 8 Pcs Chicken Nuggets + 2 Pepsi,Meal for 2 Non Veg,815,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,TPH Combos,,0,,23,6
+THE PIZZA HUB,Veggie Extreme Medium + Green Florets Medium + 2 Potato Wedges + 2 French Fries + 4 Pepsi,Family Combo Veg,1325,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,TPH Combos,,0,,23,7
+THE PIZZA HUB,Chicken Mediteranean Medium + Hawaiian Chicken Pizza Medium + 8 Pcs Chicken Nuggets + 8 Pcs Chicken Popcorn + 4 Pepsi,Family Combo Non Veg,1385,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,TPH Combos,,0,,23,8

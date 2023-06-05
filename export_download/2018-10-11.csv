@@ -1,0 +1,5 @@
+"Order Id","Cust Id","Cust Name","Boy Name","Cust Phone","Res Name","Item Total","Offer Price","Delivery Charge","Packaging Charge","Grand Total","Date and Time","Order details",MOP,"Delivery Type",status,"Cust Address"
+117100,60001387,nazeema,RVigneshKumar,9444010913,"APNA DHABA",320,0,10,10,340,2018-10-11,,,cod,"Order Finished","India(IN)_Tamil Nadu"
+117072,60002656,Ramkeyvella,RVigneshKumar,9944422332,"LASSI SHOP",80,0,30,10,120,2018-10-11,,,cod,"Order Finished"," Sevoor, Tamil Nadu 632106, India"
+117071,60002656,Ramkeyvella,RVigneshKumar,9944422332,"ANDHRA SPICE",240,0,25,5,270,2018-10-11,,,cod,"Order Finished"," Sevoor, Tamil Nadu 632106, India"
+117061,60001280,karthick,RVigneshKumar,9677684567,"LASSI SHOP",150,0,25,15,190,2018-10-11,,"Debit Card",ccavenue,"Order Finished","Thiruvalam Road, Katpadi, Near VIT, Tamil Nadu 632014, India"

@@ -1,0 +1,50 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+GOPI'S FRESH JUICE AND SNACKS,Pomgranate Juice ,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,1,1
+GOPI'S FRESH JUICE AND SNACKS,Apple Juice,,70,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,2,1
+GOPI'S FRESH JUICE AND SNACKS,Oranger Juice ,,70,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,3,1
+GOPI'S FRESH JUICE AND SNACKS,Sweet Lime Juice,,70,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,4,1
+GOPI'S FRESH JUICE AND SNACKS,Musk Melon Juice,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,5,1
+GOPI'S FRESH JUICE AND SNACKS,Water Melon Juice,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,6,1
+GOPI'S FRESH JUICE AND SNACKS,Papaya Juice,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,7,1
+GOPI'S FRESH JUICE AND SNACKS,Pineapple Juice,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,8,1
+GOPI'S FRESH JUICE AND SNACKS,Amla Juice,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,9,1
+GOPI'S FRESH JUICE AND SNACKS,Grape Juice,,60,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,7,1
+GOPI'S FRESH JUICE AND SNACKS,Lemon Juice with Mint,,40,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,8,1
+GOPI'S FRESH JUICE AND SNACKS,Red Banana Juice,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,9,1
+GOPI'S FRESH JUICE AND SNACKS,Special Rose Milk,,60,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,1,2
+GOPI'S FRESH JUICE AND SNACKS,Cold Badam Milk,,60,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,1,2
+GOPI'S FRESH JUICE AND SNACKS,Lassi,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,1,3
+GOPI'S FRESH JUICE AND SNACKS,Fruit Mixer Juice,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,2,3
+GOPI'S FRESH JUICE AND SNACKS,Salt Lemon Soda,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,3,3
+GOPI'S FRESH JUICE AND SNACKS,Sweet Lemon Soda,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,4,3
+GOPI'S FRESH JUICE AND SNACKS,Salt &  sweet Lemon Soda,,55,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,5,3
+GOPI'S FRESH JUICE AND SNACKS,Date Juice,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,6,3
+GOPI'S FRESH JUICE AND SNACKS,Athi Pazham Juice,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,7,3
+GOPI'S FRESH JUICE AND SNACKS,Fruits Salad,,60,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,9,3
+GOPI'S FRESH JUICE AND SNACKS,Fruits Salad with Ice Cream,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice (250ML),,0,,10,3
+GOPI'S FRESH JUICE AND SNACKS,Apple MilkShake,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShake (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Banana MIlkShake,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShake (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Vennila MilkShake,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShake (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Chocolate MilkShake,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShake (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Oreo MilkShake,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShake (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Strawberry MilkShake,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShake (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Pista MilkShake,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShake (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,ButterScotch MilkShake,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,MilkShake (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Lime & Mint Mojito,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Strawberry Mojito,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Orange Mojito,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Ginger Mojito,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Green Apple Mojito,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Chilly Mojito,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito (250ML),,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Apple 1Kg,,170,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruits,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Pomagranate 1 Kg,,220,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruits,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Orange 1Kg,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruits,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Sweet Lime 1Kg,,80,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruits,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Red Banana 1Kg,,100,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruits,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Fruits Mixed ,,500,,,,0,,Veg,08.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruits,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Sadha Pori Garam + Elladai Set,,50,,,,0,,Veg,10.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Egg Pori Gram + Elladai Set,,60,,,,0,,Non Veg,10.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Egg Masala Set,,50,,,,0,,Non Veg,10.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Bread Omlette,,50,,,,0,,Non Veg,10.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Spicy Bread Omlette,,60,,,,0,,Non Veg,10.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,11,3
+GOPI'S FRESH JUICE AND SNACKS,Cheesy Bread Omlette,,60,,,,0,,Non Veg,10.00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,11,3

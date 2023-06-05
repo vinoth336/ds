@@ -1,0 +1,59 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+QQ SHAWARMA & PAROTTAS,Parotta(1pc),,17,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,1,1
+QQ SHAWARMA & PAROTTAS,Nool Parotta (1 pc),,22,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,1,3
+QQ SHAWARMA & PAROTTAS,Bun Parotta (1 pc),,22,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,1,4
+QQ SHAWARMA & PAROTTAS,Banana Parotta (1 pc),,99,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,1,5
+QQ SHAWARMA & PAROTTAS,Pineapple Parotta (1 pc),,99,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,1,6
+QQ SHAWARMA & PAROTTAS,Spring Onion Parotta (1 pc),,99,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,1,7
+QQ SHAWARMA & PAROTTAS,Malaysian Parotta(1 pc),,132,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,4,9
+QQ SHAWARMA & PAROTTAS,Chicekn Vaalai Elai Parotta,,165,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,4,10
+QQ SHAWARMA & PAROTTAS,Egg Kothu Parotta,,110,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kothu Parotta Varieties,,0,,4,11
+QQ SHAWARMA & PAROTTAS,Chicken Kothu Parotta,,132,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kothu Parotta Varieties,,0,,4,12
+QQ SHAWARMA & PAROTTAS,Chicken 65 Kothu Parotta,,154,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kothu Parotta Varieties,,0,,4,13
+QQ SHAWARMA & PAROTTAS,Chicken Kari Dosa,,165,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,4,14
+QQ SHAWARMA & PAROTTAS,Mutton Kari Dosa,,198,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,4,15
+QQ SHAWARMA & PAROTTAS,Ghee Roast,,99,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,4,17
+QQ SHAWARMA & PAROTTAS,Plain Roast,,77,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,4,18
+QQ SHAWARMA & PAROTTAS,Kal Dosa,,77,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,4,7
+QQ SHAWARMA & PAROTTAS,Egg Dosa,,93,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,4,2
+QQ SHAWARMA & PAROTTAS,Omblete,,17,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Varieties,,0,,4,3
+QQ SHAWARMA & PAROTTAS,Boiled Egg,,11,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Varieties,,0,,4,4
+QQ SHAWARMA & PAROTTAS,Half Boil,,17,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Varieties,,0,,4,5
+QQ SHAWARMA & PAROTTAS,Kalaki,,22,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Varieties,,0,,4,9
+QQ SHAWARMA & PAROTTAS,Double Omblete,,33,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Varieties,,0,,4,1
+QQ SHAWARMA & PAROTTAS,One Side Omblete,,17,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Varieties,,0,,4,2
+QQ SHAWARMA & PAROTTAS,Chicken PalliPalayam,,132,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Varieties,,0,,4,3
+QQ SHAWARMA & PAROTTAS,Pepper Chicken Gravy,,132,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Varieties,,0,,4,4
+QQ SHAWARMA & PAROTTAS,Chicken Kothu Fry,,110,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Varieties,,0,,4,5
+QQ SHAWARMA & PAROTTAS,Tandoori Chicekn Quarter,,110,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Chicken,,0,,4,6
+QQ SHAWARMA & PAROTTAS,Tandoori Chicekn Half,,220,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Chicken,,0,,4,1
+QQ SHAWARMA & PAROTTAS,Tandoori Chicken Full,,418,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Chicken,,0,,4,2
+QQ SHAWARMA & PAROTTAS,Classic Shawarma Roll,,66,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,3
+QQ SHAWARMA & PAROTTAS,Peri Peri Shawarma Roll,,77,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,4
+QQ SHAWARMA & PAROTTAS,Mexican Shawarma Roll,,77,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,5,5
+QQ SHAWARMA & PAROTTAS,Italian Shawarma Roll,,77,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,5,6
+QQ SHAWARMA & PAROTTAS,BBQ Chicekn Shawarma Roll,,88,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,5,7
+QQ SHAWARMA & PAROTTAS,Fried Chicekn Shawarma Roll,,88,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,5,8
+QQ SHAWARMA & PAROTTAS,Egg Shawarma Roll,,66,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,5,10
+QQ SHAWARMA & PAROTTAS,Chicken Cheese Shawarma Roll,,110,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,5,11
+QQ SHAWARMA & PAROTTAS,Special Chicekn Shawarma Roll,,110,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,5,12
+QQ SHAWARMA & PAROTTAS,Jambo Shawarma (Classic) Roll,,132,,,,5,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,5,13
+QQ SHAWARMA & PAROTTAS,Paani Puri Shawarma,,132,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,5,1
+QQ SHAWARMA & PAROTTAS,Lebanese Shawarma Roll,,110,,,,0,Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,6,2
+QQ SHAWARMA & PAROTTAS,Parotta Shawarma Roll,,132,,,,0,Non Veg,05:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,6,3
+QQ SHAWARMA & PAROTTAS,Rose Milk,,55,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito & Juices,,0,,6,4
+QQ SHAWARMA & PAROTTAS,Badam Milk,,55,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito & Juices,,0,,6,1
+QQ SHAWARMA & PAROTTAS,Blue Lime mojito,,55,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito & Juices,,0,,6,2
+QQ SHAWARMA & PAROTTAS,WaterMelon Mojito,,55,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito & Juices,,0,,6,3
+QQ SHAWARMA & PAROTTAS,Vergin Mojito,,55,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito & Juices,,0,,6,4
+QQ SHAWARMA & PAROTTAS,French Fries,,44,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Quick Bites,,0,,6,5
+QQ SHAWARMA & PAROTTAS,Spring Potato (1 Stick),,55,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Quick Bites,,0,,6,6
+QQ SHAWARMA & PAROTTAS,Pop Corn Chicken,,88,,,,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Quick Bites,,0,,6,7
+QQ SHAWARMA & PAROTTAS,Normal Mayonnaise,,14,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,8
+QQ SHAWARMA & PAROTTAS,Tandoori Mayonnaise,,14,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,9
+QQ SHAWARMA & PAROTTAS,Vanilla Ice Cream,,44,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,10
+QQ SHAWARMA & PAROTTAS,Butter Scotch ice Cream,,44,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,11
+QQ SHAWARMA & PAROTTAS,Pista Ice Cream,,44,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,12
+QQ SHAWARMA & PAROTTAS,Chocolate Ice Cream,,44,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,13
+QQ SHAWARMA & PAROTTAS,Strawberry Ice Cream,,44,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,14
+QQ SHAWARMA & PAROTTAS,Mango Ice Cream,,44,,,,0,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,7,16

@@ -1,0 +1,32 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SREE BALAJI BHAVAN,Meals,,110,,,,0,Veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,1,1
+SREE BALAJI BHAVAN,Sambar Rice,,60,,,,0,Veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,1,2
+SREE BALAJI BHAVAN,Curd Rice,,60,,,,0,Veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,1,3
+SREE BALAJI BHAVAN,Tomato Rice,,60,,,,0,Veg,,,,,11:00AM,03:00PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,1,4
+SREE BALAJI BHAVAN,Chappathi (2 Pcs),,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,2,1
+SREE BALAJI BHAVAN,Parotta (2 Pcs),,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,2,2
+SREE BALAJI BHAVAN,Sathukudi Juice,,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,6,1
+SREE BALAJI BHAVAN,Orange Juice,,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,6,2
+SREE BALAJI BHAVAN,Madulam Juice,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,6,3
+SREE BALAJI BHAVAN,Apple Juice,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,6,4
+SREE BALAJI BHAVAN,Water Melon Juice,,50,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,6,5
+SREE BALAJI BHAVAN,Pineapple Juice,,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,6,6
+SREE BALAJI BHAVAN,Plain Dosa,,60,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,1
+SREE BALAJI BHAVAN,Rava Dosa,,65,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,2
+SREE BALAJI BHAVAN,Onion Rava Dosa,,75,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,3
+SREE BALAJI BHAVAN,Onion Rava Masala Dosa,,80,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,4
+SREE BALAJI BHAVAN,Rava Masala Dosa,,75,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,5
+SREE BALAJI BHAVAN,Podi Dosa,,80,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,6
+SREE BALAJI BHAVAN,Ghee Dosa,,90,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,7
+SREE BALAJI BHAVAN,Onion Podi Dosa,,90,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,8
+SREE BALAJI BHAVAN,Ghee Masala Dosa,,100,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,9
+SREE BALAJI BHAVAN,Masala Dosa,,70,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,10
+SREE BALAJI BHAVAN,Ghee Rava Dosa,,75,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,11
+SREE BALAJI BHAVAN,Ghee Onion Rava Dosa,,85,,,,0,Veg,,,,,03:30PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,3,12
+SREE BALAJI BHAVAN,Onion Bajji (4 Pcs),,40,,,,0,Veg,,,,,,,04:00PM,06:00PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,5,1
+SREE BALAJI BHAVAN,Bonda (2 Pcs),,40,,,,0,Veg,,,,,,,04:00PM,06:00PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,5,2
+SREE BALAJI BHAVAN,Vazhakkai Bajji (4 Pcs),,40,,,,0,Veg,,,,,,,04:00PM,06:00PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,5,3
+SREE BALAJI BHAVAN,Potato Bajji (4 Pcs),,40,,,,0,Veg,,,,,,,04:00PM,06:00PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,5,4
+SREE BALAJI BHAVAN,Chilli Bajji (4 Pcs),,40,,,,0,Veg,,,,,,,04:00PM,06:00PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,5,5
+SREE BALAJI BHAVAN,Idly (2 Pcs),,35,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Idly,,0,,4,1
+SREE BALAJI BHAVAN,Sambar Idly,,45,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Idly,,0,,4,2

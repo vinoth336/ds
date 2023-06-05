@@ -1,0 +1,236 @@
+
+
+<?php $__env->startSection('content'); ?>
+<div class="page-content row">
+    <!-- Page header -->
+    <div class="page-header">
+      <div class="page-title">
+        <h3> <?php echo e($pageTitle); ?> <small><?php echo e($pageNote); ?></small></h3>
+      </div>
+      <ul class="breadcrumb">
+        <li><a href="<?php echo e(URL::to('dashboard')); ?>"><?php echo Lang::get('core.home'); ?></a></li>
+		<li><a href="<?php echo e(URL::to('restaurant?return='.$return)); ?>"><?php echo e($pageTitle); ?></a></li>
+        <li class="active"> <?php echo Lang::get('core.detail'); ?> </li>
+      </ul>
+	 </div>  
+	 
+	 
+ 	<div class="page-content-wrapper m-t">   
+
+<div class="sbox animated fadeInRight">
+	<div class="sbox-title"> 
+   		<a href="<?php echo e(URL::to('restaurant?return='.$return)); ?>" class="tips btn btn-xs btn-default pull-right" title="<?php echo Lang::get('core.btn_back'); ?>"><i class="fa fa-arrow-circle-left"></i>&nbsp;<?php echo Lang::get('core.btn_back'); ?></a>
+		<?php if($access['is_add'] ==1): ?>
+   		<a href="<?php echo e(URL::to('restaurant/update/'.$id.'?return='.$return)); ?>" class="tips btn btn-xs btn-primary pull-right" title="<?php echo Lang::get('core.btn_edit'); ?>"><i class="fa fa-edit"></i>&nbsp;<?php echo Lang::get('core.btn_edit'); ?></a>
+		<?php endif; ?> 
+	</div>
+	<div class="sbox-content" style="background:#fff;"> 	
+
+		<table class="table table-striped table-bordered" >
+			<tbody>	
+		
+					<!--<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_id'); ?></td>
+						<td><?php echo e($row->id); ?> </td>
+						
+					</tr>-->
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Restaurant Name</td>
+						<td><?php echo e($row->name); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_location'); ?></td>
+						<td><?php echo e($row->location); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_logo'); ?></td>
+						<td>
+							<p>
+								<?php if($row->logo != ''): ?>
+								<a href="<?php echo url('').'/uploads/restaurants/'.$row->logo;?>" target="_blank" class="previewImage">
+									<img src="<?php echo url('').'/uploads/restaurants/'.$row->logo;?>" border="0" width="50" class="img-circle">
+								</a>
+								<?php else: ?>
+								<a>
+									<img src="<?php echo url('uploads/images/no-image.png');?>" border="0" width="50" class="img-circle">
+								</a>
+								<?php endif; ?>
+							</p>
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Partner Name</td>
+						<td><?php echo SiteHelpers::hostname($row->partner_id); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_cuisine'); ?></td>
+						<td><?php echo e($row->cuisine); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Res Desc</td>
+						<td><?php echo e($row->res_desc); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Premium Plan</td>
+						<td><?php echo e($row->premium_plan); ?> </td>
+						
+					</tr>
+                    
+                    <tr>
+						<td width='30%' class='label-view text-right'>Call Handling</td>
+						<td><?php if($row->call_handling == 1): ?> Yes <?php else: ?> No <?php endif; ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Pure Veg</td>
+						<td><?php if($row->pure_veg == 1): ?> Yes <?php else: ?> No <?php endif; ?></td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>GST</td>
+						<td><?php echo e($row->service_tax); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Packaging Charge</td>
+						<td><?php echo e($row->max_packaging_charge); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Preparation Time</td>
+						<td><?php echo e($row->delivery_time); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_phone'); ?></td>
+						<td><?php echo e($row->phone); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Secondary Phone Number1</td>
+						<td><?php echo e($row->secondary_phone_number); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Secondary Phone Number2</td>
+						<td><?php echo e($row->secondary_phone_number2); ?> </td>
+						
+					</tr>
+                    
+                    <tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_budjet'); ?></td>
+						<td><?php if($row->budget == 1): ?> Low <?php elseif($row->budget == 2): ?> Medium <?php elseif($row->budget == 3): ?> High <?php elseif($row->budget == 4): ?> Very High <?php endif; ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_opening_time'); ?></td>
+						<td><?php echo e($row->opening_time); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_closing_time'); ?></td>
+						<td><?php echo e($row->closing_time); ?> </td>
+						
+					</tr>
+				
+					<!--<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_vat'); ?></td>
+						<td><?php echo e($row->vat); ?> </td>
+						
+					</tr>-->
+				
+					<!--<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.Abs_Del_time'); ?></td>
+						<td><?php echo e($row->delivery_time); ?> </td>
+						
+					</tr>-->
+				
+					<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_offer'); ?></td>
+						<td><?php echo e($row->offer); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Minimum Order Value</td>
+						<td><?php echo e($row->min_order_value); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Maximum Value Apply</td>
+						<td><?php echo e($row->max_value); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Offer From</td>
+						<td><?php echo e($row->offer_from); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Offer To</td>
+						<td><?php echo e($row->offer_to); ?> </td>
+						
+					</tr>
+				
+					<!--<tr>
+						<td width='30%' class='label-view text-right'>Latitude</td>
+						<td><?php echo e($row->latitude); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'>Longitude</td>
+						<td><?php echo e($row->longitude); ?> </td>
+						
+					</tr>-->
+				
+					<!--<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_rating'); ?></td>
+						<td><?php echo e($row->rating); ?> </td>
+						
+					</tr>
+				
+					<tr>
+						<td width='30%' class='label-view text-right'><?php echo trans('core.abs_entry_by'); ?></td>
+						<td><?php echo e($row->entry_by); ?> </td>
+						
+					</tr>-->
+				
+			</tbody>	
+		</table>   
+
+	 
+	
+	</div>
+</div>	
+
+	</div>
+</div>
+	  
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.app', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

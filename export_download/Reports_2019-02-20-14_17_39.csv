@@ -1,0 +1,9 @@
+S.No,"Order Id","Res Name","Cust Name","Boy Name","Item Total","Res Offer Price","DS Offer Price",GST,"Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
+1,RPT137456,"DARLING ARYA BHAVAN - WALAJA","Preetham Kumar P  ","M SARAVANAN RPT",195,0,0,0,25,20,240,"02/19/2019 20:47:51","Credit Card",ccavenue,"Order Finished","1xVeg Nooldes-105,1xOnion Rava Dosai-90"
+2,RPT137451,"DARLING NAMMA VEEDU - WALAJA","Srikanth ","M SARAVANAN RPT",540.75,0,0,0,24,20,585,"02/19/2019 20:43:23","Net Banking",ccavenue,"Order Finished","1xTandoori Platter (Half)-367.5,1xChicken Kothu Idiyappam-173.25"
+3,RPT137445,"HOTEL KHAN'S","Esther Prabhakaran  ","M SARAVANAN RPT",60,0,0,0,30,15,105,"02/19/2019 20:26:23",cash,cod,"Order Finished","2xChicken Pakoda (100Gms)-25,1xIdiyappam (4 Pc)-10"
+4,RPT137433,"NILA MESS","arnalt stalin ","M SARAVANAN RPT",220.5,0,0,0,36,10,267,"02/19/2019 20:04:27",Wallet,ccavenue,"Order Finished","1xChicken Biriyani-115.5,1xChicken Kothu Parotta-105"
+5,RPT137408,"HOTEL KHAN'S","Arpith Aravind ","M SARAVANAN RPT",130,0,0,0,25,10,165,"02/19/2019 19:15:47","Debit Card",ccavenue,"Order Finished","1xMutton Briyani (Quarter)-70,1xKaadai 65-60"
+6,RPT137389,"DARLING ARYA BHAVAN - WALAJA","Skanthavelan Balamani","M SARAVANAN RPT",296,0,0,0,24,40,360,"02/19/2019 18:20:18",cash,cod,"Order Finished","1xBonda (2 Nos)-48,1xButterscotch Milkshake-100,1xApple Milk Shake-95,1xVeg Sandwich-53-Apple Milkshake without Sugar
+    "
+7,RPT137342,"NAVALPUR KITCHEN","pavithra Karthic  ","M SARAVANAN RPT",210,0,0,10.5,12,0,233,"02/19/2019 13:28:01",cash,cod,"Order Finished","1xMushroom Clear Soup-52.5,1xChicken Fried Rice-105,1xSweet Corn Veg Soup-52.5"

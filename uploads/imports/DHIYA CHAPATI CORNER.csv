@@ -1,0 +1,27 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DHIYA CHAPATI CORNER,Plain Chapati 1No,Chapati only,7,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,1,2
+DHIYA CHAPATI CORNER,Palak Chapati 1No,Chapati only,19,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,1,1
+DHIYA CHAPATI CORNER,Onion Chapati 1No,Chapati only,24,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,1,1
+DHIYA CHAPATI CORNER,Carrot Chapati 1No,Chapati only,24,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,1,2
+DHIYA CHAPATI CORNER,Garlic Chapati 1No,Chapati only,30,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,2,1
+DHIYA CHAPATI CORNER,Masala Chapati 1No,Chapati only,30,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,2,1
+DHIYA CHAPATI CORNER,Butter Chapati 1No,Chapati only,30,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,2,1
+DHIYA CHAPATI CORNER,Paneer Chapati 1No,Chapati only,36,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,2,1
+DHIYA CHAPATI CORNER,Dry Fruit Chapati 1No,Chapati only,36,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,2,1
+DHIYA CHAPATI CORNER,Chilli Chapati ,Chapati only,42,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Items,,0,,2,1
+DHIYA CHAPATI CORNER,Veg Roll 1No,,36,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Rolls,,0,,3,1
+DHIYA CHAPATI CORNER,Mushroom Roll 1No,,42,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Rolls,,0,,3,1
+DHIYA CHAPATI CORNER,Paneer Roll 1No,,53,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Rolls,,0,,3,1
+DHIYA CHAPATI CORNER,Mix Roll 1No,,59,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Rolls,,0,,3,1
+DHIYA CHAPATI CORNER,Veg Kurma (250 Ml),,13,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,3,1
+DHIYA CHAPATI CORNER,Channa Masala (250 Ml),,24,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,3,1
+DHIYA CHAPATI CORNER,Dal Masala (250 Ml),,24,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,4,1
+DHIYA CHAPATI CORNER,Mushroom Masala (250 Ml),,36,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,4,1
+DHIYA CHAPATI CORNER,Gobi Masala (250 Ml),,36,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,4,1
+DHIYA CHAPATI CORNER,Green Peas Masala (250 Ml),,36,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,4,1
+DHIYA CHAPATI CORNER,Paneer Masala (250 Ml),,42,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,4,1
+DHIYA CHAPATI CORNER,Paneer Butter Masala (250 Ml),,47,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,5,1
+DHIYA CHAPATI CORNER,Veg Shawarma Roll 1No,,47,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Shawarma Rolls,,0,,5,1
+DHIYA CHAPATI CORNER,Mushroom Shawarma Roll 1No,,59,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Shawarma Rolls,,0,,5,1
+DHIYA CHAPATI CORNER,Paneer Shawarma Roll 1No,,65,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Shawarma Rolls,,0,,5,1
+DHIYA CHAPATI CORNER,Mix Shawarma Roll 1No,,70,,,,0,0,veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapati Shawarma Rolls,,0,,6,1

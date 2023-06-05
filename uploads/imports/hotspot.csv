@@ -1,0 +1,67 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOT S POT,Gobi Manchurian,,80,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,1
+HOT S POT,Chilly Paneer,,100,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,2
+HOT S POT,Mix Veg Manchurian,,100,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,3
+HOT S POT,Baby Corn Manchurian,,90,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,4
+HOT S POT,Bread Omlette,,70,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,5
+HOT S POT,Cheese Bread Omlette,,90,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,6
+HOT S POT,Egg Manchurian,,70,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,7
+HOT S POT,Chicken 65 Bone,,70,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,8
+HOT S POT,Chicken 65 Boneless,,100,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,9
+HOT S POT,Chilly Chicken,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,10
+HOT S POT,Chicken 555,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,11
+HOT S POT,Chicken Wings Sweet 3 Pcs,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,12
+HOT S POT,Chicken Wings Tangy 3 Pcs,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,13
+HOT S POT,Chicken Wings Spicy 3 Pcs,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,14
+HOT S POT,Chicken Lollipop 4 Pcs,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot S Pot Special,,0,,1,15
+HOT S POT,Mutton Biriyani,Traditional Seeragasamba Rice Cooked with Special Hand Grounded Spices to Create Taste,200,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,1
+HOT S POT,Mutton Plain Biriyani,Traditional Seeragasamba Rice Cooked with Special Hand Grounded Spices to Create Taste,130,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,2
+HOT S POT,Chicken Biriyani,Traditional Seeragasamba Rice Cooked with Special Hand Grounded Spices to Create Taste,100,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,3
+HOT S POT,Chicken Plain Biriyani,Traditional Seeragasamba Rice Cooked with Special Hand Grounded Spices to Create Taste,70,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,4
+HOT S POT,Chicken 65 Biriyani,Traditional Seeragasamba Rice Cooked with Special Hand Grounded Spices to Create Taste,128,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,5
+HOT S POT,Lemon Rice,,65,,,,0,0,veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,3,1
+HOT S POT,Curd Rice,,65,,,,0,0,veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,3,2
+HOT S POT,Tomato Rice,,65,,,,0,0,veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,3,3
+HOT S POT,Pudina Rice,,65,,,,0,0,veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,3,4
+HOT S POT,Coconut Rice,,65,,,,0,0,veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,3,5
+HOT S POT,Regular Shawarma Roll,,70,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,1
+HOT S POT,Pani Puri Shawarma Roll,,60,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,2
+HOT S POT,Schezwan Shawarma Roll,,80,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,3
+HOT S POT,Peri Peri Shawarma Roll,,80,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,4
+HOT S POT,BBQ Shawarma Roll,,80,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,5
+HOT S POT,American Shawarma Roll,,100,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,6
+HOT S POT,Plate Shawarma,,160,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,7
+HOT S POT,Veg Fried Rice,,75,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,1
+HOT S POT,Schezwan Veg Fried Rice,,80,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,2
+HOT S POT,Chilly Garlic Veg Fried Rice,,80,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,3
+HOT S POT,Egg Fried Rice,,90,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,4
+HOT S POT,Chicken Fried Rice,,100,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,5
+HOT S POT,Chicken Chilly Garlic Rice,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,6
+HOT S POT,Chicken Schezwan Rice,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,7
+HOT S POT,Hot S Pot Special Fried Rice Non Veg,Mix with Rice & Noodles,100,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,8
+HOT S POT,Veg Noodles,,75,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,9
+HOT S POT,Schezwan Veg Noodles,,80,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,10
+HOT S POT,Chilly Garlic Veg Noodles,,80,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,11
+HOT S POT,Egg Noodles,,90,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,12
+HOT S POT,Chicken Fried Noodles,,100,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,13
+HOT S POT,Chicken Chilly Garlic Noodles,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,14
+HOT S POT,Chicken Schezwan Noodles,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,5,15
+HOT S POT,Paneer Tikka,,170,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,1
+HOT S POT,Tandoori Chicken,,120,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,2
+HOT S POT,Hariyali Chicken,,125,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,3
+HOT S POT,Tangdi Chicken,,140,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,4
+HOT S POT,Black Pepper Chicken,,125,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,5
+HOT S POT,Hariyali Tikka,,180,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,6
+HOT S POT,Chicken Tikka,,180,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,7
+HOT S POT,Murgh Malai Tikka,,200,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,8
+HOT S POT,Black Pepper Chicken Boneless,,180,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,9
+HOT S POT,Hot S Pot Trio Kebab 3 Pcs,"Combination of Tandoori, Hariyali & Tangdi Bone Chicken",399,,,,0,0,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,6,10
+HOT S POT,Elaneer Sarbath,,70,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chillers,,0,,7,1
+HOT S POT,Elaneer Milk Shake,,90,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chillers,,0,,7,2
+HOT S POT,Rose Milk,,60,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chillers,,0,,7,3
+HOT S POT,Badham Milk,,75,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chillers,,0,,7,4
+HOT S POT,Sweet Lassi,,60,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chillers,,0,,7,5
+HOT S POT,Cold Coffee,,80,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chillers,,0,,7,6
+HOT S POT,Vennila Milkshake,,90,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,8,1
+HOT S POT,Chocolate Milkshake,,100,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,8,2
+HOT S POT,Strawberry Milkshake,,90,,,,0,0,veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,8,3

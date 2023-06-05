@@ -1,0 +1,205 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THE ROYAL GRAND,Green Salad ,,100,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Salads,,0,,1,1
+THE ROYAL GRAND,Chef Special Salad Veg,,160,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Salads,,0,,1,1
+THE ROYAL GRAND,Chef Special Chicken Salad,,180,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Salads,,0,,2,1
+THE ROYAL GRAND,Chef Special Veg Soup,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,3,1
+THE ROYAL GRAND,Kozhi Rasam,,150,,,,0,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,4,1
+THE ROYAL GRAND,NattuKozhi Rasam,,160,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,5,1
+THE ROYAL GRAND,Cream of Tomato Cream Soup,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,6,1
+THE ROYAL GRAND,Cream of  Mushroom Cream Soup,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,7,1
+THE ROYAL GRAND,Cream of Veg Cream Soup,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,8,1
+THE ROYAL GRAND,Cream of Chicken Cream Soup,,150,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+THE ROYAL GRAND,Hot & Sour Chicken Soup,,150,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,2,2
+THE ROYAL GRAND,Hot & Sour Veg Soup,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,3,2
+THE ROYAL GRAND,Manchow Veg Soup,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,4,2
+THE ROYAL GRAND,Manchow Chicken Soup,,150,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,4,2
+THE ROYAL GRAND,Sweet Corn Veg Soup,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+THE ROYAL GRAND,Sweet Corn Chicken Soup,,150,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,2,3
+THE ROYAL GRAND,Veg Clear Soup,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,3,3
+THE ROYAL GRAND,Chicken Clear Soup,,150,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,4,3
+THE ROYAL GRAND,French Fries,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,5,3
+THE ROYAL GRAND,Panner Fingers,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,6,3
+THE ROYAL GRAND,Panner 65,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,3
+THE ROYAL GRAND,Paneer Pepper Fry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,3
+THE ROYAL GRAND,Chilly Paneer Dry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,10,3
+THE ROYAL GRAND,Paneer Machurian Dry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,11,3
+THE ROYAL GRAND,Paneer Pepper & Salt,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,12,3
+THE ROYAL GRAND,BabyCorn 65,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,12,3
+THE ROYAL GRAND,BabyCorn Pepper Fry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,13,3
+THE ROYAL GRAND,BabyCorn Manchuriyan Dry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,3
+THE ROYAL GRAND,BabyCorn Pepper & Salt,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,3
+THE ROYAL GRAND,Mushroom 65,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,16,3
+THE ROYAL GRAND,Mushroom Pepper Fry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,17,3
+THE ROYAL GRAND,Chilly Mushroom Dry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,18,3
+THE ROYAL GRAND,Mushroom Manchurian Dry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,4
+THE ROYAL GRAND,Mushroom Pepper & Salt,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,4
+THE ROYAL GRAND,Gobi 65,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+THE ROYAL GRAND,Chilly Gobi Dry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,4
+THE ROYAL GRAND,Gobi Manchuriyan Dry,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,5,4
+THE ROYAL GRAND,Gobi Pepper & Salt,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,6,4
+THE ROYAL GRAND,Vegtable Spring Roll,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,4
+THE ROYAL GRAND,Boiled Egg (2Nos),,150,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,4
+THE ROYAL GRAND,Omlette Plain,,150,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,9,4
+THE ROYAL GRAND,Masala Omlette,,150,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,10,4
+THE ROYAL GRAND,Tandoori Chicken Full,,520,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,11,4
+THE ROYAL GRAND,Tandoori Chicken Half,,295,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,12,4
+THE ROYAL GRAND,Tangri Kebab,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,13,4
+THE ROYAL GRAND,Chicken Tikka,,260,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,14,4
+THE ROYAL GRAND,Chicken Sukka,,260,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,15,4
+THE ROYAL GRAND,Chicken Varuval,,260,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,16,4
+THE ROYAL GRAND,Chicken Kothukari Dry,,260,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,17,4
+THE ROYAL GRAND,Kozhi Uppukari,,260,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,18,4
+THE ROYAL GRAND,Chicken Pepper Fry,,250,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,19,4
+THE ROYAL GRAND,Chicken Pallipalyam,,260,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,20,4
+THE ROYAL GRAND,Chicken 65,,250,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,21,4
+THE ROYAL GRAND,Chicken LollyPop (5Pcs),,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,22,4
+THE ROYAL GRAND,Chicken Drum of Heaven (5Pcs),,280,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,23,4
+THE ROYAL GRAND,Chicken Schezwan Dry,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,24,4
+THE ROYAL GRAND,Chicken Manchuriyan Dry,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,26,4
+THE ROYAL GRAND,Chicken Chilly Dry,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,1,5
+THE ROYAL GRAND,Ginger Chicken Dry,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,2,5
+THE ROYAL GRAND,Dragon Chicken Dry,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,3,5
+THE ROYAL GRAND,Chicken Spring Roll,,250,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,5
+THE ROYAL GRAND,NattuKozhi Pepper Fry,,295,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,NattuKozhi Starters,,0,,5,5
+THE ROYAL GRAND,NattuKozhi Sukka,,295,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,NattuKozhi Starters,,0,,6,5
+THE ROYAL GRAND,NattuKozhi PalliPalayam,,295,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,NattuKozhi Starters,,0,,7,5
+THE ROYAL GRAND,NattuKozhi UppuKari,,295,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,NattuKozhi Starters,,0,,8,5
+THE ROYAL GRAND,Mutton Sukka,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,10,5
+THE ROYAL GRAND,Mutton Varuval,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,11,5
+THE ROYAL GRAND,Mutton Pepper Fry,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,12,5
+THE ROYAL GRAND,Mutton KothuKari Dry,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,13,5
+THE ROYAL GRAND,Fish Manchurian Dry,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,15,5
+THE ROYAL GRAND,Fish Salt & Pepper ,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,16,5
+THE ROYAL GRAND,Fish Chilly Dry,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,7,5
+THE ROYAL GRAND,Garlic Fish Dry,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,8,5
+THE ROYAL GRAND,Phuket Fish,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,10,5
+THE ROYAL GRAND,Fish 65,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,11,5
+THE ROYAL GRAND,Fish Finger,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,12,5
+THE ROYAL GRAND,Prawn 65,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,13,5
+THE ROYAL GRAND,Prawn Varuval,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,15,5
+THE ROYAL GRAND,Prawn Pepper Fry,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,16,5
+THE ROYAL GRAND,Prawn Chilly Dry,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,1,6
+THE ROYAL GRAND,Prawn Schezwan Dry,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,1,6
+THE ROYAL GRAND,Prawn Manchuriyan Dry,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,1,6
+THE ROYAL GRAND,Prawn Salt & Pepper,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,2,6
+THE ROYAL GRAND,Vegtable Kadai,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,3,6
+THE ROYAL GRAND,Vegtable Chettinad,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,4,6
+THE ROYAL GRAND,Mix Vegtable Curry,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,4,6
+THE ROYAL GRAND,Mushroom Masala,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,5,6
+THE ROYAL GRAND,Mushroom Kadai,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,6,6
+THE ROYAL GRAND,Mushroom Chettinad,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,7,6
+THE ROYAL GRAND,Paneer Butter Masala,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,8,6
+THE ROYAL GRAND,Paneer Tikka Masala,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,9,6
+THE ROYAL GRAND,Paneer Kadai,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,10,6
+THE ROYAL GRAND,Paneer Chettinad,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,11,6
+THE ROYAL GRAND,Aloo Gobi Masala,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,12,6
+THE ROYAL GRAND,Aloo Mutter Masala,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,1,,13,6
+THE ROYAL GRAND,Green Peas Masala,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,14,6
+THE ROYAL GRAND,Dal Fry,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,15,6
+THE ROYAL GRAND,Dal Tadka,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,1,,16,6
+THE ROYAL GRAND,Paneer Manchurian Gravy,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,1,,17,6
+THE ROYAL GRAND,Paneer Chilly Gravy,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,18,6
+THE ROYAL GRAND,BabyCorn Manchriyan Gravy,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,19,6
+THE ROYAL GRAND,BabyCorn Chilly Gravy,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,20,6
+THE ROYAL GRAND,Mushroom Manchurian Gravy,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,21,6
+THE ROYAL GRAND,Mushroom Chilly Gravy,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,1,,24,6
+THE ROYAL GRAND,Gobi Manchuriyan Gravy,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,25,6
+THE ROYAL GRAND,Gobi Chilly Gravy,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,26,6
+THE ROYAL GRAND,Veg Ball Manchuriyan Gravy,,200,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Veg,,0,,27,6
+THE ROYAL GRAND,Chicken Butter Masala,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,28,6
+THE ROYAL GRAND,Chicken Tikka Masala,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,29,6
+THE ROYAL GRAND,Chicken Kadai Masala,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,30,6
+THE ROYAL GRAND,Chicken Pepper Masala,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,31,6
+THE ROYAL GRAND,Chicken Chettinad Gravy,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,32,6
+THE ROYAL GRAND,Chicken Hyderabadi Gravy,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,33,6
+THE ROYAL GRAND,Chicken Varutha Curry,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,34,6
+THE ROYAL GRAND,Chicken Manchuriyan Gravy,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,35,6
+THE ROYAL GRAND,Garlic Chicken Gravy,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,36,6
+THE ROYAL GRAND,Ginger Chicken Gravy,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,1,7
+THE ROYAL GRAND,Chilly Chicken Gravy,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,2,7
+THE ROYAL GRAND,Schezwan Chicken Gravy,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,3,7
+THE ROYAL GRAND,Sri Lankan Chicken Curry,,270,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,4,7
+THE ROYAL GRAND,NattuKozhi Masala,,300,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,5,7
+THE ROYAL GRAND,NattuKozhi Chettinad Gravy,,300,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,6,7
+THE ROYAL GRAND,NattuKozhi Thanni Kozhlambu,,300,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,7,7
+THE ROYAL GRAND,Mutton Chettinad Gravy,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,8,7
+THE ROYAL GRAND,Mutton Kothukari Gravy,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,1,8
+THE ROYAL GRAND,Mutton Varuthakari Curry,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,2,8
+THE ROYAL GRAND,Mutton Hyderbadi Gravy,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,1,,3,8
+THE ROYAL GRAND,Fish Curry,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,4,8
+THE ROYAL GRAND,Fish Kuzhlambu,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,1,9
+THE ROYAL GRAND,Prawn Masala,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,2,9
+THE ROYAL GRAND,Prawn Chettinad,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,3,9
+THE ROYAL GRAND,Fish Manchurian Gravy,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,4,9
+THE ROYAL GRAND,Chilly Fish Gravy,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,5,9
+THE ROYAL GRAND,Garlic Fish Gravy,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,1,,6,9
+THE ROYAL GRAND,Prawn Manchurian Gravy,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,1,10
+THE ROYAL GRAND,Prawn Chilly Gravy,,330,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,2,10
+THE ROYAL GRAND,Paneer Schezwan Noodles,,230,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,3,10
+THE ROYAL GRAND,Egg Fried Rice,,230,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,4,10
+THE ROYAL GRAND,Schezwan Egg Fried Rice,,230,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,1,,5,10
+THE ROYAL GRAND,Egg Noodles,,230,,,,0,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,1,11
+THE ROYAL GRAND,Schezwan Egg Noodles,,230,,,,0,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,2,11
+THE ROYAL GRAND,Chicken Fried Rice,,250,,,,0,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,3,11
+THE ROYAL GRAND,Schezwan Chicken Fried Rice,,250,,,,0,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,4,11
+THE ROYAL GRAND,Chicken Noodles,,250,,,,0,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,5,11
+THE ROYAL GRAND,Schezwan Chicken Noodles,,260,,,,0,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,7,11
+THE ROYAL GRAND,Prawn Noodles,,280,,,,0,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,8,11
+THE ROYAL GRAND,Schezwan Prawn Noodles,,280,,,,0,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Main Course Non Veg,,0,,9,11
+THE ROYAL GRAND,Plain Rice With Rasam,,140,,,,0,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice,,0,,10,11
+THE ROYAL GRAND,Curd Rice,,120,,,,0,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice,,0,,1,12
+THE ROYAL GRAND,Special Curd Rice,,150,,,,0,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice,,0,,2,12
+THE ROYAL GRAND,Plain Curd,,60,,,,0,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice,,0,,3,12
+THE ROYAL GRAND,Idly (2 Nos),,60,,,,0,0,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,4,12
+THE ROYAL GRAND,South Indian Parotha (1 No),,100,,,,0,0,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,1,13
+THE ROYAL GRAND,Plain Dosa,,110,,,,0,0,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,2,13
+THE ROYAL GRAND,Egg Dosa,,140,,,,5,0,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,3,13
+THE ROYAL GRAND,Onion Dosa,,140,,,,5,0,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,4,13
+THE ROYAL GRAND,Plain Uthappam,,110,,,,5,0,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,1,14
+THE ROYAL GRAND,Onion Uthappam,,140,,,,5,0,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,2,14
+THE ROYAL GRAND,Kal Dosa,,150,,,,5,0,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,3,14
+THE ROYAL GRAND,Chicken Kari Dosa,,200,,,,5,0,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,4,14
+THE ROYAL GRAND,Mutton Kari Dosa,,220,,,,5,0,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,5,14
+THE ROYAL GRAND,Veg Kothu Parotta,,220,,,,5,0,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,1,15
+THE ROYAL GRAND,Egg Kothu Parotta,,240,,,,5,0,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,2,15
+THE ROYAL GRAND,Chicken Kothu Parotta,,260,,,,5,0,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,3,15
+THE ROYAL GRAND,Mutton Kothu Parotta,,280,,,,5,0,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dinner Items,,0,,4,15
+THE ROYAL GRAND,Carrot Halwa,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,5,15
+THE ROYAL GRAND,Gulab Jamun,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,6,15
+THE ROYAL GRAND,Fruit Salt,,150,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,1,16
+THE ROYAL GRAND,Chappthi (1 No),,100,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,2,16
+THE ROYAL GRAND,Phulka( 4 Nos),,140,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,3,16
+THE ROYAL GRAND,Plain Naan,,100,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,4,16
+THE ROYAL GRAND,Tandoori Roti,,100,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,5,16
+THE ROYAL GRAND,Plain Kulcha,,100,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,6,16
+THE ROYAL GRAND,Butter Naan,,110,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,1,17
+THE ROYAL GRAND,Butter Roti,,110,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,1,18
+THE ROYAL GRAND,Butter Kulcha,,110,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,2,18
+THE ROYAL GRAND,Garlic Naan,,110,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,3,18
+THE ROYAL GRAND,Cheese Naan,,110,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Choice Of Breads,,0,,4,18
+THE ROYAL GRAND,Veg Pulao,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,18
+THE ROYAL GRAND,Peas Pulao,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,1,19
+THE ROYAL GRAND,Jeera Pulao,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,2,19
+THE ROYAL GRAND,Panner Pulao,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,3,19
+THE ROYAL GRAND,Mushroom Pulao,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,4,19
+THE ROYAL GRAND,Veg Fried Rice,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Schezwan Veg Fried Rice,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Veg Chily Garlic Fird Rice,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Mushroom Fried Rice,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Mushroom Schezwan Fried Rice,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Panner Fried Rice,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Panner Schezwan Fried Rice,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Veg Noodles,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Schezwan Veg Noodles,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Veg Chily Garlic Noodles,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Mushroom Noodles,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Mushroom Schezwan Noodles,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Panner Noodles,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Rice & Nooldes,,0,,5,19
+THE ROYAL GRAND,Prawn Biriyani,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Royal Special Biriyani,,0,,5,19
+THE ROYAL GRAND,Mutton Biriyani,,320,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Royal Special Biriyani,,0,,5,19
+THE ROYAL GRAND,NattuKozhi Biriyani,,300,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Royal Special Biriyani,,0,,5,19
+THE ROYAL GRAND,Chicken Biriyani,,260,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Royal Special Biriyani,,0,,5,19
+THE ROYAL GRAND,Egg Biriyani,,230,,,,5,0,Non Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Royal Special Biriyani,,0,,5,19
+THE ROYAL GRAND,Panner Biriyani,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Royal Special Biriyani,,0,,5,19
+THE ROYAL GRAND,Mushroom Biriyani,,230,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Royal Special Biriyani,,0,,5,19
+THE ROYAL GRAND,Vegtable Biriyani,,210,,,,5,0,Veg,12:00PM,03:00PM,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Royal Special Biriyani,,0,,5,19

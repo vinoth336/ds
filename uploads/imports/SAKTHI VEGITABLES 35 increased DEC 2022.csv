@@ -1,0 +1,56 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SAKTHI VEGETABLES,Ooty Potato 1/4 Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,1
+SAKTHI VEGETABLES,Normal Potato  1/4 Kgs,,14,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,2
+SAKTHI VEGETABLES,Bark Him (Pattai Avarai) 1/4 Kgs,,27,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,3
+SAKTHI VEGETABLES,Chicken Him( Kozhi Avarai) 1/4Kgs,,34,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,4
+SAKTHI VEGETABLES,Capsicum 1/4 Kgs,,34,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,5
+SAKTHI VEGETABLES,Cluster Beans( Kothavarankai) 1/4 Kgs,,19,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,6
+SAKTHI VEGETABLES,Bottle Gourd( Surakai) 1/4 Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,7
+SAKTHI VEGETABLES,GreenChilly 1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,8
+SAKTHI VEGETABLES,Bitter Gourd( Bavarkai) 1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,9
+SAKTHI VEGETABLES,Ridge Gourd(Peerkangai)1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,10
+SAKTHI VEGETABLES,Snake Gourd(Pudalangai) 1/4Kgs,,14,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,11
+SAKTHI VEGETABLES,Water Pumpkin(Neer Busani) 1/2Kgs,,27,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,12
+SAKTHI VEGETABLES,Pumpkin(Parankigai) 1/2Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,13
+SAKTHI VEGETABLES,Drum Stick(Murungakai) 1 Pc,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,14
+SAKTHI VEGETABLES,Plantain(Valakai) 1 No,,14,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,15
+SAKTHI VEGETABLES,Kovakkay 1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,16
+SAKTHI VEGETABLES,Ladys Fingers(ventangai) 1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,17
+SAKTHI VEGETABLES,Chundaikay 1/4Kgs,,0,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Fresh Vegetables,,0,,1,18
+SAKTHI VEGETABLES,Beans 1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,19
+SAKTHI VEGETABLES,Tomato1/4Kgs,,14,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,20
+SAKTHI VEGETABLES,Plantain Flower(Valaipu) (small) ,,14,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,21
+SAKTHI VEGETABLES,Plantain Flower(valaipu) (Big) ,,27,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,22
+SAKTHI VEGETABLES,Green Kathirikai(Pachai Kathirikai) 1/4Kgs,,19,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,23
+SAKTHI VEGETABLES,Small Onion 1/4Kgs,,27,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,24
+SAKTHI VEGETABLES,Big Onion 1/4Kgs,,14,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,25
+SAKTHI VEGETABLES,Coconut 1 No,,27,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,26
+SAKTHI VEGETABLES,Mango 1/2Kgs,,41,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,27
+SAKTHI VEGETABLES,Radish(Mullanki) 1/4Kgs,,14,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,28
+SAKTHI VEGETABLES,Red Radish(Sivappu Mullanki) 1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,29
+SAKTHI VEGETABLES,Carrot 1/4Kgs,,27,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,30
+SAKTHI VEGETABLES,Beetroot 1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,31
+SAKTHI VEGETABLES,Sakkaravalli Kizhangu 1/4Kgs,,0,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Fresh Vegetables,,0,,1,32
+SAKTHI VEGETABLES,Maravalli Kizhangu 1/4Kgs,,0,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Fresh Vegetables,,0,,1,33
+SAKTHI VEGETABLES,Karuna Kizhangu 1/2Kgs,,34,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,34
+SAKTHI VEGETABLES,Cabage(Muttaikos)1/2Kgs,,41,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,35
+SAKTHI VEGETABLES,Cauliflower 1 no,,54,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,36
+SAKTHI VEGETABLES,Seppa Kizhangu 1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,37
+SAKTHI VEGETABLES,Senai Kizhangu 1/2Kgs,,27,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,38
+SAKTHI VEGETABLES,Kothamalli 1 Kattu,,41,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,39
+SAKTHI VEGETABLES,Karuvai Pillai 1 Kattu,,41,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,40
+SAKTHI VEGETABLES,Garlic (Old) 1/4Kgs,,34,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,41
+SAKTHI VEGETABLES,Garlic(new) 100 Grams,,14,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,42
+SAKTHI VEGETABLES,Mushroom ( 1 Pkt),,68,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,43
+SAKTHI VEGETABLES,Green Beans(Pachai Pattani) 1/4Kgs,,34,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,44
+SAKTHI VEGETABLES,Puthina 1 Kattu,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,45
+SAKTHI VEGETABLES,Kathirikai 1/4Kgs,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,46
+SAKTHI VEGETABLES,Uritha Garlic 1/4Kgs,,41,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,47
+SAKTHI VEGETABLES,Baji Milagai 1/4Kgs,,34,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,48
+SAKTHI VEGETABLES,Cucumber 1Kgs,,61,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,49
+SAKTHI VEGETABLES,Nookuls 1/4Kgs,,0,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Fresh Vegetables,,0,,1,50
+SAKTHI VEGETABLES,Mochai Vithai 1/4Kgs,,0,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Fresh Vegetables,,0,,1,51
+SAKTHI VEGETABLES,Banglore Tomato 1/2Kgs,,0,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Fresh Vegetables,,0,,1,52
+SAKTHI VEGETABLES,Lemon 1 No,,7,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,53
+SAKTHI VEGETABLES,Ginger New 1/4 Kg,,20,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,54
+SAKTHI VEGETABLES,Ginger Old 1/4 Kg,,27,,,,0,Veg,07:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Vegetables,,0,,1,55

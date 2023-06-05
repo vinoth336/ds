@@ -1,0 +1,33 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SOTHU VANDI,Chicken Biriyani,,100,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+SOTHU VANDI,Plain Biriyani,,90,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
+SOTHU VANDI,Kari Dosai,,90,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,2,1
+SOTHU VANDI,Egg Dosai,,60,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,2,2
+SOTHU VANDI,Chicken 65 ,,60,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,1
+SOTHU VANDI,Chilli Chicken Gravy,,120,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,2
+SOTHU VANDI,Chicken Manchurian,,120,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,3
+SOTHU VANDI,Pepper Chicken ,,120,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,4
+SOTHU VANDI,Dragon Chicken,,110,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,5
+SOTHU VANDI,Lemon Chicken,,120,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,6
+SOTHU VANDI,Chicken Lollipop 2 Pcs,,90,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,7
+SOTHU VANDI,Egg Podimass,,70,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,8
+SOTHU VANDI,Regular Shawarma Roll,,90,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,1
+SOTHU VANDI,Regular Shawarma Plate,,120,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,2
+SOTHU VANDI,Morratu Single Shawarma Roll,,100,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,3
+SOTHU VANDI,Morattu Single Shawarma Plate ,,130,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,4
+SOTHU VANDI,Butter Shawarma Roll,,100,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,5
+SOTHU VANDI,Butter Shawarma Plate,,130,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,4,6
+SOTHU VANDI,BBQ Chicken Half ,,220,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,5,1
+SOTHU VANDI,BBQ Chicken Full ,,400,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,5,2
+SOTHU VANDI,Veg Fried Rice,,90,,,,0,Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,1
+SOTHU VANDI,Paneer Fried Rice,,100,,,,0,Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,2
+SOTHU VANDI,Mushroom Fried Rice,,100,,,,0,Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,3
+SOTHU VANDI,Chicken Fried Rice ,,100,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,4
+SOTHU VANDI,Schezwan Chicken Fried Rice ,,110,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,5
+SOTHU VANDI,Egg Fried Rice ,,90,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,6
+SOTHU VANDI,Veg Noodles,,90,,,,0,Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,7
+SOTHU VANDI,Paneer Noodles,,100,,,,0,Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,8
+SOTHU VANDI,Mushroom Noodles,,100,,,,0,Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,9
+SOTHU VANDI,Chicken Noodles,,100,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,10
+SOTHU VANDI,Schezwan Chicken Noodles,,110,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,11
+SOTHU VANDI,Egg Noodles,,90,,,,0,Non Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,12

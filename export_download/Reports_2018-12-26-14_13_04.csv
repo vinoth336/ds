@@ -1,0 +1,8 @@
+S.No,"Order Id","Res Name","Boy Name","Item Total","Offer Price","Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
+1,RPT127924,"DARLING NAMMA VEEDU - WALAJA","PRAKASH RPT",861,0,24,30,915,"12/23/2018 13:44:36",cash,cod,"Order Finished","1xSweet Corn Chicken Soup-126,2xChicken Biriyani-168,1xMutton Biriyani-189,1xChicken Kebab-210"
+2,RPT127773,"DARLING NAMMA VEEDU - WALAJA","PRAKASH RPT",1187,0,75,50,1312,"12/22/2018 12:30:02",cash,cod,"Order Finished","1xTandoori Chicken (Half)-242,5xMutton Biriyani-189"
+3,RPT127388,"DARLING NAMMA VEEDU - WALAJA","M SARAVANAN RPT",207,0,24,0,231,"12/18/2018 19:43:48",cash,cod,"Order Finished","3xBun Parotta-69"
+4,RPT127163,"DARLING NAMMA VEEDU - WALAJA","GOWTHAM RPT",391,0,24,0,415,"12/16/2018 19:24:32",Wallet,ccavenue,"Order Finished","1xKal Dosai With Mutton Chettinadu-195,1xIdly (2 Nos)-48,2xKal Dosai-74"
+5,RPT126894,"DARLING NAMMA VEEDU - WALAJA","M SARAVANAN RPT",442,0,24,0,466,"12/14/2018 19:51:29",cash,cod,"Order Finished","1xChilly Fish-268,1xChicken Fried Rice-174"
+6,RPT126712,"DARLING NAMMA VEEDU - WALAJA","M SARAVANAN RPT",837,0,48,0,885,"12/13/2018 13:22:23",cash,cod,"Order Finished","1xMutton Biriyani-189,3xHot Fudge & Nuts Sundae-158,1xGobi Manchurian Dry-174"
+7,RPT126709,"DARLING NAMMA VEEDU - WALAJA","PRAKASH RPT",1257,0,94,0,1351,"12/13/2018 13:09:59","Credit Card",ccavenue,"Order Finished","1xFish Tikka-279,1xChicken Thokku-210,1xFish Finger-315,1xMutton Biriyani-189,1xNon Veg Meals-153,1xFalooda (Mini)-111"

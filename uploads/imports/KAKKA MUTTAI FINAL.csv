@@ -1,0 +1,182 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KAKKA MUTTAI ,Veg Delight Pizza (Personal),"Cheese, Onion, Capsicum,Tomato, Green Chilly, Olives",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,1
+KAKKA MUTTAI ,Chilly Cheese Pizza (Personal),"Cheese, Onion, Bell Pepper, Tomato, Green Chilly,Olives",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,2
+KAKKA MUTTAI ,Chef Special Pizza (Personal),"Cheese, Onion, Tomato, Green Chilly,Corn,Fried Panner",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,2
+KAKKA MUTTAI ,Spicy Pasta Pizza (Personal),"Cheese, Onion, Tomato, Green Chilly,Corn,Spicy Pasta",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,2
+KAKKA MUTTAI ,Spicy Panner Pizza (Personal),"Cheese, Panner, Green Chilly, Onion",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,3
+KAKKA MUTTAI ,Roasted Mushroom Pizza (Personal),"Cheese, Over Roasted Mushroom, Onion Capsicum, Olives, Corn",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,4
+KAKKA MUTTAI ,Veg Lover Pizza (Personal),"Onion, Tomatoi, Green Pepper, Mushroom Corn, Olives",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,5
+KAKKA MUTTAI ,Fried Mushroom Pizza (Personal),"Cheese, Onion, Capsicum, Corn, Fried Mushroom",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,6
+KAKKA MUTTAI ,Royal Veg Pizza (Personal),"Cheese, Onion, Tomato, Mushroom",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,7
+KAKKA MUTTAI ,Panner Tikka Pizza (Personal),"Cheese,Onion, Tomato, Capsicum, Panner Tikka",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,8
+KAKKA MUTTAI ,Bbq Veg Pizza (Personal),"Onion, Tomato, Green Pepper, Corn",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,9
+KAKKA MUTTAI ,Gourmet Veg Pizza (Personal),"Cheese, Onion, Tomato, Corn, Capsicum",290,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,10
+KAKKA MUTTAI ,Veg Delight Pizza (Medium),"Cheese, Onion, Capsicum,Tomato, Green Chilly, Olives",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,11
+KAKKA MUTTAI ,Chilly Cheese Pizza (Medium),"Cheese, Onion, Bell Pepper, Tomato, Green Chilly,Olives",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,12
+KAKKA MUTTAI ,Chef Special Pizza (Medium),"Cheese, Onion, Tomato, Green Chilly,Corn,Fried Panner",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,2
+KAKKA MUTTAI ,Spicy Pasta Pizza(Medium),"Cheese, Onion, Tomato, Green Chilly,Corn,Spicy Pasta",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,2
+KAKKA MUTTAI ,Spicy Panner Pizza (Medium),"Cheese, Panner, Green Chilly, Onion",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,13
+KAKKA MUTTAI ,Roasted Mushroom Pizza (Medium),"Cheese, Over Roasted Mushroom, Onion Capsicum, Olives, Corn",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,14
+KAKKA MUTTAI ,Veg Lover Pizza (Medium),"Onion, Tomatoi, Green Pepper, Mushroom Corn, Olives",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,15
+KAKKA MUTTAI ,Fried Mushroom Pizza (Medium),"Cheese, Onion, Capsicum, Corn, Fried Mushroom",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,16
+KAKKA MUTTAI ,Royal Veg Pizza (Medium),"Cheese, Onion, Tomato, Mushroom",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,17
+KAKKA MUTTAI ,Panner Tikka Pizza (Medium),"Cheese,Onion, Tomato, Capsicum, Panner Tikka",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,18
+KAKKA MUTTAI ,Bbq Veg Pizza (Medium),"Onion, Tomato, Green Pepper, Corn",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,19
+KAKKA MUTTAI ,Gourmet Veg Pizza (Medium),"Cheese, Onion, Tomato, Corn, Capsicum",310,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,20
+KAKKA MUTTAI ,Veg Delight Pizza (Large),"Cheese, Onion, Capsicum,Tomato, Green Chilly, Olives",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,21
+KAKKA MUTTAI ,Chilly Cheese Pizza (Large),"Cheese, Onion, Bell Pepper, Tomato, Green Chilly,Olives",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,22
+KAKKA MUTTAI ,Chef Special Pizza (Large),"Cheese, Onion, Tomato, Green Chilly,Corn,Fried Panner",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,2
+KAKKA MUTTAI ,Spicy Pasta Pizza (large),"Cheese, Onion, Tomato, Green Chilly,Corn,Spicy Pasta",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,2
+KAKKA MUTTAI ,Spicy Panner Pizza (Large),"Cheese, Panner, Green Chilly, Onion",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,23
+KAKKA MUTTAI ,Roasted Mushroom Pizza (Large),"Cheese, Over Roasted Mushroom, Onion Capsicum, Olives, Corn",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,24
+KAKKA MUTTAI ,Veg Lover Pizza (Large),"Onion, Tomatoi, Green Pepper, Mushroom Corn, Olives",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,25
+KAKKA MUTTAI ,Fried Mushroom Pizza (Large),"Cheese, Onion, Capsicum, Corn, Fried Mushroom",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,26
+KAKKA MUTTAI ,Royal Veg Pizza (Large),"Cheese, Onion, Tomato, Mushroom",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,27
+KAKKA MUTTAI ,Panner Tikka Pizza (Large),"Cheese,Onion, Tomato, Capsicum, Panner Tikka",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,28
+KAKKA MUTTAI ,Bbq  Veg Pizza (Large),"Onion, Tomato, Green Pepper, Corn",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,29
+KAKKA MUTTAI ,Gourmet Veg Pizza (Large),"Cheese, Onion, Tomato, Corn, Capsicum",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Pizzas,,0,,3,30
+KAKKA MUTTAI ,Roasted Chicken Pizza (Personal),"Cheese, Onion, Capsicum, Green Chilly, Olives Roosted Chicken",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,1
+KAKKA MUTTAI ,Bbq Chicken Pizza (Personal),"Bbq Chicken, Onion, Tomato, Bell, Pepper, Olives",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,2
+KAKKA MUTTAI ,Chicken & Egg Pizza (Personal),"Cheese, Egg, Onion, Green Chilly",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,3
+KAKKA MUTTAI ,Grilled Chicken Sausage Pizza(Personal),"Cheese,Onion,Capsicum,Green Chilly,Corn,Grilled Saausage Chicken",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,2
+KAKKA MUTTAI ,Spicy Chicken Pasta Pizza(Personal),"Cheese, Onion, Tomato, Green Chilly,Corn,Spicy Chicken Pasta",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,3
+KAKKA MUTTAI ,Fried Chicken Pizza (Personal),"Cheese, Onion, Capsicum, Fried Chicken,Corn",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,4
+KAKKA MUTTAI ,Chilly Cheese Chicken Pizza (Personal),"Cheese, Onion,Green Chilly, Capsicum,Olives, Roosted Chicken",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,5
+KAKKA MUTTAI ,Majestic Chicken Pizza (Personal),"Cheese, Onion, Capsicum, Tomato, Corn, Roosted Chicken",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,6
+KAKKA MUTTAI ,Chicken Lover Pizza (Personal),"Chicken, Tikka, Roosted Chicken, Fried Chicken, Onion, Bell Pepper",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,7
+KAKKA MUTTAI ,Spicy Chicken Pizza (Personal),"Cheese, Onion, Green Chilly, Chicken",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,8
+KAKKA MUTTAI ,Supreme Chicken Pizza (Personal),"Cheese, Roosted Chicken, Corn Mushroom",320,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,9
+KAKKA MUTTAI ,Roasted Chicken Pizza (Medium),"Cheese, Onion, Capsicum, Green Chilly, Olives Roosted Chicken",340,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,10
+KAKKA MUTTAI ,Bbq Chicken Pizza (Medium),"Bbq . Chicken, Onion, Tomato, Bell, Pepper, Olives",340,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,11
+KAKKA MUTTAI ,Chicken & Egg Pizza (Medium),"Cheese, Egg, Onion, Green Chilly",340,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,12
+KAKKA MUTTAI ,Fried Chicken Pizza (Medium),"Cheese, Onion, Capsicum, Fried Chicken,Corn",340,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,13
+KAKKA MUTTAI ,Chilly Cheese Chicken Pizza (Medium),"Cheese, Onion,Green Chilly, Capsicum,Olives, Roosted Chicken",340,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,14
+KAKKA MUTTAI ,Majestic Chicken Pizza (Medium),"Cheese, Onion, Capsicum, Tomato, Corn, Roosted Chicken",340,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,15
+KAKKA MUTTAI ,Chicken Lover Pizza (Medium),"Chicken, Tikka, Roosted Chicken, Fried Chicken, Onion, Bell Pepper",340,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,16
+KAKKA MUTTAI ,Spicy Chicken Pizza (Medium),"Cheese, Onion, Green Chilly, Chicken",340,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,17
+KAKKA MUTTAI ,Supreme Chicken Pizza (Medium),"Cheese, Roosted Chicken, Corn Mushroom",340,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,18
+KAKKA MUTTAI ,Roasted Chicken Pizza (Large),"Cheese, Onion, Capsicum, Green Chilly, Olives Roosted Chicken",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,19
+KAKKA MUTTAI ,Grilled Chicken Sausage Pizza(large),"Cheese,Onion,Capsicum,Green Chilly,Corn,Grilled Saausage Chicken",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,2
+KAKKA MUTTAI ,Spicy Chicken Pasta Pizza(large),"Cheese, Onion, Tomato, Green Chilly,Corn,Spicy Chicken Pasta",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,3
+KAKKA MUTTAI ,Bbq Chicken Pizza (Large),"Bbq Chicken, Onion, Tomato, Bell, Pepper, Olives",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,20
+KAKKA MUTTAI ,Chicken & Egg Pizza (Large),"Cheese, Egg, Onion, Green Chilly",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,21
+KAKKA MUTTAI ,Fried Chicken Pizza (Large),"Cheese, Onion, Capsicum, Fried Chicken,Corn",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,22
+KAKKA MUTTAI ,Chilly Cheese Chicken Pizza (Large),"Cheese, Onion,Green Chilly, Capsicum,Olives, Roosted Chicken",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,23
+KAKKA MUTTAI ,Majestic Chicken Pizza (Large),"Cheese, Onion, Capsicum, Tomato, Corn, Roosted Chicken",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,24
+KAKKA MUTTAI ,Chicken Lover Pizza (Large),"Chicken, Tikka, Roosted Chicken, Fried Chicken, Onion, Bell Pepper",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,25
+KAKKA MUTTAI ,Spicy Chicken Pizza (Large),"Cheese, Onion, Green Chilly, Chicken",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,26
+KAKKA MUTTAI ,Supreme Chicken Pizza (Large),"Cheese, Roosted Chicken, Corn Mushroom",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,27
+KAKKA MUTTAI ,Chicken Tikka Pizza(large),"Cheese,Onion,Green Chilly,Chicken Tikka,Capsicum,Tomato",360,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,27
+KAKKA MUTTAI ,Extra Cheese (Personal),For Pizzas Only,40,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,1
+KAKKA MUTTAI ,Extra Cheese (Medium),For Pizzas Only,50,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,2
+KAKKA MUTTAI ,Extra Cheese (Large),For Pizzas Only,60,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,3
+KAKKA MUTTAI ,Extra Toppings Veg (Personal),For Pizzas Only,30,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,4
+KAKKA MUTTAI ,Extra Toppings Veg (Medium),For Pizzas Only,40,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,5
+KAKKA MUTTAI ,Extra Toppings Veg (Large),For Pizzas Only,50,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,6
+KAKKA MUTTAI ,Extra Toppings Non Veg (Personal),For Pizzas Only,40,,,,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,7
+KAKKA MUTTAI ,Extra Toppings Non Veg (Medium),For Pizzas Only,50,,,,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,8
+KAKKA MUTTAI ,Extra Toppings Non Veg (Large),For Pizzas Only,60,,,,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,9
+KAKKA MUTTAI ,Add Cheese,For Burgers And Sandwiches Only,30,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,10
+KAKKA MUTTAI ,Veg Clear Soup,,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+KAKKA MUTTAI ,Hot & Sour Veg Soup,,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+KAKKA MUTTAI ,Egg Drop Soup,,80,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+KAKKA MUTTAI ,Veg Manchow Soup,,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+KAKKA MUTTAI ,Chicken Hot & Sour Soup,,80,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+KAKKA MUTTAI ,Chicken Egg Drop Soup,,80,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+KAKKA MUTTAI ,Chicken Manchow Soup,,80,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+KAKKA MUTTAI ,Chicken Noodles Soup,,80,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+KAKKA MUTTAI ,Chicken Sausage Soup,,100,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+KAKKA MUTTAI ,Garlic Mushroom,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,1
+KAKKA MUTTAI ,Pepper Mushroom,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,2
+KAKKA MUTTAI ,Mushroom 65,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,3
+KAKKA MUTTAI ,Mushroom Manchurian,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,4
+KAKKA MUTTAI ,Schezwan Mushroom,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,5
+KAKKA MUTTAI ,Garlic Cauliflower,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,6
+KAKKA MUTTAI ,Pepper Cauliflower,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,7
+KAKKA MUTTAI ,Cauliflower 65,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,8
+KAKKA MUTTAI ,Cauliflower Manchurian,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,9
+KAKKA MUTTAI ,Schezwan Cauliflower,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,10
+KAKKA MUTTAI ,Chilli Mushroom,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,11
+KAKKA MUTTAI ,Chilli Gobi,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,12
+KAKKA MUTTAI ,Veg Nuggets,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Veg,,0,,2,12
+KAKKA MUTTAI ,Garlic Chicken,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,13
+KAKKA MUTTAI ,Pepper Chicken,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,14
+KAKKA MUTTAI ,Chicken 65,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,15
+KAKKA MUTTAI ,Chicken Manchurian,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,16
+KAKKA MUTTAI ,Chicken Schezwan,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,17
+KAKKA MUTTAI ,Chilli Chicken,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,18
+KAKKA MUTTAI ,Chicken Nuggets,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,19
+KAKKA MUTTAI ,Chicken Lollypop,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,20
+KAKKA MUTTAI ,Deviled Chicken,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,18
+KAKKA MUTTAI ,BBQ Chicken Wings,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,19
+KAKKA MUTTAI ,Dragan Chicken ,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,20
+KAKKA MUTTAI ,KFC Chicken ,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Special Non Veg,,0,,2,20
+KAKKA MUTTAI ,Garlic Veg Fried Rice,,100,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,6,1
+KAKKA MUTTAI ,Veg Fried Rice,,90,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,6,2
+KAKKA MUTTAI ,Cauliflower 65 Fried Rice,,100,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,6,3
+KAKKA MUTTAI ,Cauliflower 65 Schezwan Fried Rice,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,6,4
+KAKKA MUTTAI ,Mushroom 65 Fried Rice,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,6,5
+KAKKA MUTTAI ,Veg Schezwan Fried Rice,,100,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,6,6
+KAKKA MUTTAI ,Mushroom 65 Schezwan Fried Rice,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,6,7
+KAKKA MUTTAI ,Garlic Chicken Fried Rice,,110,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,8
+KAKKA MUTTAI ,Egg Fried Rice,,110,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,9
+KAKKA MUTTAI ,Schezwan Egg Fried Rice,,110,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,10
+KAKKA MUTTAI ,Chicken Fried Rice,,110,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,11
+KAKKA MUTTAI ,Schezwan Chicken Fried Rice,,120,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,12
+KAKKA MUTTAI ,Chicken 65 Fried Rice,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,13
+KAKKA MUTTAI ,Schezwan Chicken 65 Fried Rice,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,14
+KAKKA MUTTAI ,Chicken Tikka Rice,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,15
+KAKKA MUTTAI ,Grilled Chicken Sausage Fried Rice,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,14
+KAKKA MUTTAI ,Schezwan Grilled Chicken Sausage,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,15
+KAKKA MUTTAI ,Veg Noodles,,100,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,7,1
+KAKKA MUTTAI ,Veg Schezwan Noodles,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,7,2
+KAKKA MUTTAI ,Mushroom 65 Noodles,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,7,1
+KAKKA MUTTAI ,Schzwan Mushroom 65 Noodles,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,7,2
+KAKKA MUTTAI ,Cauliflower 65 Noodles,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,7,1
+KAKKA MUTTAI ,Schzwan Cauliflower 65 Noodles,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,7,2
+KAKKA MUTTAI ,Panner 65 Noodles,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,7,1
+KAKKA MUTTAI ,Schezwwan Panner 65 Noodles,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,7,2
+KAKKA MUTTAI ,Egg Noodles,,110,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,7,3
+KAKKA MUTTAI ,Schezwan Egg Noodles,,120,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,7,4
+KAKKA MUTTAI ,Chicken Noodles,,120,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,7,5
+KAKKA MUTTAI ,Schezwan Chicken Noodles,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,7,6
+KAKKA MUTTAI ,Chicken 65 Noodles,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,7,2
+KAKKA MUTTAI ,Schezwan Chicken 65 Noodles,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,7,3
+KAKKA MUTTAI ,Chicken Sausage Noodles,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,7,4
+KAKKA MUTTAI ,Schezwan Chicken Sausage,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,7,5
+KAKKA MUTTAI ,,,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Noodles,,0,,7,6
+KAKKA MUTTAI ,French Fries,,100,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,5,1
+KAKKA MUTTAI ,Masala French Fries,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,5,2
+KAKKA MUTTAI ,Chilli Fries,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,5,2
+KAKKA MUTTAI ,Omlette,,50,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,5,3
+KAKKA MUTTAI ,Egg Poriyal,,50,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,5,4
+KAKKA MUTTAI ,Fried Ice Cream,,90,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,1
+KAKKA MUTTAI ,Vanilla Ice Cream With Chocolate Syrup & Nuts,,90,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,2
+KAKKA MUTTAI ,Strawberry Ice Cream With Waffers,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,3
+KAKKA MUTTAI ,Butter Scotch,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,4
+KAKKA MUTTAI ,Black Currant Ice Cream,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,4
+KAKKA MUTTAI ,Vanilla Milk Shake,,100,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,11,1
+KAKKA MUTTAI ,Chocolate Milk Shake,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,11,2
+KAKKA MUTTAI ,Strawberry Milk Shake,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,11,3
+KAKKA MUTTAI ,Green Apple Milk Shake,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,11,4
+KAKKA MUTTAI ,Chocolate Chip Cookie Milk Shake,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,11,5
+KAKKA MUTTAI ,Butter Scotch Milk Shake,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,11,6
+KAKKA MUTTAI ,Lime Juice,,50,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,11,7
+KAKKA MUTTAI ,Spicy Veg Pasta,"(TOMATO SAUCE)Chop Garlic, Chilly, Corn, Onion, Tomato, Capsicum",170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,11,2
+KAKKA MUTTAI ,Creamy Veg Pasta,"(CREAM SAUCE)  Onion, Mushroom, Corn, Panner",170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,11,3
+KAKKA MUTTAI ,Creamy and Tomoto Veg Pasta,"(PINK SAUCE) Onion, Green Peas, Garlic, Corn, Capsium",170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,11,4
+KAKKA MUTTAI ,Spicy Chicken Pasta,"(TOMATO SAUCE) Chicken,  Garlic, Chilly, Corn, Onion, Capsicum",195,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,11,5
+KAKKA MUTTAI ,Creamy Chicken Pasta,"(CREAM SAUCE)  Chicken, Onion, Mushroom, Corn, Green Peas)",195,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,11,6
+KAKKA MUTTAI ,Creamy and Tomoto Chicken Pasta,"(PINK SAUCE) Chicken, Onion, Green Peas, Garlic, Corn, Capsium",195,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,11,7
+KAKKA MUTTAI ,French Fries + Chicken Burger + Coke,,220,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Combo,,1,,11,2
+KAKKA MUTTAI ,Chicken Fried Rice + Chicken Lilipop + Butter Scotch Milk Shake,,300,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Combo,,1,,11,3
+KAKKA MUTTAI ,Chicken Pizza large + Chcicken Burger +Venilla Milk Shake,,475,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Combo,,1,,11,4
+KAKKA MUTTAI ,Veg Burger + French Fries + Coke,,210,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Combo,,1,,11,5
+KAKKA MUTTAI ,Veg Pizza + French Fries + Milk Shake,,410,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Combo,,1,,11,6
+KAKKA MUTTAI ,Veg Rice + Mushroom Manjuriyan+Veg Nuggets + Venilla Milk Shake,,310,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Combo,,1,,11,7
+KAKKA MUTTAI ,Crispy Fried Chicken Burger,,145,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,1,,11,7
+KAKKA MUTTAI ,Veg Burger,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,1,,11,7
+KAKKA MUTTAI ,Chicken Burger,,145,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,1,,11,7
+KAKKA MUTTAI ,Crispy Fried Chicken Sandwich,,140,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,1,,11,7
+KAKKA MUTTAI ,Veg Sandwich,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,1,,11,7
+KAKKA MUTTAI ,Fried Chicken Sandwich,,140,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,1,,11,7

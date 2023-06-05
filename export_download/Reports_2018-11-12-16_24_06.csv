@@ -1,0 +1,8 @@
+"Order Id","Cust Id","Cust Name","Boy Name","Cust Phone","Res Name","Item Total","Offer Price","Delivery Charge","Packaging Charge","Grand Total","Date and Time","Order details",MOP,"Delivery Type",status,"Cust Address"
+VLR122035,60002416,"Rohan Kamath ",Saravanan,8610220592,"HART LOUNGE",130,0,25,9,164,2018-11-11,,cash,cod,"Order Finished","Vaibhav Nagar Phase 1 Rd, Vaibhav Nagar, Katpadi, Vellore, Tamil Nadu 632014, India"
+VLR122025,60000631,"Kshitij Bahl",Saravanan,8508203932,"DOWN UNDER BY HERITAGE",344,0,25,15,384,2018-11-11,,cash,cod,"Order Finished","VIT Main Rd, Vaibhav Nagar, Katpadi, Vellore, Tamil Nadu 632014, India"
+VLR122024,60000130,"R Arunkumar ",Saravanan,9894722257,"CURRY IDLY",130,0,25,10,165,2018-11-11,,paytm,cod,"Order Finished","Kofi Annan Rd, VIT University, Vellore, Tamil Nadu 632014, India"
+VLR121979,60003677,"Jerin ",Saravanan,9446567162,"HART LOUNGE",140,0,60,10,210,2018-11-11,,cash,cod,"Order Finished","32 munirathinagoundar nagar,tncsc road,palavansathu kuppam, Vellore, Tamil Nadu 632002, India"
+VLR121974,60000352,"Divya ",Saravanan,9786522555,"THE CHOCOLATE ROOM",521.85,0,60,15,597,2018-11-11,,Wallet,ccavenue,"Order Finished","Tamil Nadu, India"
+VLR121929,60002439,ratnanjali,Saravanan,8958558673,"GYAN VAISHNAV DHABA",256.2,0,10,15,281,2018-11-11,,Wallet,ccavenue,"Order Finished","Manika Mudali St, TPK NAGAR, Thottapalayam, Vellore, Tamil Nadu 632004, India"
+VLR121925,60003649,Ram,Saravanan,9841560994,"LALIT VIHAR",665,0,10,30,705,2018-11-11,,cash,cod,"Order Finished","No.145, Green Circle, New By-pass Rd, Tamil Nadu 632004, India"

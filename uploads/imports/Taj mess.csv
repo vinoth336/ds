@@ -1,0 +1,102 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+TAJ MESS,Veg Fried Rice,,80,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+TAJ MESS,Chicken Fried Rice,,100,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,2
+TAJ MESS,Egg Fried Rice,,80,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,3
+TAJ MESS,Prawn Fried Rice,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,4
+TAJ MESS,Mixed Non Veg Rice,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,5
+TAJ MESS,Chicken Scheawan Fried Rice,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,7
+TAJ MESS,Prawn Scheawan Fried Rice,,140,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,8
+TAJ MESS,Veg Noodles,,80,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,9
+TAJ MESS,Chicken Noodles,,100,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,10
+TAJ MESS,Egg Noodles,,80,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,11
+TAJ MESS,Prawn Noodles,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,13
+TAJ MESS,Mixed NonVeg Noodles,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,14
+TAJ MESS,Chicken Scheawan Noodles,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,16
+TAJ MESS,Prawn Scheawan Noodles,,140,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,1
+TAJ MESS,Idly Set,,20,,,,0,Veg,,,7.30am,9.30am,,,7.30pm,9.30pm,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,2
+TAJ MESS,Plain Dosa,,25,,,,0,Veg,,,7.30am,9.30am,,,7.30pm,9.30pm,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,3
+TAJ MESS,Roast,,40,,,,0,Veg,,,7.30am,9.30am,,,7.30pm,9.30pm,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,4
+TAJ MESS,Rava Roast,,50,,,,0,Veg,,,7.30am,9.30am,,,7.30pm,9.30pm,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,5
+TAJ MESS,Ghee Roast,,50,,,,0,Veg,,,7.30am,9.30am,,,7.30pm,9.30pm,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,6
+TAJ MESS,Onion Roast,,50,,,,0,Veg,,,7.30am,9.30am,,,7.30pm,9.30pm,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,7
+TAJ MESS,Egg Roast,,50,,,,0,Non Veg,,,7.30am,9.30am,,,7.30pm,9.30pm,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,8
+TAJ MESS,Uthappam,,25,,,,0,Veg,,,7.30am,9.30am,,,7.30pm,9.30pm,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,9
+TAJ MESS,Pongal,,40,,,,0,Veg,,,7.30am,9.30am,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,10
+TAJ MESS,Poori Set,,40,,,,0,Veg,,,7.30am,9.30am,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+TAJ MESS,Chicken Briyani,,80,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,3,4
+TAJ MESS,Chicken 65 Briyani,,90,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,3,5
+TAJ MESS,Plain Briyani,,60,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,3,6
+TAJ MESS,Full Meals,,80,,,,0,Veg,11.00am,3.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,7
+TAJ MESS,Taj Special Meals,,90,,,,0,Non Veg,11.00am,3.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,8
+TAJ MESS,Curd Rice,,50,,,,0,Veg,11.00am,3.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,9
+TAJ MESS,Parotta,,15,,,,0,Veg,11.30am,9.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,2
+TAJ MESS,Chappathi Set,,40,,,,0,Veg,11.30am,9.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,3
+TAJ MESS,Tandoori Rotti,,25,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,10
+TAJ MESS,Plain Naan,,30,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,11
+TAJ MESS,Butter Naan,,40,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,12
+TAJ MESS,Garlic Naan,,40,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,13
+TAJ MESS,Plain Kulcha,,30,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,1
+TAJ MESS,Masala Kulcha,,40,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,2
+TAJ MESS,Tandoori Parotta,,40,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,4,3
+TAJ MESS,Veg Manchuriyan,,80,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Veg,,0,,5,1
+TAJ MESS,Chilli Vegetables,,80,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Veg,,0,,5,2
+TAJ MESS,Gobi Manchuriyan,,90,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Veg,,0,,5,4
+TAJ MESS,Mushroom Manchuriyan,,100,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Veg,,0,,5,5
+TAJ MESS,Panneer Manchuriyan,,110,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Veg,,0,,6,1
+TAJ MESS,Chilli Panneer,,110,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Veg,,0,,6,2
+TAJ MESS,Chilly Baby Corn,,100,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Veg,,0,,6,3
+TAJ MESS,Baby Corn Manchuriyan,,110,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Veg,,0,,6,4
+TAJ MESS,Chilli Mushroom,,100,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,6,5
+TAJ MESS,Chilli Chicken,,110,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,1
+TAJ MESS,Dragon Chicken,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,2
+TAJ MESS,Chicken Manchuriyan,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,3
+TAJ MESS,Garlic Chicken,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,4
+TAJ MESS,Ginger Chicken,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,5
+TAJ MESS,Schezwan Chicken,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,6
+TAJ MESS,Pepper Chicken,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,7
+TAJ MESS,Honey Chicken,,140,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,8
+TAJ MESS,Fish Manchuriyan,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,9
+TAJ MESS,Chilli Fish,,110,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,10
+TAJ MESS,Prawn Manchuriyan,,140,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,7,11
+TAJ MESS,Chilli Prawn,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Non veg,,0,,8,2
+TAJ MESS,Alu Gobi Masala,,90,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,8,3
+TAJ MESS,Panner Butter Masala,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,1
+TAJ MESS,Green Pees Masala,,80,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,2
+TAJ MESS,Veg Curry,,70,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,10,1
+TAJ MESS,Kadai Vegetables,,90,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,10,2
+TAJ MESS,Mushroom Masala,,100,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,10,3
+TAJ MESS,Baby Corn Masala,,100,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,10,4
+TAJ MESS,Panneer Tikka Masala,,140,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,10,5
+TAJ MESS,Butter Chicken Masala,,140,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,10,6
+TAJ MESS,Chicken Tikka Masala,,140,,,,0,Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,10,7
+TAJ MESS,Fish Masala,,140,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,11,1
+TAJ MESS,Chicken Masala,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,11,2
+TAJ MESS,Chettinadu Masala,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,11,4
+TAJ MESS,Andhra Masala,,120,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,11,5
+TAJ MESS,Prawn Masala,,150,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,11,6
+TAJ MESS,Kadai Prawn Masala,,170,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,11,7
+TAJ MESS,Pepper Prawn,,170,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,11,8
+TAJ MESS,Chicken Pepper Masala,,130,,,,0,Non Veg,11.00am,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Gravy,,0,,12,1
+TAJ MESS,Regular Shawarma,,70,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,12,2
+TAJ MESS,Special Shawarma,,90,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,12,3
+TAJ MESS,Tandoori Shawarma,,100,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,12,4
+TAJ MESS,BBQ Shawarma,,100,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,12,5
+TAJ MESS,Plate Shawarma,,110,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,12,6
+TAJ MESS,Special Plate Shawarma,,130,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,12,7
+TAJ MESS,Grill Chicken Full,,380,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Grill Chicken,,0,,12,8
+TAJ MESS,Grill Chicken Half,,190,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Grill Chicken,,0,,12,9
+TAJ MESS,Grill Chicken Quarter,,100,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Grill Chicken,,0,,12,10
+TAJ MESS,BBQ  Full,,380,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,13,1
+TAJ MESS,BBQ  Half,,190,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,13,2
+TAJ MESS,BBQ Quarter,,100,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,13,3
+TAJ MESS,Alfaham Full,,380,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Alfaham Chicken,,0,,13,4
+TAJ MESS,Alfaham Half,,190,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Alfaham Chicken,,0,,13,5
+TAJ MESS,Alfaham Quarter,,100,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Alfaham Chicken,,0,,14,1
+TAJ MESS,Tandoori Chicken Full,,380,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,14,2
+TAJ MESS,Tandoori Chicken Half,,190,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,14,3
+TAJ MESS,Tandoori Chicken Quarter,,100,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,14,4
+TAJ MESS,Tangri Kebab 3 Pcs,,180,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,14,5
+TAJ MESS,Chicken Tikka  6 Pcs,,120,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,14,6
+TAJ MESS,Malai Tikka 6 Pcs,,120,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,14,7
+TAJ MESS,Hariyali Tikka 6 Pcs,,120,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,15,1
+TAJ MESS,Reshmi Kebab 6 Pcs,,140,,,,0,Non Veg,6.00pm,11.00pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,15,2

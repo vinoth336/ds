@@ -1,0 +1,176 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+NAMMA OORU HOTEL,Tomato Soup,,90,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+NAMMA OORU HOTEL,Hot & Sour Soup,,100,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+NAMMA OORU HOTEL,Mushroom Soup,,110,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+NAMMA OORU HOTEL,Veg Manchow Soup,,100,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+NAMMA OORU HOTEL,Veg Clear Soup,,90,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+NAMMA OORU HOTEL,Sweet Corn Veg Soup,,100,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+NAMMA OORU HOTEL,Lung Fung Veg Soup,,100,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+NAMMA OORU HOTEL,Chicken Pepper Soup,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+NAMMA OORU HOTEL,Hot & Sour Chicken Soup,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,9
+NAMMA OORU HOTEL,Sweet Corn Chicken Soup,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,10
+NAMMA OORU HOTEL,Chicken Clear Soup,,100,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,11
+NAMMA OORU HOTEL,Nandu Pepper Soup,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,12
+NAMMA OORU HOTEL,Mutton Pepper Soup,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,13
+NAMMA OORU HOTEL,Mutton Liver Fry,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+NAMMA OORU HOTEL,Mutton Kidney Fry,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+NAMMA OORU HOTEL,Mutton Botti Fry,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+NAMMA OORU HOTEL,Mutton Pepper Fry,,225,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+NAMMA OORU HOTEL,Mutton Chukka,,225,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+NAMMA OORU HOTEL,Mutton Brain Fry,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+NAMMA OORU HOTEL,Chicken Leg Pepper Fry,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,7
+NAMMA OORU HOTEL,Chicken Chukka,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+NAMMA OORU HOTEL,Chicken Pepper Fry,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,9
+NAMMA OORU HOTEL,Chicken 65,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,10
+NAMMA OORU HOTEL,Chicken Lollipop,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,11
+NAMMA OORU HOTEL,Prawn Pepper Fry,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,12
+NAMMA OORU HOTEL,Prawn 65,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,13
+NAMMA OORU HOTEL,Garlic Chicken,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,14
+NAMMA OORU HOTEL,Ginger Chicken,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,15
+NAMMA OORU HOTEL,Chilly Chicken,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,16
+NAMMA OORU HOTEL,Chicken Manchurian,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,17
+NAMMA OORU HOTEL,Julienne Chicken,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,18
+NAMMA OORU HOTEL,Dragon Chicken,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,19
+NAMMA OORU HOTEL,Chinese Fried Chicken 1/2,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,20
+NAMMA OORU HOTEL,Shanghai Chicken,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,21
+NAMMA OORU HOTEL,Paneer Tikka,,190,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,22
+NAMMA OORU HOTEL,Paneer Finger,,190,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,23
+NAMMA OORU HOTEL,Chilly Paneer,,180,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,24
+NAMMA OORU HOTEL,Paneer 65,,180,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,25
+NAMMA OORU HOTEL,Mushroom Pepper Fry,,170,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,26
+NAMMA OORU HOTEL,Chilly Mashroom,,170,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,27
+NAMMA OORU HOTEL,Mushroom 65,,160,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,28
+NAMMA OORU HOTEL,Gobi Manchurian,,160,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,29
+NAMMA OORU HOTEL,Chilly Gobi,,150,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,30
+NAMMA OORU HOTEL,Gobi 65,,120,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,31
+NAMMA OORU HOTEL,Gobi Pepper Fry,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,32
+NAMMA OORU HOTEL,Prawn Butter Masala,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Specials,,0,,3,1
+NAMMA OORU HOTEL,Prawn Chettinadu,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Specials,,0,,3,2
+NAMMA OORU HOTEL,Prawn Pepper Masala,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Specials,,0,,3,3
+NAMMA OORU HOTEL,Prawn Masala,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Prawn Specials,,0,,3,4
+NAMMA OORU HOTEL,Chicken Rogan Josh,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,4,1
+NAMMA OORU HOTEL,Chicken Tikka Masala,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,4,2
+NAMMA OORU HOTEL,Kadai Chicken,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,4,3
+NAMMA OORU HOTEL,Chicken Pepper Masala,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,4,4
+NAMMA OORU HOTEL,Butter Chicken Masala,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,4,5
+NAMMA OORU HOTEL,Nattu Kozhi Masala,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Specials,,0,,4,6
+NAMMA OORU HOTEL,Madurai Fish Curry,,260,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,5,1
+NAMMA OORU HOTEL,Namma Orru Fish Curry,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,5,2
+NAMMA OORU HOTEL,Chettinadu Fish Curry,,250,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,5,3
+NAMMA OORU HOTEL,Kerala Fish Curry,,260,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,5,4
+NAMMA OORU HOTEL,Fish Podimas,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,5,5
+NAMMA OORU HOTEL,Fish Fry (Vanjeeram),,280,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,5,6
+NAMMA OORU HOTEL,Nethili 65,,160,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,5,7
+NAMMA OORU HOTEL,Fish Finger,,270,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,5,8
+NAMMA OORU HOTEL,Paneer Butter Masala,,170,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,1
+NAMMA OORU HOTEL,Kadai Paneer,,170,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,2
+NAMMA OORU HOTEL,Gobi Masala,,160,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,3
+NAMMA OORU HOTEL,Aloo Gobi Masala,,160,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,4
+NAMMA OORU HOTEL,Dal Fry,,140,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,5
+NAMMA OORU HOTEL,Dal Tadukka,,140,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,6
+NAMMA OORU HOTEL,Mex Veg Curry,,150,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,7
+NAMMA OORU HOTEL,Kadai Veg,,160,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,8
+NAMMA OORU HOTEL,Mutton Rogan Josh,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,9
+NAMMA OORU HOTEL,Mutton Chettinadu,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,10
+NAMMA OORU HOTEL,Mutton Pepper Masala,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,11
+NAMMA OORU HOTEL,Mutton Masala,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,12
+NAMMA OORU HOTEL,Egg Masala,,130,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,13
+NAMMA OORU HOTEL,Egg Curry,,130,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,14
+NAMMA OORU HOTEL,Prawn Thokku,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,15
+NAMMA OORU HOTEL,Mutton Kheema,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,16
+NAMMA OORU HOTEL,Kaadai Varuval,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,7,1
+NAMMA OORU HOTEL,Kaadai Pepper Fry,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,7,2
+NAMMA OORU HOTEL,Kaadai 65,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,7,3
+NAMMA OORU HOTEL,Tandoori Chicken (Full),,420,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,8,1
+NAMMA OORU HOTEL,Tandoori Chicken (Half),,220,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,8,2
+NAMMA OORU HOTEL,Tangri Kebab,,240,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,8,3
+NAMMA OORU HOTEL,Chicken Tikka,,220,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,8,4
+NAMMA OORU HOTEL,Fish Tikka,,260,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,8,5
+NAMMA OORU HOTEL,Mutton Briyani,,175,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,1
+NAMMA OORU HOTEL,Chicken Briyani,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,2
+NAMMA OORU HOTEL,Non Veg Meals,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,3
+NAMMA OORU HOTEL,Veg Meals,,110,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,4
+NAMMA OORU HOTEL,Plain Naan,,40,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,5
+NAMMA OORU HOTEL,Plain Roti,,40,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,6
+NAMMA OORU HOTEL,Tandoori Paratha,,70,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,7
+NAMMA OORU HOTEL,Pulka (2 Nos),,40,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,8
+NAMMA OORU HOTEL,Chicken Keema Naan,,100,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,9
+NAMMA OORU HOTEL,Mutton Keema Naan,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,10
+NAMMA OORU HOTEL,Stuffed Naan,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,11
+NAMMA OORU HOTEL,Stuffed Paratha,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,12
+NAMMA OORU HOTEL,Garlic Roti,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,13
+NAMMA OORU HOTEL,Garlic Naan,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,14
+NAMMA OORU HOTEL,Plain Kulcha,,70,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,15
+NAMMA OORU HOTEL,Stuffed Kulcha,,70,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch Items,,0,,9,16
+NAMMA OORU HOTEL,Mutton Fried Rice,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,1
+NAMMA OORU HOTEL,Chicken Fried Rice,,160,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,2
+NAMMA OORU HOTEL,Egg Fried Rice,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,3
+NAMMA OORU HOTEL,Mix Non Veg Fried Rice,,200,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,4
+NAMMA OORU HOTEL,Veg Fried Rice,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,5
+NAMMA OORU HOTEL,Mix Veg Fried Rice,,140,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,6
+NAMMA OORU HOTEL,Mutton Noodles,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,1
+NAMMA OORU HOTEL,Chicken Noodles,,160,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,2
+NAMMA OORU HOTEL,Egg Noodles,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,3
+NAMMA OORU HOTEL,Mix Non Veg Noodles,,200,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,4
+NAMMA OORU HOTEL,Veg Noodles,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,5
+NAMMA OORU HOTEL,Mix Veg Noodles,,140,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,6
+NAMMA OORU HOTEL,Chilly Egg,,130,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Starters,,0,,12,1
+NAMMA OORU HOTEL,Egg Pepper Fry,,120,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Starters,,0,,12,2
+NAMMA OORU HOTEL,Egg Bhurji,,70,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Starters,,0,,12,3
+NAMMA OORU HOTEL,Masala Omlet,,70,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Starters,,0,,12,4
+NAMMA OORU HOTEL,Kalaki,,40,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Starters,,0,,12,5
+NAMMA OORU HOTEL,Idly With Fish Curry,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,1
+NAMMA OORU HOTEL,Idiyappam With Mutton Paaya,,210,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,2
+NAMMA OORU HOTEL,Appam With Mutton Paaya,,185,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,3
+NAMMA OORU HOTEL,Parotta With Mutton Paaya,,220,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,4
+NAMMA OORU HOTEL,Parotta With Mutton Curry And Chettinad,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,5
+NAMMA OORU HOTEL,Parotta With Chicken Curry And Chettinad,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,6
+NAMMA OORU HOTEL,Kal Dosa With Chicken Chettinad,,160,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,7
+NAMMA OORU HOTEL,Kal Dosa With Mutton Chettinad,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,8
+NAMMA OORU HOTEL,Kal Dosa With Prawn Chettinad,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,9
+NAMMA OORU HOTEL,Kal Dosa With Fish Curry,,190,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner Combos,,0,,13,10
+NAMMA OORU HOTEL,Prawn Masala Dosa,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,1
+NAMMA OORU HOTEL,Mutton Keema Dosa,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,2
+NAMMA OORU HOTEL,Chicken  Keema Dosa,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,3
+NAMMA OORU HOTEL,Mutton Curry Dosa,,180,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,4
+NAMMA OORU HOTEL,Chicken Curry Dosa,,160,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,5
+NAMMA OORU HOTEL,Plain Dosa,,65,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,6
+NAMMA OORU HOTEL,Egg Dosa,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,7
+NAMMA OORU HOTEL,Kal Dosa,,70,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,8
+NAMMA OORU HOTEL,Podi Dosa,,75,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,9
+NAMMA OORU HOTEL,Paneer Masala Dosa,,125,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,10
+NAMMA OORU HOTEL,Onion Dosa,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,11
+NAMMA OORU HOTEL,Onion Uthappam,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,12
+NAMMA OORU HOTEL,Parotta,,40,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,13
+NAMMA OORU HOTEL,Bun Parotta,,45,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,1
+NAMMA OORU HOTEL,Egg Veechu Parotta,,100,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,2
+NAMMA OORU HOTEL,Egg Ceylon Parotta,,120,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,3
+NAMMA OORU HOTEL,Chicken Kothu Parotta,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,4
+NAMMA OORU HOTEL,Mutton Kothu Parotta,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,5
+NAMMA OORU HOTEL,Egg Kothu Parotta,,120,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,6
+NAMMA OORU HOTEL,Chicken Kothu Parotta,,120,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,7
+NAMMA OORU HOTEL,Mutton Kothu Parotta,,150,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,8
+NAMMA OORU HOTEL,Egg Kothu Parotta,,110,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,9
+NAMMA OORU HOTEL,Mutton Keema Ceylon Parotta,,160,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,10
+NAMMA OORU HOTEL,Chicken Keema Ceylon Parotta,,140,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,15,11
+NAMMA OORU HOTEL,Nandu Varuval,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Crab,,0,,16,1
+NAMMA OORU HOTEL,Nandu Pepper Fry,,170,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Crab,,0,,16,2
+NAMMA OORU HOTEL,Pineapple Juice,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,1
+NAMMA OORU HOTEL,Apple Juice,,100,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,2
+NAMMA OORU HOTEL,Sweet Lime Juice,,90,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,3
+NAMMA OORU HOTEL,Sappota Juice,,90,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,4
+NAMMA OORU HOTEL,Pomegranate Juice,,90,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,5
+NAMMA OORU HOTEL,Watermelon Juice,,80,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,6
+NAMMA OORU HOTEL,Fruit Salad With Ice Cream,,125,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,7
+NAMMA OORU HOTEL,Fruit Salad,,90,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,8
+NAMMA OORU HOTEL,Fresh Lime Juice,,50,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,9
+NAMMA OORU HOTEL,Fresh Lime Soda,,70,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,17,10
+NAMMA OORU HOTEL,Vanilla Milk Shake,,120,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,18,1
+NAMMA OORU HOTEL,Chocolate Milk Shake,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,18,2
+NAMMA OORU HOTEL,Apple Milk Shake,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,18,3
+NAMMA OORU HOTEL,Stawberry Milk Shake,,120,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,18,4
+NAMMA OORU HOTEL,Pomegranate Milk Shake,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,18,5
+NAMMA OORU HOTEL,Mango Milk Shake,,130,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,18,6
+NAMMA OORU HOTEL,Mineral Water 1Lr,,25,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,19,1
+NAMMA OORU HOTEL,Soft Drinks 400Ml,,40,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,19,2
+NAMMA OORU HOTEL,Soda,,20,,,,10,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,19,3

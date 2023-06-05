@@ -1,0 +1,181 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Paani Poori ,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Bhael Poori ,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Masala Poori ,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Curd Poori,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Aalu Poori,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,5
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Channa Masala,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,6
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Bread Channa,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,7
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Curd Samosa,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,8
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Curd Kachodi,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,9
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Raj Kachodi,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,10
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Fruit Raj Kachodi,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,11
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Samosa Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,12
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Bombay Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,13
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Cutlet Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,14
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Fruit Chat,,60,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,15
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Parotta Chat,,60,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,16
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Curd Paapdi Chat,,60,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,17
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Fruit Paapdi Chat,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,18
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Kachodi Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,19
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Kattori Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,20
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Fruit Kattori Chat,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,21
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Pav Baaji,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,22
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panner Pav Baaji,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,23
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Cheese Pav Baaji,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,24
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Fry Pav Baaji,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,25
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panner Fry Pav Baaji,,80,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,26
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Cheese Fry Pav Baaji,,80,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Chaat,,0,,9,27
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veg Sandwich,,40,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Sandwich,,0,,10,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veg Cheese Sandwich,,45,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Sandwich,,0,,10,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panner Sandwich,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Sandwich,,0,,10,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Sandwich,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Sandwich,,0,,10,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Chilly Cheese Sandwich,,40,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Sandwich,,0,,10,5
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Butter Jam  Sandwich,,30,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",0,,Sandwich,,0,,10,6
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mini Tiffin,,80,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Idly (2 Pcs),,20,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Sambar Idly,,40,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Soup  Idly,,40,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Sambar  Vada,,30,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,5
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Curd Vada,,30,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,6
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Poori (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,7
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Kothu Parotta ,,60,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,8
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Bun Parotta (2 Pcs),,70,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,9
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Wheat Parotta (2 Pcs),,80,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,10
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Chcolate Dosa,,70,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,11
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Onion Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,12
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Rava Roast,,55,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,13
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Ghee Rava Roast,,70,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,14
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Onion Rava,,70,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,15
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Utthappam,,35,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,16
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Onion Uthappam,,60,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,17
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mini Meals,,80,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,18
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Thakkali Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,19
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Poondu  Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,20
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Ellu Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,21
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Puli Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,22
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Caroot Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,23
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Beet Root Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,24
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veg Pulao,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,25
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Kashmiri Pulao,,100,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,26
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Pattani Pulao,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,27
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panneer Pulao,,80,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,28
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Pulao,,70,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,29
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Munthiri Thiratchai Pulao,,80,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,30
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Malli Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,31
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Puthina Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,32
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Sumathy Rathinam Meals,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,33
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Sp.Full Meals,,110,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,34
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Chilli Parotta,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,35
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panneer Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,36
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Schezwan Noodles,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,37
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Pepper Salt,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,38
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Gobi Pepper Salt,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,39
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panneer Pepper Salt,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,40
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Baby Corn Pepper Salt,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,41
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Pepper Idly,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,42
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Chilli Idly,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,43
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Podi Idly,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,44
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Idly Manchurian,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,45
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Plain Naan,,35,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Plain Roti,,45,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Roti,,40,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Phulka,,40,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Paneer Butter Masala,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,5,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Masala,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,5,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mixed,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,5,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veg Noodles,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Noodules,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Paneer Noodles,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Babycorn Noodles,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veg Fried Rice,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panneer Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Baby Corn Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Cauliflower Chilly 65,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Chilly 65,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Paneer Chilly 65,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Babycorn Chilly 65,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Cauliflower Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,5
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,6
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Paneer Manchurian,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,7
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Babycorn Manchurian,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,8
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Cauliflower Pepper Fry,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,9
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Pepper Fry,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,10
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Paneer Pepper Fry,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,11
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Babycorn Pepper Fry,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,12
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Full Meals,,90,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Sambar Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Thayir Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Variety Rice (Day Special),,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Masala Roast,,75,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Chappathi (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Parotta (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Ghee Roast,,60,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Masal Roast,,55,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Paneer Masala Roast,,80,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Podi Dosa,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Plain Dosa,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,5
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Sambar Vada,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,2,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Curd Vada,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Poori (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,5
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Bun Parotta (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,6
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Wheat Parotta (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,7
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veechu Parotta (1 No),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,8
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mini Meals,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,5
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Lemon Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,6
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Thakkali Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,7
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Poondu Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,8
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Ellu Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,9
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Puli Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,10
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Carrot Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,11
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Beet Root Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,12
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veg Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,13
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Kashmiri Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,14
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Pattani Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,15
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Paneer Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,16
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,17
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Munthiri Thiratchai Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,18
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Malli Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,19
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Puthina Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,20
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Sumathi Rathinam Meals,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,21
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Sp.Full Meals,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,22
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Kal Dosa,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,6
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,7
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Chocolate Dosa,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,8
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Rava Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,9
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Ghee Rava Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,10
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Onion Rava,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,11
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Uthappam,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,12
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Onion Uthappam,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,13
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Onion Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,14
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Chilli,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,1
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Gobi Chilli,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,2
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Baby Corn Chilli,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,3
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,4
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Gobi Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,5
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Baby Corn Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,6
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panneer Chilli,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,7
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panneer Gravy,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,8
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Channa Gravy,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,9
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Pattani Gravy,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,10
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veg Noodles,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,11
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Noodules,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,12
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veg Fried Rice,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,13
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panneer Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,14
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Baby Corn Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,15
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,16
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Schezwan Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,17
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Biriyani,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,18
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Veg Biriyani,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,19
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Chilli Parotta,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,20
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panneer Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,21
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Schezwan Noodles,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,22
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Mushroom Pepper Salt,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,23
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Gobi Pepper Salt,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,24
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Panneer Pepper Salt,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,25
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Baby Corn Pepper Salt,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,26
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Pepper Idly,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,27
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Chilli Idly,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,28
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Podi Idly,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,29
+SUMATHI PALAKARAKADAI & RESTAURANT (S3),Idly Manchurian,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,30

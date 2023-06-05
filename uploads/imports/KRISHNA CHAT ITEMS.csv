@@ -1,0 +1,47 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KRISHNA CHAT & FAST FOOD,Samosa 2 Pcs,,50,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,1
+KRISHNA CHAT & FAST FOOD,Cutlet 2 Pcs,,50,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,2
+KRISHNA CHAT & FAST FOOD,Panipuri,,40,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,3
+KRISHNA CHAT & FAST FOOD,Masala Puri,,50,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,4
+KRISHNA CHAT & FAST FOOD,Bhel Puri,,50,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,5
+KRISHNA CHAT & FAST FOOD,Dahi Puri,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,6
+KRISHNA CHAT & FAST FOOD,Dahi Bhel Puri,,70,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,7
+KRISHNA CHAT & FAST FOOD,Bombay Bhel Puri,,65,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,8
+KRISHNA CHAT & FAST FOOD,Dhai Cutlet,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,9
+KRISHNA CHAT & FAST FOOD,Dahi Samosa,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,10
+KRISHNA CHAT & FAST FOOD,Dahi Papadi Chat,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,11
+KRISHNA CHAT & FAST FOOD,Sev Puri,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,12
+KRISHNA CHAT & FAST FOOD,Alu Puri,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,13
+KRISHNA CHAT & FAST FOOD,Tomato Chat,,65,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,14
+KRISHNA CHAT & FAST FOOD,Channa Masala,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,15
+KRISHNA CHAT & FAST FOOD,Samosa Masala,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,16
+KRISHNA CHAT & FAST FOOD,Cutlet Masala,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,17
+KRISHNA CHAT & FAST FOOD,Bread Channa,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,18
+KRISHNA CHAT & FAST FOOD,Pav Baji,,70,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,19
+KRISHNA CHAT & FAST FOOD,Paneer Pav Bhaji,,85,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,20
+KRISHNA CHAT & FAST FOOD,Cheese Pav Bhaji,,90,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,1,21
+KRISHNA CHAT & FAST FOOD,Mushroom Manchurian,,80,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,1
+KRISHNA CHAT & FAST FOOD,Gobi Manchurian,,75,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,2
+KRISHNA CHAT & FAST FOOD,Mushroom Chilli,,70,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,3
+KRISHNA CHAT & FAST FOOD,Califlower Chilli,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,4
+KRISHNA CHAT & FAST FOOD,Bread Chilli,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,5
+KRISHNA CHAT & FAST FOOD,Soya Chilli,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,6
+KRISHNA CHAT & FAST FOOD,Paneer 65,,110,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,9
+KRISHNA CHAT & FAST FOOD,Paneer Manchurian,,120,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,9
+KRISHNA CHAT & FAST FOOD,Veg Noodles,,65,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,7
+KRISHNA CHAT & FAST FOOD,Mushroom Noodles,,85,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,8
+KRISHNA CHAT & FAST FOOD,Gobi Noodles,,75,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,9
+KRISHNA CHAT & FAST FOOD,Paneer Noodles,,110,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,2,9
+KRISHNA CHAT & FAST FOOD,Veg Sandwich,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,1
+KRISHNA CHAT & FAST FOOD,Mix Veg Cheese Sandwich,,80,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,2
+KRISHNA CHAT & FAST FOOD,Paneer Cheese Sandwich,,100,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,3
+KRISHNA CHAT & FAST FOOD,Mushroom Cheese Sandwich,,100,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,4
+KRISHNA CHAT & FAST FOOD,Veg Burger,,50,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,4,1
+KRISHNA CHAT & FAST FOOD,Paneer Burger,,60,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,4,2
+KRISHNA CHAT & FAST FOOD,Cheese Burger,,70,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,4,3
+KRISHNA CHAT & FAST FOOD,Veg Steamed Momos 6 Pcs,,55,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,5,1
+KRISHNA CHAT & FAST FOOD,Paneer Steamed Momos 6 Pcs,,70,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,5,2
+KRISHNA CHAT & FAST FOOD,Veg Fried Momos 6 Pcs,,65,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,5,3
+KRISHNA CHAT & FAST FOOD,Paneer Fried Momos 6 Pcs,,85,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,5,4
+KRISHNA CHAT & FAST FOOD,Veg Chilli Fried Momos 6 Pcs,,75,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,5,5
+KRISHNA CHAT & FAST FOOD,Paneer Chilli Fried Momos 6 Pcs,,105,,,,0,0,Veg,4:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,5,6

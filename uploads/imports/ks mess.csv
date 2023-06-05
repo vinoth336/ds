@@ -1,0 +1,101 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+K S MESS,Idly Set ,,26,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+K S MESS,Sambar Idly ,,40,,,,10,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,2
+K S MESS,Mini Idly,,60,,,,10,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,3
+K S MESS,Pongal ,,40,,,,5,Veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,4
+K S MESS,Sambar Vadai,,35,,,,10,Veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,5
+K S MESS,Thaiur Vadai,,45,,,,10,Veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,6
+K S MESS,Poori Masal set,,46,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,7
+K S MESS,Roast,,45,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,8
+K S MESS,Kothumai Dosai (2Pcs),,60,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,9
+K S MESS,Siruthaiyam Dosai (2pcs),,60,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,10
+K S MESS,Keerai Dosai (2Pcs),,50,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,11
+K S MESS,Onion Roast ,,65,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,12
+K S MESS,Ghee Roast ,,65,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,1
+K S MESS,Masala Roast ,,65,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,2
+K S MESS,Ghee Masal Roast,,70,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,3
+K S MESS,Ghee Podi Masal Roast,,75,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,4
+K S MESS,Podi Roast ,,60,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,5
+K S MESS,Ghee Podi Roast,,70,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,6
+K S MESS,Ghee Rava Roast,,70,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,7
+K S MESS,Rava Roast ,,60,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,8
+K S MESS,Ghee masala Rava Roast,,70,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,9
+K S MESS,Onion Rava Roast ,,70,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,10
+K S MESS,Ghee Onion Rava Roast,,70,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,1
+K S MESS,Masala Rava Roast,,70,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,2
+K S MESS,Uttappam,,40,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,3
+K S MESS,Onion Uttappam,,65,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,4
+K S MESS,Garlic Uttappam,,65,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,5
+K S MESS,Small Onion Uttappam,,75,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,6
+K S MESS,Ghee Uttappam,,50,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,7
+K S MESS,Idiyappam,,50,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,8
+K S MESS,Appam,,40,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,9
+K S MESS,Paniyaram,,45,,,,5,Veg,,,08:00AM,10:30AM,,,05:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,10
+K S MESS,Rava Kichadi,,45,,,,5,Veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,11
+K S MESS,Kothumai Uppuma,,55,,,,5,Veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,12
+K S MESS,Mini Tiffen ,,100,,,,10,Veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,2
+K S MESS,Lemon Rice,,50,,,,5,Veg,11:00AM,4:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,4
+K S MESS,Curd Rice ,,50,,,,5,Veg,11:00AM,4:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,5
+K S MESS,Tomotto Rice,,50,,,,5,Veg,11:00AM,4:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,5
+K S MESS,Sambar Rice,,50,,,,10,Veg,11:00AM,4:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,6
+K S MESS,Meals,,110,,,,5,Veg,11:00AM,4:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,7
+K S MESS,Chilly Idly ,,80,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,5,10
+K S MESS,Pepper Idly,,80,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,5,11
+K S MESS,Chittenadu Idly,,80,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Chinese,,0,,5,12
+K S MESS,Machuriyan Idly,,90,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,13
+K S MESS,Parotta 2 Nos,,50,,,,5,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,14
+K S MESS,Veechu Parota ,,30,,,,5,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,15
+K S MESS,Kothu Parotta,,80,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,16
+K S MESS,Mushroom Kothu Parota ,,90,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,17
+K S MESS,Onion Veeach parotta,,60,,,,5,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,18
+K S MESS,Chilly parotta,,75,,,,5,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,19
+K S MESS,Bun Parrotta 1Pc,,45,,,,5,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,20
+K S MESS,Wheat Parotta 2Nos,,70,,,,5,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,21
+K S MESS,Mushroom Veeach Parotta,,65,,,,5,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,22
+K S MESS,Keema Parotta,,85,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,23
+K S MESS,Chappathi Set,,50,,,,5,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,25
+K S MESS,Onion Chappathi,,50,,,,5,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,26
+K S MESS,Garlic Chappathi,,50,,,,5,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,27
+K S MESS,Mushroom Masala Roast,,75,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,28
+K S MESS,Gopi Masal Roast,,75,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,29
+K S MESS,Veg Masala Roast,,75,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,30
+K S MESS,Panner Masala Roast,,80,,,,5,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,31
+K S MESS,Chola poori Channa masala,,65,,,,10,Veg,,,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,32
+K S MESS,Mushroom 65,,95,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,34
+K S MESS,Gopi 65,,95,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,35
+K S MESS,panner 65,,110,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,36
+K S MESS,Gobi Machuriyan,,110,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,38
+K S MESS,Mushroom Machuriyan,,110,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,1
+K S MESS,Panner Machuriyan,,125,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,2
+K S MESS,Mushroom Pepper Fry,,150,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,5
+K S MESS,Panner Pepper Fry,,170,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,6
+K S MESS,Mushroom Pallipalayam,,170,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,7
+K S MESS,Panner Pallipalayam,,160,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,8
+K S MESS,Mushroom Masala,,150,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,7,9
+K S MESS,Gobi Masala,,150,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,7,10
+K S MESS,Panner Butter Masala,,150,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,7,12
+K S MESS,Veg Chettinadu Masala,,130,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,7,13
+K S MESS,Chennaa Masala,,130,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,7,14
+K S MESS,Naan,,30,,,,10,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Roti,,0,,7,16
+K S MESS,Romali Roti,,30,,,,10,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Roti,,0,,7,17
+K S MESS,Rotti,,30,,,,10,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Roti,,0,,7,18
+K S MESS,Tandoori Rotti,,30,,,,10,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Roti,,0,,7,19
+K S MESS,Butter Naan,,40,,,,10,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Roti,,0,,7,20
+K S MESS,Veg Fried Rice ,,90,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,21
+K S MESS,Mushroom Fried Rice,,100,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,22
+K S MESS,Panner Fried Rice,,110,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,23
+K S MESS,Schezwan Fried Rice,,100,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,24
+K S MESS,Veg Pulav,,80,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,7,25
+K S MESS,Panner Pulav,,100,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,7,26
+K S MESS,Jeera Pulav,,90,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,6,1
+K S MESS,Veg Noodles ,,90,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,2
+K S MESS,Mushroom Noodles ,,100,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,3
+K S MESS,Panner Noodles,,100,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,4
+K S MESS,Schezwan Noodles,,110,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,5
+K S MESS,Tomotto Soup,,35,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,15
+K S MESS,Veg Soup,,35,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,16
+K S MESS,Veg Clear Soup,,35,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,17
+K S MESS,Sweet Corn Soup,,40,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,18
+K S MESS,Noodles  Soup,,40,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,19
+K S MESS,Mushroom Soup,,40,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+K S MESS,Pepper  Soup,,40,,,,10,Veg,11:00AM,4:00PM,,,05:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1

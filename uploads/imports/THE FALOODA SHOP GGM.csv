@@ -1,0 +1,134 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THE FALOODA SHOP (Gandhigramam),Arabian Nights,,120,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,1
+THE FALOODA SHOP (Gandhigramam),Guns N Roses,,89,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,2
+THE FALOODA SHOP (Gandhigramam),Butterscotch Bliss,,110,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,3
+THE FALOODA SHOP (Gandhigramam),Dil Kush( Tuti Fruiti),,110,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,4
+THE FALOODA SHOP (Gandhigramam),Blackcurrant Beast,,110,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,5
+THE FALOODA SHOP (Gandhigramam),Mango Madness,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,6
+THE FALOODA SHOP (Gandhigramam),Pista Pacific,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,7
+THE FALOODA SHOP (Gandhigramam),Strawberry Swril,,89,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,8
+THE FALOODA SHOP (Gandhigramam),Chocolate Man,,110,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,9
+THE FALOODA SHOP (Gandhigramam),Fig & Honey,,120,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,10
+THE FALOODA SHOP (Gandhigramam),Persian Dry Fruits,,130,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,11
+THE FALOODA SHOP (Gandhigramam),Let`s Kulfi,,130,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,13
+THE FALOODA SHOP (Gandhigramam),Pan Masala,,89,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Funtastic Faloodas,,0,,1,14
+THE FALOODA SHOP (Gandhigramam),Oreo,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,1,16
+THE FALOODA SHOP (Gandhigramam),Kitkat,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+THE FALOODA SHOP (Gandhigramam),Hide & Seek,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,2
+THE FALOODA SHOP (Gandhigramam),Snickers,,79,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,3
+THE FALOODA SHOP (Gandhigramam),Munch,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,4
+THE FALOODA SHOP (Gandhigramam),Gems,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,5
+THE FALOODA SHOP (Gandhigramam),Boost,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,6
+THE FALOODA SHOP (Gandhigramam),Horlicks,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,7
+THE FALOODA SHOP (Gandhigramam),Dairy Milk,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,8
+THE FALOODA SHOP (Gandhigramam),Milky Bikkies ,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,9
+THE FALOODA SHOP (Gandhigramam),Dubai sheikh,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Milk Shakes,,0,,2,10
+THE FALOODA SHOP (Gandhigramam),Carolina Nutricious Cocktail,,90,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Milk Shakes,,0,,3,1
+THE FALOODA SHOP (Gandhigramam),Persian Dry Fruits,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Milk Shakes,,0,,3,2
+THE FALOODA SHOP (Gandhigramam),Brownie Bomb,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Milk Shakes,,0,,3,3
+THE FALOODA SHOP (Gandhigramam),Kadalai Mittai(chikki),,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Milk Shakes,,0,,3,4
+THE FALOODA SHOP (Gandhigramam),French Fries,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy Snacks,,0,,3,5
+THE FALOODA SHOP (Gandhigramam),Veg Pops,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy Snacks,,0,,3,6
+THE FALOODA SHOP (Gandhigramam),Chicken Pops,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy Snacks,,0,,3,7
+THE FALOODA SHOP (Gandhigramam),Chicken Nuggets,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy Snacks,,0,,3,8
+THE FALOODA SHOP (Gandhigramam),Margarita Mojito,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,3,9
+THE FALOODA SHOP (Gandhigramam),Gangster Mojito,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,3,10
+THE FALOODA SHOP (Gandhigramam),Virgin Marry Mojito,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,3,11
+THE FALOODA SHOP (Gandhigramam),Cosmopoliton Mojito,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,3,12
+THE FALOODA SHOP (Gandhigramam),Fresh Lemon,,35,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,3,13
+THE FALOODA SHOP (Gandhigramam),Chat Masala ,,45,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,4,1
+THE FALOODA SHOP (Gandhigramam),Blue Ocean,,55,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,4,2
+THE FALOODA SHOP (Gandhigramam),Geeky Green ,,45,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,4,3
+THE FALOODA SHOP (Gandhigramam),Rowdy Red,,45,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,5,1
+THE FALOODA SHOP (Gandhigramam),Mexican Club,,45,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,5,2
+THE FALOODA SHOP (Gandhigramam),Nannari Spl,,45,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,5,4
+THE FALOODA SHOP (Gandhigramam),Veg Burger,,80,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Burger Bungies,,0,,5,5
+THE FALOODA SHOP (Gandhigramam),Chicken Burger,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Burger Bungies,,0,,6,1
+THE FALOODA SHOP (Gandhigramam),American Cheese Chilly,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,6,2
+THE FALOODA SHOP (Gandhigramam),Chutney Grill,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,6,3
+THE FALOODA SHOP (Gandhigramam),Mushroom Cheese Chilly,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,6,4
+THE FALOODA SHOP (Gandhigramam),Panner Masala,,85,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,6,5
+THE FALOODA SHOP (Gandhigramam),Chicken Pops,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,7,1
+THE FALOODA SHOP (Gandhigramam),Butter Jam ,,45,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,7,2
+THE FALOODA SHOP (Gandhigramam),Nutella Italiana,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,7,3
+THE FALOODA SHOP (Gandhigramam),Fruit & Veg,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,7,4
+THE FALOODA SHOP (Gandhigramam),Dairy Milk,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,7,5
+THE FALOODA SHOP (Gandhigramam),Gulkand,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Sandwhiches,,0,,7,6
+THE FALOODA SHOP (Gandhigramam),Fruit Salad Ice Cream,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,7,7
+THE FALOODA SHOP (Gandhigramam),May Be I am addicted !,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,7,8
+THE FALOODA SHOP (Gandhigramam),Choco man,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,7,9
+THE FALOODA SHOP (Gandhigramam),Bombastic Brownie,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,7,10
+THE FALOODA SHOP (Gandhigramam),Butterscotch Bliss,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,7,11
+THE FALOODA SHOP (Gandhigramam),Fruits Melba,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,8,2
+THE FALOODA SHOP (Gandhigramam),Lassi Shock,,80,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,8,3
+THE FALOODA SHOP (Gandhigramam),~I Love u Babe~,,130,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,9,1
+THE FALOODA SHOP (Gandhigramam),Death By Chocolate (DBC),,130,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,9,2
+THE FALOODA SHOP (Gandhigramam),Gud-Bud,,130,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae,,0,,10,1
+THE FALOODA SHOP (Gandhigramam),Mango,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,10,2
+THE FALOODA SHOP (Gandhigramam),Banana,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,10,3
+THE FALOODA SHOP (Gandhigramam),Pineapple,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,10,4
+THE FALOODA SHOP (Gandhigramam),Greenapple,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,10,5
+THE FALOODA SHOP (Gandhigramam),Strawberry,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,10,6
+THE FALOODA SHOP (Gandhigramam),Honey Banana,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,10,7
+THE FALOODA SHOP (Gandhigramam),Rose (Gulab),,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,11,1
+THE FALOODA SHOP (Gandhigramam),Fruits & Nuts,,90,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Smoothies,,0,,11,2
+THE FALOODA SHOP (Gandhigramam),Peanut Butter Chocolate,,90,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Smoothies,,0,,11,3
+THE FALOODA SHOP (Gandhigramam),Sharja Sheikh,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Smoothies,,0,,11,4
+THE FALOODA SHOP (Gandhigramam),Anjeer (Fig) ,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Smoothies,,0,,11,5
+THE FALOODA SHOP (Gandhigramam),Orange,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,11,6
+THE FALOODA SHOP (Gandhigramam),Pineapple,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,11,7
+THE FALOODA SHOP (Gandhigramam),Watermelon,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,11,8
+THE FALOODA SHOP (Gandhigramam),Papaya,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+THE FALOODA SHOP (Gandhigramam),Apple,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,2
+THE FALOODA SHOP (Gandhigramam),Musk Melon,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,3
+THE FALOODA SHOP (Gandhigramam),Pomogranate,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,4
+THE FALOODA SHOP (Gandhigramam),Cold Coffee,,60,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Cafe Coffee,,0,,12,5
+THE FALOODA SHOP (Gandhigramam),Irish Coffee,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Cafe Coffee,,0,,12,6
+THE FALOODA SHOP (Gandhigramam),Hard Rock Coffee,,80,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Cafe Coffee,,0,,12,7
+THE FALOODA SHOP (Gandhigramam),Caramel Coffee,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Cafe Coffee,,0,,12,8
+THE FALOODA SHOP (Gandhigramam),Crazzy Banana,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,9
+THE FALOODA SHOP (Gandhigramam),Belgian Chocolate,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,10
+THE FALOODA SHOP (Gandhigramam),Pick Peanut Banana,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,13,1
+THE FALOODA SHOP (Gandhigramam),Fig & Honey,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,13,2
+THE FALOODA SHOP (Gandhigramam),Addiction for Almond,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,13,3
+THE FALOODA SHOP (Gandhigramam),Tutty Fruity Magic,,80,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,13,4
+THE FALOODA SHOP (Gandhigramam),American Twister,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,13,5
+THE FALOODA SHOP (Gandhigramam),Sweet Lassi,,50,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,14,1
+THE FALOODA SHOP (Gandhigramam),Mango Madness,,58,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,14,2
+THE FALOODA SHOP (Gandhigramam),Tangy Orange,,58,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,14,3
+THE FALOODA SHOP (Gandhigramam),Pineapple Passion,,58,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,14,4
+THE FALOODA SHOP (Gandhigramam),Chocolate,,58,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,14,5
+THE FALOODA SHOP (Gandhigramam),Banana,,58,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,14,6
+THE FALOODA SHOP (Gandhigramam),Pan Masala,,58,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,14,7
+THE FALOODA SHOP (Gandhigramam),Strawberry,,58,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,15,1
+THE FALOODA SHOP (Gandhigramam),Mixed Fruit,,68,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,15,2
+THE FALOODA SHOP (Gandhigramam),Pista,,68,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,16,1
+THE FALOODA SHOP (Gandhigramam),Gulkand,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,16,2
+THE FALOODA SHOP (Gandhigramam),Persian Dry Fruit,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,16,3
+THE FALOODA SHOP (Gandhigramam),Lassi Ice Cream,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,16,4
+THE FALOODA SHOP (Gandhigramam),Lemonade,,35,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonade,,0,,17,1
+THE FALOODA SHOP (Gandhigramam),Ginger Lemonade,,40,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonade,,0,,17,2
+THE FALOODA SHOP (Gandhigramam),Mexican Mint Lemonade,,40,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonade,,0,,17,3
+THE FALOODA SHOP (Gandhigramam),Pineapple Lemonade,,40,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonade,,0,,17,4
+THE FALOODA SHOP (Gandhigramam),Pacha Mango Lemonade,,40,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonade,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),American Cheese Chilly,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Chutney Grill,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Mushroom Cheese Chilly,,115,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Panner Masala,,115,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Chicken Pops,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Butter Jam ,,60,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Nutella Italiana,,105,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Fruit & Veg,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Dairy Milk,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Gulkand,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Jumbo Sandwhiches,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Vanilla,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Pista,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Kesar Pista,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Mango,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Strawberry,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Tuti Fruti,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Black Currant,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Fig & Honey,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Kulfi,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Butterscotch,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5
+THE FALOODA SHOP (Gandhigramam),Chocolate,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,17,5

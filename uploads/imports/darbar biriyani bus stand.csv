@@ -1,0 +1,41 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+PALLAPATTI DARBAR (BUS STAND),Chicken Biriyani,,90,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+PALLAPATTI DARBAR (BUS STAND),Mutton Biriyani,,160,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+PALLAPATTI DARBAR (BUS STAND),Chicken Mt Biriyani,,70,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
+PALLAPATTI DARBAR (BUS STAND),Chicken Tikka,,130,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,2,3
+PALLAPATTI DARBAR (BUS STAND),Tandoori Chicken Quarter,,130,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,2,4
+PALLAPATTI DARBAR (BUS STAND),Tandoori Chicken Half,,250,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,2,1
+PALLAPATTI DARBAR (BUS STAND),Tandoori Chicken Full,,450,,,,,0,Non Veg,12.30PM ,9.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,2,2
+PALLAPATTI DARBAR (BUS STAND),Grill Chicken Quarter,,130,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grills,,0,,2,3
+PALLAPATTI DARBAR (BUS STAND),Grill Chicken Full,,450,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grills,,0,,2,1
+PALLAPATTI DARBAR (BUS STAND),Grill Chicken Half,,250,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grills,,0,,2,2
+PALLAPATTI DARBAR (BUS STAND),Pepper Grill Chicken Half,,280,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grills,,0,,2,4
+PALLAPATTI DARBAR (BUS STAND),Pepper Grill Chicken Full,,500,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grills,,0,,2,4
+PALLAPATTI DARBAR (BUS STAND),Chicken Tikka Biriyani,,140,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,5
+PALLAPATTI DARBAR (BUS STAND),Tandoori Chicken Biriyani,,170,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,6
+PALLAPATTI DARBAR (BUS STAND),Chicken Fried Rice,,90,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,2,1
+PALLAPATTI DARBAR (BUS STAND),Egg Fried Rice,,70,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,2,2
+PALLAPATTI DARBAR (BUS STAND),Veg Fried Rice,,60,,,,,0,Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,2,3
+PALLAPATTI DARBAR (BUS STAND),Chicken Noodles,,90,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,4
+PALLAPATTI DARBAR (BUS STAND),Egg Noodles,,70,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,2,5
+PALLAPATTI DARBAR (BUS STAND),Veg Noodles,,60,,,,,0,Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,6
+PALLAPATTI DARBAR (BUS STAND),Parotta 1 Pc,,15,,,,,0,Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,7
+PALLAPATTI DARBAR (BUS STAND),Egg Kothu Parotta,,80,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,8
+PALLAPATTI DARBAR (BUS STAND),Chicken Kothu Parotta,,100,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,9
+PALLAPATTI DARBAR (BUS STAND),Chilly Parotta,,100,,,,,0,Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,10
+PALLAPATTI DARBAR (BUS STAND),Chicken Sandwich Parotta,,100,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,11
+PALLAPATTI DARBAR (BUS STAND),Egg Lappa,,90,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+PALLAPATTI DARBAR (BUS STAND),Chicken Lappa,,120,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+PALLAPATTI DARBAR (BUS STAND),Veechu Parotta,,25,,,,,0,Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,2
+PALLAPATTI DARBAR (BUS STAND),Egg Veechu Parotta,,40,,,,,0,Non Veg,4.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,3
+PALLAPATTI DARBAR (BUS STAND),Butter Chicken,,150,,,,,0,Non Veg,4.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,6,4
+PALLAPATTI DARBAR (BUS STAND),Kadai Chicken,,150,,,,,0,Non Veg,4.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,1
+PALLAPATTI DARBAR (BUS STAND),Pepper Chicken,,150,,,,,0,Non Veg,4.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,7,2
+PALLAPATTI DARBAR (BUS STAND),Chicken Manchuriyan,,150,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,8,1
+PALLAPATTI DARBAR (BUS STAND),Chilly Chicken Gravy,,150,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,8,1
+PALLAPATTI DARBAR (BUS STAND),Naan,,25,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,2
+PALLAPATTI DARBAR (BUS STAND),Butter Naan,,30,,,,,0,Non Veg,3.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,8,2
+PALLAPATTI DARBAR BIRIYANI,Classic Shawarma Roll,,70,,,,,0,Non Veg,4.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,6,3
+PALLAPATTI DARBAR BIRIYANI,Spl Shawarma Roll,,80,,,,,0,Non Veg,4.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,6,4
+PALLAPATTI DARBAR BIRIYANI,Mexician Shawarma Roll ,,80,,,,,0,Non Veg,4.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,1
+PALLAPATTI DARBAR BIRIYANI,Shawarma Plate,,100,,,,,0,Non Veg,4.00PM,10.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,2

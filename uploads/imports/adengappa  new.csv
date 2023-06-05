@@ -1,0 +1,8 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+Adengappa Biriyani,Chicken Biriyani,,60,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+Adengappa Biriyani,Plain Biriyani,,40,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
+Adengappa Biriyani,Chicken 65 with bone,,40,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+Adengappa Biriyani,Chicken 65 Boonles,,60,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,2
+Adengappa Biriyani,Chicken Leg pc,,50,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,3
+Adengappa Biriyani,Chicken uppukari 1kg,,350,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Varuval,,0,,1,1
+Adengappa Biriyani,Chicken Gravy 1Kg,,350,,,,10,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravy,,0,,1,1

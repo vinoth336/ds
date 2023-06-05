@@ -1,0 +1,162 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+REFRESH JUICE BAR (Bus Stand),Apple Juice,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,1
+REFRESH JUICE BAR (Bus Stand),Orange Juice ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,2
+REFRESH JUICE BAR (Bus Stand),Mosambi Juice ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,3
+REFRESH JUICE BAR (Bus Stand),Pomegranate Juice ,,100,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,4
+REFRESH JUICE BAR (Bus Stand),Grape Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,5
+REFRESH JUICE BAR (Bus Stand),Pineapple Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,6
+REFRESH JUICE BAR (Bus Stand),Muskmelon Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,7
+REFRESH JUICE BAR (Bus Stand),Dates Juice ,,100,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,8
+REFRESH JUICE BAR (Bus Stand),Watermelon Juice ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,9
+REFRESH JUICE BAR (Bus Stand),Papaya Juice ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,10
+REFRESH JUICE BAR (Bus Stand),Guava Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,11
+REFRESH JUICE BAR (Bus Stand),Sapota Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,12
+REFRESH JUICE BAR (Bus Stand),Amla Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,13
+REFRESH JUICE BAR (Bus Stand),Carrot Juice ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,14
+REFRESH JUICE BAR (Bus Stand),Beetroot Juice ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,15
+REFRESH JUICE BAR (Bus Stand),Lemon Juice ,,40,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,16
+REFRESH JUICE BAR (Bus Stand),Sugarcane Juice ,,45,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,17
+REFRESH JUICE BAR (Bus Stand),Mango Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,18
+REFRESH JUICE BAR (Bus Stand),Red Banana juice ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,19
+REFRESH JUICE BAR (Bus Stand),Cucumber Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,20
+REFRESH JUICE BAR (Bus Stand),Seethapalam Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,21
+REFRESH JUICE BAR (Bus Stand),Arugampul Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,22
+REFRESH JUICE BAR (Bus Stand),Valaithandu Juice ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,23
+REFRESH JUICE BAR (Bus Stand),Aloevera Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,24
+REFRESH JUICE BAR (Bus Stand),Butter Fruit Juice ,,100,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,25
+REFRESH JUICE BAR (Bus Stand),Orange Pure Juice ,,100,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,26
+REFRESH JUICE BAR (Bus Stand),Mosambi Pure Juice ,,100,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,27
+REFRESH JUICE BAR (Bus Stand),Pomegranate Pure Juice ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,28
+REFRESH JUICE BAR (Bus Stand),Fig Juice ,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,29
+REFRESH JUICE BAR (Bus Stand),Kiwi Fruit Juice ,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,30
+REFRESH JUICE BAR (Bus Stand),Carrot Pure Juice ,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,31
+REFRESH JUICE BAR (Bus Stand),Dragon Fruit Juice ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh juice,,0,,1,32
+REFRESH JUICE BAR (Bus Stand),Mosambi Mint Juice ,,75,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,1
+REFRESH JUICE BAR (Bus Stand),Pineapple Mint Juice ,,65,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,2
+REFRESH JUICE BAR (Bus Stand),Grapes Mint Juice ,,65,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,3
+REFRESH JUICE BAR (Bus Stand),Carrot Mint Juice ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,4
+REFRESH JUICE BAR (Bus Stand),Watermelon Mint Juice ,,55,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,5
+REFRESH JUICE BAR (Bus Stand),Ginger Lemon Juice ,,45,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,6
+REFRESH JUICE BAR (Bus Stand),Ginger Mint Lemon Juice ,,45,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,7
+REFRESH JUICE BAR (Bus Stand),Curry Leaves Lemon Juice ,,45,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,8
+REFRESH JUICE BAR (Bus Stand),Jeera Lemon Juice ,,45,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,9
+REFRESH JUICE BAR (Bus Stand),Mint Lemon Juice ,,45,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,10
+REFRESH JUICE BAR (Bus Stand),Palm Candy Lemon ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,11
+REFRESH JUICE BAR (Bus Stand),Mosambi Ginger Juice ,,75,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,12
+REFRESH JUICE BAR (Bus Stand),Pineapple Ginger Juice ,,65,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,13
+REFRESH JUICE BAR (Bus Stand),Grapes Ginger Juice ,,65,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,14
+REFRESH JUICE BAR (Bus Stand),Guava Ginger Juice ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,15
+REFRESH JUICE BAR (Bus Stand),ABC Juice,Apple + Beetroot + Carrot,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,16
+REFRESH JUICE BAR (Bus Stand),PBC Juice,Pineapple + Beetroot + Carrot,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,17
+REFRESH JUICE BAR (Bus Stand),A2 Juice,Apple + Amla,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,18
+REFRESH JUICE BAR (Bus Stand),ABG Juice,Apple + Banana + Guava,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,19
+REFRESH JUICE BAR (Bus Stand),G3 Juice,Grapes + Guava + Ginger,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,20
+REFRESH JUICE BAR (Bus Stand),C2 JUICE ,Carrot + Curry Leaves,75,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,21
+REFRESH JUICE BAR (Bus Stand),AC JUICE,Amla + Curry Leaves,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,2,22
+REFRESH JUICE BAR (Bus Stand),Nannari Sarbath ,,45,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,3,1
+REFRESH JUICE BAR (Bus Stand),Nannari Lemon Soda ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,3,2
+REFRESH JUICE BAR (Bus Stand),Ginger Lemon Soda ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,3,3
+REFRESH JUICE BAR (Bus Stand),Mint Lemon Soda ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,3,4
+REFRESH JUICE BAR (Bus Stand),Lemon Soda ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,3,5
+REFRESH JUICE BAR (Bus Stand),Masala Lemon Soda ,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,3,6
+REFRESH JUICE BAR (Bus Stand),Apple Sugarcane Juice ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits with Sugarcane Mix Juice,,0,,4,1
+REFRESH JUICE BAR (Bus Stand),Orange Sugarcane Juice ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits with Sugarcane Mix Juice,,0,,4,2
+REFRESH JUICE BAR (Bus Stand),Amla Sugarcane Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits with Sugarcane Mix Juice,,0,,4,3
+REFRESH JUICE BAR (Bus Stand),Mosambi Subarcane Juice ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits with Sugarcane Mix Juice,,0,,4,4
+REFRESH JUICE BAR (Bus Stand),Pomegranate Sugarcane Juice ,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits with Sugarcane Mix Juice,,0,,4,5
+REFRESH JUICE BAR (Bus Stand),Pineapple Sugarcane Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits with Sugarcane Mix Juice,,0,,4,6
+REFRESH JUICE BAR (Bus Stand),Grapes Sugarcane Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits with Sugarcane Mix Juice,,0,,4,7
+REFRESH JUICE BAR (Bus Stand),Muskmelon Sugarcane Juice ,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits with Sugarcane Mix Juice,,0,,4,8
+REFRESH JUICE BAR (Bus Stand),All Dry Fruit Shakes ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,1
+REFRESH JUICE BAR (Bus Stand),Chocolate Dry Fruit Shake  ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,2
+REFRESH JUICE BAR (Bus Stand),Vanilla Dry Fruit Shake ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,3
+REFRESH JUICE BAR (Bus Stand),Pista Dry Fruit Shake ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,4
+REFRESH JUICE BAR (Bus Stand),Strawberry Dry Fruit Shake ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,5
+REFRESH JUICE BAR (Bus Stand),Blackcurrant Dry Fruit Shake ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,6
+REFRESH JUICE BAR (Bus Stand),Butterscotch Dry Fruit Shake ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,7
+REFRESH JUICE BAR (Bus Stand),Dates Dry Fruit Shake ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,8
+REFRESH JUICE BAR (Bus Stand),Boost Dry Fruit Shake ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,9
+REFRESH JUICE BAR (Bus Stand),Horlicks Dry Fruit Shake ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,10
+REFRESH JUICE BAR (Bus Stand),Fig Dry Fruit Shake ,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dry Fruits Shake,,0,,5,11
+REFRESH JUICE BAR (Bus Stand),Apple Milk Shake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,1
+REFRESH JUICE BAR (Bus Stand),Pomegranate  Milk Shake,,100,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,2
+REFRESH JUICE BAR (Bus Stand),Papaya Milk Shake,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,3
+REFRESH JUICE BAR (Bus Stand),Fig Milk Shake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,4
+REFRESH JUICE BAR (Bus Stand),Dates Milk Shake,,110,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,5
+REFRESH JUICE BAR (Bus Stand),Muskmelon Milk Shake,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,6
+REFRESH JUICE BAR (Bus Stand),Guava Milk Shake,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,7
+REFRESH JUICE BAR (Bus Stand),Red Banana Milk Shake,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,8
+REFRESH JUICE BAR (Bus Stand),Butter Fruit Milk Shake,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,9
+REFRESH JUICE BAR (Bus Stand),Strawberry Fruit Milk Shake,,120,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,10
+REFRESH JUICE BAR (Bus Stand),Seethapalam  Milk Shake,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,11
+REFRESH JUICE BAR (Bus Stand),Sapota Milk Shake,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,12
+REFRESH JUICE BAR (Bus Stand),Mango Milk Shake ,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Fruit Milkshakes,,0,,6,13
+REFRESH JUICE BAR (Bus Stand),Vanilla Icecream Milkshake,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,1
+REFRESH JUICE BAR (Bus Stand),Strawberry Icecream Milkshake ,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,2
+REFRESH JUICE BAR (Bus Stand),Butterscotch Icecream Milkshake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,3
+REFRESH JUICE BAR (Bus Stand),Chocolate Icecream Milkshake ,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,4
+REFRESH JUICE BAR (Bus Stand),Blackcurrant Icecream Milkshake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,5
+REFRESH JUICE BAR (Bus Stand),Pista  Icecream Milkshake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,6
+REFRESH JUICE BAR (Bus Stand),Kesarpista  Icecream Milkshake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,7
+REFRESH JUICE BAR (Bus Stand),Vanilla + Chocolate Icecream Milkshake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,8
+REFRESH JUICE BAR (Bus Stand),Vanilla + Butterscotch Icecream Milkshake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,9
+REFRESH JUICE BAR (Bus Stand),Pista +  Strawberry Icecream Milkshake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,10
+REFRESH JUICE BAR (Bus Stand),Blueberry Icecream Milkshake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,11
+REFRESH JUICE BAR (Bus Stand),Mango Icecream Milkshake,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,12
+REFRESH JUICE BAR (Bus Stand),Coffee Icecream Milkshake,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Milkshakes,,0,,7,13
+REFRESH JUICE BAR (Bus Stand),Vanilla Ice Cream,,75,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,1
+REFRESH JUICE BAR (Bus Stand),Strawberry Ice Cream ,,75,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,2
+REFRESH JUICE BAR (Bus Stand),Butterscotch Ice Cream,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,3
+REFRESH JUICE BAR (Bus Stand),Chocolate Ice Cream,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,4
+REFRESH JUICE BAR (Bus Stand),Blackcurrant Ice Cream,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,5
+REFRESH JUICE BAR (Bus Stand),Pista Ice Cream,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,6
+REFRESH JUICE BAR (Bus Stand),Mango Ice Cream ,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,7
+REFRESH JUICE BAR (Bus Stand),Blueberry Ice Cream,,100,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,8
+REFRESH JUICE BAR (Bus Stand),Coffe Ice Cream,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,9
+REFRESH JUICE BAR (Bus Stand),Kulfi Ice Cream,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,8,10
+REFRESH JUICE BAR (Bus Stand),Nattu Sakkarai Thengaipal,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,1
+REFRESH JUICE BAR (Bus Stand),Padam Milk,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,2
+REFRESH JUICE BAR (Bus Stand),Rose Milk,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,3
+REFRESH JUICE BAR (Bus Stand),Fruit Mixe,,50,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,4
+REFRESH JUICE BAR (Bus Stand),Special Lassi,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,5
+REFRESH JUICE BAR (Bus Stand),Palm Candy Milk (Panangkarkandu),,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,6
+REFRESH JUICE BAR (Bus Stand),Biscuit Milk,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,7
+REFRESH JUICE BAR (Bus Stand),Chocolate Milk,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,8
+REFRESH JUICE BAR (Bus Stand),Blueberry Milk,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,9
+REFRESH JUICE BAR (Bus Stand),Pista Milk,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,10
+REFRESH JUICE BAR (Bus Stand),Strawberry Milk,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,11
+REFRESH JUICE BAR (Bus Stand),Boost Gir,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,12
+REFRESH JUICE BAR (Bus Stand),Bonvita Gir,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,13
+REFRESH JUICE BAR (Bus Stand),Complan Gir,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,14
+REFRESH JUICE BAR (Bus Stand),Horlicks Gir,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,15
+REFRESH JUICE BAR (Bus Stand),Mango Gir,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,16
+REFRESH JUICE BAR (Bus Stand),Butterscotch Gir,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,17
+REFRESH JUICE BAR (Bus Stand),Blackcurrant Gir,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,18
+REFRESH JUICE BAR (Bus Stand),Almond Kesar Milk,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Refresh Juice Bar Special,,0,,9,19
+REFRESH JUICE BAR (Bus Stand),Tender Cocount 500 Ml,,75,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tender Coconut Special,,0,,10,1
+REFRESH JUICE BAR (Bus Stand),Tender Cocount Juice,,85,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tender Coconut Special,,0,,10,2
+REFRESH JUICE BAR (Bus Stand),Tender Cocount Sarbath,,85,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tender Coconut Special,,0,,10,3
+REFRESH JUICE BAR (Bus Stand),Tender Cocount Jelly,,45,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tender Coconut Special,,0,,10,4
+REFRESH JUICE BAR (Bus Stand),Tender Cocount Jelly Juice,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tender Coconut Special,,0,,10,5
+REFRESH JUICE BAR (Bus Stand),Tender Cocount Jelly Sarbath,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tender Coconut Special,,0,,10,6
+REFRESH JUICE BAR (Bus Stand),Tender Cocount Payasam,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tender Coconut Special,,0,,10,7
+REFRESH JUICE BAR (Bus Stand),Lemon Kuluki Sarbath,,60,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kuluki Sarbath,,0,,11,1
+REFRESH JUICE BAR (Bus Stand),Orange Kuluki Sarbath,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kuluki Sarbath,,0,,11,2
+REFRESH JUICE BAR (Bus Stand),Mosambi Kuluki Sarbath,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kuluki Sarbath,,0,,11,3
+REFRESH JUICE BAR (Bus Stand),Pomegranate  Kuluki Sarbath,,100,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kuluki Sarbath,,0,,11,4
+REFRESH JUICE BAR (Bus Stand),Watermelon Kuluki Sarbath,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kuluki Sarbath,,0,,11,5
+REFRESH JUICE BAR (Bus Stand),Pineapple Kuluki Sarbath,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kuluki Sarbath,,0,,11,6
+REFRESH JUICE BAR (Bus Stand),Grapes Kuluki Sarbath,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kuluki Sarbath,,0,,11,7
+REFRESH JUICE BAR (Bus Stand),Carrot  Kuluki Sarbath,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kuluki Sarbath,,0,,11,8
+REFRESH JUICE BAR (Bus Stand),Veg Sandwich,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,12,1
+REFRESH JUICE BAR (Bus Stand),Chees Sandwich,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,12,2
+REFRESH JUICE BAR (Bus Stand),Panner Sandwich,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,12,3
+REFRESH JUICE BAR (Bus Stand),Egg Sandwich,,80,,,,5,0,Non Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,12,4
+REFRESH JUICE BAR (Bus Stand),Bread Omelette Plain,,60,,,,5,0,Non Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelette,,0,,13,1
+REFRESH JUICE BAR (Bus Stand),Mix Veg Bread Omelette,,70,,,,5,0,Non Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelette,,0,,13,2
+REFRESH JUICE BAR (Bus Stand),Panner Bread Omelette,,75,,,,5,0,Non Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread Omelette,,0,,13,3
+REFRESH JUICE BAR (Bus Stand),Classic Maggi,,70,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,14,1
+REFRESH JUICE BAR (Bus Stand),Sweat Corn  Maggi,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,14,2
+REFRESH JUICE BAR (Bus Stand),Chees & Corn Maggi ,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,14,3
+REFRESH JUICE BAR (Bus Stand),Panner Maggi,,90,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,14,4
+REFRESH JUICE BAR (Bus Stand),Mix Veg Maggi,,80,,,,5,0,Veg,8:00AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,14,5

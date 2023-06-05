@@ -1,0 +1,153 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KITTANNA BIRIYANI,French Onion Soup,,53,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,1
+KITTANNA BIRIYANI,Tomato Soup,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,2
+KITTANNA BIRIYANI,Hot and Sour Soup Veg,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,3
+KITTANNA BIRIYANI,Hot and Sour Soup Non Veg,,53,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,4
+KITTANNA BIRIYANI,Veg Clear Soup,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,5
+KITTANNA BIRIYANI,Chicken Clear Soup,,47,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,6
+KITTANNA BIRIYANI,Sweet Corn Soup,,53,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,7
+KITTANNA BIRIYANI,Baby Corn Soup,,53,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,8
+KITTANNA BIRIYANI,Mushroom Soup,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,1,9
+KITTANNA BIRIYANI,Mushroom 65,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+KITTANNA BIRIYANI,Gobi 65,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+KITTANNA BIRIYANI,Paneer 65,,82,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+KITTANNA BIRIYANI,Babycorn 65,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+KITTANNA BIRIYANI,Chicken American Chopsuey,,128,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+KITTANNA BIRIYANI,Chicken Chinese Chopsuey,,128,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+KITTANNA BIRIYANI,Dragon Chicken,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,7
+KITTANNA BIRIYANI,Honey Chicken,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+KITTANNA BIRIYANI,Lemon Chicken,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,9
+KITTANNA BIRIYANI,Chicken Manchurian,,94,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,10
+KITTANNA BIRIYANI,Chilli Chicken,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,11
+KITTANNA BIRIYANI,Ginger Chicken,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,12
+KITTANNA BIRIYANI,Garlic Chicken,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,13
+KITTANNA BIRIYANI,Salt & Pepper Chicken,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,14
+KITTANNA BIRIYANI,Butter Chicken,,129,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,15
+KITTANNA BIRIYANI,Chicken Lolipop 4 Pcs,,70,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,16
+KITTANNA BIRIYANI,Chicken Boneless 100 Grams,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,17
+KITTANNA BIRIYANI,Chicken Bone 100 Grams,,70,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,18
+KITTANNA BIRIYANI,Chicken Wings 4 Pcs,,70,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,19
+KITTANNA BIRIYANI,Leg Piece 2 Pcs,,140,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,20
+KITTANNA BIRIYANI,Chicken Drumstick,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,21
+KITTANNA BIRIYANI,Idly 2 Pcs,,35,,,,0,0,Veg,06:00PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Idly,,0,,3,1
+KITTANNA BIRIYANI,Chilli Idly,,59,,,,0,0,Veg,06:00PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Idly,,0,,3,2
+KITTANNA BIRIYANI,Pepper Idly,,59,,,,0,0,Veg,06:00PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Idly,,0,,3,3
+KITTANNA BIRIYANI,Plain Dosa 2 Pcs,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,1
+KITTANNA BIRIYANI,Kal Dosa 2 Pcs,,47,,,,0,0,Veg,12:00PM,11:00PM,,,`,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,2
+KITTANNA BIRIYANI,Ghee Dosa,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,3
+KITTANNA BIRIYANI,Onion Dosa,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,4
+KITTANNA BIRIYANI,Egg Dosa,,35,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,5
+KITTANNA BIRIYANI,Aarathana Dosa,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,6
+KITTANNA BIRIYANI,Podi Dosa,,35,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,7
+KITTANNA BIRIYANI,Roast,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,8
+KITTANNA BIRIYANI,Onion Roast,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,9
+KITTANNA BIRIYANI,Ghee Roast,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,10
+KITTANNA BIRIYANI,Podi Roast,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,11
+KITTANNA BIRIYANI,Mushroom Roast,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,12
+KITTANNA BIRIYANI,Califlower Roast,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,13
+KITTANNA BIRIYANI,Paneer Roast,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,14
+KITTANNA BIRIYANI,Chicken Roast,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,15
+KITTANNA BIRIYANI,Egg Roast,,70,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,4,16
+KITTANNA BIRIYANI,Uthappam,,35,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,1
+KITTANNA BIRIYANI,Onion Uthappam,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,2
+KITTANNA BIRIYANI,Ghee Podi Uthappam,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,3
+KITTANNA BIRIYANI,Garlic Uthappam,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,4
+KITTANNA BIRIYANI,Egg Bhurji,,70,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,6,1
+KITTANNA BIRIYANI,Egg Podimass,,59,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,6,2
+KITTANNA BIRIYANI,Egg Poriyal,,35,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,6,3
+KITTANNA BIRIYANI,Karandi Omelette,,30,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,6,4
+KITTANNA BIRIYANI,Egg Gravy,,59,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,6,5
+KITTANNA BIRIYANI,Naan 2 Pcs,,70,,,,0,0,Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,1
+KITTANNA BIRIYANI,Butter Naan 2 Pcs,,94,,,,0,0,Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,2
+KITTANNA BIRIYANI,Garlic Naan 2 Pcs,,94,,,,0,0,Veg,06:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,3
+KITTANNA BIRIYANI,Banana Leaf Parotta Chicken,,176,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,4
+KITTANNA BIRIYANI,Banana Leaf Parotta Mutton,,234,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,5
+KITTANNA BIRIYANI,Banana Leaf Parotta Nattukozhi,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,6
+KITTANNA BIRIYANI,Banana Leaf Parotta Mushroom,,140,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,7
+KITTANNA BIRIYANI,Banana Leaf Parotta Veg,,140,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,8
+KITTANNA BIRIYANI,Parotta 2 Pcs with Veg Kurma,,35,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,9
+KITTANNA BIRIYANI,Parotta 2 Pcs with Non Veg Kulambu,,35,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,10
+KITTANNA BIRIYANI,Veg Kothu Parotta,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,11
+KITTANNA BIRIYANI,Egg Kothu Parotta,,82,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,12
+KITTANNA BIRIYANI,Chicken Kothu Parotta,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,13
+KITTANNA BIRIYANI,Poricha Parotta 2 Pcs with Veg Kurma,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,14
+KITTANNA BIRIYANI,Poricha Parotta 2 Pcs with Non Veg Kulambu,,59,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,15
+KITTANNA BIRIYANI,Coin Parotta 1 Pc with Veg Kurma,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,16
+KITTANNA BIRIYANI,Coin Parotta 1 Pc with Non Veg Kulambu,,59,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,17
+KITTANNA BIRIYANI,Nool Parotta 2 Pcs with Veg Kurma,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,18
+KITTANNA BIRIYANI,Nool Parotta 2 Pcs with Non Veg Kulambu,,59,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,19
+KITTANNA BIRIYANI,Wheat Parotta 2 Pcs with Veg Kulambu,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,20
+KITTANNA BIRIYANI,Wheat Parotta 2 Pcs with Non Veg Kurma,,59,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,21
+KITTANNA BIRIYANI,Chappathi 2 Pcs ,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,22
+KITTANNA BIRIYANI,Vechu Parotta 2 Pcs,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,23
+KITTANNA BIRIYANI,Egg Vechu,,35,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,24
+KITTANNA BIRIYANI,Lappa Egg,,59,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,7,25
+KITTANNA BIRIYANI,Chicken Biriyani,,140,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,1
+KITTANNA BIRIYANI,Plain Biriyani,,82,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,2
+KITTANNA BIRIYANI,Mutton Biriyani,,210,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,7,1,,Biriyani,,0,,8,3
+KITTANNA BIRIYANI,Nattukozhi Biriyani,,176,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,7,1,,Biriyani,,0,,8,4
+KITTANNA BIRIYANI,Tangri Kabab 2 Pcs,,187,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,1
+KITTANNA BIRIYANI,Kalmi Kabab 2 Pcs,,222,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,2
+KITTANNA BIRIYANI,Reshmi Kabab 2 Pcs,,293,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,3
+KITTANNA BIRIYANI,Hariyali Kabab 2 Pcs,,293,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,4
+KITTANNA BIRIYANI,Malai Kabab 6 Pcs,,222,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,5
+KITTANNA BIRIYANI,Afghani Kabab Full,,468,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,6
+KITTANNA BIRIYANI,Afghani Kabab Half,,245,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,7
+KITTANNA BIRIYANI,Afghani Kabab Quarter,,140,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,8
+KITTANNA BIRIYANI,Tandoori Chicken Full,,456,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,9
+KITTANNA BIRIYANI,Tandoori Chicken Half,,222,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,10
+KITTANNA BIRIYANI,Tandoori Chicken Quarter,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori ,,0,,9,11
+KITTANNA BIRIYANI,Chicken Tikka,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,1
+KITTANNA BIRIYANI,Kalmi Tikka,,128,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,2
+KITTANNA BIRIYANI,Reshmi Tikka,,128,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,3
+KITTANNA BIRIYANI,Hariyali Tikka,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,4
+KITTANNA BIRIYANI,Malai Tikka,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,5
+KITTANNA BIRIYANI,Paneer Tikka,,164,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,6
+KITTANNA BIRIYANI,Mushroom Tikka,,128,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,7
+KITTANNA BIRIYANI,Gobi Tikka,,105,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,8
+KITTANNA BIRIYANI,Fruit Salad,,176,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,9
+KITTANNA BIRIYANI,Pineapple Tikka,,164,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,10
+KITTANNA BIRIYANI,Veg Balls,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,11
+KITTANNA BIRIYANI,Veg Chinese Chopsuey,,105,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,12
+KITTANNA BIRIYANI,Veg American Chopsuey,,105,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,13
+KITTANNA BIRIYANI,Veg Lolly Pop,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,14
+KITTANNA BIRIYANI,Veg Cutlet,,47,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka,,0,,10,15
+KITTANNA BIRIYANI,Palak Paneer,,117,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,1
+KITTANNA BIRIYANI,Paneer Butter Masala,,105,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,2
+KITTANNA BIRIYANI,Mushroom Gravy,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,3
+KITTANNA BIRIYANI,Califlower Gravy,,82,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,4
+KITTANNA BIRIYANI,Veg Gravy,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,5
+KITTANNA BIRIYANI,Channa Gravy,,59,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,6
+KITTANNA BIRIYANI,Babycorn Gravy,,81,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,7
+KITTANNA BIRIYANI,Gobi Manchurian,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,8
+KITTANNA BIRIYANI,Babycorn Manchurian,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,9
+KITTANNA BIRIYANI,Paneer Manchurian,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,10
+KITTANNA BIRIYANI,Mushroom Manchurian,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,11
+KITTANNA BIRIYANI,Broiler Chicken Chettinadu Gravy,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,12
+KITTANNA BIRIYANI,Broiler Chicken Pallipalayam Gravy,,140,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,13
+KITTANNA BIRIYANI,Nattukozhi Chettinadu Gravy,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,14
+KITTANNA BIRIYANI,Nattukozhi Pallipalayam Gravy,,140,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,15
+KITTANNA BIRIYANI,Nattukozhi Chicken Gravy,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,16
+KITTANNA BIRIYANI,Broiler Chicken Gravy,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,17
+KITTANNA BIRIYANI,Egg Gravy,,70,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,11,18
+KITTANNA BIRIYANI,Veg Rice,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,1
+KITTANNA BIRIYANI,Schezwan Veg Rice,,82,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,2
+KITTANNA BIRIYANI,Egg Rice,,94,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,3
+KITTANNA BIRIYANI,Schezwan Egg Rice,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,4
+KITTANNA BIRIYANI,Mushroom Rice,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,5
+KITTANNA BIRIYANI,Califlower Rice,,82,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,6
+KITTANNA BIRIYANI,Chicken Rice,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,7
+KITTANNA BIRIYANI,Schezwan Chicken Rice,,128,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,8
+KITTANNA BIRIYANI,Paneer Rice,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,9
+KITTANNA BIRIYANI,Schezwan Paneer Rice,,105,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,10
+KITTANNA BIRIYANI,Veg Noodles,,70,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,11
+KITTANNA BIRIYANI,Schezwan Veg Noodles,,82,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,12
+KITTANNA BIRIYANI,Egg Noodles,,94,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,13
+KITTANNA BIRIYANI,Schezwan Egg Noodles,,105,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,14
+KITTANNA BIRIYANI,Paneer Noodles,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,15
+KITTANNA BIRIYANI,Schezwan Paneer Noodles,,105,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,16
+KITTANNA BIRIYANI,Chicken Noodles,,117,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,17
+KITTANNA BIRIYANI,Schezwan Chicken Noodles,,129,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,18
+KITTANNA BIRIYANI,Mushroom Noodles,,94,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,19
+KITTANNA BIRIYANI,Califlower Noodles,,82,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,20
+KITTANNA BIRIYANI,Hakka Noodles,,82,,,,0,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,12,21

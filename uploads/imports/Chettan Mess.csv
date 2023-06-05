@@ -1,0 +1,26 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+CHETANS RESTAURANT,Kerala Rice,,90,,,,0,0,Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice,,0,,2,1
+CHETANS RESTAURANT,Normal Rice,,80,,,,0,0,Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice,,0,,2,1
+CHETANS RESTAURANT,Ghee Rice And Chicken Kurma (Noai Soru),,130,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice,,0,,2,2
+CHETANS RESTAURANT,Puttu,,60,,,,0,0,Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice,,1,,2,3
+CHETANS RESTAURANT,Aappam (2 Pcs),,30,,,,0,0,Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Aappam,,1,,4,1
+CHETANS RESTAURANT,Idiyappam (3 Pcs),,15,,,,0,0,Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Aappam,,0,,4,2
+CHETANS RESTAURANT,Kerala Parotta (2 Pcs),,40,,,,0,0,Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Breads,,0,,1,1
+CHETANS RESTAURANT,Chappathi (2 Pcs),,30,,,,0,0,Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Breads,,0,,1,2
+CHETANS RESTAURANT,Egg Curry,,45,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Curries,,0,,5,1
+CHETANS RESTAURANT,Chicken Curry,,95,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Curries,,0,,5,2
+CHETANS RESTAURANT,Fish Curry,,70,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Curries,,1,,5,3
+CHETANS RESTAURANT,Beef Curry,,110,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Curries,,0,,5,4
+CHETANS RESTAURANT,Kadala Curry,,50,,,,0,0,Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Curries,,1,,5,5
+CHETANS RESTAURANT,Kappa Fish Curry,,85,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Curries,,1,,5,6
+CHETANS RESTAURANT,Egg Roast,,50,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,1
+CHETANS RESTAURANT,Fish Fry,,70,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,2
+CHETANS RESTAURANT,Chicken Fry,,90,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,3
+CHETANS RESTAURANT,Chicken Roast,,90,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,4
+CHETANS RESTAURANT,Beef Roast,,120,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,1,,6,5
+CHETANS RESTAURANT,Nandu Roast (2 Pcs),,120,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,6
+CHETANS RESTAURANT,Mathi Meen,,50,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,7
+CHETANS RESTAURANT,Iyla Meen ,,60,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,8
+CHETANS RESTAURANT,Nei Meen,,60,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,9
+CHETANS RESTAURANT,Chemeen (1 Plate),,135,,,,0,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,6,10
+CHETANS RESTAURANT,Kerala Chicken Biriyani With Egg,,130,,,,10,0,Non Veg,,,,,11:00AM,03:30PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,3,1

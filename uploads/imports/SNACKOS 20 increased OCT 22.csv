@@ -1,0 +1,190 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SNACKOS,Veg Platter,Veg Fingers 3 Pcs + Corn & Cheese Nuggets 3 Pcs + Paneer Fingers 3 Pcs + Mushroom Fritters 2 Pcs + Fries,216,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snackos Combo,,0,,1,1
+SNACKOS,Non Veg Platter,Chicken Nuggets 2 Pcs + Chicken Popcorn 4 Pcs + Chicken Fingers 2 Pcs + Chicken Wings 2 Pcs + Fries,264,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snackos Combo,,0,,1,2
+SNACKOS,Fried Chicken Combo,Fried Chicken 2 Pcs + Chicken Fingers 4 Pcs + Fries + Mojito 2 Nos,336,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snackos Combo,,0,,1,3
+SNACKOS,BBQ Chicken Leg 2 Pcs,,144,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Grill,,0,,2,1
+SNACKOS,BBQ Chicken Wings 4 Pcs,,144,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Grill,,0,,2,2
+SNACKOS,BBQ Chicken Breast Full,,156,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Grill,,0,,2,3
+SNACKOS,Fried Chicken Leg Jumbo 2 Pcs,,192,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Grill,,0,,2,4
+SNACKOS,Creamy Veg Pasta,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,1
+SNACKOS,Creamy Chicken Pasta,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,2
+SNACKOS,Spicy Arabiatta Veg Pasta,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,3
+SNACKOS,Spicy Arabiatta Chicken Pasta,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,4
+SNACKOS,Veg Curried Pasta,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,5
+SNACKOS,Chicken Curried Pasta,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,6
+SNACKOS,Herb Cream Veg Pasta,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,7
+SNACKOS,Herb Cream Chicken Pasta,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,8
+SNACKOS,Margheritta Veg Pasta,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,9
+SNACKOS,Margheritta Chicken Pasta,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,10
+SNACKOS,Snackos Cheesy Veg Pasta,,144,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,11
+SNACKOS,Snackos Cheesy Chicken Pasta,,168,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,12
+SNACKOS,Extra Chicken,,48,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,13
+SNACKOS,Fried Veg Momos 5 Pcs,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,4,1
+SNACKOS,Fried Corn Momos 5 Pcs,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,4,2
+SNACKOS,Fried Chicken Momos 5 Pcs,,108,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,4,3
+SNACKOS,Fried Chicken Tikka Momos 5 Pcs,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,4,4
+SNACKOS,Steam Veg Momos 5 Pcs,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,4,5
+SNACKOS,Steam Corn Momos 5 Pcs,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,4,6
+SNACKOS,Steam Chicken Momos 5 Pcs,,108,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,4,7
+SNACKOS,Steam Chicken Tikka Momos 5 Pcs,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Momos,,0,,4,8
+SNACKOS,Margherita Cheese Pizza Plain,,132,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,1
+SNACKOS,Corn & Capsicum Pizza,,168,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,2
+SNACKOS,Mushroom Pizza,,168,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,3
+SNACKOS,Paneer Makhani Pizza,,192,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,4
+SNACKOS,Veg Lovers Pizza,,192,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,5
+SNACKOS,Egg Masala Pizza,,180,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,6
+SNACKOS,Mexican Veg Pizza,,192,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,7
+SNACKOS,Mediteranean Veg Pizza,,168,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,8
+SNACKOS,BBQ Chicken Pizza,,204,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,9
+SNACKOS,Fried Chicken Pizza,,204,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,10
+SNACKOS,Sausage & Chicken Pizza,,204,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,11
+SNACKOS,Chicken Shawarma Pizza,,204,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,12
+SNACKOS,Mexican Chicken Pizza,,216,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,13
+SNACKOS,Mediteranean Chicken Pizza,,204,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,14
+SNACKOS,Oriental Chicken Pizza,,204,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,15
+SNACKOS,Snackos Special Pizza,,238.8,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,16
+SNACKOS,Extra Cheese,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,17
+SNACKOS,Extra Chicken,,48,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,18
+SNACKOS,Extra Egg,,18,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,19
+SNACKOS,Extra Corn,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,20
+SNACKOS,Extra Paneer,,36,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,21
+SNACKOS,Extra Mushroom,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,22
+SNACKOS,Extra Sauce,,12,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,5,23
+SNACKOS,Classic Veg Wrap,,60,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,1
+SNACKOS,Veg Quesadilla,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,2
+SNACKOS,Corn & Cheese Wrap,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,3
+SNACKOS,Mushroom Wrap,,90,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,4
+SNACKOS,Paneer Wrap,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,5
+SNACKOS,Chicken Quesadilla,,144,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,6
+SNACKOS,Classic Chicken Shawarma,,102,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,7
+SNACKOS,Spicy Chicken Shawarma,,108,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,8
+SNACKOS,Cheesy Chicken Shawarma,,114,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,9
+SNACKOS,Butter Chicken Shawarma,,114,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,10
+SNACKOS,Fish Finger Wrap,,156,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,11
+SNACKOS,Peri Peri Shawarma,,120,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,12
+SNACKOS,Snackos All In One Wrap,,144,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,13
+SNACKOS,Shawarma Platter,,192,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,14
+SNACKOS,Extra Chicken,,48,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,15
+SNACKOS,Extra Corn,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,16
+SNACKOS,Extra Paneer,,36,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,17
+SNACKOS,Extra Mushroom,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma/Wraps,,0,,6,18
+SNACKOS,Chilli Cheese Sandwich,,60,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,1
+SNACKOS,Corn & Capsicum Sandwich,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,2
+SNACKOS,Corn & Cheese Sandwich,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,3
+SNACKOS,Mushroom Sandwich,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,4
+SNACKOS,Paneer Makhani Sandwich,,90,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,5
+SNACKOS,Veg Sandwich,,72,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,6
+SNACKOS,Mexican Veg Sandwich,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,7
+SNACKOS,Egg & Cheese Sandwich,,96,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,8
+SNACKOS,Fried Chicken Sandwich,,108,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,9
+SNACKOS,Grilled Chicken Sandwich,,108,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,10
+SNACKOS,Sausage & Cheese Sandwich,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,11
+SNACKOS,Fish Finger Sandwich,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,12
+SNACKOS,Desi Egg Masala,,96,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,13
+SNACKOS,Chicken Makhani Sandwich,,108,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,14
+SNACKOS,Mexican Chicken Sandwich,,108,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,15
+SNACKOS,Extra Cheese,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,16
+SNACKOS,Extra Chicken,,48,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,17
+SNACKOS,Extra Egg,,18,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,18
+SNACKOS,Extra Corn,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,19
+SNACKOS,Extra Paneer,,36,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,20
+SNACKOS,Extra Mushroom,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,21
+SNACKOS,Extra Sauce,,12,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,22
+SNACKOS,Veg Club Sandwich,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,1
+SNACKOS,Mushroom Club Sandwich,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,2
+SNACKOS,Paneer Club Sandwich,,120,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,3
+SNACKOS,Egg Club Sandwich,,114,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,4
+SNACKOS,Chicken Club Sandwich,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,5
+SNACKOS,Special Club Sandwich,,144,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,6
+SNACKOS,Fish Finger Club Sandwich,,144,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,7
+SNACKOS,Extra Cheese,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,8
+SNACKOS,Extra Chicken,,48,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,9
+SNACKOS,Extra Egg,,18,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,10
+SNACKOS,Extra Corn,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,11
+SNACKOS,Extra Paneer,,36,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,12
+SNACKOS,Extra Mushroom,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,13
+SNACKOS,Extra Sauce,,12,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Club Sandwiches,,0,,8,14
+SNACKOS,Clussic Veg Burger,,72,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,1
+SNACKOS,Schezwan Veg Burger,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,2
+SNACKOS,Mexican Veg Burger,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,3
+SNACKOS,Mushroom Veg Burger,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,4
+SNACKOS,Spicy Paneer Veg Burger,,114,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,5
+SNACKOS,Cheesy Veggie Burger,,132,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,6
+SNACKOS,Egg & Veg Patty Burger,,114,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,7
+SNACKOS,Classic Chicken Burger,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,8
+SNACKOS,BBQ Chicken Burger,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,9
+SNACKOS,Schezwan Chicken Burger,,144,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,10
+SNACKOS,Mexican Chicken Burger,,144,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,11
+SNACKOS,Cheesy Chicken Burger,,156,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,12
+SNACKOS,Shawarma Chicken Burger,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,13
+SNACKOS,Special Tower Burger,,192,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,14
+SNACKOS,House Fried Chicken Burger,,144,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,15
+SNACKOS,Extra Cheese,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,16
+SNACKOS,Extra Chicken,,48,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,17
+SNACKOS,Extra Egg,,18,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,18
+SNACKOS,Extra Corn,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,19
+SNACKOS,Extra Paneer,,36,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,20
+SNACKOS,Extra Mushroom,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,21
+SNACKOS,Extra Sauce,,12,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,22
+SNACKOS,French Fries,,72,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,1
+SNACKOS,Cheese Fries,,90,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,2
+SNACKOS,Masala Fries,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,3
+SNACKOS,Mexican Salsa Fries,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,4
+SNACKOS,Veg Fingers,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,5
+SNACKOS,Corn & Cheese Nuggets,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,6
+SNACKOS,Paneer Croquettes,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,7
+SNACKOS,Tex Mex Cauliflower,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,8
+SNACKOS,Cheesy Mushroom Fritters,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,9
+SNACKOS,Snackos Spring Roll Veg,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,10
+SNACKOS,BBQ Jumbo Wings,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,11
+SNACKOS,Chicken Nuggets,,120,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,12
+SNACKOS,Chicken Fingers,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,13
+SNACKOS,Chicken Poppers,,120,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,14
+SNACKOS,Cheesy Chicken Nuggets,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,15
+SNACKOS,Fish Fingers,,154.8,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,16
+SNACKOS,Chicken Sausage Styx,,132,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,17
+SNACKOS,Snackos Chicken Spring Roll,,120,,,,0,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,18
+SNACKOS,Extra Garlic Bread 2 Pcs,,36,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,19
+SNACKOS,Extra Corn,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,20
+SNACKOS,Extra Paneer,,36,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,21
+SNACKOS,Extra Mushroom,,24,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,22
+SNACKOS,Extra Sauce,,12,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Short Eats,,0,,10,23
+SNACKOS,Vanila Milkshake,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,1
+SNACKOS,Chocolate Milkshake,,102,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,2
+SNACKOS,Oreo Shake,,102,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,3
+SNACKOS,Black Forest Milkshake,,102,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,4
+SNACKOS,Strawberry Shake,,102,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,5
+SNACKOS,Kitkat Shake,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,6
+SNACKOS,Nutella Shake,,132,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,7
+SNACKOS,Brownie Shake,,120,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,8
+SNACKOS,Dates Shake,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,9
+SNACKOS,Cold Coffee,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,10
+SNACKOS,Mango Shake,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,11
+SNACKOS,Banana Shake,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,12
+SNACKOS,Strawberry Banana Shake,,102,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,13
+SNACKOS,Oreo Nutella Shake,,144,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,14
+SNACKOS,Boost Shake,,102,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,15
+SNACKOS,Black Currant Shake,,102,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,16
+SNACKOS,Malai Kulfi Shake,,108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake,,0,,11,17
+SNACKOS,Lemon Mint ,,48,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,1
+SNACKOS,Dirty Mojito,,78,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,2
+SNACKOS,Blue Lagoon,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,3
+SNACKOS,Orange Sparkler,,78,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,4
+SNACKOS,Green Apple Sparkler,,78,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,5
+SNACKOS,Pina Coloda,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,6
+SNACKOS,Mango Sparkler,,78,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,7
+SNACKOS,Refreshing Iced Tea,,96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,12,8
+SNACKOS,Apple Juice,,90,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh & Mix Fruit Juices,,0,,13,1
+SNACKOS,Grapes Juice,,60,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh & Mix Fruit Juices,,0,,13,2
+SNACKOS,Orange Juice,,72,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh & Mix Fruit Juices,,0,,13,3
+SNACKOS,Pineapple Juice,,72,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh & Mix Fruit Juices,,0,,13,4
+SNACKOS,Watermelon Juice,,48,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh & Mix Fruit Juices,,0,,13,5
+SNACKOS,Pomegranate Juice,,72,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh & Mix Fruit Juices,,0,,13,6
+SNACKOS,Minty Melon,"Watermelon, Mint, Orange",108,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh & Mix Fruit Juices,,0,,13,7
+SNACKOS,Green Machine,"Lemon, Mint, Cucumber",84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh & Mix Fruit Juices,,0,,13,8
+SNACKOS,Ginger Crush,"Pineapple, Ginger, Lemon",96,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh & Mix Fruit Juices,,0,,13,9
+SNACKOS,Mango Lassi,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,14,1
+SNACKOS,Strawberry Lassi,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,14,2
+SNACKOS,Banana Lassi,,84,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,14,3
+SNACKOS,Blueberry Lassi,,102,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,14,4
+SNACKOS,Green Masala Chas,,72,,,,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,14,5

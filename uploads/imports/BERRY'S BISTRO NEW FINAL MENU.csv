@@ -1,0 +1,72 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BERRY'S BISTRO,Tempura Fried Cottage Cheese,Cottage Cheese Stuffed With Basil Pesto Mix Served With Tartar Sauce,204.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+BERRY'S BISTRO,Chessy Peperonata En Croute,Cheesy Layered Bell Peppers On Toasted Croutes,162.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,2
+BERRY'S BISTRO,Baby Corn Salt & Pepper,Crispy Fried Baby Corn Tossed In Hot Garlic & Pepper Drizzle,152.25,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,3
+BERRY'S BISTRO,Aloo Tikkin Chaat,"Aloo Tikki Dipped In A Mix Of Mint Chutney, Sweet Chutney & Yogurt Chutney",131.25,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,4
+BERRY'S BISTRO,French Fries,Potato Fries Served With Cheese Dip,183.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,5
+BERRY'S BISTRO,Mozzarella Stuffed Mushroom Fry,Button Mushroom Stuffed With Mozarella Cheese Served With Garlic & Chives Dip,131.25,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,6
+BERRY'S BISTRO,Paneer Kaati Roll Kebab,Tortilla Wrapped Tandoori Paneer Enriched With Kasundhi And Served With Mint Chutney,267.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,7
+BERRY'S BISTRO,Murgh Kaati Roll Kebab,Tortilla Wrapped Tandoori Chicken Enriched With Kasundhi And Served With Mint Chutney,267.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,8
+BERRY'S BISTRO,South Indian Style Spicy Chicken Lollipop,Chicken Lollipop With Curry Leaves And Served With Hot Garlic Sauce,204.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,9
+BERRY'S BISTRO,Crispy Fried Chicken Strips,Boneless Chicken Strips Served With Cocktail Sauce,204.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,10
+BERRY'S BISTRO,Hot Bbq Chicken Wings,Braised Chicken Wings Lossed In Parsley With Bbq Sauce,204.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,11
+BERRY'S BISTRO,Chicken Satay,Chicken Spiced And Served With Peanut Mayo Sauce,236.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,12
+BERRY'S BISTRO,Jalepeno Peppers,Minced Chicken Stuffed Jatapeno Served With Dil Mayo,194.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,13
+BERRY'S BISTRO,Fried Gujon Of Fish,Seer Fish Strips Served With Tartar Sauce,288.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,14
+BERRY'S BISTRO,Crispy Fried Calamari Rings,Deep Fried Calamari Served With Tartar Sauce,288.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,15
+BERRY'S BISTRO,Dhadey Ka Rajma Dhal,Rajma Dhal Served With Kashmiri Chawal Or Punjab Di Bhatti De Phulka (3 Pcs),204.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+BERRY'S BISTRO,Dhal Tadka,Yellow Dhal Served With Kashmiri Chawal Or Punjab Di Bhatti De Phulka (3 Pcs),204.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,2
+BERRY'S BISTRO,Paav Bhajji Bombay Style,Mixed Veggies And Minced Potato Curry Served With Buttered Toasted Buns,183.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,3
+BERRY'S BISTRO,Eggplant Parmesan,Baked Eggplant In Cheese And Herbs,309.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,4
+BERRY'S BISTRO,Cannaloni,Lasagna And Boiled Veggies Cooked In Bechamel Sauce,309.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,5
+BERRY'S BISTRO,Veg Au Gratin,Mixed Veggies And Potato Bake Served With Bread Roll,236.25,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,6
+BERRY'S BISTRO,Chicken Au Gratin,Chicken And Potato Bake Served With Bread Roll,309.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,7
+BERRY'S BISTRO,Thai Herb Scented Rice (Vegetable),Basmati Rice Topped With Herbs & Stir Fried Veggies With Hoisin Jhang,204.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,8
+BERRY'S BISTRO,Thai Herb Scented Rice (Chicken),Basmati Rice Topped With Herbs & Chicken With Hoisin Jhang,236.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,9
+BERRY'S BISTRO,Italian Stuffed Tortilaa Bread Topped With Veggies,Stuffed Cheesy Tortilla Bread Topped With Onion Salsa & Veggies,236.25,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,10
+BERRY'S BISTRO,Italian Stuffed Tortilaa Bread Topped With Chicken Tikka,Stuffed Cheesy Tortilla Bread Topped With Onion Salsa & Chicken Tikka,267.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,11
+BERRY'S BISTRO,Veg Grilled Vegetable Panini Sandwich,Panini Bread Stuffed With Zucchini & Pimentos Served With Coleslaw & French Fries,236.25,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,12
+BERRY'S BISTRO,Grilled Chicken Panini Sandwich,Panini Bread Stuffed With Grilled Chicken Served With Coleslaw & French Fries,257.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,13
+BERRY'S BISTRO,Veg The Cheese Wagon (Veg Burger),"Veg Burger Platter Served With Coleslaw, Pickled Veggies & French Fries",236.25,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,14
+BERRY'S BISTRO,The Meat Wagon (Chicken Burger),"Chicken Burger Platter Served With Coleslaw, Pickled Veggies & French Fries",267.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,15
+BERRY'S BISTRO,Penne Pasta Veg,"Zucchini, Bell Pepper, Olives & Cheese With Penne Pasta In The Sauce Of Your Choice",267.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,16
+BERRY'S BISTRO,Penne Pasta Chicken,Braised Chicken And Cheese With Penne Pasta In The Sauce Of Your Choice,288.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,17
+BERRY'S BISTRO,Penne Pasta Lamb,Chunky Lamb And Cheese With Penne Pasta In The Sauce Of Your Choice,309.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,18
+BERRY'S BISTRO,Penne Pasta Sea Food,Baby Prawns And Cheese With Penne Pasta In The Sauce Of Your Choice,309.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,19
+BERRY'S BISTRO,Spaghetti Veg,"Zucchini, Bell Pepper, Olives & Cheese With Sphagetti In The Sauce Of Your Choice",267.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,20
+BERRY'S BISTRO,Spaghetti Chicken,Braised Chicken & Cheese With Sphagetti In The Sauce Of Your Choice,288.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,21
+BERRY'S BISTRO,Spaghetti Lamb,Chunky Lamb & Cheese With Sphagetti In The Sauce Of Your Choice,309.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,22
+BERRY'S BISTRO,Spaghetti Sea Food,Baby Prawns & Cheese With Sphagetti In The Sauce Ofyour Choice,309.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,23
+BERRY'S BISTRO,Veg Lasagna In Cream,Mixed Minced Vegetables Seasoned & Baked In Cream Cheese Sauce And Served With Bread Rolls & Orange Shoot,362.25,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,24
+BERRY'S BISTRO,Chicken Lasagna In Cream,Finely Minced Chicken Seasoned & Baked In Cream Cheese Sauce And Served With Bread Rolls & Orange Shoot,414.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,25
+BERRY'S BISTRO,Veg Platter,"An Assortment Of Paneer Shaslik, Tempura Cottage Cheese, Aloo Tikki, Paneer Katti Roll & Mozzarella Mushroom",708.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,26
+BERRY'S BISTRO,Non Veg Platter,"An Assortment Of Spicy Lollipop Chicken, Gujon Fish, Chicken Strips & Chicken Satay",813.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,27
+BERRY'S BISTRO,Chicken Amritsari,Indian Style Chicken Curry Served With Choice Of Kashmiri Chawal / Punjab Di Bhatti De Phulka,236.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,28
+BERRY'S BISTRO,Gumbo,Buttered Parsley Spiced Rice Served In An Aromatic Chicken & Okra Gravy,267.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,29
+BERRY'S BISTRO,Shakshuka,Poached Eggs In Hot Tomato Chilli Pepper Relish Served With Bread Rolls,183.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,30
+BERRY'S BISTRO,Teriyaki Grilled Chicken,Chicken Grilled In Teriyaki Sauce And Served With Potato Timbals & Herb Sauteed Vegetables,330.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,31
+BERRY'S BISTRO,Stuffed Chicken Breast,"Chicken Stuffed With Sun Dried Tomatoes, Basil And Mozzarella Cheese Served With Mashed Potatoes, Veggies And Topped With Hot Espagnole Sauce",393.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,32
+BERRY'S BISTRO,Honey Glazed Chicken,"Honey Glazed Baked Chicken Served With Creamy Vegetables, Au Gratin & Sweet Corn",320.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,33
+BERRY'S BISTRO,Chicken Steak,Grilled Chicken On A Bed Of Sphagetti In Tomato Marinara Sauce Served With Garlic Toast,372.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,34
+BERRY'S BISTRO,Special Steak,"Grilled Chunky Chicken Served With Veggies, Mashed Potatoes, Fried Egg And Gralic Toast",393.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,35
+BERRY'S BISTRO,Chicken On A Skew,Choice Of Kebab Chicken (Hariyali / Tandoor / Malai) Served On A Skew With Phulka And Vegetables,257.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,36
+BERRY'S BISTRO,Vietnamese Grilled Lamb Chops,Grilled Lamb Chops Topped With Chimichuri Served With Skewed Zucchini And Mashed Potatos,393.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,37
+BERRY'S BISTRO,Slow Braised Lamb,Creamy Braised Lamb Curry Served With Saffron And Almond Rice,372.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,38
+BERRY'S BISTRO,Lamb Shepherd'S Pie,"Forced Lamb Meat Seasoned And Baked, Topped With Mashed Potato And Cheddar Cheese",372.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,39
+BERRY'S BISTRO,Fish Steak,Grilled Seer Fish In Lemon Butter Sauce Served With Asian Green Veggies & French Fries,393.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,40
+BERRY'S BISTRO,Tossed Garlic Prawns,"Marinated Prawns Cooked In Crushed Garlic, Lemon, Pepper, Green Chilly And Served With Bbq Vegetables",372.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,41
+BERRY'S BISTRO,Extra Bun (Veg),,26.25,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,42
+BERRY'S BISTRO,Veg Greek Salad,Chunky Garden Veggies With Feta & Olives Tossed In Vinaigrette,162.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,1
+BERRY'S BISTRO,Veg Waldorf Salad,"Mix Of Fruit, Nuts & Veggies Tossed In Mayo",162.75,,,,10,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,2
+BERRY'S BISTRO,Ceaser Salad,Shredded Roast Chicken And Lettuce Tossed In Ceaser Dressing,131.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,3
+BERRY'S BISTRO,Hawaiian Salad,"Juliennes Of Pineapple, Chicken & Pimentos Tossed In Mayo Oregano",131.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,4
+BERRY'S BISTRO,Roasted Chicken Salad,Chunks Of Chicken & Fresh Veggies Tossed In Lemon Dressing,131.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,5
+BERRY'S BISTRO,White Forest,,78.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,4,1
+BERRY'S BISTRO,Black Forest,,78.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,4,2
+BERRY'S BISTRO,Choco Delight,,78.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,4,3
+BERRY'S BISTRO,Choco Truffle,,89.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,4,4
+BERRY'S BISTRO,Choco Fudge,,89.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,4,5
+BERRY'S BISTRO,Choco Strawberry,,78.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,4,6
+BERRY'S BISTRO,Irish Coffee,,78.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,4,7
+BERRY'S BISTRO,Fresh Fruit Gateau,,110.25,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,4,8
+BERRY'S BISTRO,Red Velvet,,78.75,,,,10,Non Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,4,9

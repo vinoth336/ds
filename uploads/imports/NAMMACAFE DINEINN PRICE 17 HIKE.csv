@@ -1,0 +1,56 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+NAMMA CAFE,Tea 250 Ml,Serving 3 Persons Approx,76,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,1
+NAMMA CAFE,Ginger Tea 250 Ml,Serving 3 Persons Approx,94,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,2
+NAMMA CAFE,Filter Coffee 250 Ml,Serving 3 Persons Approx,94,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,3
+NAMMA CAFE,Karupatti Kappi 250 Ml,Serving 3 Persons Approx,105,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,4
+NAMMA CAFE,Lemon Tea 250 Ml,Serving 3 Persons Approx,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,5
+NAMMA CAFE,Sulaiman 250 Ml,Serving 3 Persons Approx,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,5
+NAMMA CAFE,Tea 500 Ml,Serving 6 Persons Approx,140,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,6
+NAMMA CAFE,Ginger Tea 500 Ml,Serving 6 Persons Approx,163,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,7
+NAMMA CAFE,Filter Coffee 500 Ml,Serving 6 Persons Approx,163,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,8
+NAMMA CAFE,Karupatti Kappi 500 Ml,Serving 6 Persons Approx,187,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,9
+NAMMA CAFE,Lemon Tea 500 Ml,Serving 6 Persons Approx,140,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,10
+NAMMA CAFE,Sulaiman 500 Ml,Serving 3 Persons Approx,140,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Drinks,,0,,1,5
+NAMMA CAFE,Rose Milk,,58,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,2,1
+NAMMA CAFE,Badam Milk,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,2,2
+NAMMA CAFE,Cold Coffee,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,2,3
+NAMMA CAFE,Elaneer Milkshake,Must Try,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,2,3
+NAMMA CAFE,Veg Sandwich,,47,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,1
+NAMMA CAFE,Grill Veg Sandwich,,58,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,2
+NAMMA CAFE,Chilli Cheese Sandwih,,58,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,3
+NAMMA CAFE,Onion Capsicum Sandwich,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,4
+NAMMA CAFE,Paneer Tikka Sandwich,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,4
+NAMMA CAFE,1000 Island Veg Sandwich,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,5
+NAMMA CAFE,Veg Schezwan Sandwich,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,6
+NAMMA CAFE,Club Sandwich,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,7
+NAMMA CAFE,Veg Pizza Sandwich,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,8
+NAMMA CAFE,Cheese Overloaded Sandwich,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,9
+NAMMA CAFE,Nutella Cheese Sandwich,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,10
+NAMMA CAFE,Choco Banana,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,11
+NAMMA CAFE,Nutty Crunch,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+NAMMA CAFE,Peri Peri Paneer,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,13
+NAMMA CAFE,Corn Cheese,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,14
+NAMMA CAFE,Corn Paneer,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,15
+NAMMA CAFE,Schezwan Paneer,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,16
+NAMMA CAFE,Bread Omelette,,58,,,,0,0,Non Veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,18
+NAMMA CAFE,Butter Egg Bhurji Sandwich,,70,,,,0,0,Non Veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,19
+NAMMA CAFE,Devil Egg Sandwich,,64,,,,0,0,Non Veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,20
+NAMMA CAFE,Egg Mayo Sandwich,,64,,,,0,0,Non Veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,21
+NAMMA CAFE,Egg & Cheese Sandwich,,70,,,,0,0,Non Veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,22
+NAMMA CAFE,Classic Maggi,,52,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,4,1
+NAMMA CAFE,Chilli Cheese Maggi,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,4,2
+NAMMA CAFE,Veg Maggi,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,4,3
+NAMMA CAFE,Schezwan Maggi,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,4,4
+NAMMA CAFE,Egg Maggi,,70,,,,0,0,Non Veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,4,5
+NAMMA CAFE,French Fries,,59,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Namma Snacks,,0,,5,1
+NAMMA CAFE,Veg Roll 3 Pcs,,59,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Namma Snacks,,0,,5,2
+NAMMA CAFE,Spicy Cheese Samosa 5 Pcs,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Namma Snacks,,0,,5,3
+NAMMA CAFE,Peri Peri Fries,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Namma Snacks,,0,,5,4
+NAMMA CAFE,Vegetable Momos 5 Pcs,,70,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Namma Snacks,,0,,5,5
+NAMMA CAFE,Cheese Corn Nuggets 6 Pcs,,82,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Namma Snacks,,0,,5,6
+NAMMA CAFE,Jalapenos Cheese Burst 8 Pcs,,88,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Namma Snacks,,0,,5,7
+NAMMA CAFE,Aloo Tikki 3 Pcs,,59,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Items,,0,,6,1
+NAMMA CAFE,Veg Lollipop 4 Pcs,,59,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Items,,0,,6,2
+NAMMA CAFE,Veg Fingers 3 Pcs,,59,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Items,,0,,6,3
+NAMMA CAFE,Smiles 3 Pcs,,59,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Items,,0,,6,4
+NAMMA CAFE,Chilli Garlic Balls 8 Pcs,,59,,,,0,0,veg,10:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Items,,0,,6,5

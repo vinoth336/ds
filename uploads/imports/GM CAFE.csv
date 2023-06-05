@@ -1,0 +1,104 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+GM CAFE,Steamed Veg Momos 5 Pcs,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,1,1
+GM CAFE,Steamed Paneer Momos 5 Pcs,,149,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,1,2
+GM CAFE,Steamed Paneer Tikka Momos 5 Pcs,,159,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,1,3
+GM CAFE,Steamed Chicken Momos 5 Pcs,,149,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,1,4
+GM CAFE,Steamed Chicken Tikka Momos 5 Pcs,,159,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,1,5
+GM CAFE,Steamed Chicken BBQ Momos 5 Ps,,169,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,1,6
+GM CAFE,Steamed Peri Peri Chicken Momos 5 Pcs,,179,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,1,7
+GM CAFE,Steamed Chicken Cheese Momos 5 Pcs,,189,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Steamed Momos,,0,,1,8
+GM CAFE,Fried Veg Momos 5 Pcs,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,1
+GM CAFE,Fried Paneer Momos 5 Pcs,,149,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,2
+GM CAFE,Fried Paneer Tikka Momos 5 Pcs,,159,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,3
+GM CAFE,Fried Chicken Momos 5 Pcs,,149,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,4
+GM CAFE,Fried Chicken Tikka Momos 5 Pcs,,159,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,5
+GM CAFE,Fried Chicken BBQ Momos 5 Ps,,169,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,6
+GM CAFE,Fried Peri Peri Chicken Momos 5 Pcs,,179,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,7
+GM CAFE,Fried Chicken Cheese Momos 5 Pcs,,189,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,8
+GM CAFE,White Sauce Pasta,,149,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta & Maggi,,0,,3,1
+GM CAFE,Red Sauce Pasta,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta & Maggi,,0,,3,2
+GM CAFE,White Sauce Sausage Pasta,,159,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta & Maggi,,0,,3,3
+GM CAFE,Red Sauce Sausage Pasta,,159,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta & Maggi,,0,,3,4
+GM CAFE,Cheese Corn Maggi,,99,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta & Maggi,,0,,3,5
+GM CAFE,Spicy Corn Maggi,,99,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta & Maggi,,0,,3,6
+GM CAFE,Veg Pizza+Veg Nuggets+French Fries+Coke,,320,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,GMC Combos,,0,,4,1
+GM CAFE,Corn Pizza+Corn Nuggets+Milkshake+French Fries,,400,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,GMC Combos,,0,,4,2
+GM CAFE,Chicken Pizza+Chicken Nuggets+Masala Fries+Coke,,379,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,GMC Combos,,0,,4,3
+GM CAFE,Chicken Burger+Corn Nuggets+Coke,,230,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,GMC Combos,,0,,4,4
+GM CAFE,Chicken Momos+Chicken Sandwich+Smiles+Coke,,399,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,GMC Combos,,0,,4,5
+GM CAFE,Chicken Sandwich+Mojito+Fries,,249,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,GMC Combos,,0,,4,6
+GM CAFE,Chicken Hot Wings+Fried Veg Momos+Vennila Milkshake,,370,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,GMC Combos,,0,,4,7
+GM CAFE,Vannila Milkshake,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,5,1
+GM CAFE,Chocolate Milkshake,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,5,2
+GM CAFE,Butterscotch Milkshake,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,5,3
+GM CAFE,Mango Milkshake,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,5,4
+GM CAFE,Black Currant Milkshake,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,5,5
+GM CAFE,Pista Milkshake,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,5,6
+GM CAFE,Rose Milkshake,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,5,7
+GM CAFE,Badham Milkshake,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,5,8
+GM CAFE,Fruits & Nuts Milkshake,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,5,9
+GM CAFE,Apple Fresh Juice,,129,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,1
+GM CAFE,Pomogranate Fresh Juice,,129,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,2
+GM CAFE,Orange Fresh Juice,,79,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,3
+GM CAFE,Mosambi Fresh Juice,,89,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,4
+GM CAFE,Muskmelon Fresh Juice,,69,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,5
+GM CAFE,Grapes Fresh Juice,,89,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,6
+GM CAFE,Pineapple Fresh Juice,,69,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,7
+GM CAFE,Mango Fresh Juice,,69,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,8
+GM CAFE,Watermelon Fresh Juice,,69,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,9
+GM CAFE,Lemon Fresh Juice,,69,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,10
+GM CAFE,Veg Cheese Sandwich,,119,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,1
+GM CAFE,Paneer Cheese Sandwich,,149,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,2
+GM CAFE,Corn Cheese Sandwich,,159,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,3
+GM CAFE,Mushroom Cheese Sandwich,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,4
+GM CAFE,Choco Sandwich,,149,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,5
+GM CAFE,4 Layer Jumbo Veg Sandwich,,169,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,6
+GM CAFE,Chicken Cheese Sandwich,,139,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,7
+GM CAFE,4 Layer Jumbo Non Veg Sandwich,,179,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,8
+GM CAFE,GM Special Mixed Veg Pizza ,"Pizza Size 6""",199,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,1
+GM CAFE,Veg Pizza,"Pizza Size 6""",149,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,2
+GM CAFE,Paneer Pizza,"Pizza Size 6""",169,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,3
+GM CAFE,Corn Pizza,"Pizza Size 6""",159,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,4
+GM CAFE,Roasted Onion Pizza,"Pizza Size 6""",149,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,5
+GM CAFE,Extra Cheese Corn Pizza,"Pizza Size 6""",179,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,6
+GM CAFE,Mushroom Pizza,"Pizza Size 6""",169,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,7
+GM CAFE,Chicken Pizza,"Pizza Size 6""",179,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,8
+GM CAFE,Jamaican Chicken Pizza,"Pizza Size 6""",189,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,9
+GM CAFE,Extra Cheese,,10,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,8,10
+GM CAFE,Paneer Patty Burger,,149,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,1
+GM CAFE,Veg Patty Burger,,139,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,2
+GM CAFE,Royal French Fries Burger,,149,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,3
+GM CAFE,Egg Patty Burger,,139,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,4
+GM CAFE,Chicken Kiddy Burger,,149,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,5
+GM CAFE,Jumbo Chicken Burger,,159,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,9,6
+GM CAFE,Veg Nuggets 5 Pcs,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,1
+GM CAFE,Veg Fingers,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,2
+GM CAFE,Cheese Corn Nuggets 5 Pcs,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,3
+GM CAFE,Spicy Corn Nuggets 5 Pcs,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,4
+GM CAFE,Veg Rolls 4 Pcs,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,5
+GM CAFE,Paneer Rolls 4 Pcs,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,6
+GM CAFE,Smiles Fries 6 Pcs,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,7
+GM CAFE,French Fries,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,8
+GM CAFE,Masala Fries,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,9
+GM CAFE,Chicken Nuggets 5 Pcs,,169,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,10
+GM CAFE,Chicken Fingers 5 Pcs,,169,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,11
+GM CAFE,Chicken Popcorn 5 Pcs,,169,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,12
+GM CAFE,Chicken Bites 5 Pcs,,169,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,13
+GM CAFE,Chicken Hot Wings,,169,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,14
+GM CAFE,Chicken Spring Roll 4 Pcs,,169,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg & Non Veg Bites,,0,,10,15
+GM CAFE,Hot Coffee,,49,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Cold Coffee,,0,,11,1
+GM CAFE,Cold Coffee,,99,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Cold Coffee,,0,,11,2
+GM CAFE,Cappacino,,109,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Cold Coffee,,0,,11,3
+GM CAFE,Irish Coffee,,119,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Cold Coffee,,0,,11,4
+GM CAFE,Irish Coffee Cold,,89,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Cold Coffee,,0,,11,5
+GM CAFE,Green Coffee,,99,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Cold Coffee,,0,,11,6
+GM CAFE,Filter Coffee,,49,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Cold Coffee,,0,,11,7
+GM CAFE,Hot Chocolate,,69,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Cold Coffee,,0,,11,8
+GM CAFE,Mint Mojito,,79,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,12,1
+GM CAFE,Black Current Mojito,,89,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,12,2
+GM CAFE,Pink Blast Mojito,,89,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,12,3
+GM CAFE,Green Apple Mojito,,89,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,12,4
+GM CAFE,Mango Tanki Mojito,,89,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,12,5
+GM CAFE,Blue Curacao Mojito,,89,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,12,6
+GM CAFE,White Sauce Chicken Sausage Pasta,,149,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,GM Cold Signature Dishes,,0,,13,1
+GM CAFE,GM Special Mixed Veg Pizza,,179,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,GM Cold Signature Dishes,,0,,13,2

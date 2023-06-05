@@ -1,0 +1,10 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,max_packaging_charge,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+POM POM BIRIYANI,Chicken Tawa Fry,Chef's Special,100,,,,0,Non Veg,,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+POM POM BIRIYANI,Chicken Chukka ,,100,,,,0,Non Veg,,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,2
+POM POM BIRIYANI,Plain Biriyani ,,100,,,,0,Non Veg,,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,1
+POM POM BIRIYANI,Chicken Biriyani ,Must Try,125,,,,0,Non Veg,,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,2
+POM POM BIRIYANI,Chicken Biriyani with Egg ,Must Try,138,,,,0,Non Veg,,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,2,2
+POM POM BIRIYANI,Chicken Biriyani + Tawa Fry + Boiled Egg + Sweet,Must Try,163,,,,0,Non Veg,,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani Combos,,0,,3,1
+POM POM BIRIYANI,Plain Biriyani + Tawa Fry,Must Try,200,,,,0,Non Veg,,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani Combos,,0,,3,2
+POM POM BIRIYANI,Day Special Sweet,Thini Payasam/Avul Payasam/Tuti Fruity Kesari/Pineapple Kesari,13,,,,0,Veg,,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,4,1
+POM POM BIRIYANI,Boiled Egg ,,13,,,,0,Non Veg,,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,4,2

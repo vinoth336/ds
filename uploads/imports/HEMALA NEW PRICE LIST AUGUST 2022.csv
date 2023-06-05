@@ -1,0 +1,324 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOTEL HEMALA,Green Salad,,126,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,1,1
+HOTEL HEMALA,Fried Noodles Salad,,126,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,1,2
+HOTEL HEMALA,Tossed Salad,,126,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,1,3
+HOTEL HEMALA,Paneer Tikka Salad,,126,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,1,4
+HOTEL HEMALA,Coleslaw Salad,,126,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,1,5
+HOTEL HEMALA,Chicken Tikka Salad,,126,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Salads,,0,,1,6
+HOTEL HEMALA,Special Veg Soup,,157.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Veg,,0,,2,1
+HOTEL HEMALA,Hot & Sour Veg Soup,,157.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Veg,,0,,2,2
+HOTEL HEMALA,Veg Manchow Soup,,157.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Veg,,0,,2,3
+HOTEL HEMALA,Tom Yum Veg Soup,,157.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Veg,,0,,2,4
+HOTEL HEMALA,Sweet Corn Veg Soup,,157.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Veg,,0,,2,5
+HOTEL HEMALA,Veg Clear Soup,,157.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Veg,,0,,2,6
+HOTEL HEMALA,Kozhi Rasam,,157.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Non - Veg,,0,,3,1
+HOTEL HEMALA,Hot & Sour Chicken Soup,,157.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Non - Veg,,0,,3,2
+HOTEL HEMALA,Chicken Manchow Soup,,157.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Non - Veg,,0,,3,3
+HOTEL HEMALA,Tom Yum Chicken Soup,,157.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Non - Veg,,0,,3,4
+HOTEL HEMALA,Sweet Corn Chicken Soup,,157.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Non - Veg,,0,,3,5
+HOTEL HEMALA,Chicken Clear Soup,,157.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Soup Non - Veg,,0,,3,6
+HOTEL HEMALA,Chicken Tangri Kebab Indian Style Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,1
+HOTEL HEMALA,Chicken Red Bull Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,2
+HOTEL HEMALA,Chicken Hot Pot Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,3
+HOTEL HEMALA,Chicken Kongu Fried Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,4
+HOTEL HEMALA,Chicken Uppu Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,5
+HOTEL HEMALA,Chicken Pallipalayam Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,6
+HOTEL HEMALA,Chicken Spicy Wings Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,7
+HOTEL HEMALA,Chicken Spicy Layonnaise Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,8
+HOTEL HEMALA,Afgani Kebab,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,9
+HOTEL HEMALA,Paneer Fingers Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chefs Special Starters,,0,,4,10
+HOTEL HEMALA,Paneer Fingers Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Starters,,0,,5,1
+HOTEL HEMALA,Paneer 65 Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Starters,,0,,5,2
+HOTEL HEMALA,Paneer Chilli Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Starters,,0,,5,3
+HOTEL HEMALA,Paneer Manchurian Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Starters,,0,,5,4
+HOTEL HEMALA,Paneer Pepper & Salt Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Starters,,0,,5,5
+HOTEL HEMALA,Paneer Tikka  Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Starters,,0,,5,6
+HOTEL HEMALA,Paneer Tikka Indian Style Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Starters,,0,,5,7
+HOTEL HEMALA,Mushroom 65 Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Starters,,0,,6,1
+HOTEL HEMALA,Mushroom Chilli Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Starters,,0,,6,2
+HOTEL HEMALA,Mushroom Manchurian Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Starters,,0,,6,3
+HOTEL HEMALA,Mushroom Pepper & Salt Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Starters,,0,,6,4
+HOTEL HEMALA,Gobi 65 Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gobi Starters,,0,,7,1
+HOTEL HEMALA,Gobi Chilli Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gobi Starters,,0,,7,2
+HOTEL HEMALA,Gobi Manchurian Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gobi Starters,,0,,7,3
+HOTEL HEMALA,Gobi Pepper & Salt Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gobi Starters,,0,,7,4
+HOTEL HEMALA,Babycorn 65 Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Babycorn Starters,,0,,8,1
+HOTEL HEMALA,Babycorn Chilli Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Babycorn Starters,,0,,8,2
+HOTEL HEMALA,Babycorn Manchurian Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Babycorn Starters,,0,,8,3
+HOTEL HEMALA,Babycorn Pepper & Salt Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Babycorn Starters,,0,,8,4
+HOTEL HEMALA,Veg. Spring Roll Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,1
+HOTEL HEMALA,Veg. Gold Coin Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,2
+HOTEL HEMALA,Veg. Balls Manchurian Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,3
+HOTEL HEMALA,Aloo Jeera Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,4
+HOTEL HEMALA,Aloo Methi Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,5
+HOTEL HEMALA,Aloo Gobi Dry,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,6
+HOTEL HEMALA,Chicken Tangri Kebab Indian Style Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,1
+HOTEL HEMALA,Chicken Red Bull Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,2
+HOTEL HEMALA,Chicken Hot Pot Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,3
+HOTEL HEMALA,Chicken Kongu Fried Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,4
+HOTEL HEMALA,Chicken Uppu Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,5
+HOTEL HEMALA,Chicken Pallipalayam Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,6
+HOTEL HEMALA,Chicken Spicy Wings Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,7
+HOTEL HEMALA,Chicken Spicy Layonnaise Dry,,283.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,8
+HOTEL HEMALA,Tandoori Chicken (Full) Dry,,556.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,9
+HOTEL HEMALA,Tandoori Chicken (Half) Dry,,315,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,10
+HOTEL HEMALA,Chicken 65 Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,11
+HOTEL HEMALA,Chicken Pepper Fry Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,12
+HOTEL HEMALA,Chicken Varutha Curry Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,13
+HOTEL HEMALA,Chicken Sukka Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,14
+HOTEL HEMALA,Chicken Kothu Curry Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,15
+HOTEL HEMALA,Chicken Garlic Indian Style Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,16
+HOTEL HEMALA,Chicken Manchurian Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,17
+HOTEL HEMALA,Chicken Chilli Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,18
+HOTEL HEMALA,Chicken Dragon Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,19
+HOTEL HEMALA,Chicken Szechwan Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,20
+HOTEL HEMALA,Chicken Pepper & Salt Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,21
+HOTEL HEMALA,Chicken Lolly Pop Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,22
+HOTEL HEMALA,Chicken Drums Of Heaven Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,23
+HOTEL HEMALA,Chicken Spring Roll Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,24
+HOTEL HEMALA,Chicken Gold Coin Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,25
+HOTEL HEMALA,Chicken Shredded Green Chilli Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,26
+HOTEL HEMALA,Chicken Shredded Red Chilli Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,27
+HOTEL HEMALA,Chicken Shredded Honey Chilli Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,28
+HOTEL HEMALA,Chicken Garlic - Chinese Style Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,29
+HOTEL HEMALA,Tangri Kebab Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,30
+HOTEL HEMALA,Chicken Tikka Dry,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,10,31
+HOTEL HEMALA,Mutton Pepper Fry Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,11,1
+HOTEL HEMALA,Mutton Varutha Curry Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,11,2
+HOTEL HEMALA,Mutton Sukka Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,11,3
+HOTEL HEMALA,Mutton Kothu Curry Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,11,4
+HOTEL HEMALA,Mutton Coconut Fry Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,11,5
+HOTEL HEMALA,Mutton Balls Manchurian Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,11,6
+HOTEL HEMALA,Mutton Crispy Fried Lamb Red Chilly Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,11,7
+HOTEL HEMALA,Mutton Crispy Fried Lamb Green Chilly Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,11,8
+HOTEL HEMALA,Fish 65 Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,1
+HOTEL HEMALA,Fish Garlic Indian Style Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,2
+HOTEL HEMALA,Fish Manchurian Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,3
+HOTEL HEMALA,Fish Chilli Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,4
+HOTEL HEMALA,Fish Szechwan  Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,5
+HOTEL HEMALA,Fish Pepper & Salt Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,6
+HOTEL HEMALA,Fish Phuket Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,7
+HOTEL HEMALA,Fish Tikka Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,8
+HOTEL HEMALA,Fish Methi Tikka Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,9
+HOTEL HEMALA,Fish Finger  Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,10
+HOTEL HEMALA,Fish 'N'  Chips Dry,,388.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,11
+HOTEL HEMALA,Fish Vanjiram Masala Fried Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,12
+HOTEL HEMALA,Fish Vanjiram Chettinadu Style Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Starters,,0,,12,13
+HOTEL HEMALA,Prawn Crumb Fried Dry,,388.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,1
+HOTEL HEMALA,Prawn 65 Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,2
+HOTEL HEMALA,Prawn Pepper Fry Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,3
+HOTEL HEMALA,Prawn Thokku Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,4
+HOTEL HEMALA,Prawn Manchurian Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,5
+HOTEL HEMALA,Prawn Chilli Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,6
+HOTEL HEMALA,Prawn Szechwan Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,7
+HOTEL HEMALA,Prawn Pepper & Salt Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,8
+HOTEL HEMALA,Prawn Dragon Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,9
+HOTEL HEMALA,Garlic Prawn Indian Style Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,10
+HOTEL HEMALA,Garlic Prawn Chinese Dry,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Starters,,0,,13,11
+HOTEL HEMALA,Egg Chilli Dry,,231,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Starters / Gravies,,0,,14,1
+HOTEL HEMALA,Egg Manchurian Dry,,231,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Starters / Gravies,,0,,14,2
+HOTEL HEMALA,Egg Masala Gravy,,231,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Starters / Gravies,,0,,14,3
+HOTEL HEMALA,Egg Bujji Masala Gravy,,231,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Starters / Gravies,,0,,14,4
+HOTEL HEMALA,Paneer Burji Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Gravies,,0,,15,1
+HOTEL HEMALA,Paneer Butter Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Gravies,,0,,15,2
+HOTEL HEMALA,Paneer Chettinadu Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Gravies,,0,,15,3
+HOTEL HEMALA,Paneer Kadai Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Gravies,,0,,15,4
+HOTEL HEMALA,Paneer Tikka Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Gravies,,0,,15,5
+HOTEL HEMALA,Paneer Varutha Curry Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Gravies,,0,,15,6
+HOTEL HEMALA,Paneer Manchuirian Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Gravies,,0,,15,7
+HOTEL HEMALA,Panner Chilli Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Panner Gravies,,0,,15,8
+HOTEL HEMALA,Mushroom Chettinadu Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Gravies,,0,,16,1
+HOTEL HEMALA,Mushroom Kadai Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Gravies,,0,,16,2
+HOTEL HEMALA,Mushroom Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Gravies,,0,,16,3
+HOTEL HEMALA,Mushroom Varutha Curry Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Gravies,,0,,16,4
+HOTEL HEMALA,Mushroom Chilli Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Gravies,,0,,16,5
+HOTEL HEMALA,Mushroom Manchurian Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mushroom Gravies,,0,,16,6
+HOTEL HEMALA,Gobi Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gobi Gravies,,0,,17,1
+HOTEL HEMALA,Gobi Mutter Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gobi Gravies,,0,,17,2
+HOTEL HEMALA,Gobi Chilli Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gobi Gravies,,0,,17,3
+HOTEL HEMALA,Gobi Manchurian Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gobi Gravies,,0,,17,4
+HOTEL HEMALA,Babycorn Chilli Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Babycorn Gravies,,0,,18,1
+HOTEL HEMALA,Babycorn Manchurian Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Babycorn Gravies,,0,,18,2
+HOTEL HEMALA,Aloo Gobi Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,1
+HOTEL HEMALA,Aloo Mutter Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,2
+HOTEL HEMALA,Channa Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,3
+HOTEL HEMALA,Dhal Fry Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,4
+HOTEL HEMALA,Dhal Tadka Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,5
+HOTEL HEMALA,Green Peas Masala Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,6
+HOTEL HEMALA,Veg Balls Manchurian Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,7
+HOTEL HEMALA,Veg Chettinadu Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,8
+HOTEL HEMALA,Veg Mixed Curry Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,9
+HOTEL HEMALA,Veg Thanni Kulambu Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,10
+HOTEL HEMALA,Veg Varutha Curry Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,11
+HOTEL HEMALA,Veg Kadai Gravy,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Gravies,,0,,19,12
+HOTEL HEMALA,Chicken Thanni Kulambu Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,1
+HOTEL HEMALA,Chicken Kadai Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,2
+HOTEL HEMALA,Chicken Chettinadu Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,3
+HOTEL HEMALA,Chicken Varutha Curry Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,4
+HOTEL HEMALA,Chicken Kothu Curry Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,5
+HOTEL HEMALA,Chicken Malai Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,6
+HOTEL HEMALA,Chicken Hydrabadi Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,7
+HOTEL HEMALA,Chicken Butter Masala Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,8
+HOTEL HEMALA,Chicken Tikka Masala Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,9
+HOTEL HEMALA,Chicken Chilli Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,10
+HOTEL HEMALA,Chicken Dragon Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,11
+HOTEL HEMALA,Chicken Garlic Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,12
+HOTEL HEMALA,Chicken Szechwan Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,13
+HOTEL HEMALA,Chicken Manchurian Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,14
+HOTEL HEMALA,Chicken Shredded Green Chilli Gravy,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Gravies,,0,,20,15
+HOTEL HEMALA,Mutton Chettinadau Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Gravies,,0,,20,16
+HOTEL HEMALA,Mutton Varutha Curry Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Gravies,,0,,20,17
+HOTEL HEMALA,Mutton Kothu Curry Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Gravies,,0,,20,18
+HOTEL HEMALA,Mutton Hydrabadi Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Gravies,,0,,20,19
+HOTEL HEMALA,Fish Curry Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Gravies,,0,,21,1
+HOTEL HEMALA,Fish Kulambu Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Gravies,,0,,21,2
+HOTEL HEMALA,Fish Chettinadu Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Gravies,,0,,21,3
+HOTEL HEMALA,Fish Chilli Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Gravies,,0,,21,4
+HOTEL HEMALA,Fish Garlic Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Gravies,,0,,21,5
+HOTEL HEMALA,Fish Manchurian Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Fish Gravies,,0,,21,6
+HOTEL HEMALA,Prawn Masala Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Gravies,,0,,22,1
+HOTEL HEMALA,Prawn Curry Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Gravies,,0,,22,2
+HOTEL HEMALA,Prawn Chettinadu Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Gravies,,0,,22,3
+HOTEL HEMALA,Prawn Varutha Curry Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Gravies,,0,,22,4
+HOTEL HEMALA,Prawn Chilli Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Gravies,,0,,22,5
+HOTEL HEMALA,Prawn Dragon Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Gravies,,0,,22,6
+HOTEL HEMALA,Prawn Garlic Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Gravies,,0,,22,7
+HOTEL HEMALA,Prawn Szechwan Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Gravies,,0,,22,8
+HOTEL HEMALA,Prawn Manchurian Gravy,,346.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Prawn Gravies,,0,,22,9
+HOTEL HEMALA,Chappathi,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,1
+HOTEL HEMALA,Kulcha,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,2
+HOTEL HEMALA,Kulcha Butter ,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,3
+HOTEL HEMALA,Kulcha Cheese,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,4
+HOTEL HEMALA,Kulcha Chicken Stuffed,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,5
+HOTEL HEMALA,Kulcha Veg Stuffed ,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,6
+HOTEL HEMALA,Naan,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,7
+HOTEL HEMALA,Naan Butter,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,8
+HOTEL HEMALA,Naan Cheese,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,9
+HOTEL HEMALA,Naan Chicken Stuffed,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,10
+HOTEL HEMALA,Naan Garlic Butter ,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,11
+HOTEL HEMALA,Naan Veg Stuffed ,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,12
+HOTEL HEMALA,Paratha Butter Tandoori,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,13
+HOTEL HEMALA,Paratha Tandoori ,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,14
+HOTEL HEMALA,Paratha Veg Stuffed ,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,15
+HOTEL HEMALA,Paratha Wheat Tawa ,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,16
+HOTEL HEMALA,Phulka (4 No),,136.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,17
+HOTEL HEMALA,Phulka Butter (4No),,136.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,18
+HOTEL HEMALA,Romali Roti,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,19
+HOTEL HEMALA,Roti,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,20
+HOTEL HEMALA,Roti Butter,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,21
+HOTEL HEMALA,Roti Garlic ,,115.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,23,22
+HOTEL HEMALA,Idly  (2 Nos),,63,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,1
+HOTEL HEMALA,Sambar Idly,,74,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,2
+HOTEL HEMALA,Kaldosa,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,3
+HOTEL HEMALA,Uthappam ,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,4
+HOTEL HEMALA,Onion Uthappam,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,5
+HOTEL HEMALA,Dosa Plain,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,6
+HOTEL HEMALA,Dosa Ghee,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,7
+HOTEL HEMALA,Dosa Masala,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,8
+HOTEL HEMALA,Dosa Onion,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,9
+HOTEL HEMALA,Dosa Podi,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,10
+HOTEL HEMALA,Dosa Rava,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,11
+HOTEL HEMALA,Dosa Ghee Rava,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,12
+HOTEL HEMALA,Dosa Masala Rava,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,13
+HOTEL HEMALA,Dosa Onion Rava,,105,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,14
+HOTEL HEMALA,Dosa Egg Kal Dosa,,136.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,15
+HOTEL HEMALA,Dosa Egg,,136.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,16
+HOTEL HEMALA,Dosa Kari Chicken ,,220.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,17
+HOTEL HEMALA,Dosa Kari Mutton,,262.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Idly & Dosa,,0,,24,18
+HOTEL HEMALA,Biriyani Plain,,231,,,,15.75,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,25,1
+HOTEL HEMALA,Biriyani Veg,,231,,,,15.75,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,25,2
+HOTEL HEMALA,Biriyani Egg,,273,,,,15.75,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,25,3
+HOTEL HEMALA,Biriyani Chicken ,,273,,,,15.75,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,25,4
+HOTEL HEMALA,Biriyani Mutton ,,346.5,,,,15.75,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,25,5
+HOTEL HEMALA,Biriyani Fish ,,346.5,,,,15.75,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,25,6
+HOTEL HEMALA,Biriyani Prawn ,,346.5,,,,15.75,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,25,7
+HOTEL HEMALA,Plain Rice,,136.5,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,1
+HOTEL HEMALA,Plain Basumathi Rice,,136.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,2
+HOTEL HEMALA,Ghee Rice,,136.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,3
+HOTEL HEMALA,Jeera Rice,,136.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,4
+HOTEL HEMALA,Curd Rice,,136.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,5
+HOTEL HEMALA,Curd Rice 1942,,136.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,6
+HOTEL HEMALA,Veg Fried Rice,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,7
+HOTEL HEMALA,Paneer Fried Rice,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,8
+HOTEL HEMALA,Mix Veg Fried Rice,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,9
+HOTEL HEMALA,Veg Fried Rice  - Chilli Garlic ,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,10
+HOTEL HEMALA,Veg Fried Rice - Szechwan ,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,11
+HOTEL HEMALA,Veg Hakka Fried Rice ,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Veg,,0,,26,12
+HOTEL HEMALA,Egg Fried Rice ,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Non Veg,,0,,27,1
+HOTEL HEMALA,Egg Fried Rice - Chilli Garlic ,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Non Veg,,0,,27,2
+HOTEL HEMALA,Egg Fried Rice - Szechwan ,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Non Veg,,0,,27,3
+HOTEL HEMALA,Chicken Fried Rice,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Non Veg,,0,,27,4
+HOTEL HEMALA,Chicken Fried Rice  - Chilli Garlic ,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Non Veg,,0,,27,5
+HOTEL HEMALA,Chicken Fried Rice - Szechwan ,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Non Veg,,0,,27,6
+HOTEL HEMALA,Chicken Fried Rice - Singapore ,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Non Veg,,0,,27,7
+HOTEL HEMALA,Mix Non Veg Fried Rice,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Non Veg,,0,,27,8
+HOTEL HEMALA,Prawn Fried Rice,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Rice Varities - Non Veg,,0,,27,9
+HOTEL HEMALA,Veg Noodles,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Veg,,0,,28,1
+HOTEL HEMALA,Paneer Noodles,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Veg,,0,,28,2
+HOTEL HEMALA,Veg Noodles  - Szechwan ,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Veg,,0,,28,3
+HOTEL HEMALA,Veg Noodles - Chilli Garlic ,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Veg,,0,,28,4
+HOTEL HEMALA,Veg Hakka Noodles,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Veg,,0,,28,5
+HOTEL HEMALA,Mix Veg Noodles,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Veg,,0,,28,6
+HOTEL HEMALA,American Chopsuey Veg,,231,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Veg,,0,,28,7
+HOTEL HEMALA,Egg Noodles,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Non Veg,,0,,28,8
+HOTEL HEMALA,Egg Noodles - Szechwan,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Non Veg,,0,,28,9
+HOTEL HEMALA,Egg Noodles - Chilli Garlic ,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Non Veg,,0,,28,10
+HOTEL HEMALA,Chicken Noodles,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Non Veg,,0,,28,11
+HOTEL HEMALA,Chicken Noodles  - Szechwan ,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Non Veg,,0,,28,12
+HOTEL HEMALA,Chicken Noodles  - Chilli Garlic ,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Non Veg,,0,,28,13
+HOTEL HEMALA,Mix Non Veg Noodles,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Non Veg,,0,,28,14
+HOTEL HEMALA,Prawn Noodles,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Non Veg,,0,,28,15
+HOTEL HEMALA,American Chopsuey Non Veg,,273,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Noodles - Non Veg,,0,,28,16
+HOTEL HEMALA,Cheese Sandwich,,168,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,29,1
+HOTEL HEMALA,Cheese Sandwich - Grilled,,168,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,29,2
+HOTEL HEMALA,Cheese Sandwich - Toasted,,168,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,29,3
+HOTEL HEMALA,Chicken Sandwich,,189,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,29,4
+HOTEL HEMALA,Chicken Sandwich - Grilled,,189,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,29,5
+HOTEL HEMALA,Chicken Sandwich - Toasted,,189,,,,10.5,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,29,6
+HOTEL HEMALA,Veg Sandwich,,168,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,29,7
+HOTEL HEMALA,Veg Sandwich - Grilled,,168,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,29,8
+HOTEL HEMALA,Veg Sandwich - Toasted,,168,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,29,9
+HOTEL HEMALA,Freshly Cut Fruit Platter,,220.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,30,1
+HOTEL HEMALA,Fruit Salad,,220.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,30,2
+HOTEL HEMALA,Chocolate Brownie,,199.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,30,3
+HOTEL HEMALA,Apple Pie,,199.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,30,4
+HOTEL HEMALA,Caramel Custard,,199.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,30,5
+HOTEL HEMALA,Gulab Jamun,,157.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,30,6
+HOTEL HEMALA,Carrot Halwa,,157.5,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Desserts,,0,,30,7
+HOTEL HEMALA,Pastry - Blue Berry,,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,1
+HOTEL HEMALA,Pastry - Black Forest,,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,2
+HOTEL HEMALA,Pastry - White Forest,,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,3
+HOTEL HEMALA,Pastry - Strawberry,,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,4
+HOTEL HEMALA,Pastry - Butter Scotch,,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,5
+HOTEL HEMALA,Pastry - Pineapple,,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,6
+HOTEL HEMALA,Pastry - Opera,,160,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,7
+HOTEL HEMALA,Pastry - Island,,160,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,8
+HOTEL HEMALA,Pastry - Chocolate Triffle,,130,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,9
+HOTEL HEMALA,Gulab Jamun Cheese Cake,,130,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,10
+HOTEL HEMALA,Puffs - Veg,,25,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,11
+HOTEL HEMALA,Puffs - Egg,,25,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,12
+HOTEL HEMALA,Doughnuts - Chocolate,,25,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,13
+HOTEL HEMALA,Doughnuts - White Chocolate,,25,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,14
+HOTEL HEMALA,Doughnuts - Sugar Coated,,25,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,15
+HOTEL HEMALA,Cookies - Coconut & Almond [250 Grms],,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,16
+HOTEL HEMALA,Cookies - Orange [250 Grms],,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,17
+HOTEL HEMALA,Cookies - Melting Moments [250 Grms],,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,18
+HOTEL HEMALA,Cookies - Ajwin [250 Grms],,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,19
+HOTEL HEMALA,Cookies - Choco Cashewnut  [250 Grms],,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,20
+HOTEL HEMALA,Cookies - Salt & Butter  [250 Grms],,100,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,21
+HOTEL HEMALA,Bread - White,,35,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,22
+HOTEL HEMALA,Bread - Wheat,,35,,,,10.5,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Bakery,,0,,31,23
+HOTEL HEMALA,Veg Biriyani + Gobi 65,,430,,,,26,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Combo 1,,0,,32,1
+HOTEL HEMALA,Veg. Fried Rice + Gobi Manchurian Dry,,431,,,,26,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Combo 2,,0,,32,2
+HOTEL HEMALA,Veg Noodles + Gobi Manchurian Dry,,433,,,,26,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Veg Combo 3,,0,,32,3
+HOTEL HEMALA,Chicken Biriyani + Chicken 65,,518,,,,26,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Combo 1,,0,,33,4
+HOTEL HEMALA,Chicken Fried Rice + Chicken Manchurian Dry ,,518,,,,26,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Combo 2,,0,,33,5
+HOTEL HEMALA,Chicken Noodles + Chicken Manchurian Dry,,520,,,,26,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Chicken Combo 3,,0,,33,6
+HOTEL HEMALA,Mutton Biriyani + Chicken 65,,594,,,,26,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Combo 1,,0,,34,7
+HOTEL HEMALA,Mutton Biriyani + Mutton Sukka,,668,,,,26,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Mutton Combo 2,,0,,34,8
+HOTEL HEMALA,Dosa Combo 1 Kaldosa - 2 Nos + Kozhi Varutha Curry,,402,,,,26,0,Non Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Combo 1,,0,,35,9
+HOTEL HEMALA,Dosa Combo 2 Kaldosa - 2 Nos + Chicken Thanni Kulambu,,403,,,,26,0,Non Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Combo 2,,0,,35,10
+HOTEL HEMALA,Dosa Combo 3 Kaldosa - 2 Nos + Veg. Thanni Kulambu,,362,,,,26,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Combo 3,,0,,35,11
+HOTEL HEMALA,Idly 2 Nos + Kozhi Varutha Curry,,374,,,,26,0,Non Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Combo 4,,0,,35,12
+HOTEL HEMALA,Idly 2 Nos + Kozhi Varutha Curry,,374,,,,26,0,Non Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Combo 5,,0,,35,13
+HOTEL HEMALA,Idly 2 Nos + Kozhi Varutha Curry,,333,,,,26,0,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Combo 6,,0,,35,14

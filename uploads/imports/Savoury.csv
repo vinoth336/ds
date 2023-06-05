@@ -1,0 +1,548 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SAVOURY SEA SHELL,Veg Clear Soup,,115.5,,,,5.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+SAVOURY SEA SHELL,Veg Hot & Sour Soup,,115.5,,,,5.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,2
+SAVOURY SEA SHELL,Veg Tom Yum Soup,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,3
+SAVOURY SEA SHELL,Veg Manchow Soup,,115.5,,,,5.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,4
+SAVOURY SEA SHELL,Sweet Corn Veg Soup,,115.5,,,,5.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,5
+SAVOURY SEA SHELL,Cream Of Tomato Soup,,115.5,,,,5.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,6
+SAVOURY SEA SHELL,Mushroom Baby Corn Soup,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,7
+SAVOURY SEA SHELL,Tomato Macaroni Soup,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,8
+SAVOURY SEA SHELL,Plain Sea Food Soup,,157.5,,,,7.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,9
+SAVOURY SEA SHELL,Hot & Sour Sea Food Soup,,178.5,,,,8.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,10
+SAVOURY SEA SHELL,Chicken Hot & Sour Soup,,126,,,,6,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,11
+SAVOURY SEA SHELL,Chicken Clear Soup,,126,,,,6,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,12
+SAVOURY SEA SHELL,Chicken Manchow Soup,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,13
+SAVOURY SEA SHELL,Sweet Corn Chicken Soup,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,14
+SAVOURY SEA SHELL,Chicken Tom Yum Soup,,157.5,,,,7.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,15
+SAVOURY SEA SHELL,Spicy Chicken Corn Soup,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,16
+SAVOURY SEA SHELL,Mint Chicken Soup,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,17
+SAVOURY SEA SHELL,Chicken Lung Fung Soup,,157.5,,,,7.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,18
+SAVOURY SEA SHELL,Mutton Soup,,168,,,,8,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,19
+SAVOURY SEA SHELL,Mutton Bone Soup,,168,,,,8,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,20
+SAVOURY SEA SHELL,Savoury Special Soup,,173.25,,,,8.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,21
+SAVOURY SEA SHELL,Greek Salad,,178.5,,,,8.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,1
+SAVOURY SEA SHELL,Small Green Salad,,73.5,,,,3.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,2
+SAVOURY SEA SHELL,Large Green Salad,,115.5,,,,5.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,3
+SAVOURY SEA SHELL,Eastern Olive Salad,,136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,4
+SAVOURY SEA SHELL,Darjeeling Salad,,147,,,,7,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,5
+SAVOURY SEA SHELL,Seashell Healthy Salad,,178.5,,,,8.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,6
+SAVOURY SEA SHELL,Russian Salad,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,7
+SAVOURY SEA SHELL,Chicken & Pineapple Salad,,157.5,,,,7.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,8
+SAVOURY SEA SHELL,Healthy Chicken Salad,,189,,,,9,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,9
+SAVOURY SEA SHELL,Crispy Chicken Salad,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,10
+SAVOURY SEA SHELL,Crispy Prawn Salad,,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Salads,,0,,3,11
+SAVOURY SEA SHELL,Veg Barbecues,,336,,,,16,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,1
+SAVOURY SEA SHELL,Bbq Chicken (1Pc),,136.5,,,,6.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,2
+SAVOURY SEA SHELL,Bbq Chicken (Half),,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,3
+SAVOURY SEA SHELL,Bbq Chicken (Full),,409.5,,,,19.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,4
+SAVOURY SEA SHELL,Al Faham Dejaj (1Pc),,136.5,,,,6.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,5
+SAVOURY SEA SHELL,Al Faham Dejaj (Half),,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,6
+SAVOURY SEA SHELL,Al Faham Dejaj (Full),,409.5,,,,19.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,7
+SAVOURY SEA SHELL,Pepper Bbq (Half),,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,8
+SAVOURY SEA SHELL,Pepper Bbq (Full),,409.5,,,,19.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,9
+SAVOURY SEA SHELL,Philippino Bbq  (Half),,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,10
+SAVOURY SEA SHELL,Philippino Bbq  (Full),,409.5,,,,19.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,11
+SAVOURY SEA SHELL,Afgani Bbq (Half),,262.5,,,,12.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,12
+SAVOURY SEA SHELL,Afgani Bbq (Full),,420,,,,20,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,13
+SAVOURY SEA SHELL,Grill Chicken (Half),,220.5,,,,10.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,14
+SAVOURY SEA SHELL,Grill Chicken (Full),,378,,,,18,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Barbeque,,0,,4,15
+SAVOURY SEA SHELL,Iffa Dejaj (Half),,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,1
+SAVOURY SEA SHELL,Iffa Dejaj (Full),,378,,,,18,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,2
+SAVOURY SEA SHELL,Riyesh (Bbq-Mutton Ribs),,283.5,,,,13.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,3
+SAVOURY SEA SHELL,Laham Meshwi (Mutton),,388.5,,,,18.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,4
+SAVOURY SEA SHELL,Broccoli Chicken,,420,,,,20,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,5
+SAVOURY SEA SHELL,Clope Meshwi (Chicken),,367.5,,,,17.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,6
+SAVOURY SEA SHELL,Pinka Dejaj (Chicken),,367.5,,,,17.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,7
+SAVOURY SEA SHELL,Dejaj Faa (Faa),,399,,,,19,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,8
+SAVOURY SEA SHELL,Mutton Raan (Whole Leg Piece),,913.5,,,,43.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,9
+SAVOURY SEA SHELL,Hummuns Nashif (Mutton),,409.5,,,,19.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,10
+SAVOURY SEA SHELL,Laham Nashif (Boneless Mutton Cubes),,388.5,,,,18.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Arabian,,0,,5,11
+SAVOURY SEA SHELL,Crispy Veg,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,1
+SAVOURY SEA SHELL,Crispy Cauliflower,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,2
+SAVOURY SEA SHELL,Chilli Garlic Veg,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,3
+SAVOURY SEA SHELL,Veg Spring Roll,,231,,,,11,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,4
+SAVOURY SEA SHELL,Dragon Potato,,189,,,,9,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,5
+SAVOURY SEA SHELL,Veg Manchurian Dry,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,6
+SAVOURY SEA SHELL,Gobi Manchurian Dry,,183.75,,,,8.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,7
+SAVOURY SEA SHELL,Gobi Chilli Dry,,183.75,,,,8.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,8
+SAVOURY SEA SHELL,Mushroom Manchurian Dry,,220.5,,,,10.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,9
+SAVOURY SEA SHELL,Chilli Mushroom Dry,,220.5,,,,10.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,10
+SAVOURY SEA SHELL,Golden Fried Baby Corn Dry,,231,,,,11,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,11
+SAVOURY SEA SHELL,"Mushroom Salt""N""Pepper Dry",,252,,,,12,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,12
+SAVOURY SEA SHELL,Paneer Manchurian Dry,,220.5,,,,10.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,13
+SAVOURY SEA SHELL,Chilli Paneer Dry,,220.5,,,,10.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,14
+SAVOURY SEA SHELL,Baby Corn Manchurian Dry ,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,15
+SAVOURY SEA SHELL,Chilly Baby Corn Manchurian Dry,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,16
+SAVOURY SEA SHELL,American Corn Salt & Pepper Dry,,189,,,,9,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,17
+SAVOURY SEA SHELL,Schezwan Paneer Dry,,189,,,,9,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,18
+SAVOURY SEA SHELL,Crispy Chilli Chenna Dry,,178.5,,,,8.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,19
+SAVOURY SEA SHELL,Paneer In Hot Garlic Sauce Dry,,241.5,,,,11.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,20
+SAVOURY SEA SHELL,Paneer In Schezwan Sauce Dry,,241.5,,,,11.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,21
+SAVOURY SEA SHELL,Drums Of Heaven,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,22
+SAVOURY SEA SHELL,Dragon Chicken,,299.25,,,,14.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,23
+SAVOURY SEA SHELL,Chicken Lollipop ,,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,24
+SAVOURY SEA SHELL,Shangai Crispy Chicken,,283.5,,,,13.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,25
+SAVOURY SEA SHELL,Chilli Mutton Dry,,336,,,,16,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,26
+SAVOURY SEA SHELL,Sliced Fish With Garlic,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,27
+SAVOURY SEA SHELL,Ginger Fish Dry,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,28
+SAVOURY SEA SHELL,Garlic Fish Dry,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,29
+SAVOURY SEA SHELL,Fish Manchurian Dry,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,30
+SAVOURY SEA SHELL,Dragon Prawns,,441,,,,21,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,31
+SAVOURY SEA SHELL,Butterfly Prawn,,462,,,,22,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,32
+SAVOURY SEA SHELL,Shangai Prawns,,462,,,,22,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,33
+SAVOURY SEA SHELL,Golden Fried Prawns,,441,,,,21,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,34
+SAVOURY SEA SHELL,Prawns Butter Pepper Garlic,,451.5,,,,21.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,35
+SAVOURY SEA SHELL,Chilli Prawns Dry,,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,36
+SAVOURY SEA SHELL,Garlic Chicken Dry,,257.25,,,,12.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,37
+SAVOURY SEA SHELL,Ginger Chicken Dry,,257.25,,,,12.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,38
+SAVOURY SEA SHELL,Schezwan Chicken Dry,,267.75,,,,12.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,39
+SAVOURY SEA SHELL,Chilli Chicken Dry,,257.25,,,,12.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,40
+SAVOURY SEA SHELL,Chicken Manchurian Dry,,257.25,,,,12.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,41
+SAVOURY SEA SHELL,Crispy Lamb With Oyster Sauce,,367.5,,,,17.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,42
+SAVOURY SEA SHELL,Chilli Fish Dry,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,43
+SAVOURY SEA SHELL,Schezwan Fish Dry,,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,44
+SAVOURY SEA SHELL,Ginger Prawns Dry,,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,45
+SAVOURY SEA SHELL,Garlic Prawns Dry,,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,46
+SAVOURY SEA SHELL,Prawn Manchurain Dry,,367.5,,,,17.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,47
+SAVOURY SEA SHELL,Schezwan Prawns Dry,,378,,,,18,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,48
+SAVOURY SEA SHELL,Crab Chilli Dry,,288.75,,,,13.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Chinese,,0,,6,49
+SAVOURY SEA SHELL,Tandoor Veg Platter,,472.5,,,,22.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,1
+SAVOURY SEA SHELL,Paneer Tikka,,262.5,,,,12.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,2
+SAVOURY SEA SHELL,Paneer Achari Tikka,,273,,,,13,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,3
+SAVOURY SEA SHELL,Paneer Pudina Tikka,,273,,,,13,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,4
+SAVOURY SEA SHELL,Mushroom Tikka,,262.5,,,,12.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,5
+SAVOURY SEA SHELL,Chicken Sheek Kebab,,304.5,,,,14.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,6
+SAVOURY SEA SHELL,Kali Mirchi Kebab,,283.5,,,,13.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,7
+SAVOURY SEA SHELL,Malai Kebab,,299.25,,,,14.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,8
+SAVOURY SEA SHELL,Tandoori Chicken (Half),,210,,,,10,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,9
+SAVOURY SEA SHELL,Tandoori Chicken ( Full),,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,10
+SAVOURY SEA SHELL,Tangdi Kebab (3 Pcs),,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,11
+SAVOURY SEA SHELL,Chicken Tikka,,262.5,,,,12.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,12
+SAVOURY SEA SHELL,Hariyali Kebab,,299.25,,,,14.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,13
+SAVOURY SEA SHELL,Reshmi Kebab,,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Tandoor,,0,,7,14
+SAVOURY SEA SHELL,Gobi 65,,183.75,,,,8.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,1
+SAVOURY SEA SHELL,Paneer 65,,231,,,,11,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,2
+SAVOURY SEA SHELL,Paneer Peshawari,,231,,,,11,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,3
+SAVOURY SEA SHELL,Paneer Bhurji,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,4
+SAVOURY SEA SHELL,Roasted Papad,,31.5,,,,1.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,5
+SAVOURY SEA SHELL,Masala Papad,,52.5,,,,2.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,6
+SAVOURY SEA SHELL,Boiled Egg,,42,,,,2,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,7
+SAVOURY SEA SHELL,Plain Omlett,,68.25,,,,3.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,8
+SAVOURY SEA SHELL,Masala Omlett,,78.75,,,,3.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,9
+SAVOURY SEA SHELL,Cheese Omlett,,99.75,,,,4.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,10
+SAVOURY SEA SHELL,Egg Bhurji,,115.5,,,,5.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,11
+SAVOURY SEA SHELL,Mutton Chilli Fry,,336,,,,16,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,12
+SAVOURY SEA SHELL,Mushroom Pepper Fry,,210,,,,10,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,13
+SAVOURY SEA SHELL,Chicken 65 Bone,,168,,,,8,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,14
+SAVOURY SEA SHELL,Chicken 65 Boneless,,189,,,,9,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,15
+SAVOURY SEA SHELL,Chicken Pepper Fry,,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,16
+SAVOURY SEA SHELL,Mutton Chukka,,367.5,,,,17.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,17
+SAVOURY SEA SHELL,Mutton Pepper Fry,,367.5,,,,17.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,18
+SAVOURY SEA SHELL,Fish 65,,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,19
+SAVOURY SEA SHELL,Prawn Pepper Fry,,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Starters - Indian,,0,,8,20
+SAVOURY SEA SHELL,French Fries,,136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Continental,,0,,20,1
+SAVOURY SEA SHELL,Chicken Nuggests,,152.25,,,,7.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Continental,,0,,20,2
+SAVOURY SEA SHELL,Chicken Finger,,189,,,,9,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Continental,,0,,20,3
+SAVOURY SEA SHELL,Fish Finger,,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Continental,,0,,20,4
+SAVOURY SEA SHELL,Paratha Chicken Shawarma,,94.5,,,,4.5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,1,1
+SAVOURY SEA SHELL,Kubus Chicken Shawarma,,84,,,,4,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,1,2
+SAVOURY SEA SHELL,Sahan Chicken Shawarma,,157.5,,,,7.5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,1,3
+SAVOURY SEA SHELL,Hummus Chicken Shawarma,,189,,,,9,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,1,4
+SAVOURY SEA SHELL,Kubus Mexican Shawarma,,94.5,,,,4.5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,1,8
+SAVOURY SEA SHELL,Paratha Mexican Shawarma,,105,,,,5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,1,9
+SAVOURY SEA SHELL,Mexican Chicken Shan Shawarma,,157.5,,,,7.5,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,1,10
+SAVOURY SEA SHELL,Kubus  ,,15.75,,,,0.75,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,1,14
+SAVOURY SEA SHELL,Dejaj Mushakkal Tawa ,,1102.5,,,,52.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Platters,,0,,9,1
+SAVOURY SEA SHELL,Mushakkal (Bbq. Platter) ,,861,,,,41,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Platters,,0,,9,2
+SAVOURY SEA SHELL,Mushakkal Tawa ,,892.5,,,,42.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Platters,,0,,9,3
+SAVOURY SEA SHELL,Tandoori Non Veg Platter ,,892.5,,,,42.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Platters,,0,,9,4
+SAVOURY SEA SHELL,Bbq. Jumbo Platter ,,1680,,,,80,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Platters,,0,,9,5
+SAVOURY SEA SHELL,Koji Dejaj Chicken,,231,,,,11,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian - Briyani & Rice,,0,,10,1
+SAVOURY SEA SHELL,Koji Dejaj Mutton,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian - Briyani & Rice,,0,,10,2
+SAVOURY SEA SHELL,Laham Chicken,,231,,,,11,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian - Briyani & Rice,,0,,10,3
+SAVOURY SEA SHELL,Laham Mutton,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian - Briyani & Rice,,0,,10,4
+SAVOURY SEA SHELL,Koji Samak (Fish),,262.5,,,,12.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian - Briyani & Rice,,0,,10,5
+SAVOURY SEA SHELL,Koji Rubiyan (Prawns),,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian - Briyani & Rice,,0,,10,6
+SAVOURY SEA SHELL,Koji Rice Plain,,136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian - Briyani & Rice,,0,,10,7
+SAVOURY SEA SHELL,Mutton Raan Biryani (3 Persons),,1260,,,,60,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian - Briyani & Rice,,0,,10,8
+SAVOURY SEA SHELL,Veg Biriyani,,136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,1
+SAVOURY SEA SHELL,Mushroom Biryani,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,2
+SAVOURY SEA SHELL,Jeera Rice,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,3
+SAVOURY SEA SHELL,Veg Pulao,,136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,4
+SAVOURY SEA SHELL,Egg Biriyani,,157.5,,,,7.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,5
+SAVOURY SEA SHELL,Chicken Pulao,,189,,,,9,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,6
+SAVOURY SEA SHELL,Chicken Dum Biriyani,,189,,,,9,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,7
+SAVOURY SEA SHELL,Chicken 65 Briyani,,199.5,,,,9.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,8
+SAVOURY SEA SHELL,Paneer Pulao,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,9
+SAVOURY SEA SHELL,Cashewnut Pulao,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,10
+SAVOURY SEA SHELL,Kashmiri Pulao,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,11
+SAVOURY SEA SHELL,Steam Rice,,110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,12
+SAVOURY SEA SHELL,Dahi Chawal (Curd Rice),,115.5,,,,5.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,13
+SAVOURY SEA SHELL,Mutton Dum Biriyani,,204.75,,,,9.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,14
+SAVOURY SEA SHELL,Prawns Biriyani,,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian - Briyani & Pulao,,0,,11,15
+SAVOURY SEA SHELL,Veg Fried Rice,,141.75,,,,6.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,1
+SAVOURY SEA SHELL,Veg Schezwan Fried Rice,,152.25,,,,7.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,2
+SAVOURY SEA SHELL,Veg Triple Schezwan Fried Rice,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,3
+SAVOURY SEA SHELL,Mushroom Fried Rice,,178.5,,,,8.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,4
+SAVOURY SEA SHELL,Veg Shangai Fried Rice,,178.5,,,,8.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,5
+SAVOURY SEA SHELL,Singapoor Veg Fried Rice,,178.5,,,,8.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,6
+SAVOURY SEA SHELL,Paneer Fried Rice,,189,,,,9,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,7
+SAVOURY SEA SHELL,Paneer Schezwan Fried Rice,,194.25,,,,9.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,8
+SAVOURY SEA SHELL,Egg  Fried Rice,,157.5,,,,7.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,9
+SAVOURY SEA SHELL,Schezwan Egg Fried Rice,,168,,,,8,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,10
+SAVOURY SEA SHELL,Chicken Fried Rice,,189,,,,9,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,11
+SAVOURY SEA SHELL,Mutton Fried Rice,,210,,,,10,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,12
+SAVOURY SEA SHELL,Fish Fried Rice,,220.5,,,,10.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,13
+SAVOURY SEA SHELL,Prawn Fried Rice,,231,,,,11,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,14
+SAVOURY SEA SHELL,Mix Non Veg Fried Rice,,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,15
+SAVOURY SEA SHELL,Mix Seafood Fried Rice,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,16
+SAVOURY SEA SHELL,Chicken Schezwan Fried Rice,,199.5,,,,9.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,17
+SAVOURY SEA SHELL,Mutton Schezwan Fried Rice,,220.5,,,,10.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,18
+SAVOURY SEA SHELL,Fish Schezwan Fried Rice,,231,,,,11,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,19
+SAVOURY SEA SHELL,Prawn Schezwan Fried Rice,,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,20
+SAVOURY SEA SHELL,Mix Non Veg Schezwan Fried Rice,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,21
+SAVOURY SEA SHELL,Mix Seafood Schezwan Fried Rice,,262.5,,,,12.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,22
+SAVOURY SEA SHELL,Chicken Triple Schezwan Fried Rice,,294,,,,14,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,23
+SAVOURY SEA SHELL,Chicken Shangai Fried Rice,,204.75,,,,9.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,24
+SAVOURY SEA SHELL,Fish Shangai Fried Rice,,215.25,,,,10.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,25
+SAVOURY SEA SHELL,Prawn Shangai Fried Rice,,225.75,,,,10.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,26
+SAVOURY SEA SHELL,Mix Shangai Fried Rice,,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,27
+SAVOURY SEA SHELL,Mix Seafood  Shangai Fried Rice,,262.5,,,,12.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,28
+SAVOURY SEA SHELL,Singapore Chicken Fried Rice,,204.75,,,,9.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,29
+SAVOURY SEA SHELL,Singapore Mix Fried Rice,,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,12,30
+SAVOURY SEA SHELL,Veg  Noodles,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,1
+SAVOURY SEA SHELL,Veg Hakka Noodles,,178.5,,,,8.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,2
+SAVOURY SEA SHELL,Veg Schezwan Noodles,,178.5,,,,8.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,3
+SAVOURY SEA SHELL,Egg  Noodles,,189,,,,9,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,4
+SAVOURY SEA SHELL,Egg Schezwan Noodles,,199.5,,,,9.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,5
+SAVOURY SEA SHELL,American Chopsuey Veg,,262.5,,,,12.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,6
+SAVOURY SEA SHELL,American Chopsuey Non Veg,,283.5,,,,13.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,7
+SAVOURY SEA SHELL,Chicken Noodles,,189,,,,9,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,8
+SAVOURY SEA SHELL,Mutton Noodles,,210,,,,10,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,9
+SAVOURY SEA SHELL,Fish Noodles,,220.5,,,,10.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,10
+SAVOURY SEA SHELL,Prawn Noodles,,231,,,,11,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,11
+SAVOURY SEA SHELL,Mix Noodles,,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,12
+SAVOURY SEA SHELL,Mix Seafood Noodles,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,13
+SAVOURY SEA SHELL,Chicken Schezwan Noodles,,199.5,,,,9.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,14
+SAVOURY SEA SHELL,Mutton Schezwan Noodles,,220.5,,,,10.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,15
+SAVOURY SEA SHELL,Fish Schezwan Noodles,,231,,,,11,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,16
+SAVOURY SEA SHELL,Prawn Schezwan Noodles,,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,17
+SAVOURY SEA SHELL,Mix Schezwan Noodles,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,18
+SAVOURY SEA SHELL,Mix Seafood Schezwan Noodles,,262.5,,,,12.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,19
+SAVOURY SEA SHELL,Mushroom Noodles,,189,,,,9,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,20
+SAVOURY SEA SHELL,Chinese Veg Chopsuey,,262.5,,,,12.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,21
+SAVOURY SEA SHELL,Chicken Chow Chow,,257.25,,,,12.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,22
+SAVOURY SEA SHELL,Chicken Hakka Noodles,,199.5,,,,9.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,23
+SAVOURY SEA SHELL,Singapore Chicken Noodles,,199.5,,,,9.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,24
+SAVOURY SEA SHELL,Singapore Mix Noodles,,231,,,,11,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,25
+SAVOURY SEA SHELL,Chinese Non Veg Chopsuey,,283.5,,,,13.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,13,26
+SAVOURY SEA SHELL,Dejaj Macaroni (Chicken),,189,,,,9,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Pastas,,0,,14,1
+SAVOURY SEA SHELL,Laham Macaroni (Mutton),,220.5,,,,10.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Pastas,,0,,14,2
+SAVOURY SEA SHELL,Samak Macaroni (Fish),,220.5,,,,10.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Pastas,,0,,14,3
+SAVOURY SEA SHELL,Prawns Macaroni (Plain),,220.5,,,,10.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Pastas,,0,,14,4
+SAVOURY SEA SHELL,Veg Macroni (Plain),,136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Pastas,,0,,15,1
+SAVOURY SEA SHELL,Veg Macroni (Cheese),,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Pastas,,0,,15,2
+SAVOURY SEA SHELL,Chicken Macaroni (Plain),,178.5,,,,8.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Pastas,,0,,15,3
+SAVOURY SEA SHELL,Chicken Macaroni (Cheese),,199.5,,,,9.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Pastas,,0,,15,4
+SAVOURY SEA SHELL,Mutton Macroni (Plain),,210,,,,10,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Pastas,,0,,15,5
+SAVOURY SEA SHELL,Mutton Macroni (Cheese),,231,,,,11,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Pastas,,0,,15,6
+SAVOURY SEA SHELL,Prawns Macaroni (Cheese),,220.5,,,,10.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Pastas,,0,,15,7
+SAVOURY SEA SHELL,Hummus Small (Peanut Sauce),,31.5,,,,1.5,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Accompaniments,,0,,16,1
+SAVOURY SEA SHELL,Hummus Medium (Peanut Sauce),,78.75,,,,3.75,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Accompaniments,,0,,16,2
+SAVOURY SEA SHELL,Hummus Large (Peanut Sauce),,110.25,,,,5.25,Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Accompaniments,,0,,16,3
+SAVOURY SEA SHELL,Thoum Small (White Garlic Sauce),,47.25,,,,2.25,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Accompaniments,,0,,16,4
+SAVOURY SEA SHELL,Thoum Medium (White Garlic Sauce),,78.75,,,,3.75,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Accompaniments,,0,,16,5
+SAVOURY SEA SHELL,Thoum Large (WhiterGarlic Sauce),,110.25,,,,5.25,Non Veg,,,,,,,05:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Accompaniments,,0,,16,6
+SAVOURY SEA SHELL,Appam Plain,,26.25,,,,1.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,1
+SAVOURY SEA SHELL,Egg Appam,,42,,,,2,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,2
+SAVOURY SEA SHELL,Chapathi,,31.5,,,,1.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,3
+SAVOURY SEA SHELL,Butter Chapathi ,,36.75,,,,1.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,4
+SAVOURY SEA SHELL,Egg Paratha,,52.5,,,,2.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,5
+SAVOURY SEA SHELL,Aloo Paratha,,52.5,,,,2.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,6
+SAVOURY SEA SHELL,Tandoori Paratha,,42,,,,2,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,7
+SAVOURY SEA SHELL,Kerala Paratha ,,23.1,,,,1.1,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,8
+SAVOURY SEA SHELL,Plain Naan,,36.75,,,,1.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,9
+SAVOURY SEA SHELL,Butter Naan,,47.25,,,,2.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,10
+SAVOURY SEA SHELL,Garlic Naan,,42,,,,2,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,11
+SAVOURY SEA SHELL,Plain Kulcha,,42,,,,2,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,12
+SAVOURY SEA SHELL,Masala Kulcha,,52.5,,,,2.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,13
+SAVOURY SEA SHELL,Paneer Kulcha,,63,,,,3,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,14
+SAVOURY SEA SHELL,Butter Kulcha,,47.25,,,,2.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,15
+SAVOURY SEA SHELL,Plain Tandoor Roti,,31.5,,,,1.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,16
+SAVOURY SEA SHELL,Butter Tandoor Roti,,42,,,,2,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,17
+SAVOURY SEA SHELL,Garlic Tandoor Roti,,47.25,,,,2.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,18
+SAVOURY SEA SHELL,Wheat Paratha,,23.1,,,,1.1,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Breads,,0,,17,19
+SAVOURY SEA SHELL,Arabian Veg Gravy,,283.5,,,,13.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,1
+SAVOURY SEA SHELL,Dejaj Mabatha (Chicken & Potato),,257.25,,,,12.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,2
+SAVOURY SEA SHELL,Dejaj Lubia (Chicken & Black Dal),,257.25,,,,12.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,3
+SAVOURY SEA SHELL,Dejaj Sanaya (Chicken & Tomato Puri),,257.25,,,,12.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,4
+SAVOURY SEA SHELL,Sabnak Bil Dejaj (Chicken & Palak),,257.25,,,,12.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,5
+SAVOURY SEA SHELL,Laham Mabatha (Mutton & Potato ,,320.25,,,,15.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,6
+SAVOURY SEA SHELL,Laham Lubia (Mutton & Kidneybeans) ,,320.25,,,,15.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,7
+SAVOURY SEA SHELL,Laham Sanaya (Mutton & Tomato Puri),,336,,,,16,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,8
+SAVOURY SEA SHELL,Sabnak Bil Laham (Mutton & Palak),,336,,,,16,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,9
+SAVOURY SEA SHELL,Sabnak Bil Samak (Fish & Palak),,336,,,,16,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,10
+SAVOURY SEA SHELL,Samak Sanaya (Fish & Tomato Puri),,325.5,,,,15.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,11
+SAVOURY SEA SHELL,Samak Mabatha (Fish & Potato) ,,325.5,,,,15.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,12
+SAVOURY SEA SHELL,Samak Lubia (Fish & Kidney Beans),,325.5,,,,15.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,13
+SAVOURY SEA SHELL,Rubiyanmabatha (Prawn & Potato)  ,,336,,,,16,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,14
+SAVOURY SEA SHELL,Rubiyan Lubia (Prawns & Kidneybeans) ,,336,,,,16,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,15
+SAVOURY SEA SHELL,Sabnak Bil Rubiyan (Prawn & Palak),,336,,,,16,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,16
+SAVOURY SEA SHELL,Rubiyan Sanaya (Prawns & Tomato Puri),,336,,,,16,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,17
+SAVOURY SEA SHELL,Spanish Chicken Curry ,,262.5,,,,12.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Gravies,,0,,18,18
+SAVOURY SEA SHELL,Gobi Manchurian Gravy,,194.25,,,,9.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,1
+SAVOURY SEA SHELL,Gobi Chilli Manchurian Gravy,,194.25,,,,9.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,2
+SAVOURY SEA SHELL,Mushroom Manchurian Gravy,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,3
+SAVOURY SEA SHELL,Mushroom Chilli Manchurian Gravy,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,4
+SAVOURY SEA SHELL,Paneer Manchurian Gravy,,231,,,,11,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,5
+SAVOURY SEA SHELL,Paneer Chilli Manchurian Gravy,,231,,,,11,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,6
+SAVOURY SEA SHELL,Baby Corn Manchurian Gravy,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,7
+SAVOURY SEA SHELL,Baby Corn Chilli Manchurian Gravy,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,8
+SAVOURY SEA SHELL,Chicken Manchurian Gravy,,267.75,,,,12.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,9
+SAVOURY SEA SHELL,Chilli Chicken Gravy,,267.75,,,,12.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,10
+SAVOURY SEA SHELL,Ginger Chicken Gravy,,267.75,,,,12.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,11
+SAVOURY SEA SHELL,Garlic Chicken Gravy ,,267.75,,,,12.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,12
+SAVOURY SEA SHELL,Schezwan Chicken Gravy ,,267.75,,,,12.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,13
+SAVOURY SEA SHELL,Hawaiian Chicken Gravy ,,267.75,,,,12.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,14
+SAVOURY SEA SHELL,Singapore Chicken Gravy ,,267.75,,,,12.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,15
+SAVOURY SEA SHELL,Min Thai Chicken Gravy,,267.75,,,,12.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,16
+SAVOURY SEA SHELL,Chilli Mutton Gravy ,,372.75,,,,17.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,17
+SAVOURY SEA SHELL,Fish Manchurian Gravy ,,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,18
+SAVOURY SEA SHELL,Ginger Fish Gravy,,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,19
+SAVOURY SEA SHELL,Chilli Fish Gravy,,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,20
+SAVOURY SEA SHELL,Garlic Fish Gravy ,,357,,,,17,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,21
+SAVOURY SEA SHELL,Schezwan Prawns Gravy ,,367.5,,,,17.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,22
+SAVOURY SEA SHELL,Prawn Manchurian Gravy ,,378,,,,18,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,23
+SAVOURY SEA SHELL,Ginger Prawns Gravy ,,367.5,,,,17.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,24
+SAVOURY SEA SHELL,Garlic Prawns Gravy ,,367.5,,,,17.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chinese Gravies,,0,,19,25
+SAVOURY SEA SHELL,Dal Fry,,136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,1
+SAVOURY SEA SHELL,Dal Jeera Tadka,,147,,,,7,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,2
+SAVOURY SEA SHELL,Dal Palak,,147,,,,7,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,3
+SAVOURY SEA SHELL,Veg Kadai,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,4
+SAVOURY SEA SHELL,Veg Jaipuri,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,5
+SAVOURY SEA SHELL,Aloo Gobi Dum,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,6
+SAVOURY SEA SHELL,Paneer Kolhapuri  ,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,7
+SAVOURY SEA SHELL,Palak Paneer  ,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,8
+SAVOURY SEA SHELL,Palak With Corn Curry,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,9
+SAVOURY SEA SHELL,Paneer Lassoni  ,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,10
+SAVOURY SEA SHELL,Paneer Kolhapuri  ,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,11
+SAVOURY SEA SHELL,Paneer Butter Masala ,,199.5,,,,9.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,12
+SAVOURY SEA SHELL,Paneer Kadai   ,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,13
+SAVOURY SEA SHELL,Paneer Tikka Masala   ,,220.5,,,,10.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,14
+SAVOURY SEA SHELL,Veg Jalfrezi  ,,178.5,,,,8.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,15
+SAVOURY SEA SHELL,Mix Veg Curry  ,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,16
+SAVOURY SEA SHELL,Mushroom Masala  ,,204.75,,,,9.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,17
+SAVOURY SEA SHELL,Aloo Mutter Masala ,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,18
+SAVOURY SEA SHELL,Special Veg Gravy   ,,220.5,,,,10.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,19
+SAVOURY SEA SHELL,Malai Kofta,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,20
+SAVOURY SEA SHELL,Paneer Kofta ,,210,,,,10,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,21
+SAVOURY SEA SHELL,Dingiri Mutter  ,,220.5,,,,10.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,22
+SAVOURY SEA SHELL,Dingiri Dolma  ,,262.5,,,,12.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,23
+SAVOURY SEA SHELL,Paneer Mutter Masala ,,231,,,,11,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,24
+SAVOURY SEA SHELL,Green Peas Masala ,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,25
+SAVOURY SEA SHELL,Vegkorma   ,,168,,,,8,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,26
+SAVOURY SEA SHELL,Aloo Jeera Dry ,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,27
+SAVOURY SEA SHELL,Egg Masala,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,28
+SAVOURY SEA SHELL,Egg Korma,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,29
+SAVOURY SEA SHELL,Chicken Pepper Masala ,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,30
+SAVOURY SEA SHELL,Chicken Chettinadu  ,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,31
+SAVOURY SEA SHELL,Chicken Rogan Josh ,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,32
+SAVOURY SEA SHELL,Kadai Chicken  ,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,33
+SAVOURY SEA SHELL,Palak Chicken  ,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,34
+SAVOURY SEA SHELL,Butter Chicken Masala ,,262.5,,,,12.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,35
+SAVOURY SEA SHELL,Chicken Tikka Masala ,,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,36
+SAVOURY SEA SHELL,Chicken Tawa  ,,325.5,,,,15.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,37
+SAVOURY SEA SHELL,Savoury Special Chicken ,,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,38
+SAVOURY SEA SHELL,Murg Musallam (Half)  ,,283.5,,,,13.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,39
+SAVOURY SEA SHELL,Murg Musallam(Full)  ,,462,,,,22,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,40
+SAVOURY SEA SHELL,Chicken Curry  ,,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,41
+SAVOURY SEA SHELL,Chicken Masala  ,,241.5,,,,11.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,42
+SAVOURY SEA SHELL,Egg Curry,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,43
+SAVOURY SEA SHELL,Egg Roast,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,44
+SAVOURY SEA SHELL,Chicken Coriander Gravy ,,294,,,,14,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,45
+SAVOURY SEA SHELL,Chicken Rezala  ,,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,46
+SAVOURY SEA SHELL,Chicken Chingari  ,,294,,,,14,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,47
+SAVOURY SEA SHELL,Chicken Corn Curry ,,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,48
+SAVOURY SEA SHELL,Chicken Bharta  ,,294,,,,14,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,49
+SAVOURY SEA SHELL,Chicken Nilgiri  ,,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,50
+SAVOURY SEA SHELL,Chicken Sagoti  ,,283.5,,,,13.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,51
+SAVOURY SEA SHELL,"Chicken Kolhapuri (Boneless, Spicy)  ",,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,52
+SAVOURY SEA SHELL,Chicken Hyderabadi  ,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,53
+SAVOURY SEA SHELL,Chicken Korma  ,,262.5,,,,12.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,54
+SAVOURY SEA SHELL,Chicken Dopiaza,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,55
+SAVOURY SEA SHELL,Chicken Irani  ,,252,,,,12,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,56
+SAVOURY SEA SHELL,Chicken Mirchi With Palak,,273,,,,13,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,57
+SAVOURY SEA SHELL,Mutton Korma  ,,325.5,,,,15.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,58
+SAVOURY SEA SHELL,Mutton Masala  ,,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,59
+SAVOURY SEA SHELL,Mutton Pepper Masala ,,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,60
+SAVOURY SEA SHELL,Mutton Chettinadu  ,,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,61
+SAVOURY SEA SHELL,Mutton Chops Gravy ,,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,62
+SAVOURY SEA SHELL,Mutton Rogan Josh ,,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,63
+SAVOURY SEA SHELL,Mutton Kadai  ,,315,,,,15,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,64
+SAVOURY SEA SHELL,Mutton Bhuna Gosht ,,414.75,,,,19.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,65
+SAVOURY SEA SHELL,Mutton Tawa  ,,388.5,,,,18.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,66
+SAVOURY SEA SHELL,Keema Hyderabadi  ,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,67
+SAVOURY SEA SHELL,Fish Curry  ,,294,,,,14,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,68
+SAVOURY SEA SHELL,Fish Chettinadu  ,,304.5,,,,14.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,69
+SAVOURY SEA SHELL,Fish Masala  ,,304.5,,,,14.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,70
+SAVOURY SEA SHELL,Fish Dopiaza  ,,309.75,,,,14.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,71
+SAVOURY SEA SHELL,South Indian Fish Curry,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,72
+SAVOURY SEA SHELL,Crab Roast  ,,283.5,,,,13.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,73
+SAVOURY SEA SHELL,Prawn Pepper Masala ,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,74
+SAVOURY SEA SHELL,Prawn Masala  ,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,75
+SAVOURY SEA SHELL,Kadai Prawns  ,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,76
+SAVOURY SEA SHELL,Prawns Chettinadu  ,,346.5,,,,16.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Gravies,,0,,20,77
+SAVOURY SEA SHELL,Veg Bun Roll,,63,,,,3,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,1
+SAVOURY SEA SHELL,Kerala Paratha Veg Roll,,78.75,,,,3.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,2
+SAVOURY SEA SHELL,Cheese Roll ,,78.75,,,,3.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,3
+SAVOURY SEA SHELL,Bun Paneer Roll,,78.75,,,,3.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,4
+SAVOURY SEA SHELL,Kerala Paratha Paneer Roll,,94.5,,,,4.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,5
+SAVOURY SEA SHELL,Egg Bun Roll,,78.75,,,,3.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,6
+SAVOURY SEA SHELL,Kerala Paratha Egg Roll,,94.5,,,,4.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,7
+SAVOURY SEA SHELL,Omelette Roll ,,89.25,,,,4.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,8
+SAVOURY SEA SHELL,Bun Chicken Roll,,99.75,,,,4.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,9
+SAVOURY SEA SHELL,Kerala Paratha Chicken Roll,,110.25,,,,5.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,10
+SAVOURY SEA SHELL,Chicken Sausage (Plate) ,,136.5,,,,6.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,11
+SAVOURY SEA SHELL,Keema Bun Roll,,131.25,,,,6.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,12
+SAVOURY SEA SHELL,Kerala Paratha Keema Roll,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,13
+SAVOURY SEA SHELL,Bun Prawn Roll,,141.75,,,,6.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,14
+SAVOURY SEA SHELL,Kerala Paratha Prawn Roll,,157.5,,,,7.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,15
+SAVOURY SEA SHELL,Bun Mutton Roll,,131.25,,,,6.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,16
+SAVOURY SEA SHELL,Kerala Paratha Mutton Roll,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,22,17
+SAVOURY SEA SHELL,Chicken Cheese Burger ,,157.5,,,,7.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,23,1
+SAVOURY SEA SHELL,Maharaja Burger ,,147,,,,7,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,23,2
+SAVOURY SEA SHELL,Royal Chicken Burger ,,173.25,,,,8.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,23,3
+SAVOURY SEA SHELL,Veg Burger,,99.75,,,,4.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,23,4
+SAVOURY SEA SHELL,Veg Cheese Burger,,120.75,,,,5.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,23,5
+SAVOURY SEA SHELL,Chicken Burger ,,131.25,,,,6.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,23,6
+SAVOURY SEA SHELL,Club Chicken Burger,,173.25,,,,8.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,23,7
+SAVOURY SEA SHELL,Tomato Sandwich,,57.75,,,,2.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,1
+SAVOURY SEA SHELL,Veg Grill Sandwich,,68.25,,,,3.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,2
+SAVOURY SEA SHELL,Veg Cheese Sandwich,,84,,,,4,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,3
+SAVOURY SEA SHELL,Bread Butter Jam,,68.25,,,,3.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,4
+SAVOURY SEA SHELL,Bread Cheese Jam ,,99.75,,,,4.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,5
+SAVOURY SEA SHELL,Mushroom Veg Sandwich,,89.25,,,,4.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,6
+SAVOURY SEA SHELL,Cheese Capsicum Tomato Sandwich ,,89.25,,,,4.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,7
+SAVOURY SEA SHELL,Arabian Veg Toast,,131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,8
+SAVOURY SEA SHELL,Egg Sandwich,,78.75,,,,3.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,9
+SAVOURY SEA SHELL,Saudi (Club Mutton Sandwich),,199.5,,,,9.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,10
+SAVOURY SEA SHELL,Egg Cheese Sandwich,,89.25,,,,4.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,11
+SAVOURY SEA SHELL,Omelette Cheese Sandwich ,,99.75,,,,4.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,12
+SAVOURY SEA SHELL,Chicken Mayanoise Sandwich ,,99.75,,,,4.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,13
+SAVOURY SEA SHELL,Grilled Chicken Sandwich ,,105,,,,5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,14
+SAVOURY SEA SHELL,Chicken Cheese Sandwich ,,110.25,,,,5.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,15
+SAVOURY SEA SHELL,Bread Omelette Sandwich ,,94.5,,,,4.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,16
+SAVOURY SEA SHELL,Bahrani (Club Chicken Sandwich) ,,178.5,,,,8.5,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,17
+SAVOURY SEA SHELL,Sea Shell Special Sandwich ,,236.25,,,,11.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,24,18
+SAVOURY SEA SHELL,Hot Dog Roll (Nakanak),,99.75,,,,4.75,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Hot Dogs,,0,,25,1
+SAVOURY SEA SHELL,Hot Dog Roll With Cheese,,131.25,,,,6.25,Non Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Hot Dogs,,0,,25,2
+SAVOURY SEA SHELL,Lime Juice ,,63,,,,3,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,1
+SAVOURY SEA SHELL,Pomegranate Cocktail,,110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,2
+SAVOURY SEA SHELL,Mango Cocktail,,110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,3
+SAVOURY SEA SHELL,Orange Juice With Ice,,89.25,,,,4.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,4
+SAVOURY SEA SHELL,Pure Orange Juice,,110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,5
+SAVOURY SEA SHELL,Mosambi Juice With Ice,,94.5,,,,4.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,6
+SAVOURY SEA SHELL,Pure Mosambi Juice,,115.5,,,,5.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,7
+SAVOURY SEA SHELL,Carrot Juice With Ice,,110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,8
+SAVOURY SEA SHELL,Carrot Juice Pure,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,9
+SAVOURY SEA SHELL,Water Melon Juice,,89.25,,,,4.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,10
+SAVOURY SEA SHELL,Pineapple Juice,,94.5,,,,4.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,11
+SAVOURY SEA SHELL,Grape Juice,,94.5,,,,4.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,12
+SAVOURY SEA SHELL,Apple Juice,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,13
+SAVOURY SEA SHELL,Custard Apple Juice,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,14
+SAVOURY SEA SHELL,Strawberry Juice,,136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,15
+SAVOURY SEA SHELL,Kiwi Juice,,136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,16
+SAVOURY SEA SHELL,Lime Mint Cooler,,73.5,,,,3.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,17
+SAVOURY SEA SHELL,Ginger Lime Juice,,68.25,,,,3.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,26,18
+SAVOURY SEA SHELL,Pomegranate Milkshake,,131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,1
+SAVOURY SEA SHELL,Pinapple Milkshake,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,2
+SAVOURY SEA SHELL,Mango Milkshake,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,3
+SAVOURY SEA SHELL,Chicku Milkshake,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,4
+SAVOURY SEA SHELL,Banana Milkshake,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,5
+SAVOURY SEA SHELL,Cocktail,,126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,6
+SAVOURY SEA SHELL,50-50 (Butter Fruit & Mango),,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,7
+SAVOURY SEA SHELL,Computer Mango,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,8
+SAVOURY SEA SHELL,Computer Banana,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,9
+SAVOURY SEA SHELL,Computer Strwberry,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,10
+SAVOURY SEA SHELL,Computer Carrot,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,11
+SAVOURY SEA SHELL,Butter Fruit Milkshake,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,12
+SAVOURY SEA SHELL,Chocolate Milkshake,,141.75,,,,6.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,13
+SAVOURY SEA SHELL,Butter Scotch Milkshake,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,14
+SAVOURY SEA SHELL,Pista Milkshake,,147,,,,7,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,15
+SAVOURY SEA SHELL,Fig,,131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,16
+SAVOURY SEA SHELL,Plum,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,17
+SAVOURY SEA SHELL,Cold Coffee,,147,,,,7,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,18
+SAVOURY SEA SHELL,Cold Coffee With Ice Cream,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,19
+SAVOURY SEA SHELL,Cold Coffee With Mango Ice Cream,,157.5,,,,7.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,20
+SAVOURY SEA SHELL,Vanila,,131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,27,21
+SAVOURY SEA SHELL,Yaseri,"Strawberry, Lemon With Mint",131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Mocktails,,0,,28,1
+SAVOURY SEA SHELL,Arabian Nights,"Dates,Nuts With Strawberry Ice Cream",131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Mocktails,,0,,28,2
+SAVOURY SEA SHELL,Emirates Mocktail,"Mango, Banana & Pista Ice-Cream",147,,,,7,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Mocktails,,0,,28,3
+SAVOURY SEA SHELL,Arabian Cocktail,Mix.Fruit & Vanilla Ice Cream,131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Mocktails,,0,,28,4
+SAVOURY SEA SHELL,Summer Shake,Mix Fruit& Nuts With Vanilla Ice-Cream,131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Mocktails,,0,,28,5
+SAVOURY SEA SHELL,Sharjah,Ice Cream Based Banana Shake,131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Mocktails,,0,,28,6
+SAVOURY SEA SHELL,3 Shabab,"Mango,Banana,Shamam With Ice-Cream Shake",131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Mocktails,,0,,28,7
+SAVOURY SEA SHELL,Savoury Spl,Dry Fruits & Vanla.Ice Cream,131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Arabian Mocktails,,0,,28,8
+SAVOURY SEA SHELL,Sweet Lassi,,63,,,,3,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Yoghurt,,0,,29,1
+SAVOURY SEA SHELL,Salt Lassi,,63,,,,3,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Yoghurt,,0,,29,2
+SAVOURY SEA SHELL,Strawberry Smoothie,,105,,,,5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Yoghurt,,0,,29,3
+SAVOURY SEA SHELL,Mango Smoothie,,105,,,,5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Yoghurt,,0,,29,4
+SAVOURY SEA SHELL,Banana Smoothie,,105,,,,5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Yoghurt,,0,,29,5
+SAVOURY SEA SHELL,Sunrise Delight,"Grape, Strawberry & Orange",120.75,,,,5.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,1
+SAVOURY SEA SHELL,Mirchi Citrus,"Orange, Green Chilli, Ginger& Coriander",110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,2
+SAVOURY SEA SHELL,Pineapple Punch,"Pineapple ,Ginger, Lime, Coriander & Aerated Water",110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,3
+SAVOURY SEA SHELL,Fruit Punch,"Orange,Mango, Vanila Ice Cream, Choped Fruits Aerated Water",120.75,,,,5.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,4
+SAVOURY SEA SHELL,Ginger Cooler,"Ginger,Carrot & Orange",99.75,,,,4.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,5
+SAVOURY SEA SHELL,Blue Angle,"Pineapple,Blue Curacao Syrup With Ice Cream",110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,6
+SAVOURY SEA SHELL,Green Dolphin,"Mango,Blue Curacao Syrup With Ice Cream",110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,7
+SAVOURY SEA SHELL,Brown Lady,Pineapple Juce With Vanila & Chocolate Ice Cream,110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,8
+SAVOURY SEA SHELL,True Blue,Pinapple Based,110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,9
+SAVOURY SEA SHELL,Pina Colada,"Pineapple ,Coconut Essence With Cold Milk",110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,10
+SAVOURY SEA SHELL,Mango Berry,"Watermelon, Mango, Strawberry",110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,11
+SAVOURY SEA SHELL,Strawberry Cooler,"Watermelon, Strawberry With Vanila Ice Cream",110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Chef Special Mocktails,,0,,30,12
+SAVOURY SEA SHELL,Apple Cooler,"Apple,Cucumber,Lemon With Mint",131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,1
+SAVOURY SEA SHELL,Serial Kiwi Soda,"Kiwi,Crush Lemon & Aerated Water",131.25,,,,6.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,2
+SAVOURY SEA SHELL,Iced Tea,"(Black Tea,Lemon,Crushed Ice With Mint)",78.75,,,,3.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,3
+SAVOURY SEA SHELL,Sea Shell Mocktail,"(Mix Fruit ,Nuts & Ice Cream With Grape)",136.5,,,,6.5,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,4
+SAVOURY SEA SHELL,Indian Mocktail,(A Blend Of 5 Basicfruits),110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,5
+SAVOURY SEA SHELL,Summer Of 69,(Cucumber Base),110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,6
+SAVOURY SEA SHELL,Flosbery Flop,(Pinapple With A Dsh Of Mint),110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,7
+SAVOURY SEA SHELL,Four Season,(Sweet Lime Based,110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,8
+SAVOURY SEA SHELL,Ginger Mountain,(A Blend Of Grape& Ginger),110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,9
+SAVOURY SEA SHELL,Golden Triangle,(An Authentic Pineapple Drink),110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,10
+SAVOURY SEA SHELL,Margarita,(An Orange Drink),110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,11
+SAVOURY SEA SHELL,Jack Magic,(Sweet Lime In Diff.Taste),110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,12
+SAVOURY SEA SHELL,Sunrice Splash,(Clear Shiny Strawberry Juice),126,,,,6,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,13
+SAVOURY SEA SHELL,Valentino,(Strawbery With Salt & Sugar),110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Indian Mocktails,,0,,31,14
+SAVOURY SEA SHELL,Vanilla,,87.15,,,,4.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,1
+SAVOURY SEA SHELL,Strawberry,,87.15,,,,4.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,2
+SAVOURY SEA SHELL,Orange,,87.15,,,,4.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,3
+SAVOURY SEA SHELL,Mango Ice Cream,,108.15,,,,5.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,4
+SAVOURY SEA SHELL,Pineapple Ice Cream,,108.15,,,,5.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,5
+SAVOURY SEA SHELL,Chocolate Ice Cream,,108.15,,,,5.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,6
+SAVOURY SEA SHELL,Kulfi Ice Cream,,108.15,,,,5.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,7
+SAVOURY SEA SHELL,Gulab Jamun,,76.65,,,,3.65,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,8
+SAVOURY SEA SHELL,Black Lady,,144.9,,,,6.9,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,9
+SAVOURY SEA SHELL,Butterscotch,,108.15,,,,5.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,10
+SAVOURY SEA SHELL,Black Current,,108.15,,,,5.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,11
+SAVOURY SEA SHELL,Spanish Delight,,108.15,,,,5.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,12
+SAVOURY SEA SHELL,Gudbud Ice Cream,,144.9,,,,6.9,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,13
+SAVOURY SEA SHELL,Choco Cruise Ice Cream,,144.9,,,,6.9,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,14
+SAVOURY SEA SHELL,Gulab Jamun With Ice Cream,,108.15,,,,5.15,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,15
+SAVOURY SEA SHELL,Rose Kiss,,120.75,,,,5.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Icecreams & Sweets,,0,,32,16
+SAVOURY SEA SHELL,Fruit Salad With Ice Cream,,120.75,,,,5.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,1
+SAVOURY SEA SHELL,Fruit Salad Without Ice Cream,,110.25,,,,5.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,2
+SAVOURY SEA SHELL,Mini Falooda,,183.75,,,,8.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,3
+SAVOURY SEA SHELL,Royal Falooda,,147,,,,7,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,4
+SAVOURY SEA SHELL,Kesar Falooda,,183.75,,,,8.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,5
+SAVOURY SEA SHELL,Chocolate Falooda,,183.75,,,,8.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,6
+SAVOURY SEA SHELL,Falooda Delight,,147,,,,7,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,7
+SAVOURY SEA SHELL,Kulfi Falooda,,183.75,,,,8.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,8
+SAVOURY SEA SHELL,Savoury Special Falooda,,215.25,,,,10.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,9
+SAVOURY SEA SHELL,Arabian Falooda,,236.25,,,,11.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,10
+SAVOURY SEA SHELL,Creamy Falooda,,246.75,,,,11.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,11
+SAVOURY SEA SHELL,Royal Temptation,,246.75,,,,11.75,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,12
+SAVOURY SEA SHELL,Love 20,,173.25,,,,8.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,13
+SAVOURY SEA SHELL,Savoury King,,173.25,,,,8.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,14
+SAVOURY SEA SHELL,King Falooda,,194.25,,,,9.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,15
+SAVOURY SEA SHELL,20-20,,194.25,,,,9.25,Veg,,,,,11:30AM,10:00PM,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,33,16

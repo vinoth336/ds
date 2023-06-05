@@ -1,0 +1,36 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SS FAST FOOD,Chicken Fried Rice,,70,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,1
+SS FAST FOOD,Egg Fried Rice,,60,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,2
+SS FAST FOOD,Veg Fried Rice,,50,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,3
+SS FAST FOOD,Gobi Fried Rice,,60,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,4
+SS FAST FOOD,Mushroom Fried Rice,,60,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,5
+SS FAST FOOD,Chicken Noodles,,70,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,1
+SS FAST FOOD,Egg Noodles,,60,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,2
+SS FAST FOOD,Veg Noodles,,50,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,3
+SS FAST FOOD,Gobi Noodles,,60,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,4
+SS FAST FOOD,Mushroom Noodles,,60,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,5
+SS FAST FOOD,Cauliflower Pakoda,,50,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+SS FAST FOOD,Gobi Manchurian Dry,,60,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,2
+SS FAST FOOD,Chilli Chicken Boneless,,70,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,3
+SS FAST FOOD,Chicken Lollypop,,70,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,4
+SS FAST FOOD,Chicken Fry,,60,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,5
+SS FAST FOOD,Botti Fry,,60,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,6
+SS FAST FOOD,Egg Podimaas,,30,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,7
+SS FAST FOOD,Omlette,,15,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,8
+SS FAST FOOD,Pepper Chicken Semi Gravy,,70,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravies,,0,,3,1
+SS FAST FOOD,Egg Masala,,60,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravies,,0,,3,2
+SS FAST FOOD,Mushroom Gravy,,70,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravies,,0,,3,3
+SS FAST FOOD,Paneer Butter Masala,,70,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravies,,0,,3,4
+SS FAST FOOD,Parotta (2 Pcs),,20,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,2,1
+SS FAST FOOD,Chappathi (2 Pcs),,30,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,2,2
+SS FAST FOOD,Plain Veechu Parotta,,20,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,2,3
+SS FAST FOOD,Egg Veechu Parotta,,35,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,2,4
+SS FAST FOOD,Plain Dosa,,25,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,7,1
+SS FAST FOOD,Onion Dosa,,35,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,7,2
+SS FAST FOOD,Egg Dosa,,35,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,7,3
+SS FAST FOOD,Kal Dosa (2 Pcs),,20,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,7,4
+SS FAST FOOD,Onion Uthappam,,40,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,7,5
+SS FAST FOOD,Plain Uthappam,,30,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,7,6
+SS FAST FOOD,Veg Macaroni,,50,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Macaroni'S,,0,,6,1
+SS FAST FOOD,Egg Macaroni,,50,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Macaroni'S,,0,,6,2
+SS FAST FOOD,Chicken Macaroni,,60,,,,5,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Macaroni'S,,0,,6,3

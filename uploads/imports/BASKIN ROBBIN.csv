@@ -1,0 +1,224 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BASKIN ROBBINS,Banana Caramel Small Scoop,,62,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Small Scoop,,0,,1,1
+BASKIN ROBBINS,Banana Caramel Regular Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Regular Scoop,,0,,1,2
+BASKIN ROBBINS,Banana Caramel Double Scoop,,124,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Double Scoop,,0,,1,3
+BASKIN ROBBINS,Banana Caramel Family Pack,,240,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Family Pack,,0,,1,4
+BASKIN ROBBINS,Banana Caramel Happyness Pack,,471,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Happyness Pack,,0,,1,5
+BASKIN ROBBINS,Vanilla Small Scoop,,62,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Small Scoop,,0,,1,6
+BASKIN ROBBINS,Vanilla Regular Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Regular Scoop,,0,,1,7
+BASKIN ROBBINS,Vanilla Double Scoop,,124,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Double Scoop,,0,,1,8
+BASKIN ROBBINS,Vanilla Family Pack,,240,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Family Pack,,0,,1,9
+BASKIN ROBBINS,Vanilla Happyness Pack,,471,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Delight - Happyness Pack,,0,,1,10
+BASKIN ROBBINS,Splish Splash Small Scoop,,72,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Small Scoop,,0,,2,1
+BASKIN ROBBINS,Splish Splash Regular Scoop,,104,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Regular Scoop,,0,,2,2
+BASKIN ROBBINS,Splish Splash Double Scoop,,142,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Double Scoop,,0,,2,3
+BASKIN ROBBINS,Splish Splash Family Pack,,265,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Family Pack,,0,,2,4
+BASKIN ROBBINS,Splish Splash Happyness Pack,,512,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Happyness Pack,,0,,2,5
+BASKIN ROBBINS,Blueberry Cheesecake Small Scoop,,72,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Small Scoop,,0,,2,6
+BASKIN ROBBINS,Blueberry Cheesecake Regular Scoop,,104,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Regular Scoop,,0,,2,7
+BASKIN ROBBINS,Blueberry Cheesecake Double Scoop,,145,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Double Scoop,,0,,2,8
+BASKIN ROBBINS,Blueberry Cheesecake Family Pack,,261,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Family Pack,,0,,2,9
+BASKIN ROBBINS,Blueberry Cheesecake Happyness Pack,,513,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Happyness Pack,,0,,2,10
+BASKIN ROBBINS,Cofee Small Scoop,,72,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Small Scoop,,0,,2,11
+BASKIN ROBBINS,Cofee Regular Scoop,,104,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Regular Scoop,,0,,2,12
+BASKIN ROBBINS,Cofee Double Scoop,,145,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Double Scoop,,0,,2,13
+BASKIN ROBBINS,Cofee Family Pack,,261,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Family Pack,,0,,2,14
+BASKIN ROBBINS,Cofee Happyness Pack,,513,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Happyness Pack,,0,,2,15
+BASKIN ROBBINS,Alphonso Gold Small Scoop,,72,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Small Scoop,,0,,2,16
+BASKIN ROBBINS,Alphonso Gold Regular Scoop,,104,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Regular Scoop,,0,,2,17
+BASKIN ROBBINS,Alphonso Gold Double Scoop,,142,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Double Scoop,,0,,2,18
+BASKIN ROBBINS,Alphonso Gold Family Pack,,245,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Family Pack,,0,,2,19
+BASKIN ROBBINS,Alphonso Gold Happyness Pack,,512,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Happyness Pack,,0,,2,20
+BASKIN ROBBINS,Java Caramello Small Scoop,,72,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Small Scoop,,0,,2,21
+BASKIN ROBBINS,Java Caramello Regular Scoop,,104,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Regular Scoop,,0,,2,22
+BASKIN ROBBINS,Java Caramello Double Scoop,,145,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Double Scoop,,0,,2,23
+BASKIN ROBBINS,Java Caramello Family Pack,,261,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Family Pack,,0,,2,24
+BASKIN ROBBINS,Java Caramello Happyness Pack,,513,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Happyness Pack,,0,,2,25
+BASKIN ROBBINS,Sicilian Secrets Small Scoop,,72,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Small Scoop,,0,,2,26
+BASKIN ROBBINS,Sicilian Secrets Regular Scoop,,104,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Regular Scoop,,0,,2,27
+BASKIN ROBBINS,Sicilian Secrets Double Scoop,,145,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Double Scoop,,0,,2,28
+BASKIN ROBBINS,Sicilian Secrets Family Pack,,261,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Family Pack,,0,,2,29
+BASKIN ROBBINS,Sicilian Secrets Happyness Pack,,513,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Happyness Pack,,0,,2,30
+BASKIN ROBBINS,Three Cheers Chocolate Small Scoop,,72,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Small Scoop,,0,,2,31
+BASKIN ROBBINS,Three Cheers Chocolate Regular Scoop,,104,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Regular Scoop,,0,,2,32
+BASKIN ROBBINS,Three Cheers Chocolate Double Scoop,,145,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Double Scoop,,0,,2,33
+BASKIN ROBBINS,Three Cheers Chocolate Family Pack,,261,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Family Pack,,0,,2,34
+BASKIN ROBBINS,Three Cheers Chocolate Happyness Pack,,513,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Happyness Pack,,0,,2,35
+BASKIN ROBBINS,Butterscotch Ribbon Small Scoop,,72,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Small Scoop,,0,,2,36
+BASKIN ROBBINS,Butterscotch Ribbon Regular Scoop,,104,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Regular Scoop,,0,,2,37
+BASKIN ROBBINS,Butterscotch Ribbon Double Scoop,,142,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Double Scoop,,0,,2,38
+BASKIN ROBBINS,Butterscotch Ribbon Family Pack,,245,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Family Pack,,0,,2,39
+BASKIN ROBBINS,Butterscotch Ribbon Happyness Pack,,512,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Timeless - Happyness Pack,,0,,2,40
+BASKIN ROBBINS,Almond Praline Gold Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,1
+BASKIN ROBBINS,Almond Praline Gold Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,2
+BASKIN ROBBINS,Almond Praline Gold Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,3
+BASKIN ROBBINS,Almond Praline Gold Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,4
+BASKIN ROBBINS,Almond Praline Gold Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,5
+BASKIN ROBBINS,Banana 'n Strawberries Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,6
+BASKIN ROBBINS,Banana 'n Strawberries Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,7
+BASKIN ROBBINS,Banana 'n Strawberries Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,8
+BASKIN ROBBINS,Banana 'n Strawberries Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,9
+BASKIN ROBBINS,Banana 'n Strawberries Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,10
+BASKIN ROBBINS,Belgian Bliss Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,11
+BASKIN ROBBINS,Belgian Bliss Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,12
+BASKIN ROBBINS,Belgian Bliss Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,13
+BASKIN ROBBINS,Belgian Bliss Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,14
+BASKIN ROBBINS,Belgian Bliss Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,15
+BASKIN ROBBINS,Berry Chill Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,16
+BASKIN ROBBINS,Berry Chill Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,17
+BASKIN ROBBINS,Berry Chill Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,18
+BASKIN ROBBINS,Berry Chill Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,19
+BASKIN ROBBINS,Berry Chill Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,20
+BASKIN ROBBINS,Black Currant Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,21
+BASKIN ROBBINS,Black Currant Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,22
+BASKIN ROBBINS,Black Currant Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,23
+BASKIN ROBBINS,Black Currant Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,24
+BASKIN ROBBINS,Black Currant Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,25
+BASKIN ROBBINS,Chocolate Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,26
+BASKIN ROBBINS,Chocolate Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,27
+BASKIN ROBBINS,Chocolate Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,28
+BASKIN ROBBINS,Chocolate Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,29
+BASKIN ROBBINS,Chocolate Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,30
+BASKIN ROBBINS,Fruit Overload Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,31
+BASKIN ROBBINS,Fruit Overload Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,32
+BASKIN ROBBINS,Fruit Overload Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,33
+BASKIN ROBBINS,Fruit Overload Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,34
+BASKIN ROBBINS,Fruit Overload Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,35
+BASKIN ROBBINS,Red Velvet Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,36
+BASKIN ROBBINS,Red Velvet Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,37
+BASKIN ROBBINS,Red Velvet Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,38
+BASKIN ROBBINS,Red Velvet Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,39
+BASKIN ROBBINS,Red Velvet Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,40
+BASKIN ROBBINS,Cotton Candy Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,41
+BASKIN ROBBINS,Cotton Candy Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,42
+BASKIN ROBBINS,Cotton Candy Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,43
+BASKIN ROBBINS,Cotton Candy Family Pack,,324,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,44
+BASKIN ROBBINS,Cotton Candy Happyness Pack,,639,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,45
+BASKIN ROBBINS,Very Berry Strawberry Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,46
+BASKIN ROBBINS,Very Berry Strawberry Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,47
+BASKIN ROBBINS,Very Berry Strawberry Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,48
+BASKIN ROBBINS,Very Berry Strawberry Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,49
+BASKIN ROBBINS,Very Berry Strawberry Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,50
+BASKIN ROBBINS,World Class Chocolate Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,51
+BASKIN ROBBINS,World Class Chocolate Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,52
+BASKIN ROBBINS,World Class Chocolate Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,53
+BASKIN ROBBINS,World Class Chocolate Family Pack,,314,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,54
+BASKIN ROBBINS,World Class Chocolate Happyness Pack,,618,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,55
+BASKIN ROBBINS,Litchi gold Small Scoop,,83,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Small Scoop,,0,,3,56
+BASKIN ROBBINS,Litchi gold Regular Scoop,,125,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Regular Scoop,,0,,3,57
+BASKIN ROBBINS,Litchi gold Double Scoop,,166,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Double Scoop,,0,,3,58
+BASKIN ROBBINS,Litchi gold Family Pack,,324,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Family Pack,,0,,3,59
+BASKIN ROBBINS,Litchi gold Happyness Pack,,639,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Favourite - Happyness Pack,,0,,3,60
+BASKIN ROBBINS,Bavarian Chocolate Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,1
+BASKIN ROBBINS,Bavarian Chocolate Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,2
+BASKIN ROBBINS,Bavarian Chocolate Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,3
+BASKIN ROBBINS,Bavarian Chocolate Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,4
+BASKIN ROBBINS,Bavarian Chocolate Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,5
+BASKIN ROBBINS,Chocolate Almond Praline Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,6
+BASKIN ROBBINS,Chocolate Almond Praline Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,7
+BASKIN ROBBINS,Chocolate Almond Praline Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,8
+BASKIN ROBBINS,Chocolate Almond Praline Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,9
+BASKIN ROBBINS,Chocolate Almond Praline Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,10
+BASKIN ROBBINS,Chocolate Chip Mousse Royale Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,11
+BASKIN ROBBINS,Chocolate Chip Mousse Royale Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,12
+BASKIN ROBBINS,Chocolate Chip Mousse Royale Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,13
+BASKIN ROBBINS,Chocolate Chip Mousse Royale Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,14
+BASKIN ROBBINS,Chocolate Chip Mousse Royale Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,15
+BASKIN ROBBINS,Gold Medal Ribbon Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,16
+BASKIN ROBBINS,Gold Medal Ribbon Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,17
+BASKIN ROBBINS,Gold Medal Ribbon Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,18
+BASKIN ROBBINS,Gold Medal Ribbon Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,19
+BASKIN ROBBINS,Gold Medal Ribbon Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,20
+BASKIN ROBBINS,Honey Nut Crunch Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,21
+BASKIN ROBBINS,Honey Nut Crunch Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,22
+BASKIN ROBBINS,Honey Nut Crunch Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,23
+BASKIN ROBBINS,Honey Nut Crunch Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,24
+BASKIN ROBBINS,Honey Nut Crunch Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,25
+BASKIN ROBBINS,Hop Scotch Butter Scotch Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,26
+BASKIN ROBBINS,Hop Scotch Butter Scotch Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,27
+BASKIN ROBBINS,Hop Scotch Butter Scotch Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,28
+BASKIN ROBBINS,Hop Scotch Butter Scotch Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,29
+BASKIN ROBBINS,Hop Scotch Butter Scotch Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,30
+BASKIN ROBBINS,Michigan Blues Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,31
+BASKIN ROBBINS,Michigan Blues Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,32
+BASKIN ROBBINS,Michigan Blues Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,33
+BASKIN ROBBINS,Michigan Blues Family Pack,,340,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,34
+BASKIN ROBBINS,Michigan Blues Happyness Pack,,667,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,35
+BASKIN ROBBINS,Malted Chocolate Fudge Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,36
+BASKIN ROBBINS,Malted Chocolate Fudge Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,37
+BASKIN ROBBINS,Malted Chocolate Fudge Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,38
+BASKIN ROBBINS,Malted Chocolate Fudge Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,39
+BASKIN ROBBINS,Malted Chocolate Fudge Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,40
+BASKIN ROBBINS,Mint Milk Chocolate Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,41
+BASKIN ROBBINS,Mint Milk Chocolate Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,42
+BASKIN ROBBINS,Mint Milk Chocolate Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,43
+BASKIN ROBBINS,Mint Milk Chocolate Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,44
+BASKIN ROBBINS,Mint Milk Chocolate Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,45
+BASKIN ROBBINS,Mississippi Mud Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,46
+BASKIN ROBBINS,Mississippi Mud Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,47
+BASKIN ROBBINS,Mississippi Mud Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,48
+BASKIN ROBBINS,Mississippi Mud Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,49
+BASKIN ROBBINS,Mississippi Mud Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,50
+BASKIN ROBBINS,Pralines 'n Cream Small Scoop,,93,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Small Scoop,,0,,4,51
+BASKIN ROBBINS,Pralines 'n Cream Regular Scoop,,135,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Regular Scoop,,0,,4,52
+BASKIN ROBBINS,Pralines 'n Cream Double Scoop,,187,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Double Scoop,,0,,4,53
+BASKIN ROBBINS,Pralines 'n Cream Family Pack,,345,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Family Pack,,0,,4,54
+BASKIN ROBBINS,Pralines 'n Cream Happyness Pack,,681,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Divine - Happyness Pack,,0,,4,55
+BASKIN ROBBINS,Nutty Professor,,219,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,5,1
+BASKIN ROBBINS,Oreo Cookie,,219,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,5,2
+BASKIN ROBBINS,Brownie A La Mode,,249,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,5,3
+BASKIN ROBBINS,Banana Split,,330,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,5,4
+BASKIN ROBBINS,Chocolate Madness,,330,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,5,5
+BASKIN ROBBINS,Thunder Hot Fudge,,193,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,5,6
+BASKIN ROBBINS,Banana Royale,,249,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,5,7
+BASKIN ROBBINS,Cheeky Coffee Regular,,209,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,1
+BASKIN ROBBINS,Chocolate Chiller Regular,,209,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,2
+BASKIN ROBBINS,Cookies 'N Cream Regular,,209,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,3
+BASKIN ROBBINS,Honey Crackle Regular,,209,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,4
+BASKIN ROBBINS,Mango Berry Magic Regular,,209,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,5
+BASKIN ROBBINS,Cheeky Coffee Large,,304,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,6
+BASKIN ROBBINS,Chocolate Chiller Large,,304,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,7
+BASKIN ROBBINS,Cookies 'N Cream Large,,304,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,8
+BASKIN ROBBINS,Honey Crackle Large,,304,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,9
+BASKIN ROBBINS,Mango Berry Magic Large,,304,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,6,10
+BASKIN ROBBINS,Classic Fudge Full,,749,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roll Cakes,,0,,7,1
+BASKIN ROBBINS,Mississipi Mud Full,,749,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roll Cakes,,0,,7,2
+BASKIN ROBBINS,Red Velvet Full,,749,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roll Cakes,,0,,7,3
+BASKIN ROBBINS,Bavarian Knight Full ,,749,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roll Cakes,,0,,7,4
+BASKIN ROBBINS,Bavarian Knight Slice,,115,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roll Cakes,,0,,7,5
+BASKIN ROBBINS,Classic Fudge Slice,,115,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roll Cakes,,0,,7,6
+BASKIN ROBBINS,Mississipi Mud Slice,,115,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roll Cakes,,0,,7,7
+BASKIN ROBBINS,Red Velvet Slice,,115,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roll Cakes,,0,,7,8
+BASKIN ROBBINS,Mango Mania,,60,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sticks ,,0,,8,1
+BASKIN ROBBINS,Dulce De Leche,,60,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sticks ,,0,,8,2
+BASKIN ROBBINS,Cotton Candy Surprise,,60,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sticks ,,0,,8,3
+BASKIN ROBBINS,Vanilla 'n Chocolate,,60,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sticks ,,0,,8,4
+BASKIN ROBBINS,Almond 'n Caramel,,65,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sticks ,,0,,8,5
+BASKIN ROBBINS,Choco Crackles,,65,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sticks ,,0,,8,6
+BASKIN ROBBINS,Coffe Almond,,90,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sticks ,,0,,8,7
+BASKIN ROBBINS,Cookies 'n Cream,,65,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sticks ,,0,,8,8
+BASKIN ROBBINS,Mississsippi Mud,,79,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sticks ,,0,,8,9
+BASKIN ROBBINS,Fruit Overload,,116,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pre Pack Sundae Cups,,0,,9,1
+BASKIN ROBBINS,Fudge,,116,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pre Pack Sundae Cups,,0,,9,2
+BASKIN ROBBINS,Mississsippi Mud,,116,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pre Pack Sundae Cups,,0,,9,3
+BASKIN ROBBINS,Pineaple Round Cake,,549,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Cakes (Round Cakes),,0,,9,4
+BASKIN ROBBINS,Black Forest  Round Cake,,549,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Cakes (Round Cakes),,0,,9,5
+BASKIN ROBBINS,Chocolate Truffle Black Forest Round Cake,,549,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cool Cakes (Round Cakes),,0,,9,6
+BASKIN ROBBINS,Dipping Chocolate-Hot,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,1
+BASKIN ROBBINS,Hot Fudge-Hot,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,2
+BASKIN ROBBINS,Butterscotch-Hot,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,3
+BASKIN ROBBINS,Chocolate Syrup-Cold,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,4
+BASKIN ROBBINS,Mango-Cold,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,5
+BASKIN ROBBINS,Strawberry-Cold,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,6
+BASKIN ROBBINS,Pineapple-Cold,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,7
+BASKIN ROBBINS,Blueberry-Cold,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,8
+BASKIN ROBBINS,Rasberry-Cold,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,9
+BASKIN ROBBINS,Wheat Crsipies-Dry,,15,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,10
+BASKIN ROBBINS,Gems-Dry,,15,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,11
+BASKIN ROBBINS,Sprinkles-Dry,,15,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,12
+BASKIN ROBBINS,Choco Chips-Dry,,15,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,13
+BASKIN ROBBINS,Nuts-Dry,,21,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toppings,,0,,10,14
+BASKIN ROBBINS,Choco Waffle-Regular,,15,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cone,,0,,11,1
+BASKIN ROBBINS,Waffle-Big,,9,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cone,,0,,11,2
+BASKIN ROBBINS,Choco Waffle-Regular,,22,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cone,,0,,11,3
+BASKIN ROBBINS,Waffle-Big,,15,,,,5,0,Veg,8:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cone,,0,,11,4

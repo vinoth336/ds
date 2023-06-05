@@ -1,0 +1,24 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+VRS GARAM STALL,Special Garam,,24,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,1
+VRS GARAM STALL,Coconut Oil Garam,,24,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,2
+VRS GARAM STALL,Appala Garam,,18,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,3
+VRS GARAM STALL,Bonda Garam,,24,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,4
+VRS GARAM STALL,Samsa Garam,,24,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,5
+VRS GARAM STALL,Kalakkal Garam,"Elladai,Murukku,Karakadalai",30,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,6
+VRS GARAM STALL,Kara Pori Garam,,24,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,7
+VRS GARAM STALL,Murukku Garam,,30,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,8
+VRS GARAM STALL,Elladai Garam,,30,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,9
+VRS GARAM STALL,Kadalai Garam,,24,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,9
+VRS GARAM STALL,Corn Garam,,24,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,9
+VRS GARAM STALL,Muttai Garam,,30,,,,0,Non Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,9
+VRS GARAM STALL,Samsa with Egg Garam,,36,,,,0,Non Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,9
+VRS GARAM STALL,Bonda with Egg Garam,,36,,,,0,Non Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,9
+VRS GARAM STALL,Appalam with Muttai Garam,,30,,,,0,Non Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,9
+VRS GARAM STALL,Kalakkal Egg Garam,"Egg,Elladai,Murukku,Karakadalai",42,,,,0,Non Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garam Items,,0,,1,9
+VRS GARAM STALL,Appalam Set,,18,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Set Items,,0,,1,9
+VRS GARAM STALL,Elladai Set ,,24,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Set Items,,0,,1,9
+VRS GARAM STALL,Murukku Set ,,24,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Set Items,,0,,1,9
+VRS GARAM STALL,Elladai Egg Set,,36,,,,0,Non Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Set Items,,0,,1,9
+VRS GARAM STALL,Seembal 1Pc,,18,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,9
+VRS GARAM STALL,Pal Kova 1Pc,,18,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,9
+VRS GARAM STALL,Ellu Urundai 1Pc,,12,,,,0,Veg,05:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,9

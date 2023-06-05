@@ -1,0 +1,23 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+MASTER BIRIYANI,Mutton Biriyani,,190,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+MASTER BIRIYANI,Chicken Biriyani,,100,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
+MASTER BIRIYANI,Chicken Biriyani Plain,,70,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,3
+MASTER BIRIYANI,Mutton Biriyani Plain,,80,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,4
+MASTER BIRIYANI,Chicken 65 Boneless,,100,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,3
+MASTER BIRIYANI,Chicken 65 Bone,,75,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,4
+MASTER BIRIYANI,Chicken Chilli,,60,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,5
+MASTER BIRIYANI,Chicken Lollipop 4 Pcs,,110,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,6
+MASTER BIRIYANI,Tawa Fish Fry,,90,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,7
+MASTER BIRIYANI,Kaadai,,90,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,8
+MASTER BIRIYANI,Prawn,,100,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,9
+MASTER BIRIYANI,Pepper Chicken,,90,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,9
+MASTER BIRIYANI,Madurai Bun Parotta 2 Pcs,,30,,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,9
+MASTER BIRIYANI,Wheat Paortta 2 Pcs,,30,,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,9
+MASTER BIRIYANI,Chappati 2 Pcs,,30,,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,9
+MASTER BIRIYANI,Dosai 2 Pcs,,30,,,,0,Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,9
+MASTER BIRIYANI,Omelette,,15,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,9
+MASTER BIRIYANI,Chicken Fried Rice,,100,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,1,9
+MASTER BIRIYANI,Egg Fried Rice,,80,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,1,9
+MASTER BIRIYANI,Prawn Fried Rice,,110,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,1,9
+MASTER BIRIYANI,Chicken Noodles,,90,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,1,9
+MASTER BIRIYANI,Egg Noodles,,70,,,,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,1,9

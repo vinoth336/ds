@@ -1,0 +1,27 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,max_packaging_charge,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BIG OVEN BAKEES,Brownies and Nuts,,100,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brownies,,0,,2,6
+BIG OVEN BAKEES,Oreo Brownies,,110,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brownies,,0,,2,6
+BIG OVEN BAKEES,Biscoff Brownies,,120,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brownies,,0,,2,6
+BIG OVEN BAKEES,Caramel Brownies,,110,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brownies,,0,,2,6
+BIG OVEN BAKEES,Red Velvet,,150,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,2,1
+BIG OVEN BAKEES,Brownies with Chocolate and Caramel Sauce,,160,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,2,4
+BIG OVEN BAKEES,Biscoff Cheese Cake Jar,,180,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,2,5
+BIG OVEN BAKEES,Chocolate Cherry Jar,,120,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,2,7
+BIG OVEN BAKEES,Rose Milk Jar,,140,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,2,2
+BIG OVEN BAKEES,Gulab Jamun Jar,,130,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,2,2
+BIG OVEN BAKEES,Oreo and Cream,,140,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,2,2
+BIG OVEN BAKEES,Nutella and Hazelnut,,180,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,2,2
+BIG OVEN BAKEES,Rainbow Donut,,100,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Donuts,,0,,2,2
+BIG OVEN BAKEES,Snow White Donut,,100,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Donuts,,0,,2,2
+BIG OVEN BAKEES,Dairy Milk Donut,,100,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Donuts,,0,,2,2
+BIG OVEN BAKEES,Blackforest 1/2 Kg,,400,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Birthday Cakes,,0,,2,2
+BIG OVEN BAKEES,Whiteforest 1/2 Kg,,400,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Birthday Cakes,,0,,2,2
+BIG OVEN BAKEES,Coconut Cookies 100 Grams,,55,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,2,2
+BIG OVEN BAKEES,Chocolate Chip Cookies 100 Grams,,55,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,2,2
+BIG OVEN BAKEES,Chocolate Dip Cookies 100 Grams,,50,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,2,2
+BIG OVEN BAKEES,Chocolate Dip Oreo Cookies 100 Grams,,40,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,2,2
+BIG OVEN BAKEES,Chocolate Pudding,,100,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pudding Cakes,,0,,2,2
+BIG OVEN BAKEES,Caramel Pudding,,100,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pudding Cakes,,0,,2,2
+BIG OVEN BAKEES,Brownie Bites,,80,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mini Bites,,0,,2,2
+BIG OVEN BAKEES,Cookie Bites,,80,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mini Bites,,0,,2,2
+BIG OVEN BAKEES,Chocolate Cake Dips,,60,,,,0,Veg,,10:00AM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mini Bites,,0,,2,2

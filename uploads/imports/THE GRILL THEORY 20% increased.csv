@@ -1,0 +1,107 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THE GRILL THEORY,Grilled Paneer (5 Pcs) + Veg Burger + Grilled Pineapple (3 Pcs) + Blueberry Crush,,324,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,1
+THE GRILL THEORY,Wings (3 Pcs) + Lollipop (3 Pcs) + Chicken Roll 1,,300,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,2
+THE GRILL THEORY,Drumstick (2 Pcs) + BBQ Chicken Burger + Chicken Shawarma + Mint Mojito,,444,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,3
+THE GRILL THEORY,Lollipop (3 Pcs) + Strips (3 Pcs) + Grilled Pineapple (3 Pcs),,264,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,4
+THE GRILL THEORY,BBQ Chicken Burger + Chicken Noodles + Green Apple Crush,,288,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,5
+THE GRILL THEORY,Drumstick + Mexican Shawarma + Schezwan Shawarma + Green Apple Crush,,384,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,1,6
+THE GRILL THEORY,Quarter BBQ,,120,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ ,,0,,2,1
+THE GRILL THEORY,Half BBQ,,228,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ ,,0,,2,2
+THE GRILL THEORY,Full BBQ,,456,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ ,,0,,2,3
+THE GRILL THEORY,Extra Mayonnaise,,20,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ ,,0,,2,4
+THE GRILL THEORY,Chicken Drumstics,,84,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,3,1
+THE GRILL THEORY,Chicken Thighs,,60,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,3,2
+THE GRILL THEORY,Juicy Chicken Wings (3 Pcs),,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,3,3
+THE GRILL THEORY,Boneless Chicken Strips (3 Pcs),,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,3,4
+THE GRILL THEORY,Chicken Lolipop (3 Pcs),,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,3,5
+THE GRILL THEORY,Extra Mayonnaise,,20,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,3,6
+THE GRILL THEORY,Grilled Potatoes(5pcs),,60,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg BBQ,,0,,4,1
+THE GRILL THEORY,Grilled Pineapple (3 Pcs),,60,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg BBQ,,0,,4,2
+THE GRILL THEORY,Grilled Mushroom (5 Pcs),,84,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg BBQ,,0,,4,3
+THE GRILL THEORY,Grilled Panner (5 Pcs ),,96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg BBQ,,0,,4,4
+THE GRILL THEORY,Extra Mayonnaise,,20,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg BBQ,,0,,4,5
+THE GRILL THEORY,BBQ Veg Burger,,108,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger & Roll,,0,,5,1
+THE GRILL THEORY,BBQ Veg Roll,,96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger & Roll,,0,,5,2
+THE GRILL THEORY,BBQ Chicken Burger ,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger & Roll,,0,,5,3
+THE GRILL THEORY,BBQ Chicken Roll,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger & Roll,,0,,5,4
+THE GRILL THEORY,Extra Cheese,,24,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger & Roll,,0,,5,5
+THE GRILL THEORY,Veg Fried Rice,,96,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,1
+THE GRILL THEORY,Egg Fried Rice,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,2
+THE GRILL THEORY,Chicken Fried Rice,,132,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,3
+THE GRILL THEORY,Schezwan Chicken Rice,,144,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,4
+THE GRILL THEORY,Veg Noodles,,96,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,5
+THE GRILL THEORY,Egg Noodles,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,6
+THE GRILL THEORY,Chicken Noodles,,120,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,7
+THE GRILL THEORY,Schezwan Chicken Noodles,,132,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,6,8
+THE GRILL THEORY,Veg Paneer Shawarma,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,1
+THE GRILL THEORY,Chicken Shawarma,,96,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,2
+THE GRILL THEORY,Chicken Peri Peri Shawarma,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,3
+THE GRILL THEORY,Chicken Schezwan Shawarma,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,4
+THE GRILL THEORY,Chicken Mexican Shawarma,,120,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,5
+THE GRILL THEORY,Special Chicken Shawarma,,144,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,6
+THE GRILL THEORY,Plate Shawarma Extra,,36,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,7
+THE GRILL THEORY,Extra Mayonnaise,,20,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,8
+THE GRILL THEORY,Extra Peri Peri,,24,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,7,9
+THE GRILL THEORY,Crispy Fried Chicken (2 Pcs),,204,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Fried Chicken,,0,,8,1
+THE GRILL THEORY,Bucket Crispy Fried Chicken (5 Pcs) ,,468,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Fried Chicken,,0,,8,2
+THE GRILL THEORY,Bucket Crispy Fried Chicken (10 Pcs) ,,912,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Fried Chicken,,0,,8,3
+THE GRILL THEORY,Extra Mayonnaise,,20,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Fried Chicken,,0,,8,4
+THE GRILL THEORY,Fried Chicken Wings (5 Pcs),,180,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Wings,,0,,9,1
+THE GRILL THEORY,Fried Chicken Wings (10 Pcs),,324,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Wings,,0,,9,2
+THE GRILL THEORY,Extra Mayonnaise,,20,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Wings,,0,,9,3
+THE GRILL THEORY,Boneless Chicken Strips (5 Pcs),,192,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Strips,,0,,10,1
+THE GRILL THEORY,Boneless Chicken Strips (10 Pcs),,348,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Strips,,0,,10,2
+THE GRILL THEORY,Extra Mayonnaise,,20,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Strips,,0,,10,3
+THE GRILL THEORY,Chicken Popcorn,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,11,1
+THE GRILL THEORY,Nachos,,96,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,11,2
+THE GRILL THEORY,Bread Omelette,,60,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,11,3
+THE GRILL THEORY,Chicken Lollipop (5 Pcs),,204,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Lollipop,,0,,12,1
+THE GRILL THEORY,Chicken Lollipop (10 Pcs),,360,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Lollipop,,0,,12,2
+THE GRILL THEORY,Veg Burger,,96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,1
+THE GRILL THEORY,Veg Roll,,96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,2
+THE GRILL THEORY,Salted French Fries,,84,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,3
+THE GRILL THEORY,Masala Fries,,84,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,4
+THE GRILL THEORY,Corn Nuggets,,96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,5
+THE GRILL THEORY,Chicken Patty Burger,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,6
+THE GRILL THEORY,Double Patty Burger,,144,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,7
+THE GRILL THEORY,Fried Chicken Burger,,132,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,8
+THE GRILL THEORY,Cheesy Tower Burger,,180,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,9
+THE GRILL THEORY,Fried Chicken Roll,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,10
+THE GRILL THEORY,Chicken Nuggets,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,11
+THE GRILL THEORY,Extra Cheese,,24,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,13,12
+THE GRILL THEORY,Nachos Stuffed Sandwich,,96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,14,1
+THE GRILL THEORY,Veg Cheese Sand Wich,,96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,14,2
+THE GRILL THEORY,Panner Cheese Sandwich,,108,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,14,3
+THE GRILL THEORY,BBQ Chicken Sandwich,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,14,4
+THE GRILL THEORY,Fried Chicken Cheese Sandwich,,108,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,14,5
+THE GRILL THEORY,Schezwan Chicken Sandwich,,96,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,14,6
+THE GRILL THEORY,Tandoori Mayo Chicken Sandwich,,96,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,14,7
+THE GRILL THEORY,Extra Cheese,,24,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,14,8
+THE GRILL THEORY,Fried Chicken (5 Pcs) + Boneless Strips (5 Pcs) + Fried Chicken Burger (2 Pcs) + Mint Mojito (2 Nos),,1068,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Club 10 Combo for Family,,0,,15,1
+THE GRILL THEORY,Fried Chicken (2 Pcs ) + Pop Corn + Mojito + Fried Chicken Burger ,,492,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo For Two,,0,,16,2
+THE GRILL THEORY,Fried Chicken (2 Pcs) + Fried Chicken Wings (5 Pcs) + Chicken Popcorn + Bubblegum Blast Shake,,564,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pubg Combo For Friends,,0,,17,3
+THE GRILL THEORY,Fried Chicken (5Pcs) + Fried Chicken Burger + Chicken Roll + Nutto Coffee Loaded Shake,,780,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Trendy Combo,,0,,18,4
+THE GRILL THEORY,Fried Chicken (2Pcs) + Masala Fries + Chicken PopCorn + Choco Oreo Shake,,468,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kiddy Combo,,0,,19,5
+THE GRILL THEORY,Wings (5 Pcs) + Boneless Strips (5 Pcs) + Per Peri Fries,,432,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Childrens Combo,,0,,20,6
+THE GRILL THEORY,Extra Mayonnaise,,18,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dips & Cheese,,0,,21,1
+THE GRILL THEORY,Extra Cheese,,24,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dips & Cheese,,0,,21,2
+THE GRILL THEORY,Extra Peri Peri,,24,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dips & Cheese,,0,,21,3
+THE GRILL THEORY,Extra Tandoori Mayonnaise,,24,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dips & Cheese,,0,,21,4
+THE GRILL THEORY,Extra Mayonnaise,,20,,,,0,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dips & Cheese,,0,,21,5
+THE GRILL THEORY,Salted Veg Salad,,18,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Salads,,0,,22,1
+THE GRILL THEORY,Peri Peri Salad,,24,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Salads,,0,,22,2
+THE GRILL THEORY,Tandoori Salad,,24,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Salads,,0,,22,3
+THE GRILL THEORY,Mint Mojito,,84,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,23,1
+THE GRILL THEORY,Lime Mint Mojito,,96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,23,2
+THE GRILL THEORY,Blueberry Crush,,84,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,23,3
+THE GRILL THEORY,Green Apple Crush,,84,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,23,4
+THE GRILL THEORY,Strawberry Crush,,84,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,23,5
+THE GRILL THEORY,Nutto Coffee Loaded Shake,(Coffee +  Hazelnut + Peanut Butter,96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,24,1
+THE GRILL THEORY,Strawberry Monster Shake,(Strawberry + Bubblegum),102,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,24,2
+THE GRILL THEORY,Mango Burst Shake,(Mango + Passionfruit),102,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,24,3
+THE GRILL THEORY,Bubblegum Blast Shake,(Bubblegum Loaded),108,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,24,4
+THE GRILL THEORY,Mixberry Cheeseblast Shake,(Mixberry + Cheese Cake),108,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,24,5
+THE GRILL THEORY,Butterscotch  Shake,(Butterscotch loaded),96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,24,6
+THE GRILL THEORY,Choco Oreo Shake,(Chocolate + Oreo),108,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,24,7
+THE GRILL THEORY,Chocolate Shake,(Chocolate loaded),96,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,24,8
+THE GRILL THEORY,Mango Cheeseblast Shake,( Mango + Cheese Cake ),108,,,,0,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,24,9

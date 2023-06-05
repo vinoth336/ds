@@ -1,0 +1,133 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BREWBAKES CAFE,Veg Super Spicy Sandwich ,Sandwich Loaded With Special Veggies And Eggless Mayonnaise,103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,1
+BREWBAKES CAFE,Veg Mexican Sandwich,Sandwich With Mexican Salsa Sauce And With A Big Layer Of Cheese,103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,2
+BREWBAKES CAFE,Vegetable & Cheese Sandwich,"Sliced Cucumber, Tomato & Cheese",103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,3
+BREWBAKES CAFE,Veg Traditional Tikka Sandwich,Freshly Baked Jumbo Breads Served With Panner Tikka & Veggies,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,4
+BREWBAKES CAFE,Veg Triple Decker Sandwich,Triple Layered Sandwich Served With Herb Chilly Pattyand Veggies And Blend Of Two Sauces And Indian Green Chutney,145.95,,,,6.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,5
+BREWBAKES CAFE,Non Veg Super Spicy Sandwich,Sandwich Loaded With Special Veggies And Eggless Mayonnaise,135.45,,,,6.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,6
+BREWBAKES CAFE,Non Veg Mexican Sandwich,Sandwich With Mexican Salsa Sauce And With A Big Layer Of Cheese,135.45,,,,6.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,7
+BREWBAKES CAFE,Non Veg Traditional Tikka Sandwich,"Sliced Cucumber, Tomato & Cheese",156.45,,,,7.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,8
+BREWBAKES CAFE,Non Veg & Cheese Sandwich,Freshly Baked Jumbo Breads Served With Panner Tikka & Veggies,135.45,,,,6.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,9
+BREWBAKES CAFE,Non Veg Triple Decker Sandwich,Triple Layered Sandwich Served With Herb Chilly Pattyand Veggies And Blend Of Two Sauces And Indian Green Chutney,166.95,,,,7.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,10
+BREWBAKES CAFE,Roasted Chicken Sandwich,Sandwich Loaded With Special Chicken With Schezwan,135.45,,,,6.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,11
+BREWBAKES CAFE,Veg Aloo Tikka Burger,The Americano Style Burger With Crunchy Aloo Tikki,72.45,,,,3.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,1
+BREWBAKES CAFE,Veg Barbeque Burger,"Fiery In Taste, Herb Chilly Patty With Fresh Veggies And Barbeque Sauce",93.45,,,,4.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,2
+BREWBAKES CAFE,Veg Masala Burger,Veg Patty With Thousand Island Sauce,93.45,,,,4.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,3
+BREWBAKES CAFE,Veg Traditional Tikka Burger,Single Decker Veg Patty Fresh Veggie With Regular And Salsa Sauce,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,4
+BREWBAKES CAFE,Veg Double Patty Burger,The Burger Loaded With Veg Patty Topped With Fresh Veggies And Cheese,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,5
+BREWBAKES CAFE,Veg Luci Jucy Burger,The Burger Loaded With Veg Patty Topped With Fresh Veggies And Loaded Cheese,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,6
+BREWBAKES CAFE,Non Veg Barbeque Burger,"Fiery In Taste, Herb Chilly Patty With Fresh Veggies And Barbeque Sauce",114.45,,,,5.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,7
+BREWBAKES CAFE,Non Veg Masala Burger,Veg Patty With Thousand Island Sauce,114.45,,,,5.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,8
+BREWBAKES CAFE,Non Veg Traditional Tikka Burger,Single Decker Veg Patty Fresh Veggie With Regular And Salsa Sauce,145.95,,,,6.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,9
+BREWBAKES CAFE,Non Veg Double Patty Burger,The Burger Loaded With Veg Patty Topped With Fresh Veggies And Cheese,187.95,,,,8.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,10
+BREWBAKES CAFE,Non Veg Jucy Burger,The Burger Loaded With Veg Patty Topped With Fresh Veggies And Loaded Cheese,177.45,,,,8.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,11
+BREWBAKES CAFE,Veg Aglio-E-Olio-Pepperoncino,"Olive Oil, Garlic, Chilli Flakes",156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,1
+BREWBAKES CAFE,Veg Alfredo,Fresh Mushroom & White Cream With Olive Oil,198.45,,,,9.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,2
+BREWBAKES CAFE,Veg Arabiata,Spicy Tomato Souce With Olive Oil,198.45,,,,9.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,3
+BREWBAKES CAFE,Veg Alfunghi,Penne Pasta In White Sauce And Fresh Mushrooms With Olive Oil,198.45,,,,9.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,4
+BREWBAKES CAFE,Veg Bbs Pin Pasta,Brewbakes Special Pink Pasta With Cheese Sauce And Pasta Sauce With Olive Oil,219.45,,,,10.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,5
+BREWBAKES CAFE,Non Veg Aglio-E-Olio-Pepperoncino,"Olive Oil, Garlic, Chilli Flakes",177.45,,,,8.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,6
+BREWBAKES CAFE,Non Veg Alfredo,Fresh Mushroom & White Cream With Olive Oil,219.45,,,,10.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,7
+BREWBAKES CAFE,Non Veg Arabiata,Spicy Tomato Souce With Olive Oil,219.45,,,,10.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,8
+BREWBAKES CAFE,Non Veg Alfunghi,Penne Pasta In White Sauce And Fresh Mushrooms With Olive Oil,219.45,,,,10.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,9
+BREWBAKES CAFE,Non Veg Brewbakes Special Pin Pasta,Brewbakes Special Pink Pasta With Cheese Sauce And Pasta Sauce With Olive Oil,240.45,,,,11.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,3,10
+BREWBAKES CAFE,Veg Queen Margherita Pizza,"The Cult Classic Smelted Cheese Pizza Baking Since 1889, Italy",145.95,,,,6.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,1
+BREWBAKES CAFE,Veg Nepolian Pizza,"Indian Pizza Made With Tomato, Mushroom & Cheese",198.45,,,,9.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,2
+BREWBAKES CAFE,Veg Volcano Pizza,"The Flaming Flery Pizza With Smelted Dripping Cheese Loaded With Jalapenos, Fresh Veggies To Blow Your Mind Away",187.95,,,,8.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,3
+BREWBAKES CAFE,Veg Brewbakes Signature Double Burst Pizza,Double Layer Mushroom Pizza And Overloaded With Cheese And Fresh Veggies,292.95,,,,13.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,4
+BREWBAKES CAFE,Veg Mexican Pizza,Mexican Pizza Layered With Salsa & Sweet Corn Sprinkled With Mexican Chilly & Melting Cheese,208.95,,,,9.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,5
+BREWBAKES CAFE,Paneer Pizza,"Italian Pizza Made With Paneer, Capsicum And Cheese",208.95,,,,9.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,6
+BREWBAKES CAFE,Non Veg Queen Margherita Pizza,"The Cult Classic Smelted Cheese Pizza Baking Since 1889, Italy",166.95,,,,7.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,7
+BREWBAKES CAFE,Non Veg Nepolian Pizza,"Indian Pizza Made With Tomato, Mushroom & Cheese",219.45,,,,10.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,8
+BREWBAKES CAFE,Non Veg Volcano Pizza,"The Flaming Flery Pizza With Smelted Dripping Cheese Loaded With Jalapenos, Fresh Veggies To Blow Your Mind Away",208.95,,,,9.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,9
+BREWBAKES CAFE,Non Veg Brewbakes Signature Double Burst Pizza,Double Layer Mushroom Pizza And Overloaded With Cheese And Fresh Veggies,324.45,,,,15.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,10
+BREWBAKES CAFE,Non Veg Mexican Pizza,Mexican Pizza Layered With Salsa & Sweet Corn Sprinkled With Mexican Chilly & Melting Cheese,240.45,,,,11.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,11
+BREWBAKES CAFE,Non Veg Paneer Pizza,"Italian Pizza Made With Paneer, Capsicum And Cheese",208.95,,,,9.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,5,12
+BREWBAKES CAFE,Choco Walnut Brownie,,103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,10,1
+BREWBAKES CAFE,Walnut Delight Brownie,,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,10,2
+BREWBAKES CAFE,Fruit Blast,,177.45,,,,8.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,10,3
+BREWBAKES CAFE,Dark Magic,,198.45,,,,9.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,10,4
+BREWBAKES CAFE,Sizzling Brownie,,208.95,,,,9.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sundaes,,0,,10,5
+BREWBAKES CAFE,Desi Masala Omlette,,72.45,,,,3.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omlettes,,0,,9,1
+BREWBAKES CAFE,Mexican Omlette,,72.45,,,,3.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omlettes,,0,,9,2
+BREWBAKES CAFE,Scramble Egg On Toast,,72.45,,,,3.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omlettes,,0,,9,3
+BREWBAKES CAFE,Cheese Bun Omlette,,82.95,,,,3.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omlettes,,0,,9,4
+BREWBAKES CAFE,Onion Cheese Omlette,,82.95,,,,3.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omlettes,,0,,9,5
+BREWBAKES CAFE,Chicken Cheese Omlette,,103.95,,,,4.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Omlettes,,0,,9,6
+BREWBAKES CAFE,Oreo Cookies Shake (360 Ml),,166.95,,,,7.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,13,1
+BREWBAKES CAFE,Kitkat Shake (360 Ml),,177.45,,,,8.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,13,2
+BREWBAKES CAFE,Walnut Brownie Shake (360 Ml),,208.95,,,,9.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,13,3
+BREWBAKES CAFE,Ferrero Shake (360 Ml),,208.95,,,,9.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,13,4
+BREWBAKES CAFE,Strawberry Freak Shake (Regular),,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,1
+BREWBAKES CAFE,Choco Walnut Freak Shake  (Regular),,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,2
+BREWBAKES CAFE,Nuttella Freak Shake  (Regular),,177.45,,,,8.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,3
+BREWBAKES CAFE,Nuttella Cookies Freak Shake  (Regular),,177.45,,,,8.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,4
+BREWBAKES CAFE,Bbs Freak Shake (Espresso Based)  (Regular),,177.45,,,,8.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,5
+BREWBAKES CAFE,Strawberry Freak Shake (Large),,240.45,,,,11.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,6
+BREWBAKES CAFE,Choco Walnut Freak Shake  (Large),,250.95,,,,11.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,7
+BREWBAKES CAFE,Nuttella Freak Shake  (Large),,261.45,,,,12.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,8
+BREWBAKES CAFE,Nuttella Cookies Freak Shake  (Large),,261.45,,,,12.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,9
+BREWBAKES CAFE,Bbs Freak Shake (Espresso Based)  (Large),,261.45,,,,12.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Brewbakes Freak Shakes,,0,,16,10
+BREWBAKES CAFE,Hot Chocolate Chocoholicks,A Special Chocolate Based Hot Energy Drink,103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocoholicks,,0,,14,1
+BREWBAKES CAFE,Cold Chocolate Chocoholicks,A Smooth Cream  Cold Chocolate Drink,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocoholicks,,0,,14,2
+BREWBAKES CAFE,Mango Smoothie,,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,15,1
+BREWBAKES CAFE,Strawberry Smoothie,,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,15,2
+BREWBAKES CAFE,Blackcurrant Smoothie,,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,15,3
+BREWBAKES CAFE,Pineapple Smoothie,,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,15,4
+BREWBAKES CAFE,Green Apple Smoothie,,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,15,5
+BREWBAKES CAFE,Frappe Brew,With Vanilla Ice Cream,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Frappes,,0,,8,1
+BREWBAKES CAFE,Irish Frappe,With Vanilla Ice Cream,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Frappes,,0,,8,2
+BREWBAKES CAFE,Hazelnut Frappe,With Vanilla Ice Cream,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Frappes,,0,,8,3
+BREWBAKES CAFE,Caramel Frappe,With Vanilla Ice Cream,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Frappes,,0,,8,4
+BREWBAKES CAFE,Choco Frappe,With Vanilla Ice Cream,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Frappes,,0,,8,5
+BREWBAKES CAFE,Bbs Frappe,With Vanilla Ice Cream,208.95,,,,9.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Frappes,,0,,8,6
+BREWBAKES CAFE,Orange Slushes,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Slushes,,0,,12,1
+BREWBAKES CAFE,Green Apple Slushes,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Slushes,,0,,12,2
+BREWBAKES CAFE,Mango Slushes,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Slushes,,0,,12,3
+BREWBAKES CAFE,Strawbeery Slushes,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Slushes,,0,,12,4
+BREWBAKES CAFE,Blue Lemon Slushes,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Slushes,,0,,12,5
+BREWBAKES CAFE,Kiwi Fruit Slushes,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Slushes,,0,,12,6
+BREWBAKES CAFE,Classic Lemon Mint Mojitoe,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,11,1
+BREWBAKES CAFE,Blue Heaven Mojitoe,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,11,2
+BREWBAKES CAFE,Lemon Spicy Mojitoe,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,11,3
+BREWBAKES CAFE,Strawberry Mojitoe,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,11,4
+BREWBAKES CAFE,Green Apple Mojitoe,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,11,5
+BREWBAKES CAFE,Paan Mojitoe,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,11,6
+BREWBAKES CAFE,Kiwi Cucumber Mojitoe,,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,11,7
+BREWBAKES CAFE,Pomegranate Mojitoe,,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,11,8
+BREWBAKES CAFE,Guava Mojitoe,,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitoes,,0,,11,9
+BREWBAKES CAFE,Vanilla Ice Cream,,40.95,,,,1.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,17,1
+BREWBAKES CAFE,Chocolate Ice Cream,,40.95,,,,1.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,17,2
+BREWBAKES CAFE,Chocolate Sauce,,40.95,,,,1.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,17,3
+BREWBAKES CAFE,Irish Flavour,,40.95,,,,1.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,17,4
+BREWBAKES CAFE,Hazelnut Flavour,,40.95,,,,1.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,17,5
+BREWBAKES CAFE,Double Deker,,47.25,,,,2.25,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,17,6
+BREWBAKES CAFE,Cheese Burst,,47.25,,,,2.25,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,17,7
+BREWBAKES CAFE,Regular French Fries,,103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+BREWBAKES CAFE,Cheese French Fries,,114.45,,,,5.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,2
+BREWBAKES CAFE,Masala French Fries,,114.45,,,,5.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,3
+BREWBAKES CAFE,Tandoori French Fries (Crinkles),,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,4
+BREWBAKES CAFE,Cheesy Masala French Fries,,145.95,,,,6.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,5
+BREWBAKES CAFE,Chilli Garlic Pops (10 Pcs),,103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,6
+BREWBAKES CAFE,Potato Wedges,,103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,7
+BREWBAKES CAFE,Tandoori Nuggets (10 Pcs),,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,8
+BREWBAKES CAFE,Potatoes Veg With Cheese (12 Pcs),,156.45,,,,7.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,9
+BREWBAKES CAFE,Honey Chilli Potato (15 Pcs),,177.45,,,,8.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,10
+BREWBAKES CAFE,Chicken Pops (8 Pcs),,124.95,,,,5.95,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,11
+BREWBAKES CAFE,Chicken Finger (8 Pcs),,135.45,,,,6.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,12
+BREWBAKES CAFE,Chicken Nuggets (8 Pcs),,135.45,,,,6.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,13
+BREWBAKES CAFE,Chicken Cheese Nuggets (8 Pcs),,135.45,,,,6.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,14
+BREWBAKES CAFE,Classic Garlic Bread,,72.45,,,,3.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,7,1
+BREWBAKES CAFE,Cheese Chili Garlic Bread,,72.45,,,,3.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,7,2
+BREWBAKES CAFE,Cheesy Garlic Bread,,103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,7,3
+BREWBAKES CAFE,Cheese Chili Bread,,114.45,,,,5.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,7,4
+BREWBAKES CAFE,Sweet Corn Garlic Bread,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,7,5
+BREWBAKES CAFE,Masala Garlic Bread,,135.45,,,,6.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,7,6
+BREWBAKES CAFE,Cheesy Tomato Garlic Bread,,103.95,,,,4.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,7,7
+BREWBAKES CAFE,Tomato & Peas  Maggie,,93.45,,,,4.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,6,1
+BREWBAKES CAFE,Paneer & Chilli  Maggie,,114.45,,,,5.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,6,2
+BREWBAKES CAFE,Corn & Cheese  Maggie,,114.45,,,,5.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,6,3
+BREWBAKES CAFE,Mushroom Masala  Maggie,,114.45,,,,5.45,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,6,4
+BREWBAKES CAFE,Egg  Maggie,,135.45,,,,6.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,6,5
+BREWBAKES CAFE,Schezwan  Maggie,,124.95,,,,5.95,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,6,6
+BREWBAKES CAFE,Chicken & Cheese  Maggie,,156.45,,,,7.45,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggies,,0,,6,7

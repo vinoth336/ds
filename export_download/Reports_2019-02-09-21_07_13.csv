@@ -1,0 +1,12 @@
+S.No,"Order Id","Res Name","Cust Name","Boy Name","Item Total","Res Offer Price","DS Offer Price",GST,"Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
+1,KRR134923,"K S MESS","Kowshik ","SHANMUGABALAJI KRR",115,0,0,0,25,15,155,"02/06/2019 18:50:40",cash,cod,"Order Finished","1xTomato Soup-35,1xSchezwan Noodles-80"
+2,KRR134859,"K S MESS","susmitha  ","SHAKTHIMAAN KRR",190,0,0,0,25,25,240,"02/06/2019 11:49:57",cash,cod,"Order Finished","1xTomato Soup-35,1xMushroom Briyani-80,1xVeg Noodles-75"
+3,KRR134677,"K S MESS","vinod ","SHAKTHIMAAN KRR",385,0,0,0,24,40,449,"02/04/2019 20:41:47",cash,cod,"Order Finished","1xPaneer Butter Masala-130,2xButter Naan-35,1xPaneer Fried Rice-95,1xRoast-40,1xRava Roast-50"
+4,KRR134652,"K S MESS","SANDEEP R ","SHAKTHIMAAN KRR",320,0,0,0,12,30,362,"02/04/2019 19:56:58",cash,cod,"Order Finished","3xIdiyappam-45,1xGobi Masala-120,1xChilli Parotta-65"
+5,KRR134639,"K S MESS","chandru ","MUNIYAPPAN KRR",75,0,0,0,30,5,110,"02/04/2019 19:28:00",cash,cod,"Order Finished","1xChilli Idly-75-hot
+
+
+
+
+"
+6,KRR134575,"K S MESS","megala ","SHAKTHIMAAN KRR",165,0,0,0,25,20,210,"02/04/2019 13:04:00",cash,cod,"Order Finished","1xMushroom Briyani-80,1xMushroom Fried Rice-85"

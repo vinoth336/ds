@@ -1,0 +1,7 @@
+S.No,"Order Id","Res Name","Cust Name","Boy Name","Item Total","Res Offer Price","Res Coupon Price","DS Coupon Price",HGST,DGST,"Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
+1,KRR263636,"NALAN UNAVAGAM","mohanapriya  ","PARTHIPAN KRR",75,0,0,0,0,0,30,15,120,"01/08/2021 13:37:25",cash,cod,"Order Finished","1xMeals 5-75"
+2,KRR263227,"NALAN UNAVAGAM","rajiv ",GOPINATHKRR,30,0,0,0,0,0,30,5,65,"01/06/2021 13:54:24",cash,cod,"Order Finished","1xVegetable Rice-30"
+3,KRR263192,"NALAN UNAVAGAM","Meenaloshini  ","DINESHKUMAR KRR",150,0,0,0,0,0,39,30,219,"01/06/2021 12:42:15",cash,cod,"Order Finished","2xMeals 3-75"
+4,KRR263084,"NALAN UNAVAGAM","sumi ","GUNASEKARAN KRR",140,0,14,0,0,0,30,25,181,"01/05/2021 19:31:01",cash,cod,"Order Finished","1xGodhumai Puttu-25,1xKuthiraivali Dosai-30,1xSamai Dosai-30,1xVendhaya Keerai Chappathi-25,1xThinai Dosai-30"
+5,KRR262979,"NALAN UNAVAGAM","soundhar ",RAJESWARIKRR,75,0,0,0,0,0,30,15,120,"01/05/2021 13:44:00",Wallet,ccavenue,"Order Finished","1xMeals 2-75"
+6,KRR261994,"NALAN UNAVAGAM","Harshith ","KAMARAJ KRR",225,0,22.5,0,0,0,16,45,264,"01/01/2021 12:57:14",cash,cod,"Order Finished","3xMeals 5-75"

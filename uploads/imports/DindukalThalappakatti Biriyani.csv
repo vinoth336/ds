@@ -1,0 +1,103 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DINDIGUL THALAPPAKATTI,Chicken Milagu Soup,,119,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Asaiva Neer Saaru,,0,,1,1
+DINDIGUL THALAPPAKATTI,Mutton Milagu Soup,,161,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Asaiva Neer Saaru,,0,,2,1
+DINDIGUL THALAPPAKATTI,Hot & Soup Veg Soup,,103,,,,,Veg,11:0AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,3,1
+DINDIGUL THALAPPAKATTI,Mushroom Milagu Soup,,103,,,,,Veg,11:0AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,4,1
+DINDIGUL THALAPPAKATTI,Milagu Rasam Soup,,103,,,,,Veg,11:0AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,5,1
+DINDIGUL THALAPPAKATTI,Gobi 65,,186,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,6,1
+DINDIGUL THALAPPAKATTI,Gobi Manchurian,,186,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,7,1
+DINDIGUL THALAPPAKATTI,Panner 65 ,,207,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,8,1
+DINDIGUL THALAPPAKATTI,Panner Manchurian,,207,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,9,1
+DINDIGUL THALAPPAKATTI,Mushroom 65,,186,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,10,1
+DINDIGUL THALAPPAKATTI,Mushroom Manchurian,,186,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,11,1
+DINDIGUL THALAPPAKATTI,Black Pepper Chicken,,253,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,12,1
+DINDIGUL THALAPPAKATTI,Thalappakatti Chicken Porichadu,,285,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,13,1
+DINDIGUL THALAPPAKATTI,Chicken Lollypop,,236,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,14,1
+DINDIGUL THALAPPAKATTI,Moru Moru Stick Chicken,,317,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,15,1
+DINDIGUL THALAPPAKATTI,Black Pepper Chicken Boneless,,286,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,16,1
+DINDIGUL THALAPPAKATTI,Thalappakatti Pepper Lollypop,,247,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,17,1
+DINDIGUL THALAPPAKATTI,Chilly Chicken ,,236,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,18,1
+DINDIGUL THALAPPAKATTI,Chicken Manchurian,,235,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,19,1
+DINDIGUL THALAPPAKATTI,Dragon Chicken ,,236,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,20,1
+DINDIGUL THALAPPAKATTI,Chicken 65 ,,225,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,21,1
+DINDIGUL THALAPPAKATTI,Nattukozhi Sukka,,252,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tamil Nadu Kozhi Specials,,0,,22,1
+DINDIGUL THALAPPAKATTI,Chicken Pallipalayam,,230,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tamil Nadu Kozhi Specials,,0,,23,1
+DINDIGUL THALAPPAKATTI,Theepori Lollypop,,252,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tamil Nadu Kozhi Specials,,0,,24,1
+DINDIGUL THALAPPAKATTI,Chicken Varutha Kari,,230,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tamil Nadu Kozhi Specials,,0,,25,1
+DINDIGUL THALAPPAKATTI,Seer Fish Small Onion Roast,,281,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,26,1
+DINDIGUL THALAPPAKATTI,Nethili Fish Fry,,214,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,27,1
+DINDIGUL THALAPPAKATTI,Fish 65,,236,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,1,2
+DINDIGUL THALAPPAKATTI,Chilly Fish,,234,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,2,2
+DINDIGUL THALAPPAKATTI,Garlic Fish,,234,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,3,2
+DINDIGUL THALAPPAKATTI,Sear Fish Fry,,281,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,4,2
+DINDIGUL THALAPPAKATTI,Tawa Meen Roast,,288,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,5,2
+DINDIGUL THALAPPAKATTI,Fish Finger,,213,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,6,2
+DINDIGUL THALAPPAKATTI,Chilly Prawn,,253,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,7,2
+DINDIGUL THALAPPAKATTI,Garlic Prawn,,253,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,8,2
+DINDIGUL THALAPPAKATTI,Prawn Manchurian,,253,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,1,3
+DINDIGUL THALAPPAKATTI,Prawn Sukka,,252,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Ocean Friendly,,0,,1,4
+DINDIGUL THALAPPAKATTI,Chicken Fried Rice,,196,,,,,Non Veg,06:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice with Meat /Veg,,0,,2,2
+DINDIGUL THALAPPAKATTI,Egg Fried Rice,,184,,,,,Non Veg,06:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice with Meat /Veg,,0,,3,3
+DINDIGUL THALAPPAKATTI,Schezwan Chicken Fried Rice,,207,,,,,Non Veg,06:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice with Meat /Veg,,0,,4,4
+DINDIGUL THALAPPAKATTI,Schezwan Egg Fried Rice,,196,,,,,Non Veg,06:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice with Meat /Veg,,0,,1,4
+DINDIGUL THALAPPAKATTI,Veg Fried Rice,,179,,,,,Veg,06:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice with Meat /Veg,,0,,2,4
+DINDIGUL THALAPPAKATTI,Schezwan Veg Fried Rice,,184,,,,,veg,06:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice with Meat /Veg,,0,,3,4
+DINDIGUL THALAPPAKATTI,Mushroom Fried Rice,,184,,,,,Veg,06:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice with Meat /Veg,,0,,4,4
+DINDIGUL THALAPPAKATTI,Panner Fried Rice,,184,,,,,Veg,06:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice with Meat /Veg,,0,,5,4
+DINDIGUL THALAPPAKATTI,Plain Karandi,,69,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Get You Protien Fix,,0,,6,4
+DINDIGUL THALAPPAKATTI,Kalakki,,49,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Get You Protien Fix,,0,,7,4
+DINDIGUL THALAPPAKATTI,Plain Omelette,,55,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Get You Protien Fix,,0,,8,4
+DINDIGUL THALAPPAKATTI,Masala Omelette,,66,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Get You Protien Fix,,0,,9,4
+DINDIGUL THALAPPAKATTI,Egg Podimas,,66,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Get You Protien Fix,,0,,10,4
+DINDIGUL THALAPPAKATTI,Boiled Egg,,52,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Get You Protien Fix,,0,,11,4
+DINDIGUL THALAPPAKATTI,Egg Masala,,148,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Get You Protien Fix,,0,,1,5
+DINDIGUL THALAPPAKATTI,Thalappakatti Chicken Masala,,233,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,2,5
+DINDIGUL THALAPPAKATTI,Chicken Varuval Masala,,233,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,3,5
+DINDIGUL THALAPPAKATTI,Kadai Chicken Masala,,276,,,,,Non Veg,,,,,11:00AM,03:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,4,5
+DINDIGUL THALAPPAKATTI,Mushroom Masala,,202,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Saiva Samayal,,0,,5,5
+DINDIGUL THALAPPAKATTI,Mutton Sukka,,245,,,,,Non Veg,11:00AM,01:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Attukari Vagaigal,,0,,6,5
+DINDIGUL THALAPPAKATTI,Mutton Liver Roast,,230,,,,,Non Veg,11:00AM,01:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Attukari Vagaigal,,0,,7,5
+DINDIGUL THALAPPAKATTI,Mutton Brain,,161,,,,,Non Veg,11:00AM,01:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Attukari Vagaigal,,0,,8,5
+DINDIGUL THALAPPAKATTI,Kayir Katti Kola Urunadai,,196,,,,,Non Veg,11:00AM,01:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Attukari Vagaigal,,0,,9,5
+DINDIGUL THALAPPAKATTI,Mutton Thala Curry,,280,,,,,Non Veg,11:00AM,01:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Attukari Vagaigal,,0,,10,5
+DINDIGUL THALAPPAKATTI,Chicken Noodles,,196,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles From The Work,,0,,11,5
+DINDIGUL THALAPPAKATTI,Egg Noodles,,184,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles From The Work,,0,,12,5
+DINDIGUL THALAPPAKATTI,Schezwan Chicken Noodles,,202,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles From The Work,,0,,13,5
+DINDIGUL THALAPPAKATTI,Schezwan Egg Noodles,,196,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles From The Work,,0,,1,6
+DINDIGUL THALAPPAKATTI,Veg Noodles,,179,,,,,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles From The Work,,0,,2,6
+DINDIGUL THALAPPAKATTI,Veg Schezwan Noodles,,190,,,,,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles From The Work,,0,,3,6
+DINDIGUL THALAPPAKATTI,Thalappakatti Mutton Biriyani (Boneless),,291,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,The Legendary Biriyani,,0,,4,6
+DINDIGUL THALAPPAKATTI,Keema Ball Biriyani,,275,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,The Legendary Biriyani,,0,,5,6
+DINDIGUL THALAPPAKATTI,Thalappakatti Chicken Biriyani (Boneless),,264,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,The Legendary Biriyani,,0,,6,6
+DINDIGUL THALAPPAKATTI,Talappakatti Chicken Biriyani,,242,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,The Legendary Biriyani,,0,,7,6
+DINDIGUL THALAPPAKATTI,Chicken 65 Biriyani,,265,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,The Legendary Biriyani,,0,,8,6
+DINDIGUL THALAPPAKATTI,Egg Biriyani,,213,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,The Legendary Biriyani,,0,,1,7
+DINDIGUL THALAPPAKATTI,Veg Biriyani,,173,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,The Legendary Biriyani,,0,,2,7
+DINDIGUL THALAPPAKATTI,Mushroom Biriyani,,190,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,The Legendary Biriyani,,0,,3,7
+DINDIGUL THALAPPAKATTI,Panner Biriyani,,196,,,,,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,The Legendary Biriyani,,0,,4,7
+DINDIGUL THALAPPAKATTI,Tandoori Rotti,,52,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,5,7
+DINDIGUL THALAPPAKATTI,Butter Naan,,68,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,1,8
+DINDIGUL THALAPPAKATTI,Garlic Naan,,69,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,2,8
+DINDIGUL THALAPPAKATTI,Naan,,64,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,3,8
+DINDIGUL THALAPPAKATTI,Masala Kulcha,,72,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,4,8
+DINDIGUL THALAPPAKATTI,Panner Kulcha,,64,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,1,8
+DINDIGUL THALAPPAKATTI,Tandoori Parotta,,64,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,2,8
+DINDIGUL THALAPPAKATTI,Pulka,,64,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,3,8
+DINDIGUL THALAPPAKATTI,Chappathi,,78,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,4,8
+DINDIGUL THALAPPAKATTI,Allo Parotta,,72,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Breads From The Pot,,0,,5,8
+DINDIGUL THALAPPAKATTI,Parotta,,73,,,,,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Then Indian Parotta Vagaigal,,0,,6,8
+DINDIGUL THALAPPAKATTI,Moru Moru Parotta,,64,,,,,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Then Indian Parotta Vagaigal,,0,,7,8
+DINDIGUL THALAPPAKATTI,Plain Veechu Parotta,,94,,,,,Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Then Indian Parotta Vagaigal,,0,,8,8
+DINDIGUL THALAPPAKATTI,Egg Veechu Parotta,,118,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Then Indian Parotta Vagaigal,,0,,9,8
+DINDIGUL THALAPPAKATTI,Chicken Kothu Parotta,,190,,,,,Non Veg,,,,,,,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Then Indian Parotta Vagaigal,,0,,9,8
+DINDIGUL THALAPPAKATTI,Peri Peri Chicken Chops,,279,,,,,Non Veg,,,,12:00PM,01:00PM,,06:00PM,07:00PM,"1,2,3,4,5,6,7",1,,Fresh of The Grill,,0,,10,8
+DINDIGUL THALAPPAKATTI,Peri Peri Red Chicken,,259,,,,,Non Veg,,,,12:00PM,01:00PM,,,,"1,2,3,4,5,6,7",1,,Fresh of The Grill,,0,,1,9
+DINDIGUL THALAPPAKATTI,Barbeque Chicken,,242,,,,,Non Veg,,,,12:00PM,01:00PM,,,,"1,2,3,4,5,6,7",1,,Fresh of The Grill,,0,,2,9
+DINDIGUL THALAPPAKATTI,Alfam Barbeque,,242,,,,,Non Veg,,,,12:00PM,01:00PM,,,,"1,2,3,4,5,6,7",1,,Fresh of The Grill,,0,,3,9
+DINDIGUL THALAPPAKATTI,Pepper Barbeque,,242,,,,,Non Veg,,,,12:00PM,01:00PM,,,,"1,2,3,4,5,6,7",1,,Fresh of The Grill,,0,,4,9
+DINDIGUL THALAPPAKATTI,Grilled Chicken,,242,,,,,Non Veg,,,,12:00PM,01:00PM,,,,"1,2,3,4,5,6,7",1,,Fresh of The Grill,,0,,5,9
+DINDIGUL THALAPPAKATTI,Tandoori Chicken (Half),,207,,,,,Non Veg,11:00AM,10:00PM,,12:00PM,01:00PM,,,,"1,2,3,4,5,6,7",1,,Fresh of The Grill,,0,,6,9
+DINDIGUL THALAPPAKATTI,Party Bucket Mutton Biriyani," 9 to 10 Portions of Thalappakatti Mutton Biriyani Served with 2 Portions of Chicken 65, 10 Boilled Eggs, Raitha & Gravy",2933,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party with Biriyani,,0,,7,9
+DINDIGUL THALAPPAKATTI,Party Bucket Chicken Biriyani," 9 to 10 Portions of Thalappakatti Chicken Biriyani Served with 2 Portions of Chicken 65, 10 Boilled Eggs, Raitha & Gravy",2300,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party with Biriyani,,0,,8,9
+DINDIGUL THALAPPAKATTI,Family Bucket Mutton Biriyani,"4 to 5 Portions of Thalappakatti Mutton Biriyani Served with 1 Portions of Chicken 65, 5 Boiled Eggs, Raitha & Gravy",1610,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party with Biriyani,,0,,9,9
+DINDIGUL THALAPPAKATTI,Family Bucket Chicken Biriyani,"4 to 5 Portions of Thalappakatti Chicken Biriyani Served with 1 Portions of Chicken 65, 5 Boiled Eggs, Raitha & Gravy",1184,,,,,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party with Biriyani,,0,,10,9

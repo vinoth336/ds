@@ -1,0 +1,39 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,max_packaging_charge,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+OYALO PIZZA,Cheesy Garlic Strips,,120,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,1
+OYALO PIZZA,Herby Cheesy Strips,,120,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,2
+OYALO PIZZA,Wild Parsley Wonder,,120,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,3
+OYALO PIZZA,Penne Pastra With Red Sauce,"Delicious, Steaming Hot Penna Pasta In Spicy Red Sauce, You Might Just Come Back For More!",70,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,6,1
+OYALO PIZZA,Curried Farfalle Pasta,,70,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,6,2
+OYALO PIZZA,Personal Pizza + Pasta,,150,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo Meal For 1,,0,,1,1
+OYALO PIZZA,Personal Pizza + Dessert,,135,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo Meal For 1,,0,,1,1
+OYALO PIZZA,Medium Veg Pizza + Pasta + Dessert,,275,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo Meal For 2,,0,,2,1
+OYALO PIZZA,Medium Paneer Pizza + Pasta + Dessert,,290,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo Meal For 2,,0,,2,1
+OYALO PIZZA,Personal Pizza 4 Pcs,,385,,,,0,Veg,,11:00AM,10:00PM,,,,,,,3,1,,Wednesday Combo,,0,,3,1
+OYALO PIZZA,Starter + Large Veg Pizza + 2 Desserts,,410,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Meal Combo,,0,,4,1
+OYALO PIZZA,Starter + Large Paneer Pizza + 2 Desserts,,430,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Meal Combo,,0,,4,2
+OYALO PIZZA,"5"" Peir Peri Corn Junior Pizza",,59,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Junior Pizza,,0,,7,1
+OYALO PIZZA,"5"" Curried Paneer Junior Pizza",,59,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Junior Pizza,,0,,7,2
+OYALO PIZZA,Capsicum Tomatino Personal Pizza,,120,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Personal Pizza,,0,,8,1
+OYALO PIZZA,Mushroom Delitto Personal Pizza,,120,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Personal Pizza,,0,,8,2
+OYALO PIZZA,Chilli Manchurian Miso Personal Pizza,,120,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Personal Pizza,,0,,8,3
+OYALO PIZZA,Tandoori Paneer Personal Pizza,,120,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Personal Pizza,,0,,8,4
+OYALO PIZZA,"Peri Peri Corn Pizza 8""",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,1
+OYALO PIZZA,"Corn Olive Papricana Pizza 8""",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,2
+OYALO PIZZA,"Cheesy Delitto Pizza 8""",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,3
+OYALO PIZZA,"Farm Fresh Heaven Pizza 8""",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,4
+OYALO PIZZA,"Onion & Mushroom Blast Pizza 8""",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,5
+OYALO PIZZA,"Pasta Magic Pizza 8""",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,6
+OYALO PIZZA,"Tandoori Paneer Pizza 8""",,245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,7
+OYALO PIZZA,"Cheesy Chilli Paneer Pizza 8""",,245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,8
+OYALO PIZZA,"Smoky BBQ Paneer Pizza 8""",,245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,9
+OYALO PIZZA,"Celery Schezwan Paneer Pizza 8""",,245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,10
+OYALO PIZZA,"Paneer Manchurian Pizza 8""",,245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,11
+OYALO PIZZA,"Capsicum Olive Paneer Pizza 8""",,245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,9,12
+OYALO PIZZA,"Giardino Feast Pizza 10""",,295,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,10,1
+OYALO PIZZA,"Hawaiian Feast Pizza 10""",,295,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,10,2
+OYALO PIZZA,"Cheesy Corn Pizza 10""",,295,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,10,3
+OYALO PIZZA,"Spicy Paneer Twist Pizza 10""",,320,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,10,4
+OYALO PIZZA,"Tandoori Paneer Pizza 10""",,320,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,10,5
+OYALO PIZZA,Chocolate Lava Cake,,50,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,11,1
+OYALO PIZZA,Espresso Lava Cake,,50,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,11,2
+OYALO PIZZA,Red Velvet,,50,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,11,3

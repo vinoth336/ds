@@ -1,0 +1,177 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+AACHI'S VILLAGE RESTAURANT,Tomato Soup,,50,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+AACHI'S VILLAGE RESTAURANT,Veg Manchow Soup,,50,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+AACHI'S VILLAGE RESTAURANT,Hot & Sour Soup,,50,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+AACHI'S VILLAGE RESTAURANT,Mushroom Soup,,50,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+AACHI'S VILLAGE RESTAURANT,Mutton Soup,,80,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Soup,,80,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Pepper Soup,,70,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+AACHI'S VILLAGE RESTAURANT,Sweet Corn Chicken Soup,,70,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+AACHI'S VILLAGE RESTAURANT,Chicken Manchow Soup,,70,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,9
+AACHI'S VILLAGE RESTAURANT,Hot & Sour Chicken Soup,,70,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,10
+AACHI'S VILLAGE RESTAURANT,Mushroom 65,,100,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,1
+AACHI'S VILLAGE RESTAURANT,Mushroom Pepper Fry,,110,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,2
+AACHI'S VILLAGE RESTAURANT,Mushroom Hot Pepper,,110,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,3
+AACHI'S VILLAGE RESTAURANT,Gobi 65,,100,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,4
+AACHI'S VILLAGE RESTAURANT,Gobi Pepper Fry,,110,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,5
+AACHI'S VILLAGE RESTAURANT,Gobi Hot Pepper,,110,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,6
+AACHI'S VILLAGE RESTAURANT,Baby Corn Chilly,,100,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,7
+AACHI'S VILLAGE RESTAURANT,Baby Corn 65,,110,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,8
+AACHI'S VILLAGE RESTAURANT,Baby Corn Pepper Fry,,110,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,9
+AACHI'S VILLAGE RESTAURANT,Paneer 65,,120,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,10
+AACHI'S VILLAGE RESTAURANT,Paneer Tikka,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,11
+AACHI'S VILLAGE RESTAURANT,Chilly Paneer (Chinese) Oil Fry,,110,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,12
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Chukka,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Nattu Kozhi Specials,,0,,12,1
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Uppukari,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Nattu Kozhi Specials,,0,,12,2
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Pepper Fry,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Nattu Kozhi Specials,,0,,12,3
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Chinna Onion Fry,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Nattu Kozhi Specials,,0,,12,4
+AACHI'S VILLAGE RESTAURANT,Mutton Pepper Fry,,200,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Mutton Specials,,0,,13,1
+AACHI'S VILLAGE RESTAURANT,Mutton Chukka,,200,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Mutton Specials,,0,,13,2
+AACHI'S VILLAGE RESTAURANT,Mutton Pallipalayam,,200,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Mutton Specials,,0,,13,3
+AACHI'S VILLAGE RESTAURANT,Mutton Kudal,,200,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Mutton Specials,,0,,13,4
+AACHI'S VILLAGE RESTAURANT,Dragon Fish,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,1
+AACHI'S VILLAGE RESTAURANT,Fish 777,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,2
+AACHI'S VILLAGE RESTAURANT,Fish 65,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,3
+AACHI'S VILLAGE RESTAURANT,Fish Chilly,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,4
+AACHI'S VILLAGE RESTAURANT,Nethili Fish,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,5
+AACHI'S VILLAGE RESTAURANT,Prawn 65,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,7
+AACHI'S VILLAGE RESTAURANT,Prawn Pepper Fry,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,8
+AACHI'S VILLAGE RESTAURANT,Prawn Manchurian,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,9
+AACHI'S VILLAGE RESTAURANT,Vanjaram Special,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,10
+AACHI'S VILLAGE RESTAURANT,Eraal Fry,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Aachi'S Sea Food Specials,,0,,14,11
+AACHI'S VILLAGE RESTAURANT,Chilly Chicken,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,1
+AACHI'S VILLAGE RESTAURANT,Chicken Fry,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,2
+AACHI'S VILLAGE RESTAURANT,Chicken 65,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,3
+AACHI'S VILLAGE RESTAURANT,Chicken 777,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,4
+AACHI'S VILLAGE RESTAURANT,Dragon Chicken,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,5
+AACHI'S VILLAGE RESTAURANT,Schezwan Chicken,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,6
+AACHI'S VILLAGE RESTAURANT,Chicken Lolly Pop,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,7
+AACHI'S VILLAGE RESTAURANT,Garlic Chicken,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,8
+AACHI'S VILLAGE RESTAURANT,Ginger Chicken,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,9
+AACHI'S VILLAGE RESTAURANT,Chicken Manchurian,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,10
+AACHI'S VILLAGE RESTAURANT,Lemon Chicken,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,11
+AACHI'S VILLAGE RESTAURANT,Sasmi Chicken,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,12
+AACHI'S VILLAGE RESTAURANT,Chinese Leg,,210,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,13
+AACHI'S VILLAGE RESTAURANT,Shangai Chicken,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,14
+AACHI'S VILLAGE RESTAURANT,Chicken Monika,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,15
+AACHI'S VILLAGE RESTAURANT,Gundur Chicken,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,16
+AACHI'S VILLAGE RESTAURANT,Dhaal Fry,,120,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,1
+AACHI'S VILLAGE RESTAURANT,Dhaal Dadka Fry,,120,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,2
+AACHI'S VILLAGE RESTAURANT,Mix Veg Curry,,120,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,3
+AACHI'S VILLAGE RESTAURANT,Mushroom Masala,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,4
+AACHI'S VILLAGE RESTAURANT,Mushroom Pepper Masala,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,5
+AACHI'S VILLAGE RESTAURANT,Mushroom Chettinad Masala,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,6
+AACHI'S VILLAGE RESTAURANT,Gobi Masala,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,7
+AACHI'S VILLAGE RESTAURANT,Gobi Pepper Masala,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,8
+AACHI'S VILLAGE RESTAURANT,Kadaai Paneer,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,9
+AACHI'S VILLAGE RESTAURANT,Paneer Butter Masala,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,10
+AACHI'S VILLAGE RESTAURANT,Veg Chettinad,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,11
+AACHI'S VILLAGE RESTAURANT,Green Peas Masala,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,9,12
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Masala,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Nattu Kozhi Gravy,,0,,9,13
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Chettinad Masala,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Nattu Kozhi Gravy,,0,,9,14
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Pepper Masala,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Nattu Kozhi Gravy,,0,,9,15
+AACHI'S VILLAGE RESTAURANT,Mutton Chettinad Masala,,200,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Mutton Gravy,,0,,9,16
+AACHI'S VILLAGE RESTAURANT,Mutton Pepper Masala,,200,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Mutton Gravy,,0,,9,17
+AACHI'S VILLAGE RESTAURANT,Mutton Masala,,200,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Mutton Gravy,,0,,9,18
+AACHI'S VILLAGE RESTAURANT,Prawn Masala,,170,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Sea Food Gravy,,0,,9,19
+AACHI'S VILLAGE RESTAURANT,Prawn Pepper Masala,,170,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Sea Food Gravy,,0,,9,20
+AACHI'S VILLAGE RESTAURANT,Vanjaram Fish Curry,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Sea Food Gravy,,0,,9,21
+AACHI'S VILLAGE RESTAURANT,Nethili Fish Curry,,170,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Sea Food Gravy,,0,,9,22
+AACHI'S VILLAGE RESTAURANT,Chicken Masala,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Chicken Gravy,,0,,9,23
+AACHI'S VILLAGE RESTAURANT,Butter Chicken Masala,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Chicken Gravy,,0,,9,24
+AACHI'S VILLAGE RESTAURANT,Kadai Chicken Masala,,170,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Chicken Gravy,,0,,9,25
+AACHI'S VILLAGE RESTAURANT,Pepper Chicken Masala,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Chicken Gravy,,0,,9,26
+AACHI'S VILLAGE RESTAURANT,Punjabi Chicken Masala,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Chicken Gravy,,0,,9,27
+AACHI'S VILLAGE RESTAURANT,Hyderabad Chicken Masala,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Chicken Gravy,,0,,9,28
+AACHI'S VILLAGE RESTAURANT,Kerala Chicken Masala,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Chicken Gravy,,0,,9,29
+AACHI'S VILLAGE RESTAURANT,Chicken Kolapuri Masala,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Chicken Gravy,,0,,9,30
+AACHI'S VILLAGE RESTAURANT,Veg Fried Rice,,120,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,1
+AACHI'S VILLAGE RESTAURANT,Paneer Fried Rice,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,2
+AACHI'S VILLAGE RESTAURANT,Mushroom Fried Rice,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,3
+AACHI'S VILLAGE RESTAURANT,Mix Veg Fried Rice,,150,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,4
+AACHI'S VILLAGE RESTAURANT,Schezwan Veg Fried Rice,,150,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,5
+AACHI'S VILLAGE RESTAURANT,Veg Pulao,,120,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,6
+AACHI'S VILLAGE RESTAURANT,Ghee Rice,,120,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,7
+AACHI'S VILLAGE RESTAURANT,Jeera Rice,,120,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,8
+AACHI'S VILLAGE RESTAURANT,Curd Rice,,100,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,9
+AACHI'S VILLAGE RESTAURANT,Schezwan Chicken Rice,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,10
+AACHI'S VILLAGE RESTAURANT,Schezwan Egg Rice,,130,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,11
+AACHI'S VILLAGE RESTAURANT,Chicken Rice,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,12
+AACHI'S VILLAGE RESTAURANT,Egg Rice,,130,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,13
+AACHI'S VILLAGE RESTAURANT,Mix Non Veg Fried Rice,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,14
+AACHI'S VILLAGE RESTAURANT,Prawn Fried Rice,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,15
+AACHI'S VILLAGE RESTAURANT,Mutton Fried Rice,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,16
+AACHI'S VILLAGE RESTAURANT,Mushroom Noodles,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,1
+AACHI'S VILLAGE RESTAURANT,Paneer Noodles,,140,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,2
+AACHI'S VILLAGE RESTAURANT,Mix Veg Noodles,,120,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,3
+AACHI'S VILLAGE RESTAURANT,Schezwan Noodles,,150,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,4
+AACHI'S VILLAGE RESTAURANT,Egg Noodles,,130,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,5
+AACHI'S VILLAGE RESTAURANT,Schezwan Noodles,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,6
+AACHI'S VILLAGE RESTAURANT,Mix Non Veg Noodles,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,7
+AACHI'S VILLAGE RESTAURANT,Mutton Noodles,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,8
+AACHI'S VILLAGE RESTAURANT,Chicken Noodles,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,9
+AACHI'S VILLAGE RESTAURANT,Prawn Noodles,,160,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,11,10
+AACHI'S VILLAGE RESTAURANT,Naan,,30,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,1
+AACHI'S VILLAGE RESTAURANT,Butter Naan,,35,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,2
+AACHI'S VILLAGE RESTAURANT,Garlic Naan,,40,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,3
+AACHI'S VILLAGE RESTAURANT,Cheese Naan,,45,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,4
+AACHI'S VILLAGE RESTAURANT,Stuffed Naan,,40,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,5
+AACHI'S VILLAGE RESTAURANT,Plain Roti,,25,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,6
+AACHI'S VILLAGE RESTAURANT,Butter Roti,,30,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,7
+AACHI'S VILLAGE RESTAURANT,Kulcha,,30,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,8
+AACHI'S VILLAGE RESTAURANT,Paneer Kulcha,,40,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,6,9
+AACHI'S VILLAGE RESTAURANT,Kal Dosa,,30,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa'S,,0,,7,1
+AACHI'S VILLAGE RESTAURANT,Dosa,,40,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa'S,,0,,7,2
+AACHI'S VILLAGE RESTAURANT,Ghee Roast,,50,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa'S,,0,,7,3
+AACHI'S VILLAGE RESTAURANT,Paneer Roast,,60,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa'S,,0,,7,4
+AACHI'S VILLAGE RESTAURANT,Onion Roast,,60,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa'S,,0,,7,5
+AACHI'S VILLAGE RESTAURANT,Onion Uthappam,,60,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa'S,,0,,7,6
+AACHI'S VILLAGE RESTAURANT,Tomato Uthappam,,60,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa'S,,0,,7,7
+AACHI'S VILLAGE RESTAURANT,Aachi'S Special Bun Parotta,,30,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta'S,,0,,8,1
+AACHI'S VILLAGE RESTAURANT,Plain Parotta,,20,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta'S,,0,,8,2
+AACHI'S VILLAGE RESTAURANT,Kothu Parotta (Veg),,50,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta'S,,0,,8,3
+AACHI'S VILLAGE RESTAURANT,Kothu Parotta (Egg),,60,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta'S,,0,,8,4
+AACHI'S VILLAGE RESTAURANT,Kothu Parotta (Chicken),,80,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta'S,,0,,8,5
+AACHI'S VILLAGE RESTAURANT,Egg Veechu Parotta,,40,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta'S,,0,,8,6
+AACHI'S VILLAGE RESTAURANT,Plain Veechu Parotta,,30,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta'S,,0,,8,7
+AACHI'S VILLAGE RESTAURANT,Chilly Parotta,,70,,,,5,0,Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta'S,,0,,8,8
+AACHI'S VILLAGE RESTAURANT,Aachi'S Special Leg Piece,,210,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Chickens,,0,,15,1
+AACHI'S VILLAGE RESTAURANT,Lemon Chicken ,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Chickens,,0,,15,2
+AACHI'S VILLAGE RESTAURANT,Schezmi Chicken,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Chickens,,0,,15,3
+AACHI'S VILLAGE RESTAURANT,Gundoor Chicken,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Chickens,,0,,15,4
+AACHI'S VILLAGE RESTAURANT,Chicken Monika,,150,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Chickens,,0,,15,5
+AACHI'S VILLAGE RESTAURANT,Shangai Chicken,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Chickens,,0,,15,6
+AACHI'S VILLAGE RESTAURANT,Shangai Fish,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Fish,,0,,16,1
+AACHI'S VILLAGE RESTAURANT,Fish Monika,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Fish,,0,,16,2
+AACHI'S VILLAGE RESTAURANT,Sasmi Fish,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Fish,,0,,16,3
+AACHI'S VILLAGE RESTAURANT,Fish Gundur,,180,,,,5,0,Non Veg,,,,,,,06:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Dry Fish,,0,,16,4
+AACHI'S VILLAGE RESTAURANT,Meals With Chicken Masala,,240,,,,20,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,4,1
+AACHI'S VILLAGE RESTAURANT,Meals With Eraal Chukka,,249,,,,20,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,4,2
+AACHI'S VILLAGE RESTAURANT,Meals With Nattukozhi Fry,,269,,,,20,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,4,3
+AACHI'S VILLAGE RESTAURANT,Meals With Vanjaram Meen Varuval,,269,,,,20,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,4,4
+AACHI'S VILLAGE RESTAURANT,Meals With Mutton Chukka,,249,,,,20,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,4,5
+AACHI'S VILLAGE RESTAURANT,Meals With Eraal Masala,,249,,,,20,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,4,6
+AACHI'S VILLAGE RESTAURANT,Meals With Brain Pepper,,249,,,,20,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,4,7
+AACHI'S VILLAGE RESTAURANT,Meals With Kari Kola,,249,,,,20,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,4,8
+AACHI'S VILLAGE RESTAURANT,Veg Meals,"Sambar, Rasam, Puli Kuzhambu, 2-Poriyal, More, Rasam Apalam",100,,,,20,0,Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,4,9
+AACHI'S VILLAGE RESTAURANT,Nattu Kozhi Omelette,,130,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Egg Specials,,0,,17,1
+AACHI'S VILLAGE RESTAURANT,Chicken Omelette,,130,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Egg Specials,,0,,17,2
+AACHI'S VILLAGE RESTAURANT,Mutton Omelette,,130,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Egg Specials,,0,,17,3
+AACHI'S VILLAGE RESTAURANT,Karandi Omelette,,60,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Egg Specials,,0,,17,4
+AACHI'S VILLAGE RESTAURANT,Brain Omelette,,130,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Egg Specials,,0,,17,5
+AACHI'S VILLAGE RESTAURANT,Kaadai Omelette,,130,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Egg Specials,,0,,17,6
+AACHI'S VILLAGE RESTAURANT,Aachi'S Mutton Biriyani,,210,,,,10,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Biriyani'S,,0,,5,1
+AACHI'S VILLAGE RESTAURANT,Aachi'S Plain Biriyani,,130,,,,10,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Biriyani'S,,0,,5,2
+AACHI'S VILLAGE RESTAURANT,Nattukozhi Fry,,180,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Nattukozhi Specials,,0,,18,1
+AACHI'S VILLAGE RESTAURANT,Pattukottai Nattu Kozhi,,180,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Nattukozhi Specials,,0,,18,2
+AACHI'S VILLAGE RESTAURANT,Uppu Kari,,180,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Nattukozhi Specials,,0,,18,3
+AACHI'S VILLAGE RESTAURANT,Pichupotta Nattukozhi,,180,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Nattukozhi Specials,,0,,18,4
+AACHI'S VILLAGE RESTAURANT,Chicken Fry,,150,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Chicken Specials,,0,,19,1
+AACHI'S VILLAGE RESTAURANT,Chettinad Chicken,,150,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Chicken Specials,,0,,19,2
+AACHI'S VILLAGE RESTAURANT,Pepper Chicken ,,150,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Chicken Specials,,0,,19,3
+AACHI'S VILLAGE RESTAURANT,Pichupotta Chicken,,150,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Chicken Specials,,0,,19,4
+AACHI'S VILLAGE RESTAURANT,Mutton Chukka,,180,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Mutton Specials,,0,,20,1
+AACHI'S VILLAGE RESTAURANT,Mutton Fry,,180,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Mutton Specials,,0,,20,2
+AACHI'S VILLAGE RESTAURANT,Brain Pepper Fry,,149,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Mutton Specials,,0,,20,3
+AACHI'S VILLAGE RESTAURANT,Eraal Fry,,149,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Mutton Specials,,0,,20,4
+AACHI'S VILLAGE RESTAURANT,Mutton Kola,,149,,,,5,0,Non Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Aachi'S Mutton Specials,,0,,20,5

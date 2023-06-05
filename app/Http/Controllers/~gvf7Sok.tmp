@@ -1,0 +1,1092 @@
+<?php namespace App\Http\Controllers;
+
+use App\Http\Controllers\controller;
+use App\Models\Hotel;
+use Illuminate\Http\Request;
+use Illuminate\Pagination\LengthAwarePaginator as Paginator;
+use Validator, Input, Redirect ; 
+use DB;
+use Illuminate\Support\Collection;
+use Auth; 
+
+
+class HotelController extends Controller {
+
+	protected $layout = "layouts.main";
+	protected $data = array();	
+	public $module = 'hotel';
+	static $per_page	= '10';
+
+	public function __construct()
+	{
+		
+		$this->beforeFilter('csrf', array('on'=>'post'));
+		$this->model = new Hotel();
+		
+		$this->info = $this->model->makeInfo( $this->module);
+		$this->access = $this->model->validAccess($this->info['id']);
+	
+		$this->data = array(
+			'pageTitle'	=> 	$this->info['title'],
+			'pageNote'	=>  $this->info['note'],
+			'pageModule'=> 'hotel',
+			'return'	=> self::returnUrl()
+			
+		);
+		
+	}
+
+	public function getIndex( Request $request )
+	{
+
+		if($this->access['is_view'] ==0) 
+			return Redirect::to('dashboard')
+				->with('messagetext', \Lang::get('core.note_restric'))->with('msgstatus','error');
+
+		$sort = (!is_null($request->input('sort')) ? $request->input('sort') : 'hotel_id'); 
+		$order = (!is_null($request->input('order')) ? $request->input('order') : 'asc');
+		// End Filter sort and order for query 
+		// Filter Search for query		
+		$filter = (!is_null($request->input('search')) ? $this->buildSearch() : '');
+
+		
+		$page = $request->input('page', 1);
+		$params = array(
+			'page'		=> $page ,
+			'limit'		=> (!is_null($request->input('rows')) ? filter_var($request->input('rows'),FILTER_VALIDATE_INT) : static::$per_page ) ,
+			'sort'		=> $sort ,
+			'order'		=> $order,
+			'params'	=> $filter,
+			'global'	=> (isset($this->access['is_global']) ? $this->access['is_global'] : 0 )
+		);
+		// Get Query 
+		$results = $this->model->getRows( $params );		
+		
+		// Build pagination setting
+		$page = $page >= 1 && filter_var($page, FILTER_VALIDATE_INT) !== false ? $page : 1;	
+		$pagination = new Paginator($results['rows'], $results['total'], $params['limit']);	
+		$pagination->setPath('hotel');
+		
+		$this->data['rowData']		= $results['rows'];
+		// Build Pagination 
+		$this->data['pagination']	= $pagination;
+		// Build pager number and append current param GET
+		$this->data['pager'] 		= $this->injectPaginate();	
+		// Row grid Number 
+		$this->data['i']			= ($page * $params['limit'])- $params['limit']; 
+		// Grid Configuration 
+		$this->data['tableGrid'] 	= $this->info['config']['grid'];
+		$this->data['tableForm'] 	= $this->info['config']['forms'];
+		$this->data['colspan'] 		= \SiteHelpers::viewColSpan($this->info['config']['grid']);		
+		// Group users permission
+		$this->data['access']		= $this->access;
+		// Detail from master if any
+		
+		// Master detail link if any 
+		$this->data['subgrid']	= (isset($this->info['config']['subgrid']) ? $this->info['config']['subgrid'] : array()); 
+		// Render into template
+		return view('hotel.index',$this->data);
+	}	
+
+
+
+	function getUpdate(Request $request, $id = null)
+	{
+	
+		if($id =='')
+		{
+			if($this->access['is_add'] ==0 )
+			return Redirect::to('dashboard')->with('messagetext',\Lang::get('core.note_restric'))->with('msgstatus','error');
+		}	
+		
+		if($id !='')
+		{
+			if($this->access['is_edit'] ==0 )
+			return Redirect::to('dashboard')->with('messagetext',\Lang::get('core.note_restric'))->with('msgstatus','error');
+		}				
+				
+		$row = $this->model->find($id);
+		if($row)
+		{
+			$this->data['row'] =  $row;
+		} else {
+			$this->data['row'] = $this->model->getColumnTable('abserve_hotels'); 
+		}
+		$this->data['fields'] 		=  \SiteHelpers::fieldLang($this->info['config']['forms']);
+		
+		$this->data['id'] = $id;
+		return view('hotel.form',$this->data);
+	}	
+
+	public function getShow( $id = null)
+	{
+	
+		if($this->access['is_detail'] ==0) 
+			return Redirect::to('dashboard')
+				->with('messagetext', \Lang::get('core.note_restric'))->with('msgstatus','error');
+					
+		$row = $this->model->getRow($id);
+		if($row)
+		{
+			$this->data['row'] =  $row;
+		} else {
+			$this->data['row'] = $this->model->getColumnTable('abserve_hotels'); 
+		}
+		$this->data['fields'] 		=  \SiteHelpers::fieldLang($this->info['config']['grid']);
+		
+		$this->data['id'] = $id;
+		$this->data['access']		= $this->access;
+		return view('hotel.view',$this->data);	
+	}	
+
+	function postSave( Request $request)
+	{
+		
+		$rules = $this->validateForm();
+		$validator = Validator::make($request->all(), $rules);	
+		if ($validator->passes()) {
+			$data = $this->validatePost('tb_hotel');
+				
+			$id = $this->model->insertRow($data , $request->input('hotel_id'));
+			
+			if(!is_null($request->input('apply')))
+			{
+				$return = 'hotel/update/'.$id.'?return='.self::returnUrl();
+			} else {
+				$return = 'hotel?return='.self::returnUrl();
+			}
+
+			// Insert logs into database
+			if($request->input('hotel_id') =='')
+			{
+				\SiteHelpers::auditTrail( $request , 'New Data with ID '.$id.' Has been Inserted !');
+			} else {
+				\SiteHelpers::auditTrail($request ,'Data with ID '.$id.' Has been Updated !');
+			}
+
+			return Redirect::to($return)->with('messagetext',\Lang::get('core.note_success'))->with('msgstatus','success');
+			
+		} else {
+
+			return Redirect::to('hotel/update/'.$id)->with('messagetext',\Lang::get('core.note_error'))->with('msgstatus','error')
+			->withErrors($validator)->withInput();
+		}	
+	
+	}	
+
+	public function postDelete( Request $request)
+	{
+		
+		if($this->access['is_remove'] ==0) 
+			return Redirect::to('dashboard')
+				->with('messagetext', \Lang::get('core.note_restric'))->with('msgstatus','error');
+		// delete multipe rows 
+		if(count($request->input('ids')) >=1)
+		{
+			$this->model->destroy($request->input('ids'));
+			
+			\SiteHelpers::auditTrail( $request , "ID : ".implode(",",$request->input('ids'))."  , Has Been Removed Successfull");
+			// redirect
+			return Redirect::to('hotel')
+        		->with('messagetext', \Lang::get('core.note_success_delete'))->with('msgstatus','success'); 
+	
+		} else {
+			return Redirect::to('hotel')
+        		->with('messagetext','No Item Deleted')->with('msgstatus','error');				
+		}
+
+	}			
+
+	public function postHotelresults()
+	{
+		parent::__construct();
+		if(Auth::check())
+		{
+		//do something
+			// print_r("uploads/users/");
+			$user_id = Auth::user()->id; 
+			$username = Auth::user()->username;
+			$this->data['user_id'] = $user_id;
+			$this->data['username'] = $username;
+			$user = $this->model->getData("SELECT * FROM `tb_users` WHERE `id` =" .$user_id);
+			// print_r($user);
+			$this->data['user'] = $user;
+			foreach ($user as $key) {
+			if($key->avatar != ''){
+				$this->data['user_image_path'] = \URL::to('').'/uploads/users/'.$key->avatar;
+			}
+			else{
+				$this->data['user_image_path'] = \URL::to('').'/abserve/themes/abserve/img/40x40.png';
+			}
+				$this->data['user_img'] = $key->avatar;
+			}
+			
+		}
+		$blocks = $this->model->getData("SELECT * FROM `blocks` ");
+		$this->data['blocks'] = $blocks;
+		$sqlCond = 'WHERE 1 '.$this->getAreaCondition($_REQUEST['search_city']);
+		// print_r($sqlCond);exit;
+
+		$this->data['cityname']=$_REQUEST['search_city'];
+
+		$slider_values =  $this->model->getData("SELECT MIN(room_prize)MIN,MAX(room_prize)MAX from `abserve_hotel_rooms` as `ar` JOIN `abserve_hotels` as `h` ON `ar`.`hotel_id` = `h`.`hotel_id` ".$sqlCond); 
+		foreach ($slider_values as $key=>$value) {
+		}
+		$this->data['from_default'] = $value->MIN;
+		$this->data['to_default'] = $value->MAX;
+		$this->data['from'] = $value->MIN;
+		$this->data['to'] = $value->MAX;
+
+		$page = 1;
+		$this->data['page']=$page;
+		
+		if(isset($_REQUEST['page'])){
+			$page = $_REQUEST['page'];
+			$this->data['page']=$page;
+		}
+
+		// print_r($_REQUEST);
+		$perPage = 5;
+		$status = $this->getRoomAvailStatusCondition($_REQUEST['start'],$_REQUEST['end']);
+		$this->data = array_merge($this->data,$_REQUEST);
+		// print_r($_REQUEST);
+		$subQueryCond = '';
+		$this->data['room_count'] = $this->getRoomNumbers($_REQUEST);
+		$this->data['member_count'] = $this->getMemberCounts($_REQUEST);
+		$subQueryCond .= ' WHERE `rm`.`adults_count` >= "'.$this->data['member_count'].'" AND `rm`.`room_count` >= "'.$this->data['room_count'].'"';
+		$subQueryCond .= ' AND "Available" = '.$status;
+		$mainConnection = "`h`.`hotel_id`";
+		$countquery = $this->getCountQuery($subQueryCond,$mainConnection);
+		$minquery = $this->getMinValQuery($subQueryCond,$mainConnection);
+				// print_r($minquery);
+		$query = "SELECT `h`.*,".$countquery.",".$minquery." FROM `abserve_hotels` as `h`";
+		// print_r($query);print_r($sqlCond);
+
+		$query1 = DB::select($query.$sqlCond);
+		$currentPage = Input::get('page', 1) - 1;
+		$pagedData = array_slice($query1, $currentPage * $perPage, $perPage);
+		$query1 =  new Paginator($pagedData, count($query1), $perPage);
+		$query1->setPath('hotelresults');
+
+		//Default Condition
+		$count = $this->model->getData($query,$sqlCond);
+		$aReslts = $this->model->getData($query,$sqlCond);
+
+		$categry=$this->model->getCategory();
+		$resAmnty = $this->getFilters($aReslts,$categry);
+		$this->data['resAmnty']=$resAmnty;
+		
+		$this->data['query'] = $this->model->getData("SELECT `ht_amenity_id`, `ht_amenity_name`,`ht_category` FROM `abserve_hotel_amenities`");
+
+		$tab = $this->model->getData("SELECT ht_cat_name FROM abserve_hotel_categories ");
+		$this->data['tabres']=$tab;
+			foreach ($tab as $re) {
+					# code...
+				$cty = $this->model->getData("SELECT abserve_hotels.`city` FROM `abserve_hotels` JOIN `abserve_hotel_categories` ON `abserve_hotels`.{$re->ht_cat_name} = `abserve_hotel_categories`.`ht_cat_id` ");
+				$this->data['citytab']=$cty;
+				}
+			
+			$res=$this->model->getData("SELECT * FROM `abserve_hotel_amenities` as `ha` JOIN `abserve_hotel_categories` as `hc` ON `ha`.`ht_category` = `hc`.`ht_cat_id` WHERE `ha`.`ht_category` = `hc`.`ht_cat_id` ");
+			$this->data['result'] = $res;
+
+		foreach ($aReslts as $key => $aValue) {
+			if($aValue->avail_room_count == 0)
+				unset($aReslts[$key]);
+		}
+	
+		$this->data['img_path'] = \URL::to('').'/';
+
+		$this->data['pageTitle'] = 'Hotels';
+		$this->data['pageNote'] = 'Welcome To our Hotels Booking page';
+		$this->data['breadcrumb'] = 'inactive';	
+		$this->data['pageMetakey'] =  'Niresh' ;
+		$this->data['pageMetadesc'] = 'Hello' ;
+		$this->data['hotel_list_page'] = 'hotel.list';
+
+		if(isset($_POST['ajx'])){
+
+			$page = $_REQUEST['page'];
+			$search_city=$_REQUEST['search_city'];
+			
+			$sqlCond = 'WHERE 1 '.$this->getAreaCondition($_REQUEST['search_city']);
+			$status = $this->getRoomAvailStatusCondition($_REQUEST['start'],$_REQUEST['end']);
+			$this->data = array_merge($this->data,$_REQUEST);
+			
+			$subQueryCond = '';
+			
+			$this->data['room_count'] = $this->getRoomNumbers($_REQUEST);
+			$this->data['member_count'] = $this->getMemberCounts($_REQUEST);
+			$subQueryCond .= ' WHERE `rm`.`adults_count` >= "'.$this->data['member_count'].'" AND `rm`.`room_count` >= "'.$this->data['room_count'].'"';
+			$subQueryCond .=' AND "Available" = '.$status;
+
+			$from = $_REQUEST['from'];
+			$to = $_REQUEST['to'];
+			if($from != ''){
+				if($from != $to){
+
+					$subQueryCond.="AND `room_prize` BETWEEN '" .$from . "' AND '"  .$to."' ";
+				}
+				else{
+
+					$subQueryCond.="AND `room_prize` = " .$from;
+				}
+			}
+			$sqlCond .=' HAVING `min_val` IS NOT NULL';
+			$mainConnection = "`h`.`hotel_id`";
+			$countquery = $this->getCountQuery($subQueryCond,$mainConnection);
+			$minquery = $this->getMinValQuery($subQueryCond,$mainConnection);
+			$query = "SELECT `h`.*,".$countquery.",".$minquery." FROM `abserve_hotels` as `h`";
+
+				if(isset($_REQUEST['key']) == '' && isset($_REQUEST['name']) == ''){
+					
+					if(isset($_REQUEST['from']) != '' || isset($_REQUEST['to']) != ''){
+						
+							$query1 = DB::select($query.$sqlCond);
+							// print_r($query1);exit;
+						if(!empty($query1)){
+							$currentPage = $_REQUEST['page'] - 1;
+							$pagedData = array_slice($query1, $currentPage * $perPage, $perPage);
+							$query1 =  new Paginator($pagedData, count($query1), $perPage);
+							$query1->setPath('hotelresults');
+
+							//Default Condition
+							$count = $this->model->getData($query,$sqlCond);							
+						}
+						else{
+							$query1 ='';
+						}	
+					}
+						
+				}
+
+
+				elseif(isset($_REQUEST['key']) !='' && isset($_REQUEST['name']) != '' ){
+
+					if(isset($_REQUEST['from']) != '' || isset($_REQUEST['to']) != ''){
+
+						$key1=$_REQUEST['key'];
+						$name=array($_REQUEST['name']);
+
+						foreach ($name as $key => $value1) {
+							break;
+						}
+
+						$numItems = count($value1);					
+						$sqlCond = 'WHERE 1 '.$this->getAreaCondition($_REQUEST['search_city']).'AND';
+						
+						
+							$i=0;
+							foreach ($value1 as $key => $name_value) {
+		
+								if($i === $numItems-1) {
+									$sqlCond .=' `h`.`'.$name_value.'` LIKE "%' .$key1[$key] . '%"';
+								}
+								else{
+									$sqlCond .=' `h`.`'.$name_value.'` LIKE "%' .$key1[$key] . '%" AND ';
+								}
+								$i++;
+		
+							}
+						$sqlCond .=' HAVING `min_val` IS NOT NULL';
+						$mainConnection = "`h`.`hotel_id`";
+						$countquery = $this->getCountQuery($subQueryCond,$mainConnection);
+						$minquery = $this->getMinValQuery($subQueryCond,$mainConnection);
+						$query = "SELECT `h`.*,".$countquery.",".$minquery." FROM `abserve_hotels` as `h`";
+						// print_r($query);print_r($sqlCond);exit;
+						$query1 = DB::select($query.$sqlCond);
+						// print_r($query1);exit;
+						if(!empty($query1)){
+
+							$currentPage = $_REQUEST['page'] - 1;
+							$pagedData = array_slice($query1, $currentPage * $perPage, $perPage);
+							$query1 =  new Paginator($pagedData, count($query1), $perPage);
+							$query1->setPath('hotelresults');
+							
+							//Default Condition
+							$count = $this->model->getData($query,$sqlCond);
+						
+						}
+						else{
+							$query1 ='';
+						}
+					}
+					else{
+						$query1 = '';
+					}
+				}
+
+				else{
+					$sqlCond = 'WHERE 1 '.$this->getAreaCondition($_REQUEST['search_city']);
+
+					$mainConnection = "`h`.`hotel_id`";
+					$countquery = $this->getCountQuery($subQueryCond,$mainConnection);
+					$minquery = $this->getMinValQuery($subQueryCond,$mainConnection);
+					$query = "SELECT `h`.*,".$countquery.",".$minquery." FROM `abserve_hotels` as `h`";
+
+					$query1 = DB::select($query.$sqlCond);
+					$currentPage = $_REQUEST['page'] - 1;
+					$pagedData = array_slice($query1, $currentPage * $perPage, $perPage);
+					$query1 =  new Paginator($pagedData, count($query1), $perPage);
+					$query1->setPath('hotelresults');
+
+					//Default Condition
+					$count = $this->model->getData($query,$sqlCond);
+				}
+				
+			$this->data['img_path'] = \URL::to('').'/';
+			return view('hotel.list', $this->data,compact('query1'));
+			
+		}
+		elseif($_GET){
+			$page = $_REQUEST['page'];
+			$search_city=$_REQUEST['search_city'];
+			
+			$sqlCond = 'WHERE 1 '.$this->getAreaCondition($_REQUEST['search_city']);
+			$status = $this->getRoomAvailStatusCondition($_REQUEST['start'],$_REQUEST['end']);
+			$this->data = array_merge($this->data,$_REQUEST);
+			
+			$subQueryCond = '';
+			
+			$this->data['room_count'] = $this->getRoomNumbers($_REQUEST);
+			$this->data['member_count'] = $this->getMemberCounts($_REQUEST);
+			$subQueryCond .= ' WHERE `rm`.`adults_count` >= "'.$this->data['member_count'].'" AND `rm`.`room_count` >= "'.$this->data['room_count'].'"';
+			$subQueryCond .=' AND "Available" = '.$status;
+			if(isset($_REQUEST['from']) || isset($_REQUEST['to'])){
+				$from = $_REQUEST['from'];
+				$to = $_REQUEST['to'];
+			}
+
+			$from = $value->MIN;
+			$to = $value->MAX;
+
+			$this->data['from'] = $from;
+			$this->data['to'] = $to;	
+
+			if($from != ''){
+				if($from != $to){
+
+					$subQueryCond.="AND `room_prize` BETWEEN '" .$from . "' AND '"  .$to."' ";
+				}
+				else{
+
+					$subQueryCond.="AND `room_prize` = " .$from;
+				}
+			}
+			$sqlCond .=' HAVING `min_val` IS NOT NULL';
+			$mainConnection = "`h`.`hotel_id`";
+			$countquery = $this->getCountQuery($subQueryCond,$mainConnection);
+			$minquery = $this->getMinValQuery($subQueryCond,$mainConnection);
+			$query = "SELECT `h`.*,".$countquery.",".$minquery." FROM `abserve_hotels` as `h`";
+			// print_r($query);
+
+				if(isset($_REQUEST['key']) == '' && isset($_REQUEST['name']) == ''){
+					
+					if(isset($_REQUEST['from']) != '' || isset($_REQUEST['to']) != ''){
+
+						$query1 = DB::select($query.$sqlCond);
+							// print_r($query1);exit;
+						if(!empty($query1)){
+							$currentPage = $_REQUEST['page'] - 1;
+							$pagedData = array_slice($query1, $currentPage * $perPage, $perPage);
+							$query1 =  new Paginator($pagedData, count($query1), $perPage);
+							$query1->setPath('hotelresults');
+
+							//Default Condition
+							$count = $this->model->getData($query,$sqlCond);							
+						}
+						else{
+							$query1 ='';
+						}	
+					}
+						
+				}
+
+
+				elseif(isset($_REQUEST['key']) !='' && isset($_REQUEST['name']) != ''){
+
+					if(isset($_REQUEST['from']) != '' || isset($_REQUEST['to']) != ''){
+
+							$key1=$_REQUEST['key'];
+							$name=array($_REQUEST['name']);
+
+							foreach ($name as $key => $value1) {
+								break;
+							}
+
+							$numItems = count($value1);					
+							$sqlCond = 'WHERE 1 '.$this->getAreaCondition($_REQUEST['search_city']).'AND';
+							
+							
+								$i=0;
+								foreach ($value1 as $key => $name_value) {
+			
+									if($i === $numItems-1) {
+										$sqlCond .=' `h`.`'.$name_value.'` LIKE "%' .$key1[$key] . '%"';
+									}
+									else{
+										$sqlCond .=' `h`.`'.$name_value.'` LIKE "%' .$key1[$key] . '%" AND ';
+									}
+									$i++;
+			
+								}
+							$sqlCond .=' HAVING `min_val` IS NOT NULL';
+							$mainConnection = "`h`.`hotel_id`";
+							$countquery = $this->getCountQuery($subQueryCond,$mainConnection);
+							$minquery = $this->getMinValQuery($subQueryCond,$mainConnection);
+							$query = "SELECT `h`.*,".$countquery.",".$minquery." FROM `abserve_hotels` as `h`";
+							// print_r($query);print_r($sqlCond);exit;
+							$query1 = DB::select($query.$sqlCond);
+							// print_r($query1);exit;
+							if(!empty($query1)){
+								$currentPage = $_REQUEST['page'] - 1;
+								$pagedData = array_slice($query1, $currentPage * $perPage, $perPage);
+								$query1 =  new Paginator($pagedData, count($query1), $perPage);
+								$query1->setPath('hotelresults');
+								
+								//Default Condition
+								$count = $this->model->getData($query,$sqlCond);
+							
+							}
+							else{
+								$query1 ='';
+							}
+					}
+					else{
+						$query1 ='';
+					}
+				}
+
+				else{
+					$sqlCond = 'WHERE 1 '.$this->getAreaCondition($_REQUEST['search_city']);
+
+					$mainConnection = "`h`.`hotel_id`";
+					$countquery = $this->getCountQuery($subQueryCond,$mainConnection);
+					$minquery = $this->getMinValQuery($subQueryCond,$mainConnection);
+					$query = "SELECT `h`.*,".$countquery.",".$minquery." FROM `abserve_hotels` as `h`";
+
+					$query1 = DB::select($query.$sqlCond);
+					$currentPage = $_REQUEST['page'] - 1;
+					$pagedData = array_slice($query1, $currentPage * $perPage, $perPage);
+					$query1 =  new Paginator($pagedData, count($query1), $perPage);
+					$query1->setPath('hotelresults');
+
+					//Default Condition
+					$count = $this->model->getData($query,$sqlCond);
+				}
+
+			$this->data['pageTitle'] = 'Hotels';
+			$this->data['pageNote'] = 'Welcome To our Hotels Booking page';
+			$this->data['breadcrumb'] = 'inactive';	
+			$this->data['pageMetakey'] =  'Niresh' ;
+			$this->data['pageMetadesc'] = 'Hello' ;
+			$this->data['hotel_list_page'] = 'hotel.list';
+			$this->data['pages'] = 'hotelroom.results';
+			$this->data['search_action_url'] = '';
+			$this->data['search_form'] = 'hotel.search_form';
+
+			$this->data['search_title'] = count($count) . ' hotel(s) in '.$this->data['city_name'].' on '.$_REQUEST['start'].' - '.$_REQUEST['end'].' for '.$this->data['member_count'].' adult';
+			$page = 'layouts.'.CNF_THEME.'.index';
+				
+			$this->data['img_path'] = \URL::to('').'/';
+			return view($page, $this->data,compact('query1'));
+			
+		}
+
+		// $this->data['pages'] = 'hotelroom.detailed_page';
+		$this->data['pages'] = 'hotelroom.results';
+		$this->data['search_action_url'] = '';
+		$this->data['search_form'] = 'hotel.search_form';
+
+		$this->data['search_title'] = count($count) . ' hotel(s) in '.$this->data['city_name'].' on '.$_REQUEST['start'].' - '.$_REQUEST['end'].' for '.$this->data['member_count'].' adult';
+		$page = 'layouts.'.CNF_THEME.'.index';
+		
+		
+		return view($page, $this->data, compact('query1'));
+
+	}
+
+	public function hotelAmenities()
+	{
+		return "SELECT * FROM `abserve_hotels`";
+	}
+
+	public function getRoomNumbers($aData = array())
+	{
+		if(!empty($aData))
+		{
+			if(isset($aData['room_nf']) && $aData['room_nf'] == 'on')
+				$iCount = $aData['selt_room'];
+			else
+				$iCount = $aData['room_nf'];
+			return $iCount;
+		}
+		else
+			return false;
+	}
+
+	public function getMemberCounts($aData)
+	{
+		if(!empty($aData))
+		{
+			if(isset($aData['guest_nf']) && $aData['guest_nf'] == 'on')
+				$iCount = $aData['selt_guest'];
+			else
+				$iCount = $aData['guest_nf'];
+			return $iCount;
+		}
+		else
+			return false;
+	}
+
+	public function generateCondtion($aData)
+	{
+		$whr = 'WHERE 1';
+		$aSearchData = $_POST;
+
+		$aSearchData['room_count'] = $this->getRoomNumbers($_POST);
+		$aSearchData['member_count'] = $this->getMemberCounts($_POST);
+		$whr .= $this->getAreaCondition($aData['search_city']);
+
+		$whr .= ' AND `rm`.`adults_count` >= "'.$aSearchData['member_count'].'" AND `rm`.`room_count` >= "'.$aSearchData['room_count'].'"';
+		return $whr;
+	}
+
+	public function getDateinGivenFormat($sDate, $format = '')
+	{
+		$format = $format == '' ? 'Y-m-d h:i:s' : $format;
+		if (($timestamp = strtotime($sDate)) === false) {
+			return false;
+		} else {
+		    return date($format, $timestamp);
+		}
+	}
+
+	public function getAreaCondition($sArea)
+	{
+		if(strpos($sArea, ',') !== false)
+		{
+			$aArea = array();
+			$aArea = explode(',',$sArea);
+			if(count($aArea) == 3 || count($aArea) > 3 || count($aArea) < 3)
+			{
+				if(count($aArea) == 3 || count($aArea) > 3 ){
+					$City = strtolower(trim($aArea[0]));
+					$Country = strtolower(trim($aArea[2]));
+				}
+				if(count($aArea) < 3){
+					$City = strtolower(trim($aArea[0]));
+					$Country = strtolower(trim($aArea[1]));
+				}
+				$this->setBreadCrumbValues($aArea);
+				$this->data['city_name'] = $City;
+				list($aRes, $whr) = $this->model->getHotelCountbyCityandCountry($City,$Country);
+				if($aRes[0]->cou > 0)
+				{
+					return $whr;
+				}
+				else
+					return ' AND `h`.`city` LIKE "'.$aArea[0].'%"';
+			}
+			else
+			{
+				if($aArea[0] != '' && $aArea[1] != '')
+					return ' AND `h`.`city` LIKE "'.$aArea[0].'%" OR `h`.`city` LIKE "'.$aArea[1].'%"';
+				elseif($aArea[0])
+					return ' AND `h`.`city` LIKE "'.$aArea[0].'%"';
+				elseif($aArea[1])
+					return ' AND `h`.`city` LIKE "'.$aArea[1].'%"';
+			}
+		}
+		else
+			return ' AND `h`.`city` LIKE "'.$sArea.'%"';
+	}
+
+	/* Will give the query condition to get the room available status 
+		$start = check_in_time
+		$end = check_out_time
+	*/
+	public function getRoomAvailStatusCondition($start,$end)
+	{
+		$today = date("Y-m-d");
+		$start = $start == '' ? $today : $start;
+		$end = $end == '' ? date('Y-m-d', strtotime($today . " +7 days")) : $end;
+
+		//First, will convert the date to this format 'Y-m-d'
+		$start = $this->getDateinGivenFormat($start,'Y-m-d');
+		$end = $this->getDateinGivenFormat($end,'Y-m-d');
+		return "IF(check_in_time='".$start."', 
+		          'Unavailable', 
+		          (IF('".$start."' > check_in_time,(IF('".$start."' < check_out_time,'Unavailable','Available')),
+		          (IF('".$end."' > check_in_time,'Unavailable','Available'))
+		          )))";
+	}
+
+	public function getCountQuery($cond,$connection)
+	{
+		return "(SELECT COUNT(room_id) FROM `abserve_hotel_rooms` as `rm` ".$cond." AND `rm`.`hotel_id` = ".$connection.") as `avail_room_count`";
+	}
+
+	public function getMinValQuery($cond,$connection)
+	{
+		return "(SELECT MIN(room_prize) FROM `abserve_hotel_rooms` as `rm` ".$cond." AND `rm`.`hotel_id` = ".$connection.") as `min_val`";
+	}
+
+	public function getCatAmen($ht_cat,$ht_amenity)
+	{
+		$cat=' AND `h`.'.$ht_cat.' LIKE "'.$ht_amenity.'%"';
+		return $cat;
+	}
+
+	public function setBreadCrumbValues($aArea = '')
+	{
+		$aArea[1] = !empty($aCityCodes) && $aCityCodes[$aArea[1]] != '' ? $aCityCodes[$aArea[1]] : $aArea[1];
+		$aBedVals = array();
+		foreach ($aArea as $key => $value) {
+			$aBedVals[$key]['link'] = '#';
+			$aBedVals[$key]['value'] = $value;
+			$aBedVals[$key]['isactive'] = '';//count($aArea) == (int)$key+1 ? 'active' : '';
+		}
+
+		$actCrumb = array(
+			array(
+			'link' => '',
+			'value' => $aArea[0] .'city hotels',
+			'isactive' => 'active',
+			)
+		);
+		
+		$this->data['bread_crumb'] = array_merge($aBedVals,$actCrumb);
+	}
+
+	public function getHotelresults()
+	{
+		$this->postHotelresults();
+		// $page = 'http://192.168.1.2/balakanna/laravel/travelz/public/';
+		// echo 'This page can not be dispyed. Please <a href="'.$page.'">Cick Here</a> to go to main page';
+	}
+
+	public function getDetailed($id = null)
+	{
+		//Query Part
+		// print_r($_GET);
+		if(Auth::check())
+		{
+		//do something
+			// print_r("uploads/users/");
+			$user_id = Auth::user()->id; 
+			$username = Auth::user()->username;
+			$this->data['user_id'] = $user_id;
+			$this->data['username'] = $username;
+			$user = $this->model->getData("SELECT * FROM `tb_users` WHERE `id` =" .$user_id);
+			// print_r($user);
+			$this->data['user'] = $user;
+			foreach ($user as $key) {
+			if($key->avatar != ''){
+				$this->data['user_image_path'] = \URL::to('').'/uploads/users/'.$key->avatar;
+			}
+			else{
+				$this->data['user_image_path'] = \URL::to('').'/abserve/themes/abserve/img/40x40.png';
+			}
+			if($key->avatar != ''){
+				$this->data['user_img'] = $key->avatar;
+			}
+			else{
+				$this->data['user_img'] = \URL::to('').'/abserve/themes/abserve/img/40x40.png';
+			}
+			}
+			
+		}
+		$blocks = $this->model->getData("SELECT * FROM `blocks` ");
+		$this->data['blocks'] = $blocks;
+		// print_r($_GET);
+		$status = $this->getRoomAvailStatusCondition($_GET['check_in'],$_GET['check_out']);
+		$sqlCond = 'WHERE 1 '.$this->getAreaCondition($_GET['search_city']);
+		$otherCond =  "AND `rm`.`adults_count` >= '".$_GET['mem_count']."' AND `rm`.`hotel_id` = '" .$id." 'AND `room_prize` BETWEEN ".$_GET['min_amt']." AND ".$_GET['max_amt']." AND `rm`.`room_count` >= '".$_GET['rm_no']."' AND 'Available' = ".$status;
+
+		// $otherCond =  "AND `rm`.`adults_count` >= '".$_GET['mem_count']."' AND `rm`.`hotel_id` = '" .$id." 'AND `room_prize` BETWEEN ".$_GET['min_amt']." AND ".$_GET['max_amt']." AND `rm`.`room_count` >= '".$_GET['rm_no']."' AND 'Available' = ".$status;
+
+		$query = "SELECT `h`.*,`rm`.*,".$status." as `avail_status` FROM `abserve_hotel_rooms` as `rm` INNER JOIN `abserve_hotels` as `h` ON `h`.`hotel_id` = `rm` . `hotel_id` ". $sqlCond . $otherCond;
+
+		if($_GET){
+			// print_r($_REQUEST);
+		$subQueryCond = 'WHERE `rm`.`room_prize` BETWEEN '.$_GET['min_amt']." AND ".$_GET['max_amt'];
+		$mainConnection = "`h`.`hotel_id`";
+		$countquery = $this->getCountQuery($subQueryCond,$mainConnection);
+		$minquery = $this->getMinValQuery($subQueryCond,$mainConnection);
+		// print_r($countquery);
+		$this->data['hot_id'] = $id;
+		$this->data['room_count'] = $_GET['rm_no'];
+		$this->data['member_count'] = $_GET['mem_count'];
+		$this->data['start'] = $_GET['check_in'];
+		$this->data['end'] = $_GET['check_out'];		
+		$this->data['search_city'] = $_GET['search_city'];
+		$this->data['min'] = $_GET['min_amt'];
+		$this->data['max'] = $_GET['max_amt'];
+		$otherCond1 =  "AND `rm`.`adults_count` >= '".$_GET['mem_count']."' AND `rm`.`hotel_id` != '" .$id." 'AND `room_prize` BETWEEN ".$_GET['min_amt']." AND ".$_GET['max_amt']." AND `rm`.`room_count` >= '".$_GET['rm_no']."' AND 'Available' = ".$status." Group BY `h`.`hotel_id` LIMIT 5";
+		// print_r($id);
+
+		$aReslts1 = "SELECT `h`.*,`rm`.*,".$minquery.",".$countquery.",".$status." as `avail_status` FROM `abserve_hotel_rooms` as `rm` INNER JOIN `abserve_hotels` as `h` ON `h`.`hotel_id` = `rm` . `hotel_id` ". $sqlCond . $otherCond1;
+		// print_r($query1);
+		$aReslts1 = $this->model->getData($aReslts1);
+		// print_r($aReslts1);
+		}
+
+		//Hotel Related data
+		$aHotel = $this->model->getHotelByid($id);
+
+		$minVal = $this->model->getData("SELECT MIN(room_prize) as `min_val` FROM `abserve_hotel_rooms` as `rm` WHERE 1 ". $otherCond ." AND `rm`.`hotel_id` = ".$aHotel[0]->hotel_id);
+		
+		$this->data['hotel'] = $aHotel[0];
+		$this->data['min_val'] = $minVal[0]->min_val;
+
+		$aReslts = $this->model->getData($query);
+
+		/*$amnty_query = "SELECT * FROM `abserve_hotel_rooms` WHERE `hotel_id` = ".$id." GROUP BY `room_id` ";
+
+		$amnty_query = $this->model->getData($amnty_query);*/
+		// print_r($amnty_query);
+		$categry=$this->model->getCategory();
+		$resAmnty = $this->getFilters($aReslts,$categry);
+
+		// $rm_amnty = $this->`($amnty_query,$categry);
+
+		$amenity_name= $this->model->getData("SELECT * FROM `abserve_hotel_amenities`");
+
+		$hotel_amnty = array();
+		$hotel_amnty_key = array();
+		 $keys = array_keys($resAmnty);
+			for($i = 0; $i < count($resAmnty); $i++) {
+	        if(!empty($resAmnty[$keys[$i]]))
+	            {
+	                foreach($resAmnty[$keys[$i]] as $key => $value) {
+	                    foreach ($amenity_name as $amn) {
+	                        if($value == $amn->ht_amenity_id){
+	                         if($value!=0 || $value!=''){
+	                         	if($amn->amenity_class != ''){
+		                           $hotel_amnty[]= $amn->ht_amenity_name;
+		                           $hotel_amnty_key[] = $amn->ht_amenity_id;
+		                           // print_r($amn->ht_category);
+		                           $amenity_class[] = $amn->amenity_class;
+	                       		}
+	                         }
+	                        }
+	                    }
+	                }
+	            }
+	        if(empty($resAmnty[$keys[$i]]))
+	        	{
+	        		$hotel_amnty = '';
+				    $hotel_amnty_key = '' ;
+				    $amenity_class = '';
+	            }
+	        }
+        $this->data['hotel_amnty'] = $hotel_amnty;
+        $this->data['hotel_amnty_key'] = $hotel_amnty_key;
+        $this->data['amenity_class'] = $amenity_class;
+
+        foreach ($aReslts as $key => $aRoom) {
+        	$aAminities[] = $aTemp = $this->model->getRoomAminities($aRoom->room_id);
+        	$aReslts[$key]->amenity = $this->getFilters($aTemp,$categry);
+        	foreach ($aReslts[$key]->amenity as $inKey => $inValue) {
+        		foreach ($inValue as $innerKey => $innerValue) {
+        			$this->model->getAmenityName($innerValue);
+        		}
+        	}
+        }
+
+        echo '<pre>';
+        var_dump($aReslts);
+        exit;
+/*
+        $room_amnty = array();
+		$room_amnty_key = array();
+		// print_r($amnty_query);
+		 $keys = array_keys($rm_amnty);
+			for($i = 0; $i < count($rm_amnty); $i++) {
+	        if(!empty($rm_amnty[$keys[$i]]))
+	            {
+	                foreach($rm_amnty[$keys[$i]] as $key => $value) {
+	                    foreach ($amenity_name as $amn) {
+	                        if($value == $amn->ht_amenity_id){
+	                         if($value!=0 || $value!=''){
+	                           $room_amnty[]= $amn->ht_amenity_name;
+	                           $room_amnty_key[] = $amn->ht_amenity_id;
+	                           // $room_id[] = $
+	                         }
+	                        }
+	                    }
+	                }
+	            }
+	            }
+        $this->data['room_amnty'] = $room_amnty;
+        $this->data['room_amnty_key'] = $room_amnty_key;*/
+
+		//Breadcrumb	
+		foreach ($this->data['bread_crumb'] as $value) {
+			if($value['isactive'] == 'actvie')
+			{
+				$value['isactive'] = '';
+				$value['link'] = '#';
+			}
+		}
+		$actCrumb = array(
+			array(
+			'link' => '#',
+			'value' => $aHotel[0]->hotel_name,
+			'isactive' => 'active',
+			)
+		);
+
+		$this->data['bread_crumb'] = array_merge($this->data['bread_crumb'],$actCrumb);
+
+		// print_r(Auth::user()->username);
+		$user_id = Auth::user()->id; 
+		$username = Auth::user()->username;
+		$this->data['user_id'] = $user_id;
+		$this->data['username'] = $username;
+		$this->data['hot_id'] = $id;
+		
+		// $Reviews = DB::table('user_reviews')
+  //               ->orderBy('id', 'desc')
+  //               ->where('hotel_id',$id)
+  //               ->paginate(3);
+
+		/*$page = 1;
+		$perPage = 5;
+		$Reviews = DB::select($Reviews);
+		$currentPage = Input::get('page', 1) - 1;
+		$pagedData = array_slice($Reviews, $currentPage * $perPage, $perPage);
+		$Reviews =  new Paginator($pagedData, count($Reviews), $perPage);
+		$Reviews->setPath($id);*/
+		$Reviews =$this->model->getData("SELECT * FROM `user_reviews` WHERE `hotel_id` = ".$id." ORDER BY `id` DESC ");
+		$limit = 2;
+		$this->data['limit'] = $limit;
+		$page=1;
+		$rev_cnt = count($Reviews);
+		$total_pages = ceil($rev_cnt / $limit); 
+			// echo $total_pages; 
+		$start_from = ($page-1) * $limit;  
+		$Reviews =$this->model->getData("SELECT * FROM `user_reviews` WHERE `hotel_id` = ".$id." ORDER BY `id` DESC LIMIT ".$start_from.",".$limit );
+		$this->data['page'] = $page;
+
+		//Page Details
+		// print_r(\URL::to('').'/');
+
+		$this->data['image_path'] = \URL::to('').'/';
+		$this->data['aRooms'] = $aReslts;
+		$this->data['query'] = $aReslts1;
+		$this->data['total_pages'] = $total_pages;
+		$this->data['rev_cnt'] = $rev_cnt;
+		$this->data['pageTitle'] = 'Hotels';
+		$this->data['pageNote'] = 'Welcome To our Hotels Booking page';
+		$this->data['breadcrumb'] = 'inactive';	
+		$this->data['pageMetakey'] =  'Niresh' ;
+		$this->data['pageMetadesc'] = 'Hello' ;
+		$this->data['review_view'] = 'userreviews.reviews';
+		$this->data['similar_list'] = 'hotelroom.similar_list';
+		$this->data['room_list'] = 'hotelroom.list';
+		$this->data['photos'] = 'hotelroom.photos';
+		$this->data['pages'] = 'hotelroom.detailed_page';
+
+		$page = 'layouts.'.CNF_THEME.'.index';
+		
+		return view($page, $this->data,compact('Reviews'));
+	}
+	public function getReviews()
+	{
+		if(Auth::check())
+		{
+		//do something
+			// print_r("uploads/users/");
+			$user_id = Auth::user()->id; 
+			$username = Auth::user()->username;
+			$this->data['user_id'] = $user_id;
+			$this->data['username'] = $username;
+			$user = $this->model->getData("SELECT * FROM `tb_users` WHERE `id` =" .$user_id);
+			// print_r($user);
+			$this->data['user'] = $user;
+			foreach ($user as $key) {
+			if($key->avatar != ''){
+				$this->data['user_image_path'] = \URL::to('').'/uploads/users/'.$key->avatar;
+			}
+			else{
+				$this->data['user_image_path'] = \URL::to('').'/abserve/themes/abserve/img/40x40.png';
+			}
+			if($key->avatar != ''){
+				$this->data['user_img'] = $key->avatar;
+			}
+			else{
+				$this->data['user_img'] = \URL::to('').'/abserve/themes/abserve/img/40x40.png';
+			}
+			}
+		}
+		$blocks = $this->model->getData("SELECT * FROM `blocks` ");
+		$this->data['blocks'] = $blocks;
+
+		$limit = 2;
+		$page=1;
+		 
+		$start_from = ($page-1) * $limit;
+
+		if(isset($_REQUEST['page'])){
+			// echo $rev_cnt;
+			$id = $_REQUEST['hot_id'];
+			$page = $_REQUEST['page'];
+			$start_from = ($page-1) * $limit;
+			$this->data['page'] = $page;
+			$this->data['limit'] = $limit;
+
+			$Reviews =$this->model->getData("SELECT * FROM `user_reviews` WHERE `hotel_id` = ".$id." ORDER BY `id` DESC LIMIT ".$start_from.",".$limit );
+			$revw_cunt =$this->model->getData("SELECT * FROM `user_reviews` WHERE `hotel_id` = ".$id." ORDER BY `id` DESC ");
+			$rev_cnt = count($revw_cunt);
+			$total_pages = ceil($rev_cnt / $limit);
+			$this->data['total_pages'] = $total_pages;
+			$this->data['rev_cnt'] = $rev_cnt;
+
+			// print_r($Reviews);
+			return view('userreviews.reviews',$this->data,compact('Reviews'));
+		}
+		
+	}
+	public function getFilters($aHotels, $aCategories)
+	{
+		$aHotelCats = array();
+		$aTmp = array();
+		
+		foreach ($aCategories as $aCategory) {
+			$aHotelCats[$aCategory->ht_cat_name] = array();
+		}
+
+		foreach ($aHotels as $aHotel) {
+			foreach ($aCategories as $aCategory) {
+				foreach ($aHotel as $key => $hotelVars) {
+					if($key == $aCategory->ht_cat_name)
+					{
+						if($hotelVars == '' || $hotelVars == '0')
+							continue;
+						elseif(strpos($hotelVars,',') === false)
+							$aTmp[$key] = array($hotelVars);
+						else
+							$aTmp[$key] = explode(',',$hotelVars);
+
+						$aHotelCats[$key] = array_merge($aHotelCats[$key],$aTmp[$key]);
+					}
+				}
+			}
+		}
+
+		foreach ($aHotelCats as $key => $aHotelCat) {
+			$aHotelCats[$key] = array_unique($aHotelCat);
+		}
+
+		return $aHotelCats;
+	}	
+
+public function postNewsletter( Request $request)
+	{
+		// print_r($_REQUEST);
+		$query = $this->model->getData("INSERT INTO `news_letter` (`email_id`) VALUES ('".$_POST['email_id']."')");
+		
+	}		
+
+}

@@ -1,0 +1,35 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+AKSHAYA KANICHAARU NILAIYAAM,Apple Juice (300ml),,60,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,1,1
+AKSHAYA KANICHAARU NILAIYAAM,Orange Juice (300ml),,50,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+AKSHAYA KANICHAARU NILAIYAAM,Sathukudi Juice(300ml),,60,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,3,1
+AKSHAYA KANICHAARU NILAIYAAM,Grapes Juice (300ml),,50,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,4,1
+AKSHAYA KANICHAARU NILAIYAAM,Pomegranate Juice(300ml),,60,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,5,1
+AKSHAYA KANICHAARU NILAIYAAM,Pappya Juice (300ml),,60,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,6,1
+AKSHAYA KANICHAARU NILAIYAAM,Musk Melon(Mulam Pazham Juice) (300ml),,40,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,7,1
+AKSHAYA KANICHAARU NILAIYAAM,Guva Juice (300ml),,40,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,8,1
+AKSHAYA KANICHAARU NILAIYAAM,Natural Cane Juice,,20,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,9,1
+AKSHAYA KANICHAARU NILAIYAAM,Lemon Juice (300ml),,20,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,7,1
+AKSHAYA KANICHAARU NILAIYAAM,Annasi Palam Juice (300 ml),,45,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,8,1
+AKSHAYA KANICHAARU NILAIYAAM,Apple Cane Juice,,70,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,9,1
+AKSHAYA KANICHAARU NILAIYAAM,Orange Cane Juice,,60,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,1,2
+AKSHAYA KANICHAARU NILAIYAAM,Sathukudi Cane Juice,,70,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,1,3
+AKSHAYA KANICHAARU NILAIYAAM,Grapes Cane Juice,,60,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,2,3
+AKSHAYA KANICHAARU NILAIYAAM,Pomegranate Cane Juice,,70,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,3,3
+AKSHAYA KANICHAARU NILAIYAAM,Pappya Cane Juice,,40,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,4,3
+AKSHAYA KANICHAARU NILAIYAAM,Mulam Pazham Cane Juice (300ml),,50,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,5,3
+AKSHAYA KANICHAARU NILAIYAAM,Guva Cane Juice,,50,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,6,3
+AKSHAYA KANICHAARU NILAIYAAM,annasi Palam Cane Juice,,55,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice With Cane,,0,,7,3
+AKSHAYA KANICHAARU NILAIYAAM,Vanila Milk Shake,,70,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,1
+AKSHAYA KANICHAARU NILAIYAAM,Strawbarry Milk Shake,,70,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,8,1
+AKSHAYA KANICHAARU NILAIYAAM,Pista Milk Shake,,75,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,9,1
+AKSHAYA KANICHAARU NILAIYAAM,ButterScotch Milk Shake,,75,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,1
+AKSHAYA KANICHAARU NILAIYAAM,Black Current Milk Shake,,90,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,8,1
+AKSHAYA KANICHAARU NILAIYAAM,Chocolate Milk shake,,80,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,9,1
+AKSHAYA KANICHAARU NILAIYAAM,Mango Milk Shake,,70,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,1,2
+AKSHAYA KANICHAARU NILAIYAAM,Vanila & Fruit Milk Shake,,90,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,1,3
+AKSHAYA KANICHAARU NILAIYAAM,Strawbarry & Fruit Milk Shake,,90,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,3
+AKSHAYA KANICHAARU NILAIYAAM,Pista & fruit  Milk Shake,,90,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,3,3
+AKSHAYA KANICHAARU NILAIYAAM,ButterScotch & Fruit Milk Shake,,90,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,4,3
+AKSHAYA KANICHAARU NILAIYAAM,Black Current & Fruit Milk Shake,,110,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,5,3
+AKSHAYA KANICHAARU NILAIYAAM,Chocolate & Fruit Milk shake,,100,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,6,3
+AKSHAYA KANICHAARU NILAIYAAM,Mango & Fruit  Milk Shake,,90,,,,7.5,Veg,09.30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,3

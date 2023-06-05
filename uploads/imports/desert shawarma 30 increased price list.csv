@@ -1,0 +1,192 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DESERT SHAWARMA,Desert's Signature Vintage Shawarma + Fried Chicken (Large) + Minty Mint + Vannila Ice Cream,,416,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desert Combo 1,,0,,1,1
+DESERT SHAWARMA,Vintage Shawarma Plate + Chicken Popcorn + Chicken Supreme Pizza + Vannila Milkshake + Blue Lagoon,,741,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desert Combo 2,,0,,1,2
+DESERT SHAWARMA,Mug Shawarma + BBQ Vintage Shawarma + Mexican Vintage Shawarma + Hot N Spicy Chicken Burger + BBQ Broasted Chicken Toast + Kiwi Delight + Raspberry,,1001,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desert Combo 3,,0,,1,3
+DESERT SHAWARMA,Spicy Veg Shawarma + Veg Lovers Pizza + Spicy Veg Burger + Shocking Black Currant + Bubble Gum Mojito,,572,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desert Veg Combo,,0,,1,4
+DESERT SHAWARMA,Peppy Paneer Toast Regular,,130,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,1
+DESERT SHAWARMA,Peppy Loaded Veggies Toast Regular,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,2
+DESERT SHAWARMA,Chilly Garlic Toast Regular,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,3
+DESERT SHAWARMA,Country Delight Club Toast Regular,,182,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,4
+DESERT SHAWARMA,Veg Loves Club Toast Regular,,156,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,5
+DESERT SHAWARMA,Peppy Paneer Club Toast Regular,,182,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,6
+DESERT SHAWARMA,Peppy Paneer Toast Special,,143,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,7
+DESERT SHAWARMA,Peppy Loaded Veggies Toast Special,,117,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,8
+DESERT SHAWARMA,Chilly Garlic Toast Special,,117,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,9
+DESERT SHAWARMA,Country Delight Club Toast Special,,208,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,10
+DESERT SHAWARMA,Veg Loves Club Toast Special,,182,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,11
+DESERT SHAWARMA,Peppy Paneer Club Toast Special,,208,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Veg,,0,,2,12
+DESERT SHAWARMA,Broasted Chicken Toast Regular,,130,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,1
+DESERT SHAWARMA,Rotisserie Chicken Toast Regular,,117,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,2
+DESERT SHAWARMA,BBQ Broasted Chicken Toast Regular,,143,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,3
+DESERT SHAWARMA,BBQ Rotisserie Chicken Toast Regular,,130,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,4
+DESERT SHAWARMA,Chicken Fiesta Club Toast Regular,,182,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,5
+DESERT SHAWARMA,Broasted Chicken Club Toast Regular,,169,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,6
+DESERT SHAWARMA,Rotisserie Chicken Club Toast Regular,,156,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,7
+DESERT SHAWARMA,Broasted Chicken Toast Special,,143,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,8
+DESERT SHAWARMA,Rotisserie Chicken Toast Special,,130,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,9
+DESERT SHAWARMA,BBQ Broasted Chicken Toast Special,,156,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,10
+DESERT SHAWARMA,BBQ Rotisserie Chicken Toast Special,,143,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,11
+DESERT SHAWARMA,Chicken Fiesta Club Toast Special,,195,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,12
+DESERT SHAWARMA,Broasted Chicken Club Toast Special,,195,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,13
+DESERT SHAWARMA,Rotisserie Chicken Club Toast Special,,182,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Toast Non Veg,,0,,2,14
+DESERT SHAWARMA,Camel Shawarma Regular,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,1
+DESERT SHAWARMA,Jumbo Shawarma Regular,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,2
+DESERT SHAWARMA,Bun Shawarma Regular,,143,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,3
+DESERT SHAWARMA,Sandwich Shawarma Regular,,130,,,,10,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,4
+DESERT SHAWARMA,Anda Shawarma Regular,,182,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,5
+DESERT SHAWARMA,Mug Shawarma Regular,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,6
+DESERT SHAWARMA,Pani Puri Shawarma Regular,,156,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,7
+DESERT SHAWARMA,Camel Shawarma Special,,299,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,8
+DESERT SHAWARMA,Jumbo Shawarma Special,,299,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,9
+DESERT SHAWARMA,Bun Shawarma Special,,169,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,10
+DESERT SHAWARMA,Sandwich Shawarma Special,,156,,,,10,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,11
+DESERT SHAWARMA,Anda Shawarma Special,,208,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,12
+DESERT SHAWARMA,Mug Shawarma Special,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,13
+DESERT SHAWARMA,Pani Puri Shawarma Special,,156,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Our Trademarks,,0,,3,14
+DESERT SHAWARMA,Veg Shawarma Regular,,117,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,1
+DESERT SHAWARMA,Paneer Shawarma Regular,,143,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,2
+DESERT SHAWARMA,Spicy Veg Shawarma Regular,,130,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,3
+DESERT SHAWARMA,Cheese Lovers Shawarma Regular,,143,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,4
+DESERT SHAWARMA,Spicy Cheesy Shawarma Regular,,156,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,5
+DESERT SHAWARMA,Veg Shawarma Special,,130,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,6
+DESERT SHAWARMA,Paneer Shawarma Special,,156,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,7
+DESERT SHAWARMA,Spicy Veg Shawarma Special,,143,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,8
+DESERT SHAWARMA,Cheese Lovers Shawarma Special,,156,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,9
+DESERT SHAWARMA,Spicy Cheesy Shawarma Special,,169,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Lovers Delicious,,0,,4,10
+DESERT SHAWARMA,Traditional Shawarma Roll,,104,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,1
+DESERT SHAWARMA,Vintage Shawarma Roll,,156,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,2
+DESERT SHAWARMA,BBQ Traditional Shawarma Roll,,117,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,3
+DESERT SHAWARMA,BBQ Vintage Shawarma Roll,,169,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,4
+DESERT SHAWARMA,Peri Peri Traditional Shawarma Roll,,117,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,5
+DESERT SHAWARMA,Peri Peri Vintage Shawarma Roll,,169,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,6
+DESERT SHAWARMA,Schezwan Traditional Shawarma Roll,,117,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,7
+DESERT SHAWARMA,Schezwan Vintage Shawarma Roll,,169,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,8
+DESERT SHAWARMA,Mexican Traditional Shawrma Roll,,130,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,9
+DESERT SHAWARMA,Mexican Vintage Shawarma Roll,,169,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,10
+DESERT SHAWARMA,Desert's Signature Traditional Shawarma Roll,,117,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,11
+DESERT SHAWARMA,Desert's Signature Vintage Shawarma Roll,,195,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,12
+DESERT SHAWARMA,Cheese Lovers Traditional Shawarma Roll,,130,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,13
+DESERT SHAWARMA,Cheese Lovers Vintage Shawarma Roll,,182,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Roll,,0,,5,14
+DESERT SHAWARMA,Traditional Shawarma Plate,,208,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,1
+DESERT SHAWARMA,Vintage Shawarma Plate,,234,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,2
+DESERT SHAWARMA,BBQ Traditional Shawarma Plate,,234,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,3
+DESERT SHAWARMA,BBQ Vintage Shawarma Plate,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,4
+DESERT SHAWARMA,Peri Peri Traditional Shawarma Plate,,234,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,5
+DESERT SHAWARMA,Peri Peri Vintage Shawarma Plate,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,6
+DESERT SHAWARMA,Schezwan Traditional Shawarma Plate,,234,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,7
+DESERT SHAWARMA,Schezwan Vintage Shawarma Plate,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,8
+DESERT SHAWARMA,Mexican Traditional Shawrma Plate,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,9
+DESERT SHAWARMA,Mexican Vintage Shawarma Plate,,260,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,10
+DESERT SHAWARMA,Desert's Signature Traditional Shawarma Plate,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,11
+DESERT SHAWARMA,Desert's Signature Vintage Shawarma Plate,,273,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,12
+DESERT SHAWARMA,Cheese Lovers Traditional Shawarma Plate,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,13
+DESERT SHAWARMA,Cheese Lovers Vintage Shawarma Plate,,260,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma Plate,,0,,6,14
+DESERT SHAWARMA,Cheesy Potato Shots,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,1
+DESERT SHAWARMA,Veg Roll,,52,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,2
+DESERT SHAWARMA,Paneer Roll,,52,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,3
+DESERT SHAWARMA,Veg Nuggets,,91,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,4
+DESERT SHAWARMA,French Fries Small,,91,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,5
+DESERT SHAWARMA,Masala Fries Small,,117,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,6
+DESERT SHAWARMA,Peri Peri Fries Small,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,7
+DESERT SHAWARMA,Cheesy Fries Small,,130,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,8
+DESERT SHAWARMA,French Fries Large,,130,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,9
+DESERT SHAWARMA,Masala Fries Large,,143,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,10
+DESERT SHAWARMA,Peri Peri Fries Large,,143,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,11
+DESERT SHAWARMA,Cheesy Fries Large,,169,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,12
+DESERT SHAWARMA,Chicken Popcorn Small,,156,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,1
+DESERT SHAWARMA,Fried Chicken Small,,143,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,2
+DESERT SHAWARMA,Chicken Strips Small,,195,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,3
+DESERT SHAWARMA,Chicken Nuggets Small,,117,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,4
+DESERT SHAWARMA,Chicken Roll Small,,65,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,5
+DESERT SHAWARMA,Chicken Popcorn Large,,195,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,6
+DESERT SHAWARMA,Fried Chicken Large,,208,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,7
+DESERT SHAWARMA,Chicken Strips Large,,195,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,8
+DESERT SHAWARMA,Chicken Nuggets Large,,117,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,9
+DESERT SHAWARMA,Chicken Roll Large,,65,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,10
+DESERT SHAWARMA,Lollypop BBQ,,182,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,9,1
+DESERT SHAWARMA,Hariyali BBQ,,130,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,9,2
+DESERT SHAWARMA,Smoked Leg BBQ,,169,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,9,3
+DESERT SHAWARMA,BBQ Wings,,156,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,9,4
+DESERT SHAWARMA,Half BBQ,,247,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,9,5
+DESERT SHAWARMA,Full BBQ,,468,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,9,6
+DESERT SHAWARMA,Veg Lovers Pizza,,130,,,,10,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,1
+DESERT SHAWARMA,Peppy Paneer Pizza,,169,,,,10,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,2
+DESERT SHAWARMA,Veggie Paradise Pizza,,143,,,,10,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,3
+DESERT SHAWARMA,Cheese Domination Pizza,,182,,,,10,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,4
+DESERT SHAWARMA,Classical Broasted Chicken Pizza,,143,,,,10,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,5
+DESERT SHAWARMA,Classical Rotisserie Chicken Pizza,,156,,,,10,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,6
+DESERT SHAWARMA,Classical BBQ Broasted Chicken Pizza,,156,,,,10,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,7
+DESERT SHAWARMA,Classical BBQ Rotisserie Chicken Pizza,,169,,,,10,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,8
+DESERT SHAWARMA,Chicken Supreme,,195,,,,10,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,9
+DESERT SHAWARMA,BBQ Chicken Fiesta,,234,,,,10,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,10
+DESERT SHAWARMA,Extra Cheese,,32.5,,,,10,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,10,11
+DESERT SHAWARMA,Classical Veg Burger,,117,,,,5,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,1
+DESERT SHAWARMA,Classical Paneer Veg Burger,,156,,,,5,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,2
+DESERT SHAWARMA,Hot N Spicy Veg Burger,,130,,,,5,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,3
+DESERT SHAWARMA,BBQ Veg Burger,,143,,,,5,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,4
+DESERT SHAWARMA,Spicy Veg Burger,,130,,,,5,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,5
+DESERT SHAWARMA,Cheesy Juicy Veg Burger,,169,,,,5,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,6
+DESERT SHAWARMA,Double Docker Veg Burger,,234,,,,5,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,7
+DESERT SHAWARMA,Classical Chicken Burger,,130,,,,5,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,8
+DESERT SHAWARMA,Hot N Spicy Chicken Burger,,156,,,,5,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,9
+DESERT SHAWARMA,Spicy Chicken Burger,,143,,,,5,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,10
+DESERT SHAWARMA,Cheesy Juicy Chicken Burger,,169,,,,5,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,11
+DESERT SHAWARMA,BBQ Chicken Burger,,143,,,,5,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,12
+DESERT SHAWARMA,Double Docker Chicken Burger,,234,,,,5,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,11,13
+DESERT SHAWARMA,1/2 Kg Bucket Traditional Shawarma,,650,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Pack,,0,,12,1
+DESERT SHAWARMA,1 Kg Bucket Traditional Shawarma,,1040,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Pack,,0,,12,2
+DESERT SHAWARMA,1/2 Kg Bucket Vintage Shawarma,,910,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Pack,,0,,12,3
+DESERT SHAWARMA,1 Kg Bucket Vintage Shawarma,,1235,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Party Pack,,0,,12,4
+DESERT SHAWARMA,Classic Vanilla Milkshake,,117,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,1
+DESERT SHAWARMA,Very Beri Strawberry Milkshake,,117,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,2
+DESERT SHAWARMA,Mango Mustache Milkshake,,130,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,3
+DESERT SHAWARMA,Pineapple Milkshake,,130,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,4
+DESERT SHAWARMA,Nutty Chocolate Milkshake,,143,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,5
+DESERT SHAWARMA,Butterfly Butterscotch Milkshake,,156,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,6
+DESERT SHAWARMA,Shocking Black Currant Milkshake,,156,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,7
+DESERT SHAWARMA,Pista Milkshake,,156,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,8
+DESERT SHAWARMA,Kit Kat Milkshake,,169,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,9
+DESERT SHAWARMA,Nutella Milkshake,,195,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,10
+DESERT SHAWARMA,Oreo Milkshake,,169,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,11
+DESERT SHAWARMA,Bourbon Milkshake,,156,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,13,12
+DESERT SHAWARMA,Vanilla Ice Cream,,39,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,14,1
+DESERT SHAWARMA,Strawberry Ice Cream,,39,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,14,2
+DESERT SHAWARMA,Black Currant Ice Cuream,,52,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,14,3
+DESERT SHAWARMA,Butter Scotch Ice Cream,,52,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,14,4
+DESERT SHAWARMA,Chocolate Ice Cream,,52,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,14,5
+DESERT SHAWARMA,Pista Ice Cream,,52,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,14,6
+DESERT SHAWARMA,Virgin Mojito,,91,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,1
+DESERT SHAWARMA,Tropical Delight Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,2
+DESERT SHAWARMA,Minty Mint Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,3
+DESERT SHAWARMA,Blue Lagoon Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,4
+DESERT SHAWARMA,Summer Special Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,5
+DESERT SHAWARMA,Mango Tango Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,6
+DESERT SHAWARMA,Agua De Pina Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,7
+DESERT SHAWARMA,Green Apple Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,8
+DESERT SHAWARMA,Kiwi Delight Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,9
+DESERT SHAWARMA,Lickable Litchi Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,10
+DESERT SHAWARMA,Bubble Gum Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,11
+DESERT SHAWARMA,Raspberry Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,12
+DESERT SHAWARMA,Kalakata Mojito,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojitos,,0,,15,13
+DESERT SHAWARMA,Veg Fried Rice,,91,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,1
+DESERT SHAWARMA,Veg Schezwan Fried Rice,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,2
+DESERT SHAWARMA,Veg Chilli Garlic Fried Rice,,117,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,3
+DESERT SHAWARMA,Veg Paneer Fried Rice,,130,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,4
+DESERT SHAWARMA,Egg Fried Rice,,91,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,5
+DESERT SHAWARMA,Chicken Fried Rice,,104,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,6
+DESERT SHAWARMA,Schezwan Chicken Fried Rice,,117,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,7
+DESERT SHAWARMA,Chilli Garlic Chicken Fried Rice,,130,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,8
+DESERT SHAWARMA,Veg Noodles,,91,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,9
+DESERT SHAWARMA,Veg Schezwan Noodles,,104,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,10
+DESERT SHAWARMA,Veg Chilli Garlic Noodles,,117,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,11
+DESERT SHAWARMA,Veg Paneer Noodles,,130,,,,0,0,Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,12
+DESERT SHAWARMA,Egg Noodles,,91,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,13
+DESERT SHAWARMA,Chicken Noodles,,104,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,14
+DESERT SHAWARMA,Schezwan Chicken Noodles,,117,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,15
+DESERT SHAWARMA,Chilli Garlic Chicken Noodles,,130,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,16,16
+DESERT SHAWARMA,Chicken Fried Rice + BBQ ,,169,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,17,1
+DESERT SHAWARMA,Schezwan Chicken Fried Rice + BBQ,,182,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,17,2
+DESERT SHAWARMA,Chilli Garlic Chicken Fried Rice,,195,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,17,3
+DESERT SHAWARMA,Chicken Noodles + BBQ,,169,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,17,4
+DESERT SHAWARMA,Schezwan Chicken Noodles + BBQ,,182,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,17,5
+DESERT SHAWARMA,Chilli Garlic Chicken Noodles + BBQ,,195,,,,0,0,Non Veg,10:30AM,11:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo,,0,,17,6

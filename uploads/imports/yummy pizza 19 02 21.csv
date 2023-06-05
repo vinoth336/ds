@@ -1,0 +1,77 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,max_packaging_charge,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+YUMMY PIZZA HUT,"Yummy Veg Pizza-6""",,121,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-6""",,0,,2,1
+YUMMY PIZZA HUT,"Yummy Mushroom Pizza-6""",,143,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-6""",,0,,2,4
+YUMMY PIZZA HUT,"Yummy Cheese Pizza-6""",,99,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-6""",,0,,2,5
+YUMMY PIZZA HUT,"Yummy Paneer Pizza-6""",,143,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-6""",,0,,2,7
+YUMMY PIZZA HUT,"Yummy Sweet Corn Pizza-6""",,143,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-6""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Mixed Veg Pizza-6""",,165,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-6""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Chicken Pizza-6""",,143,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-6""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Fried Chicken Pizza-6""",,165,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-6""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Veg Pizza-8""",,198,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-8""",,0,,2,1
+YUMMY PIZZA HUT,"Yummy Mushroom Pizza-8""",,209,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-8""",,0,,2,4
+YUMMY PIZZA HUT,"Yummy Cheese Pizza-8""",,154,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-8""",,0,,2,5
+YUMMY PIZZA HUT,"Yummy Paneer Pizza-8""",,209,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-8""",,0,,2,7
+YUMMY PIZZA HUT,"Yummy Sweet Corn Pizza-8""",,209,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-8""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Mixed Veg Pizza-8""",,253,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-8""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Chicken Pizza-8""",,209,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-8""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Fried Chicken Pizza-8""",,242,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-8""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Veg Pizza-10""",,264,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-10""",,0,,2,1
+YUMMY PIZZA HUT,"Yummy Mushroom Pizza-10""",,286,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-10""",,0,,2,4
+YUMMY PIZZA HUT,"Yummy Cheese Pizza-10""",,209,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-10""",,0,,2,5
+YUMMY PIZZA HUT,"Yummy Paneer Pizza-10""",,286,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-10""",,0,,2,7
+YUMMY PIZZA HUT,"Yummy Sweet Corn Pizza-10""",,286,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-10""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Mixed Veg Pizza-10""",,352,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-10""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Chicken Pizza-10""",,286,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-10""",,0,,2,2
+YUMMY PIZZA HUT,"Yummy Fried Chicken Pizza-10""",,308,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,"Yummy Pizza-10""",,0,,2,2
+YUMMY PIZZA HUT,Yummy Veg Sandwich,,77,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Sandwich,,0,,3,5
+YUMMY PIZZA HUT,Yummy BBQ Veg Sandwich,,94,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Sandwich,,0,,4,1
+YUMMY PIZZA HUT,Yummy Panner Sandwich,,99,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Sandwich,,0,,4,2
+YUMMY PIZZA HUT,Yummy Chocolate Sandwich,,72,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Sandwich,,0,,4,2
+YUMMY PIZZA HUT,Yummy Chicken Sandwich,,88,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Sandwich,,0,,4,2
+YUMMY PIZZA HUT,Yummy BBQ Chicken Sandwich,,121,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Sandwich,,0,,4,2
+YUMMY PIZZA HUT,Yummy Veg Burger,,77,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Burger,,0,,5,1
+YUMMY PIZZA HUT,Yummy BBQ Veg Burger,,99,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Burger,,0,,5,2
+YUMMY PIZZA HUT,Yummy Crispy Chicken Burger,,99,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Burger,,0,,6,3
+YUMMY PIZZA HUT,Yummy Crispy BBQ Chicken Burger,,116,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Burger,,0,,6,3
+YUMMY PIZZA HUT,Yummy Fried Chicken Burger,,154,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Burger,,0,,6,3
+YUMMY PIZZA HUT,Yummy Fried Chicken BBQ Burger,,176,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Burger,,0,,6,3
+YUMMY PIZZA HUT,Yummy Chicken Burger,,94,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Burger,,0,,6,3
+YUMMY PIZZA HUT,Yummy BBQ Chicken Burger,,105,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Burger,,0,,6,3
+YUMMY PIZZA HUT,Yummy White Creamy Pasta,,88,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Pasata,,0,,6,1
+YUMMY PIZZA HUT,Yummy Mixed Veg Pasta,,176,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Pasata,,0,,6,2
+YUMMY PIZZA HUT,Yummy Schezwan Veg Pasta,,209,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Pasata,,0,,6,3
+YUMMY PIZZA HUT,Yummy White Creamy Chicken Pasta,,209,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Pasata,,0,,6,3
+YUMMY PIZZA HUT,Yummy Mixed Veg Chicken Pasta,,297,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Pasata,,0,,6,3
+YUMMY PIZZA HUT,Yummy Schezwan Chicken Pasta,,242,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Pasata,,0,,6,3
+YUMMY PIZZA HUT,Yummy French Fries Small,,55,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,6,3
+YUMMY PIZZA HUT,Yummy French Fries Large,,104,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,6,3
+YUMMY PIZZA HUT,Yummy Potato Shots,,66,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,6,3
+YUMMY PIZZA HUT,Yummy Veg Strips,,77,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,6,3
+YUMMY PIZZA HUT,Yummy Laughing Potatoes,,66,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,6,3
+YUMMY PIZZA HUT,Yummy Chicken Shots,,66,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,6,3
+YUMMY PIZZA HUT,Yummy Chicken Nuggets,,77,,,,0,Non Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Yummy Snacks,,0,,6,3
+YUMMY PIZZA HUT,Yummy Vanilla Ice Cream Bowl,,61,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Bowls,,0,,6,3
+YUMMY PIZZA HUT,Yummy Strawberry Ice Cream Bowl,,61,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Bowls,,0,,6,3
+YUMMY PIZZA HUT,Yummy Black Current Ice Cream Bowl,,72,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Bowls,,0,,6,3
+YUMMY PIZZA HUT,Yummy Mango Ice Cream Bowl,,66,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Bowls,,0,,6,3
+YUMMY PIZZA HUT,Yummy Chocolate Ice Cream Bowl,,72,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Bowls,,0,,6,3
+YUMMY PIZZA HUT,Yummy Butterscotch Ice Cream Bowl,,94,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Bowls,,0,,6,3
+YUMMY PIZZA HUT,Yummy Banana Shacked,,88,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Something Shacked,,0,,6,3
+YUMMY PIZZA HUT,Yummy Oreo Shacked,,83,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Something Shacked,,0,,6,3
+YUMMY PIZZA HUT,Yummy Kitkat Shacked,,66,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Something Shacked,,0,,6,3
+YUMMY PIZZA HUT,Yummy Dairy Milk Shacked,,77,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Something Shacked,,0,,6,3
+YUMMY PIZZA HUT,Yummy Squeezed Coffee Shacked,,77,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Something Shacked,,0,,6,3
+YUMMY PIZZA HUT,Yummy Squeezed Choco Coffee Shacked,,99,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Something Shacked,,0,,6,3
+YUMMY PIZZA HUT,Yummy Squeezed Boost Shacked,,88,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Something Shacked,,0,,6,3
+YUMMY PIZZA HUT,Yummy Vanilla Shake,,90,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,6,3
+YUMMY PIZZA HUT,Yummy Strawberry Shake,,90,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,6,3
+YUMMY PIZZA HUT,Yummy Black Current Shake,,120,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,6,3
+YUMMY PIZZA HUT,Yummy Mango Shake,,120,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,6,3
+YUMMY PIZZA HUT,Yummy Chocolate Shake,,130,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,6,3
+YUMMY PIZZA HUT,Yummy Butterscotch Shake,,130,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,6,3
+YUMMY PIZZA HUT,Yummy Lemon Soda Sweet,,50,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sodas,,0,,6,3
+YUMMY PIZZA HUT,Yummy Lemon Soda Salt,,55,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sodas,,0,,6,3
+YUMMY PIZZA HUT,Yummy Sun Light,,77,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sodas,,0,,6,3
+YUMMY PIZZA HUT,Yummy Moon Light,,77,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sodas,,0,,6,3
+YUMMY PIZZA HUT,Yummy Mint Lime,,50,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sodas,,0,,6,3
+YUMMY PIZZA HUT,Extra Cheese,,15,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,3

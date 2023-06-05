@@ -1,0 +1,52 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KAKKA MUTTAI - THINNAPPA THEATRE,Veg Rice,,55,,,,5,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,1
+KAKKA MUTTAI - THINNAPPA THEATRE,Curd Rice,,30,,,,5,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,2
+KAKKA MUTTAI - THINNAPPA THEATRE,Tomato Rice,,35,,,,5,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,3
+KAKKA MUTTAI - THINNAPPA THEATRE,Egg Rice,,65,,,,5,Non veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,4
+KAKKA MUTTAI - THINNAPPA THEATRE,Chicken Rice,,75,,,,5,Non veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,5
+KAKKA MUTTAI - THINNAPPA THEATRE,Veg Noodles,,55,,,,5,Veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,1
+KAKKA MUTTAI - THINNAPPA THEATRE,Egg Noodles,,65,,,,5,Non veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,2
+KAKKA MUTTAI - THINNAPPA THEATRE,Chicken Noodles,,75,,,,5,Non veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,3
+KAKKA MUTTAI - THINNAPPA THEATRE,Gobi Masala,,60,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,1
+KAKKA MUTTAI - THINNAPPA THEATRE,Gobi Manchurian,,70,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,2
+KAKKA MUTTAI - THINNAPPA THEATRE,Chicken Manchurian,,100,,,,5,Non veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,3
+KAKKA MUTTAI - THINNAPPA THEATRE,Chicken Chukka,,75,,,,5,Non veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,6,4
+KAKKA MUTTAI - THINNAPPA THEATRE,Chilli Gobi,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+KAKKA MUTTAI - THINNAPPA THEATRE,Cauliflower Pepper Fry,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+KAKKA MUTTAI - THINNAPPA THEATRE,Chicken Chilli,,50,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+KAKKA MUTTAI - THINNAPPA THEATRE,Chicken Boneless,,80,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+KAKKA MUTTAI - THINNAPPA THEATRE,Pallipalayam Bone,,80,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+KAKKA MUTTAI - THINNAPPA THEATRE,Pallipalayam Boneless,,100,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+KAKKA MUTTAI - THINNAPPA THEATRE,Garlic Chicken Bone,,80,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,7
+KAKKA MUTTAI - THINNAPPA THEATRE,Garlic Chicken Boneless,,100,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+KAKKA MUTTAI - THINNAPPA THEATRE,Pepper Chicken Bone,,80,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,9
+KAKKA MUTTAI - THINNAPPA THEATRE,Pepper Chicken Boneless,,100,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,10
+KAKKA MUTTAI - THINNAPPA THEATRE,Fried Fish,,55,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,11
+KAKKA MUTTAI - THINNAPPA THEATRE,Idly (4 Nos),,28,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+KAKKA MUTTAI - THINNAPPA THEATRE,Parotta (2 Pcs),,24,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,2
+KAKKA MUTTAI - THINNAPPA THEATRE,Bun Parotta,,25,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,3
+KAKKA MUTTAI - THINNAPPA THEATRE,Chilli Chicken Parotta,,60,,,,5,Non veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,4
+KAKKA MUTTAI - THINNAPPA THEATRE,Chilli Parotta,,50,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,5
+KAKKA MUTTAI - THINNAPPA THEATRE,Non Veg Kothu Parotta,,50,,,,5,Non veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,6
+KAKKA MUTTAI - THINNAPPA THEATRE,Veg Kothu Parotta,,40,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,7
+KAKKA MUTTAI - THINNAPPA THEATRE,Chappathi (2 Pcs),,30,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,8
+KAKKA MUTTAI - THINNAPPA THEATRE,Veechu,,35,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,9
+KAKKA MUTTAI - THINNAPPA THEATRE,Egg Veechu,,40,,,,5,Non veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,10
+KAKKA MUTTAI - THINNAPPA THEATRE,Ghee Veechu,,45,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,11
+KAKKA MUTTAI - THINNAPPA THEATRE,Plain Roast,,40,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,1
+KAKKA MUTTAI - THINNAPPA THEATRE,Special Roast,,60,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,2
+KAKKA MUTTAI - THINNAPPA THEATRE,Onion Roast,,60,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,3
+KAKKA MUTTAI - THINNAPPA THEATRE,Masala Roast,,60,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,4
+KAKKA MUTTAI - THINNAPPA THEATRE,Ghee Roast,,60,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,5
+KAKKA MUTTAI - THINNAPPA THEATRE,Egg Roast,,65,,,,5,Non veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,6
+KAKKA MUTTAI - THINNAPPA THEATRE,Podi Roast,,60,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,7
+KAKKA MUTTAI - THINNAPPA THEATRE,Garlic Roast,,60,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,8
+KAKKA MUTTAI - THINNAPPA THEATRE,Kari Roast,,70,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,9
+KAKKA MUTTAI - THINNAPPA THEATRE,Butter Roast,,70,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,10
+KAKKA MUTTAI - THINNAPPA THEATRE,Chinese Roast,,70,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,11
+KAKKA MUTTAI - THINNAPPA THEATRE,Uthappam,,35,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,12
+KAKKA MUTTAI - THINNAPPA THEATRE,Onion Uthappam,,55,,,,5,Veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast Items,,0,,7,13
+KAKKA MUTTAI - THINNAPPA THEATRE,Omelette,,15,,,,5,Non veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,8,1
+KAKKA MUTTAI - THINNAPPA THEATRE,Half Boil,,12,,,,5,Non veg,,,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,8,2
+KAKKA MUTTAI - THINNAPPA THEATRE,Chicken Briyani,,70,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+KAKKA MUTTAI - THINNAPPA THEATRE,Kushka,,50,,,,5,Non veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,2

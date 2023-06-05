@@ -1,0 +1,227 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+TN25 BIRIYANI,Veg Clear Soup,,36.75,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,1
+TN25 BIRIYANI,Hot & Sour Veg Soup,,42,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,2
+TN25 BIRIYANI,Veg Chettinad Soup,,42,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,3
+TN25 BIRIYANI,Veg Manchow Soup,,42,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,4
+TN25 BIRIYANI,Tomato Soup,,42,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,5
+TN25 BIRIYANI,Mushroom Soup,,42,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,6
+TN25 BIRIYANI,Cream Ofmushroom Soup,,52.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,7
+TN25 BIRIYANI,Sweet Corn Veg Soup,,42,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,8
+TN25 BIRIYANI,French Onion Soup,,63,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,9
+TN25 BIRIYANI,Spanish Soup,,63,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,10
+TN25 BIRIYANI,Milagu Daniya Soup,,42,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,11
+TN25 BIRIYANI,Noodles Soup,,52.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,12
+TN25 BIRIYANI,Chicken Clear Soup,,42,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,2,1
+TN25 BIRIYANI,Hot & Sour Chicken Soup,,47.25,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,2,2
+TN25 BIRIYANI,Chicken Chettinad Soup,,47.25,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,2,3
+TN25 BIRIYANI,Chicken Manchow Soup,,47.25,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,2,4
+TN25 BIRIYANI,Sweet Corn Chicken Soup,,47.25,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,2,5
+TN25 BIRIYANI,Lampoc Soup,,68.25,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,2,6
+TN25 BIRIYANI,Mutton Soup,,52.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,2,7
+TN25 BIRIYANI,Crab Soup,,57.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,2,8
+TN25 BIRIYANI,Nattu Kozhi Soup,,73.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,2,9
+TN25 BIRIYANI,Gobi 65 ,,78.75,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,1
+TN25 BIRIYANI,Paneer 65 ,,99.75,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,2
+TN25 BIRIYANI,Mushroom 65 ,,94.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,3
+TN25 BIRIYANI,Baby Corn 65 ,,94.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,4
+TN25 BIRIYANI,Gobi Manchurian Dry,,115.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,5
+TN25 BIRIYANI,Paneer Manchurian Dry,,136.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,6
+TN25 BIRIYANI,Baby Corn Manchurian Dry,,120.75,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,7
+TN25 BIRIYANI,Chilly Gobi Chinese Dry,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,8
+TN25 BIRIYANI,Chilly Paneer Dry,,115.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,9
+TN25 BIRIYANI,Chilly Mushroom Dry,,136.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,10
+TN25 BIRIYANI,Chilly Baby Corn Dry,,120.75,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,11
+TN25 BIRIYANI,Gobi Pepper Stick ,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,12
+TN25 BIRIYANI,Paneer Pepper Stick ,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,13
+TN25 BIRIYANI,Mushroom Pepper Stick ,,157.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,14
+TN25 BIRIYANI,Baby Corn Pepper Stick ,,136.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,15
+TN25 BIRIYANI,Veg Ball Manchurian Dry,,136.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,16
+TN25 BIRIYANI,Mushroom 555 ,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,17
+TN25 BIRIYANI,French Fry,,115.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,3,18
+TN25 BIRIYANI,Chicken 65,,84,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,1
+TN25 BIRIYANI,Fish 65,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,2
+TN25 BIRIYANI,Prawn 65,,141.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,3
+TN25 BIRIYANI,Fish Finger,,168,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,4
+TN25 BIRIYANI,Chicken Lollypop,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,5
+TN25 BIRIYANI,Chicken Manchurian Dry,,178.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,6
+TN25 BIRIYANI,Fish Manchurian Dry,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,7
+TN25 BIRIYANI,Prawn Manchurian Dry,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,8
+TN25 BIRIYANI,Chilly Chicken Dry,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,9
+TN25 BIRIYANI,Chilly Fish Dry,,141.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,10
+TN25 BIRIYANI,Pepper Chicken Dry,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,11
+TN25 BIRIYANI,Pepper Fish Dry,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,12
+TN25 BIRIYANI,Black Pepper Chicken Leg (1Pc),,78.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,13
+TN25 BIRIYANI,Hot Pepper Chicken Dry,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,14
+TN25 BIRIYANI,Hot Fire Chicken ,,168,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,15
+TN25 BIRIYANI,Chinese Fried Chicken ,,189,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,16
+TN25 BIRIYANI,Lemon Chicken Dry,,141.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,17
+TN25 BIRIYANI,Green Chicken Dry,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,18
+TN25 BIRIYANI,Garlic Chicken Dry,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,19
+TN25 BIRIYANI,Ginger Chicken Dry,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,20
+TN25 BIRIYANI,Dragon Chicken,,141.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,21
+TN25 BIRIYANI,Chicken Maharani Dry,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,22
+TN25 BIRIYANI,Chicken Monica Dry,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,23
+TN25 BIRIYANI,Chicken 95,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,24
+TN25 BIRIYANI,Kerala Chicken  Dry,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,25
+TN25 BIRIYANI,Hong Kong Chicken Dry,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,26
+TN25 BIRIYANI,Thailand Chicken Dry,,178.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,27
+TN25 BIRIYANI,Italian Chicken Dry,,178.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,28
+TN25 BIRIYANI,Golden Chicken Dry,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,29
+TN25 BIRIYANI,Schezwan Chicken Dry,,126,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,30
+TN25 BIRIYANI,Schezwan Chicken Balls,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,31
+TN25 BIRIYANI,Cutla Fish,,52.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,32
+TN25 BIRIYANI,King Fish,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,33
+TN25 BIRIYANI,Nethili 65,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,34
+TN25 BIRIYANI,Nattu Kozhi Dry,,178.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,35
+TN25 BIRIYANI,Kaadai 65,,126,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,36
+TN25 BIRIYANI,Chicken Fry ,,152.25,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,37
+TN25 BIRIYANI,Mutton Pepper Fry,,168,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,38
+TN25 BIRIYANI,Prawn Fry,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,39
+TN25 BIRIYANI,Fish Fry,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,40
+TN25 BIRIYANI,Chicken Chukka ,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,41
+TN25 BIRIYANI,Mutton Chukka,,178.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,42
+TN25 BIRIYANI,Pallipalayam Chicken Dry ,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,43
+TN25 BIRIYANI,Chicken Chettinad Dry,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,44
+TN25 BIRIYANI,Chicken Hyderabad Dry,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,45
+TN25 BIRIYANI,Chicken Sizzler,,189,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,46
+TN25 BIRIYANI,Chicken Lapeta,,178.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,47
+TN25 BIRIYANI,Tn25 Special Chicken,,168,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Dry,,0,,4,48
+TN25 BIRIYANI,Veg Masala Gravy,,105,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,1
+TN25 BIRIYANI,Veg Chettinad Gravy,,115.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,2
+TN25 BIRIYANI,Mixed Veg Curry Gravy,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,3
+TN25 BIRIYANI,Gobi Masala Gravy,,115.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,4
+TN25 BIRIYANI,Mushroom Masala Gravy,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,5
+TN25 BIRIYANI,Green Peas Masala,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,6
+TN25 BIRIYANI,Paneer Masala Gravy,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,7
+TN25 BIRIYANI,Paneer Butter Masala,,136.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,8
+TN25 BIRIYANI,Kadai Paneer Gravy,,136.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,9
+TN25 BIRIYANI,Alu Mutter Masala,,136.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,10
+TN25 BIRIYANI,Dal Fry,,73.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,11
+TN25 BIRIYANI,Dal Tadka,,94.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,12
+TN25 BIRIYANI,Dal Makhani,,105,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,13
+TN25 BIRIYANI,Veg Jaypuri,,105,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,14
+TN25 BIRIYANI,Malai Kufta,,157.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,15
+TN25 BIRIYANI,Zafrani Kufta,,157.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,16
+TN25 BIRIYANI,Chicken Masala ,,115.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,1
+TN25 BIRIYANI,Chicken Chettinad Masala,,126,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,2
+TN25 BIRIYANI,Chicken Pallipalayam Masala,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,3
+TN25 BIRIYANI,Chicken Patiyala,,178.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,4
+TN25 BIRIYANI,Kadai Chicken Masala,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,5
+TN25 BIRIYANI,Butter Chicken Masala,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,6
+TN25 BIRIYANI,Chicken Tikka Masala,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,7
+TN25 BIRIYANI,Chicken Dopyaza,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,8
+TN25 BIRIYANI,Pepper Chicken Masala,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,9
+TN25 BIRIYANI,Chicken Keema Masala,,141.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,10
+TN25 BIRIYANI,Mughal Chicken ,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,11
+TN25 BIRIYANI,Hyderabad Chicken Gravy,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,12
+TN25 BIRIYANI,Mutton Masala,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,13
+TN25 BIRIYANI,Mutton Chettinad Masala,,168,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,14
+TN25 BIRIYANI,Mutton Roganjosh,,189,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,15
+TN25 BIRIYANI,Kadai Mutton Masala,,168,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,16
+TN25 BIRIYANI,Fish Masala,,147,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,17
+TN25 BIRIYANI,Prawn Masala,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,18
+TN25 BIRIYANI,Crab Masala ,,178.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,19
+TN25 BIRIYANI,Egg Masala,,105,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,20
+TN25 BIRIYANI,Egg Keema Masala,,115.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Gravys,,0,,6,21
+TN25 BIRIYANI,Veg Rice,,89.25,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,1
+TN25 BIRIYANI,Schezwan Veg Rice,,99.75,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,2
+TN25 BIRIYANI,Gobi Fried Rice,,99.75,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,3
+TN25 BIRIYANI,Mushroom Fried Rice,,105,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,4
+TN25 BIRIYANI,Paneer Fried Rice,,115.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,5
+TN25 BIRIYANI,Veg Mixed Rice,,115.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,6
+TN25 BIRIYANI,Schezwan Veg Mixed Rice,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,7
+TN25 BIRIYANI,Garlic Fried Rice,,94.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,8
+TN25 BIRIYANI,Ghee Rice,,105,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,9
+TN25 BIRIYANI,Veg Pulov,,115.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,10
+TN25 BIRIYANI,Paneer Pulov,,126,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,11
+TN25 BIRIYANI,Kaju Pulov,,136.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,12
+TN25 BIRIYANI,Curd Rice,,47.25,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,13
+TN25 BIRIYANI,Veg Noodles ,,89.25,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,14
+TN25 BIRIYANI,Schezwan Veg Noodles,,99.75,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,15
+TN25 BIRIYANI,Mushroom Noodles,,105,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,16
+TN25 BIRIYANI,Schezwan Mushroom Noodles,,115.5,,,,10,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice,,0,,7,17
+TN25 BIRIYANI,Egg Rice,,99.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,1
+TN25 BIRIYANI,Schezwan Egg Rice,,110.25,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,2
+TN25 BIRIYANI,Chicken Rice,,105,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,3
+TN25 BIRIYANI,Schezwan Chicken Rice,,120.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,4
+TN25 BIRIYANI,Shangai Chicken Rice,,115.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,5
+TN25 BIRIYANI,Non Veg Mixed Rice,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,6
+TN25 BIRIYANI,Chicken Pulov,,115.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,7
+TN25 BIRIYANI,Egg Noodles,,99.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,8
+TN25 BIRIYANI,Schezwan Egg Noodles,,110.25,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,9
+TN25 BIRIYANI,Chicken Noodles,,105,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,10
+TN25 BIRIYANI,Schezwan Chicken Noodles,,120.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,11
+TN25 BIRIYANI,Non Veg Mixed Noodles,,136.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non-Veg Rice,,0,,8,12
+TN25 BIRIYANI,Paneer Tikka,,189,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,1
+TN25 BIRIYANI,Mushroom Tikka,,157.5,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,2
+TN25 BIRIYANI,Tandoori Chicken Quarter,,94.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,3
+TN25 BIRIYANI,Tandoori Chicken Half,,178.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,4
+TN25 BIRIYANI,Tandoori Chicken Full,,346.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,5
+TN25 BIRIYANI,Tangri Kebab (2Pcs),,147,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,6
+TN25 BIRIYANI,Reshmi Kebab,,157.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,7
+TN25 BIRIYANI,Kali Mirchi Kebab,,189,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,8
+TN25 BIRIYANI,Pahadi Chicken,,367.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,9
+TN25 BIRIYANI,Chicken Tikka ,,157.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,10
+TN25 BIRIYANI,Malai Tikka,,157.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,11
+TN25 BIRIYANI,Hriyali Tikka,,178.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,12
+TN25 BIRIYANI,Achari Tikka,,178.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,9,13
+TN25 BIRIYANI,Plain Naan,,26.25,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,1
+TN25 BIRIYANI,Butter Naan ,,36.75,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,2
+TN25 BIRIYANI,Roti ,,21,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,3
+TN25 BIRIYANI,Butter Roti,,26.25,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,4
+TN25 BIRIYANI,Garlic Naan,,42,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,5
+TN25 BIRIYANI,Garlic Butter Naan,,47.25,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,6
+TN25 BIRIYANI,Phulka,,15.75,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,7
+TN25 BIRIYANI,Kulcha,,31.5,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,8
+TN25 BIRIYANI,Butter Kulcha,,36.75,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,9
+TN25 BIRIYANI,Veg Stuffed Kulcha,,42,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,10
+TN25 BIRIYANI,Non Veg Stuffed Kulcha,,57.75,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,11
+TN25 BIRIYANI,Tandoori Parotta,,36.75,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,12
+TN25 BIRIYANI,Alu Parotta,,42,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,13
+TN25 BIRIYANI,Paneer Parotta,,47.25,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,14
+TN25 BIRIYANI,Tandoori Platter (Veg),,262.5,,,,10,0,Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,15
+TN25 BIRIYANI,Tandoori Platter (Non-Veg),,367.5,,,,10,0,Non Veg,,,,,12:00PM,04:00PM,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,10,16
+TN25 BIRIYANI,Chicken Biriyani,,126,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,1
+TN25 BIRIYANI,Mutton Biriyani,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,2
+TN25 BIRIYANI,Plain Biriyani,,84,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,3
+TN25 BIRIYANI,Egg Biriyani,,105,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,4
+TN25 BIRIYANI,Fish Biriyani,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,5
+TN25 BIRIYANI,Prawn Biriyani,,157.5,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,6
+TN25 BIRIYANI,Hyderabad Chicken Biriyani,,168,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,7
+TN25 BIRIYANI,Hyderabad Mutton Biriyani,,189,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,8
+TN25 BIRIYANI,Bucket Chicken Biriyani,,733.95,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,9
+TN25 BIRIYANI,Bucket Mutton Biriyani,,943.95,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,10
+TN25 BIRIYANI,Bucket Chicken Biriyani (Mini),,366.45,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,11
+TN25 BIRIYANI,Bucket Mutton Biriyani (Mini),,471.45,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyanis,,0,,11,12
+TN25 BIRIYANI,Parotta (2 Pcs),,26.25,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,1
+TN25 BIRIYANI,Egg Parotta,,42,,,,10,0,Non Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,2
+TN25 BIRIYANI,Wheat Parotta,,42,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,3
+TN25 BIRIYANI,Chilly Parotta,,73.5,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,4
+TN25 BIRIYANI,Veechu Parotta,,26.25,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,5
+TN25 BIRIYANI,Egg Veechu Parotta,,36.75,,,,10,0,Non Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,6
+TN25 BIRIYANI,Egg Lappa,,63,,,,10,0,Non Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,7
+TN25 BIRIYANI,Chicken Lappa,,73.5,,,,10,0,Non Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,8
+TN25 BIRIYANI,Cheese Lappa,,73.5,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,9
+TN25 BIRIYANI,Egg Kothu Parotta,,63,,,,10,0,Non Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,10
+TN25 BIRIYANI,Chicken Kothu Parotta,,73.5,,,,10,0,Non Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,11
+TN25 BIRIYANI,Chappathi (2 Pcs),,26.25,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Parathas,,0,,12,12
+TN25 BIRIYANI,Dosa,,26.25,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,1
+TN25 BIRIYANI,Kal Dosa,,21,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,2
+TN25 BIRIYANI,Egg Dosa,,52.5,,,,10,0,Non Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,3
+TN25 BIRIYANI,Roast,,42,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,4
+TN25 BIRIYANI,Malli Othappam,,26.25,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,5
+TN25 BIRIYANI,Milagu Othappam,,26.25,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,6
+TN25 BIRIYANI,Podi Othappam,,26.25,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,7
+TN25 BIRIYANI,Onion Othappam,,47.25,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,8
+TN25 BIRIYANI,Ghee Dosa,,52.5,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,9
+TN25 BIRIYANI,Butter Dosa,,52.5,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,10
+TN25 BIRIYANI,Cheese Dosa,,78.75,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,11
+TN25 BIRIYANI,Onion Dosa,,52.5,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,12
+TN25 BIRIYANI,Rava Dosa,,52.5,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,13
+TN25 BIRIYANI,Rava Onion Dosa,,63,,,,10,0,Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,14
+TN25 BIRIYANI,Chicken Dosa,,78.75,,,,10,0,Non Veg,,,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosa's,,0,,13,15
+TN25 BIRIYANI,Omlette,,21,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,14,1
+TN25 BIRIYANI,Egg Fry,,36.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,14,2
+TN25 BIRIYANI,Half Boil,,21,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,14,3
+TN25 BIRIYANI,Full Boil,,21,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,14,4
+TN25 BIRIYANI,Kalaki,,36.75,,,,10,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,14,5

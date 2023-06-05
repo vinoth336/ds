@@ -1,0 +1,105 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BOMBAY KULFI,Malai  Slice (Half),,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,1
+BOMBAY KULFI,Mango Slice (Half),,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,2
+BOMBAY KULFI,Pista Slice (Half),,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,3
+BOMBAY KULFI,Chickoo Slice (Half),,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,4
+BOMBAY KULFI,Choco Almond Slice (Half),,48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,5
+BOMBAY KULFI,Lychee Slice (Half),,48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,6
+BOMBAY KULFI,Kesar Pista Slice (Half),,48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,7
+BOMBAY KULFI,Guava Peru Slice (Half),,48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,8
+BOMBAY KULFI,Gulkhand Slice (Half),,48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,9
+BOMBAY KULFI,Sugar Free Malai Slice (Half),,48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,10
+BOMBAY KULFI,Malai Badam Slice (Half),,48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,11
+BOMBAY KULFI,Badam Pista Slice (Half),,48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,12
+BOMBAY KULFI,Casatta Slice  (Half),,48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,13
+BOMBAY KULFI,Orange Caramel Slice (Half),(2 In 1),48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,14
+BOMBAY KULFI,Chocolate Raspberry Slice (Half),(2 In 1),48,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,15
+BOMBAY KULFI,Malai Slice (Full),,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,16
+BOMBAY KULFI,Mango Slice (Full),,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,17
+BOMBAY KULFI,Pista Slice (Full),,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,18
+BOMBAY KULFI,Chickoo Slice (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,19
+BOMBAY KULFI,Choco Almond Slice (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,20
+BOMBAY KULFI,Lychee Slice (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,21
+BOMBAY KULFI,Kesar Pista Slice (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,22
+BOMBAY KULFI,Guava Peru Slice (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,23
+BOMBAY KULFI,Gulkhand Slice (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,24
+BOMBAY KULFI,Sugar Free Malai (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,25
+BOMBAY KULFI,Malai Badam Slice (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,26
+BOMBAY KULFI,Badam Pista Slice (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,27
+BOMBAY KULFI,Casatta Slice (Full),,90,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,28
+BOMBAY KULFI,Orange Caramel Slice (Full),(2 In 1),75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,29
+BOMBAY KULFI,Chocolate Raspberry Slice (Full),(2 In 1),75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Slices,,0,,1,30
+BOMBAY KULFI,Malai Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,1
+BOMBAY KULFI,Mango Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,2
+BOMBAY KULFI,Pista Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,3
+BOMBAY KULFI,Strawberry Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,4
+BOMBAY KULFI,Orange Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,6
+BOMBAY KULFI,Kesar Pista Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,8
+BOMBAY KULFI,Black Currant Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,9
+BOMBAY KULFI,Butterscotch Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,10
+BOMBAY KULFI,Chocolate Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,11
+BOMBAY KULFI,Choco Malai Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,12
+BOMBAY KULFI,Badam Pista Stick,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,13
+BOMBAY KULFI,Strawberry Lychee Stick,(2 In 1),60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,14
+BOMBAY KULFI,Mango Sitafal Stick,(2 In 1),60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,15
+BOMBAY KULFI,Gulab Badaam Stick,(2 In 1),60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kulfi Sticks,,0,,2,16
+BOMBAY KULFI,Rangeela,(4 In 1),78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Specials,,0,,3,1
+BOMBAY KULFI,Desi Rabdi,,69,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Specials,,0,,3,2
+BOMBAY KULFI,Malai Pot,,72,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Specials,,0,,3,3
+BOMBAY KULFI,Kesar Pista Pot,,84,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Specials,,0,,3,4
+BOMBAY KULFI,Tender Coconut,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,1
+BOMBAY KULFI,Shahi Gulab,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,2
+BOMBAY KULFI,Coffee Walnut,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,4
+BOMBAY KULFI,Choco Chip,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,5
+BOMBAY KULFI,Calcutta Paan,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,6
+BOMBAY KULFI,Jelly Belly,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,7
+BOMBAY KULFI,Roasted Almond,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,8
+BOMBAY KULFI,Butter Scoth,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,8
+BOMBAY KULFI,Kesar Pista,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,9
+BOMBAY KULFI,Oreo,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,10
+BOMBAY KULFI,Nutty Caramel,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,11
+BOMBAY KULFI,Kewada,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,12
+BOMBAY KULFI,Mixed Berry Yogurt,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,13
+BOMBAY KULFI,Red Velvet Cheese Cake,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,14
+BOMBAY KULFI,Rajbhog,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,15
+BOMBAY KULFI,Pineapple,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,16
+BOMBAY KULFI,Afghan Mewa,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,17
+BOMBAY KULFI,Butterscotch,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,17
+BOMBAY KULFI,Orange,,75,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,17
+BOMBAY KULFI,Thirunalveli Halwa,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Kulfi Naturals Slices,,0,,4,17
+BOMBAY KULFI,Fresh Strawberry,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal Flavovrs,,0,,5,1
+BOMBAY KULFI,Sitafal,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal Flavovrs,,0,,5,2
+BOMBAY KULFI,Black Grapes,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal Flavovrs,,0,,5,3
+BOMBAY KULFI,Thandai,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal Flavovrs,,0,,5,4
+BOMBAY KULFI,Guava Peru,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal Flavovrs,,0,,5,5
+BOMBAY KULFI,Mango,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal Flavovrs,,0,,5,6
+BOMBAY KULFI,Jack Fruit,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal Flavovrs,,0,,5,7
+BOMBAY KULFI,Black Jamun,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal Flavovrs,,0,,5,8
+BOMBAY KULFI,Musk Melon,,78,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Seasonal Flavovrs,,0,,5,9
+BOMBAY KULFI,Tender Coconut (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,1
+BOMBAY KULFI,Shahi Gulab (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,2
+BOMBAY KULFI,Pure Anjeer (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,3
+BOMBAY KULFI,Coffee Walnut (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,4
+BOMBAY KULFI,Choco Chip (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,5
+BOMBAY KULFI,Calcutta Paan (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,6
+BOMBAY KULFI,Jelly Belly (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,7
+BOMBAY KULFI,Roasted Almond (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,8
+BOMBAY KULFI,Kesar Pista (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,9
+BOMBAY KULFI,Oreo (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,10
+BOMBAY KULFI,Nutty Caramel (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,11
+BOMBAY KULFI,Kewada (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,12
+BOMBAY KULFI,Choco Chips (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,13
+BOMBAY KULFI,Mixed Berry Yogurt (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,14
+BOMBAY KULFI,Red Velvet Cheese Cake (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,15
+BOMBAY KULFI,Rajbhog (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,16
+BOMBAY KULFI,Pineapple (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,17
+BOMBAY KULFI,Afghan Mewa (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,18
+BOMBAY KULFI,Fresh Strawberry (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,19
+BOMBAY KULFI,Sitafal (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,20
+BOMBAY KULFI,Black Grapes (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,21
+BOMBAY KULFI,Thandai (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,22
+BOMBAY KULFI,Gauva Peru (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,23
+BOMBAY KULFI,Mango (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,24
+BOMBAY KULFI,Jack Fruit (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,25
+BOMBAY KULFI,Black Jamun (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,26
+BOMBAY KULFI,Musk Melon (500 Gms),,260,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,6,27

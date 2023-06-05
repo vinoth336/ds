@@ -1,0 +1,28 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SRM RAJA BRIYANI,Mutton Briyani,,130,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+SRM RAJA BRIYANI,Mutoon Briyani (1/2),,65,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,2
+SRM RAJA BRIYANI,Chicken Briyani,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,3
+SRM RAJA BRIYANI,Chicken Briyani (1/2),,40,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,4
+SRM RAJA BRIYANI,Mt Briyani,,60,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,5
+SRM RAJA BRIYANI,Mt Briyani (1/2),,30,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,6
+SRM RAJA BRIYANI,Parotta,,10,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,4,1
+SRM RAJA BRIYANI,Lappa,,60,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,4,2
+SRM RAJA BRIYANI,Kothu Parotta,,60,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,4,3
+SRM RAJA BRIYANI,Chicken Kothu Parotta,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,4,4
+SRM RAJA BRIYANI,Ceylon Parotta,,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,4,5
+SRM RAJA BRIYANI,Ceylon Chicken Parotta,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,4,6
+SRM RAJA BRIYANI,Chicken Muruthapa,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,4,7
+SRM RAJA BRIYANI,Chicken 65,,70,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+SRM RAJA BRIYANI,Egg Omelet,,10,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+SRM RAJA BRIYANI,Egg Half Boil,,10,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+SRM RAJA BRIYANI,Egg Tikka,,10,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+SRM RAJA BRIYANI,Egg Gravy Tikka,,10,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,1
+SRM RAJA BRIYANI,Nattukozhi Gravy,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,2
+SRM RAJA BRIYANI,Dosai,,20,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,1
+SRM RAJA BRIYANI,Roast,,25,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,2
+SRM RAJA BRIYANI,Egg Dosai,,30,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,3
+SRM RAJA BRIYANI,Chicken Dosai,,50,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,4
+SRM RAJA BRIYANI,Onion Dosai,,30,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,5
+SRM RAJA BRIYANI,Uthappam,,25,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,6
+SRM RAJA BRIYANI,Onion Uthappam,,35,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,7
+SRM RAJA BRIYANI,Egg Uthappam,,40,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,8

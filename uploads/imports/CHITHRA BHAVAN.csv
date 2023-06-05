@@ -1,0 +1,27 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+CHITRA BHAVAN,Idly 2 Nos,,20,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+CHITRA BHAVAN,Pongal,,50,,,,0,0,veg,08:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+CHITRA BHAVAN,Vadai,,10,,,,0,0,veg,08:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+CHITRA BHAVAN,Poori Set,,50,,,,0,0,veg,08:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+CHITRA BHAVAN,Roast,,50,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+CHITRA BHAVAN,Ghee Roast,,80,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+CHITRA BHAVAN,Onion Roast,,80,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+CHITRA BHAVAN,Podi Roast,,70,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+CHITRA BHAVAN,Utthappam,,60,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+CHITRA BHAVAN,Onion utthappam,,70,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+CHITRA BHAVAN,Ghee Utthappam,,70,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+CHITRA BHAVAN,Podi Utthappam,,70,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+CHITRA BHAVAN,Rava Roast,,80,,,,0,0,veg,08:00AM,10:00AM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+CHITRA BHAVAN,Meals,"Sambar,Kottu,Poriyal,Pulikulambu,Rasam,Vadai,Appalam,Butter Milk, Curd",110,,,,0,0,veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,1
+CHITRA BHAVAN,Mini Meals,,100,,,,0,0,veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,1
+CHITRA BHAVAN,Tomoto Rice,,50,,,,0,0,veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,3,1
+CHITRA BHAVAN,Sambar Rice,,50,,,,0,0,veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,3,1
+CHITRA BHAVAN,Curd Rice,,50,,,,0,0,veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,3,1
+CHITRA BHAVAN,Veg Biriyani,,50,,,,0,0,veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,3,1
+CHITRA BHAVAN,Mushroom Biriyani,,50,,,,0,0,veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,3,1
+CHITRA BHAVAN,Pudhina Rice,,50,,,,0,0,veg,11:30AM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,3,1
+CHITRA BHAVAN,Chappathi 1set,,50,,,,0,0,veg,11:30AM,01:00PM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+CHITRA BHAVAN,Parotta 1 Set,,50,,,,0,0,veg,11:30AM,01:00PM,,,,,04:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+CHITRA BHAVAN,Mushroom Roast,,80,,,,0,0,veg,04:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+CHITRA BHAVAN,Gobi Roast,,80,,,,0,0,veg,04:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+CHITRA BHAVAN,Panner Roast,,80,,,,0,0,veg,04:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1

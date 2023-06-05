@@ -1,0 +1,107 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KARTHI BAMBOO BIRIYANI CENTER,Bamboo Chicken Biriyani,,70,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bamboo Biriyani,,0,,1,1
+KARTHI BAMBOO BIRIYANI CENTER,Bamboo Mutton Biriyani,,130,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bamboo Biriyani,,0,,1,2
+KARTHI BAMBOO BIRIYANI CENTER,Bamboo with Chicken Biriyani,,150,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bamboo Biriyani,,0,,1,3
+KARTHI BAMBOO BIRIYANI CENTER,Bamboo with Mutton Biriyani,,220,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bamboo Biriyani,,0,,1,4
+KARTHI BAMBOO BIRIYANI CENTER,Plain Biriyani,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bamboo Biriyani,,0,,1,5
+KARTHI BAMBOO BIRIYANI CENTER,Nattukozhi Soup,,30,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup Non Veg,,0,,2,1
+KARTHI BAMBOO BIRIYANI CENTER,Mutton Soup,,50,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup Non Veg,,0,,2,2
+KARTHI BAMBOO BIRIYANI CENTER,Mushroom Chilli,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,1
+KARTHI BAMBOO BIRIYANI CENTER,Califlower Chilli,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,2
+KARTHI BAMBOO BIRIYANI CENTER,Sweet Corn Chilli,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,3
+KARTHI BAMBOO BIRIYANI CENTER,Baby Corn Chilli,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+KARTHI BAMBOO BIRIYANI CENTER,Sweet Corn Gravy,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,4,1
+KARTHI BAMBOO BIRIYANI CENTER,Baby Corn Gravy,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,4,2
+KARTHI BAMBOO BIRIYANI CENTER,Mushroom Gravy,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,4,3
+KARTHI BAMBOO BIRIYANI CENTER,Califlower Gravy,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,4,4
+KARTHI BAMBOO BIRIYANI CENTER,Soya Beans Gravy,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,4,5
+KARTHI BAMBOO BIRIYANI CENTER,Pallipalayam Varuval,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,1
+KARTHI BAMBOO BIRIYANI CENTER,Chettinadu Varuval,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,2
+KARTHI BAMBOO BIRIYANI CENTER,Nattukozhi Varuval,,80,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,3
+KARTHI BAMBOO BIRIYANI CENTER,Vaathu Varuval,,80,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,4
+KARTHI BAMBOO BIRIYANI CENTER,Uppukari Dry,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,5
+KARTHI BAMBOO BIRIYANI CENTER,Chicken 65 ,,50,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,6
+KARTHI BAMBOO BIRIYANI CENTER,Ginger Chicken Dry,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,7
+KARTHI BAMBOO BIRIYANI CENTER,Garlic Chicken Dry,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,8
+KARTHI BAMBOO BIRIYANI CENTER,Pepper Chicken Dry,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,9
+KARTHI BAMBOO BIRIYANI CENTER,Lemon Chicken Dry,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,10
+KARTHI BAMBOO BIRIYANI CENTER,Ginger Chicken Nattukozhi Dry,,100,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,11
+KARTHI BAMBOO BIRIYANI CENTER,Garlic Chicken Nattukozhi Dry,,100,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,12
+KARTHI BAMBOO BIRIYANI CENTER,Pepper Chicken Nattukozhi Dry,,100,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,13
+KARTHI BAMBOO BIRIYANI CENTER,Lemon Chicken Nattukozhi Dry,,100,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,14
+KARTHI BAMBOO BIRIYANI CENTER,Chicken Leg Fry 1 Pc,,50,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,15
+KARTHI BAMBOO BIRIYANI CENTER,Lollipop 3 Pcs,,50,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,16
+KARTHI BAMBOO BIRIYANI CENTER,Kaadai Fry,,70,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,17
+KARTHI BAMBOO BIRIYANI CENTER,Fish Fry,,20,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,18
+KARTHI BAMBOO BIRIYANI CENTER,Ginger Chicken Semi Gravy,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,1
+KARTHI BAMBOO BIRIYANI CENTER,Garlic Chicken Semi Gravy,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,2
+KARTHI BAMBOO BIRIYANI CENTER,Pepper Chicken Semi Gravy,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,3
+KARTHI BAMBOO BIRIYANI CENTER,Lemon Chicken Semi Gravy,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,4
+KARTHI BAMBOO BIRIYANI CENTER,Ginger Chicken Nattukozhi Semi Gravy,,100,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,5
+KARTHI BAMBOO BIRIYANI CENTER,Garlic Chicken Nattukozhi Semi Gravy,,100,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,6
+KARTHI BAMBOO BIRIYANI CENTER,Pepper Chicken Nattukozhi Semi Gravy,,100,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,7
+KARTHI BAMBOO BIRIYANI CENTER,Lemon Chicken Nattukozhi Semi Gravy,,100,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,8
+KARTHI BAMBOO BIRIYANI CENTER,Ginger Chicken Gravy,,70,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,9
+KARTHI BAMBOO BIRIYANI CENTER,Garlic Chicken Gravy,,70,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,10
+KARTHI BAMBOO BIRIYANI CENTER,Pepper Chicken Gravy,,70,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,11
+KARTHI BAMBOO BIRIYANI CENTER,Lemon Chicken Gravy,,70,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,12
+KARTHI BAMBOO BIRIYANI CENTER,Ginger Chicken Nattukozhi Gravy,,110,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,13
+KARTHI BAMBOO BIRIYANI CENTER,Garlic Chicken Nattukozhi Gravy,,110,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,14
+KARTHI BAMBOO BIRIYANI CENTER,Pepper Chicken Nattukozhi Gravy,,110,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,15
+KARTHI BAMBOO BIRIYANI CENTER,Lemon Chicken Nattukozhi Gravy,,110,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,16
+KARTHI BAMBOO BIRIYANI CENTER,Crab Semi Gravy,,80,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,17
+KARTHI BAMBOO BIRIYANI CENTER,Egg Gravy 3 Pcs,,60,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,6,18
+KARTHI BAMBOO BIRIYANI CENTER,Parotta 2 Pcs with Veg Kuruma,,24,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,1
+KARTHI BAMBOO BIRIYANI CENTER,Parotta 2 Pcs with Non Veg Kulambu,,24,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,2
+KARTHI BAMBOO BIRIYANI CENTER,Kothu Parotta Veg,,70,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,3
+KARTHI BAMBOO BIRIYANI CENTER,Egg Kothu Parotta ,,80,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,4
+KARTHI BAMBOO BIRIYANI CENTER,Veechu Parotta,,20,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,5
+KARTHI BAMBOO BIRIYANI CENTER,Egg Veechu Parotta,,30,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,6
+KARTHI BAMBOO BIRIYANI CENTER,Ceylon Parotta,,50,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,7
+KARTHI BAMBOO BIRIYANI CENTER,Ceylon Lapa,,50,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,8
+KARTHI BAMBOO BIRIYANI CENTER,Banana Leaf Parotta Chicken,,120,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,9
+KARTHI BAMBOO BIRIYANI CENTER,Banana Leaf Parotta Nattukozhi,,150,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,10
+KARTHI BAMBOO BIRIYANI CENTER,Banana Leaf Parotta Mutton,,200,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,11
+KARTHI BAMBOO BIRIYANI CENTER,Banana Leaf Parotta Sweet Corn,,150,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,12
+KARTHI BAMBOO BIRIYANI CENTER,Banana Leaf Parotta Baby Corn,,150,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,13
+KARTHI BAMBOO BIRIYANI CENTER,Banana Leaf Parotta Mushroom,,150,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Special,,0,,7,14
+KARTHI BAMBOO BIRIYANI CENTER,Chicken Fried Rice,,80,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,1
+KARTHI BAMBOO BIRIYANI CENTER,Egg Fried Rice,,70,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,2
+KARTHI BAMBOO BIRIYANI CENTER,Veg Fried Rice,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,3
+KARTHI BAMBOO BIRIYANI CENTER,Mushroom Fried Rice,,80,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,4
+KARTHI BAMBOO BIRIYANI CENTER,Baby Corn Fried Rice,,80,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,5
+KARTHI BAMBOO BIRIYANI CENTER,Sweet Corn Fried Rice,,80,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,6
+KARTHI BAMBOO BIRIYANI CENTER,Soya Beans Fried Rice,,70,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,7
+KARTHI BAMBOO BIRIYANI CENTER,Boiled Egg Fried Rice,,80,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,8
+KARTHI BAMBOO BIRIYANI CENTER,Chicken Noodles,,80,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,9
+KARTHI BAMBOO BIRIYANI CENTER,Egg Noodles,,70,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,10
+KARTHI BAMBOO BIRIYANI CENTER,Veg Noodles,,60,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,11
+KARTHI BAMBOO BIRIYANI CENTER,Mushroom Noodles,,80,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,12
+KARTHI BAMBOO BIRIYANI CENTER,Baby Corn Noodles,,80,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,13
+KARTHI BAMBOO BIRIYANI CENTER,Sweet Corn Noodles,,80,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,14
+KARTHI BAMBOO BIRIYANI CENTER,Soya Beans Noodles,,70,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,15
+KARTHI BAMBOO BIRIYANI CENTER,Boiled Egg Noodles,,80,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,16
+KARTHI BAMBOO BIRIYANI CENTER,Idly 4 Pcs,,28,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,1
+KARTHI BAMBOO BIRIYANI CENTER,Dosa 2 Pcs,,40,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,2
+KARTHI BAMBOO BIRIYANI CENTER,Special Dosa,,40,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,3
+KARTHI BAMBOO BIRIYANI CENTER,Ghee Dosa,,30,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,4
+KARTHI BAMBOO BIRIYANI CENTER,Onion Dosa,,40,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,5
+KARTHI BAMBOO BIRIYANI CENTER,Mushroom Dosa,,40,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,6
+KARTHI BAMBOO BIRIYANI CENTER,Podi Dosa,,40,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,7
+KARTHI BAMBOO BIRIYANI CENTER,Masal Dosai,,40,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,8
+KARTHI BAMBOO BIRIYANI CENTER,Idiyappam 4 Pcs,,40,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,9
+KARTHI BAMBOO BIRIYANI CENTER,Ghee Roast,,60,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,10
+KARTHI BAMBOO BIRIYANI CENTER,Onion Roast,,60,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,11
+KARTHI BAMBOO BIRIYANI CENTER,Mushroom Roast,,60,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,12
+KARTHI BAMBOO BIRIYANI CENTER,Podi Roast,,60,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,13
+KARTHI BAMBOO BIRIYANI CENTER,Masal Roast,,60,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,14
+KARTHI BAMBOO BIRIYANI CENTER,Uthappam,,30,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,15
+KARTHI BAMBOO BIRIYANI CENTER,Onion Uthappam,,50,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,9,16
+KARTHI BAMBOO BIRIYANI CENTER,Idly Kothu Kari,,50,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Kothu Kari Special,,0,,10,1
+KARTHI BAMBOO BIRIYANI CENTER,Idly Kothu Kari Chicken,,80,,,,0,Non Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Kothu Kari Special,,0,,10,2
+KARTHI BAMBOO BIRIYANI CENTER,Idly Kothu Kari Muttton,,120,,,,0,Non Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Kothu Kari Special,,0,,10,3
+KARTHI BAMBOO BIRIYANI CENTER,Idly Kothu Kari Nattukozhi,,120,,,,0,Non Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Kothu Kari Special,,0,,10,4
+KARTHI BAMBOO BIRIYANI CENTER,Uthappam Kothu Kari,,50,,,,0,Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Kothu Kari Special,,0,,10,5
+KARTHI BAMBOO BIRIYANI CENTER,Uthappam Kothu Karu Chicken,,80,,,,0,Non Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Kothu Kari Special,,0,,10,6
+KARTHI BAMBOO BIRIYANI CENTER,Uthappam Kothu Karu Mutton,,120,,,,0,Non Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Kothu Kari Special,,0,,10,7
+KARTHI BAMBOO BIRIYANI CENTER,Uthappam Kothu Karu Nattukozhi,,100,,,,0,Non Veg,08:00AM,11:00AM,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Kothu Kari Special,,0,,10,8

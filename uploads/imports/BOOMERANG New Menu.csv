@@ -1,0 +1,107 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BOOMERANG,Vanilla Classic,A Simply Sweet And Classic Treat Of Nature'S Best Vinilla,60,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,1
+BOOMERANG,Choco Classic,Only the finest cocoa finds its way into our classic chocolate softy,72,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,2
+BOOMERANG,Choco Vanilla Classic,The Elegant And Sophisticate Infution Of Our Creamy Classic,72,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,3
+BOOMERANG,Choco Top,Classic Vanilla Softy Wrapped In Luscious Hardening Chocolate,108,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,4
+BOOMERANG,Choco Ecleair,Classic Vanilla Softy Wrapped In Ribbons Of Fudge Sauce,96,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,5
+BOOMERANG,Butter Scotch Sundae,Classic Vanilla Softy Werapped In Homeade Butterschotch Sauce Topped Roasted Cashew Arid Drizzled With Praline,114,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,6
+BOOMERANG,Caramel Sundae,Classic Vanilla Softy With Swiets Of Goory Caramel Sauce Golden Delight,108,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,7
+BOOMERANG,Strawberry Sundae,Classic Vanilla Softy With Tangy Strawberry Crush Fit For The Summer Sun,96,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,8
+BOOMERANG,Mango Sundae,Mangoes Gone Wild On Our Classic Vanilla Softy,90,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,9
+BOOMERANG,Nutty Crunch,Classic Vanilla Softy Swirled With Luscious Fudge Sauce Topped With Roasted Cashew And Hard Chocolate,132,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,10
+BOOMERANG,Choco Mousse,Fluffy Chocolatey Goodness,75.6,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,1,1
+BOOMERANG,Chikki Crunch,Fusion of the classic vanilla softy with tasty homemade chikki  topped with golden caramenl and elegant chocolate,132,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,6
+BOOMERANG,Energy Sundae,Vanilla softy chocomalt sauce topped with crunchy crumbs,108,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,7
+BOOMERANG,Thaen Mittai,Classic vanilla softy with childhood favourite thaen mittai & praline allbound together with nature 's sweetest honey,120,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,8
+BOOMERANG,Raaspberry Sundae,Classic Vanilla Softy with a Sweet and Tangy Raspberry Compate fused to make the perfect Summer Dream,96,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,9
+BOOMERANG,Fig-O-Honey ,"Classic Vanilla Softy with Chunks of Figs, Generously Topped with Honey",108,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,7,10
+BOOMERANG,Berry Me Chocolate,Vanilla Ice Cream Topped with Tangy Raaspberry Jam & Chocolate Fudge for the Perfect Balance of Flavour,108,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,1,1
+BOOMERANG,Vanilla Shake,There'S Nothing Boring About This Old Classic Shake,150,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,1
+BOOMERANG,Chocolate Shake,A Blend Of Creamy Chocolate Ice Cream And Our Homemade Fudge Sauce,144,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,2
+BOOMERANG,Butter Scotch Shake,A Blend Of Creamy Butterschotch Icecream Gamished With Praline,144,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,3
+BOOMERANG,Fantasy Shake,Must try Chocalate Lovers with Chocolate Ice Cream and Chocofantasy Cake Bits,222,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,4
+BOOMERANG,Mango Shake,Fresh Mango Pulp Blended With Ice Cream,144,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,5
+BOOMERANG,Strawberry ,Freshest Strawberry Blended With Icecream To Beat The Heat,150,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,6
+BOOMERANG,Very Berry Shake,Fruity Tangy Shake with Strawberry Ice Cream and Raspberry  Jam,162,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,7
+BOOMERANG,Lychee Shake,Freshest Lychees Blended With Icecream,162,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,8
+BOOMERANG,Badam Shake,Real Almond Sauce Blended With Icecream,144,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,9
+BOOMERANG,Browine Shake,A Blend Of Belgium Chocolate Ice Cream With Browries Chocolate Lovers Treat.,222,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,10
+BOOMERANG,Red Velvet Shake,A Blend Of Creamy Red Velvet Ice Cream with Cake Bits,222,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,11
+BOOMERANG,Energy Shake,Energy Chocomalt  Shake to Chase Your Dreams,162,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,12
+BOOMERANG,Cookies Dough Shake,Crunchy Combination Of Chocochip Cookie Dough Creamy Vanilla Ice Cream and Nutella,222,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,13
+BOOMERANG,Power Shake,Freshest Strawberry the Unforgettable Combination of Nutella and Milkshake,222,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,14
+BOOMERANG,Cold Coffee Shake,A Blend of Freeze dried Coffee with Icecream,144,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,13
+BOOMERANG,Oreo Shake,A Blend of Cream Vanilla with Oreo Garnished with Chocolate Sauce,210,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Thick Shakes,,0,,8,14
+BOOMERANG,Black Forest Pleasure Family Pack,Loads Of Classic Choco Vanilla Softy Placed On Fresh Blackforest Cake With Swirls Of Fudge Sauce And Topped With Roasted Cashew,390,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Pack,,0,,3,1
+BOOMERANG,Fruit & Nut Sundae Family Pack,Loads Of Classic Vanilla Softy Generoulsy Topped With A Decadent Variety Of Resh Fruits And Wholesome Nuts Garnishews With Strawberry Sauce,390,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Pack,,0,,3,2
+BOOMERANG,Dry Fruits Island Family Pack,"Loads Of Classic Vanilla With The Finest Roasted Cashw, Almonds, Fings (Anneer) And Raisins Finished With Home Black Currant And Orange Sauces",390,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Pack,,0,,3,3
+BOOMERANG,Butter Scotch Caramel Family Pack,Loads Of Classic Vanilla Softy Wrapped In Our Homemade Butterschotch Sauve Topped With Roasted Cashew And Drizzled With Pralines,348,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Pack,,0,,3,4
+BOOMERANG,Vanilla Family Pack,"It'S The Most Popular Flavour On The Planet, And Our Vanilla Is The Creamiest Anywere",240,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Pack,,0,,3,5
+BOOMERANG,Chikki Crunch Family Pack,Fusion of the classic vanilla softy with tasty homemade chikki  topped with golden caramenl and elegant chocolate,390,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Pack,,0,,3,6
+BOOMERANG,Nutty Crunch Family Pack,Choco Vanilla Twist Layered With Cashew Nuts And Swirled With Fudge Sauce And Hot Chocolate Dip,390,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Pack,,0,,3,7
+BOOMERANG,Black Forest Pleasure,Classic Choco Vanilla Softy Placed On Fresh Black Forest Cake With Swirls Of Fudge Sauce And Topped With Roasted Cashew,210,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,1
+BOOMERANG,Mix Fruit Caramel,Classic Vanilla Softy With Swirls Of Fruit Sauce Covered In Fruits And Praline,198,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,2
+BOOMERANG,Jelly Jellos,Fruit Jellies Placed On Vanilla Softy And Dotted With Strawberry Sauce Just For Kids,150,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,3
+BOOMERANG,Get Smart ,"Get Smarter With Mounds Of Vanilla Softy Placed Over Fresh Blackforest Cake Topped With Roasted Cashew And Fruits Finished With Swirls Of Fudge Sauce, Strawberry Sauce And Mango Sauce",216,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,4
+BOOMERANG,Fruit Salad,"Fruity Treat Of Vanilla Softy Topped With Cherries, Lychess, Papaya, Pineapple And Our Homemade Fruit Sauce",198,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,5
+BOOMERANG,Hot Fudge Nut Sundae,Generous Portion Of Classic Vanilla Softy With Swirls Of Fudge Sauce And Topped With Roasted Cashew And Praline,198,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,6
+BOOMERANG,Love Lichee,Treat Your Loved One With Our Lovely Vanilla Softy Set Over Lychees And Strawberry Topping,198,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,7
+BOOMERANG,Protein Blast,Vanilla Softy Generoulsy Topped With A Decadent Variety Of Fruits And Wholesome Nuts Garnished With Strawberry Sauce Nutritious,216,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,8
+BOOMERANG,Oreo - Nutella Sundae,Classic Vanilla Softy Loaded With Oreo Biscuits With Swirls Of Our New Nutella Topping - Sinful,222,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,9
+BOOMERANG,Special Dry Fruit Sundae,"Loads Of Classic Vanilla Softy With The Finest Roasted Cashew, Almonds, Figs (Anjeer) And Raisins Finished With Homemade Black Currant And Orange Sauces",228,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,10
+BOOMERANG,Dark Sensation,Delectable Sensation of Choco Vanilla Softy Served on Top of Warm Chocofantasty Cake and Topped with Chocolate Cookie Crumbs Fudge Sauce,210,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies Hi Fundas,,0,,4,10
+BOOMERANG,Browine Earthquake,Large Scoop Of Creamy Vanilla Ice Cream Placed Over Warm Browine With Swirls Of Fudge Sauce And Roast Cashw Topping Worth The Calories,222,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolicious Sundaes,,0,,2,1
+BOOMERANG,Double Fudge Brownie ,Large Scoop Of Creamy Chocolate Ice Cream Placed Over Warm Brownie With Swirls Of Fudge Sauce And Roasted Cashew Topping By Chocolate,234,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolicious Sundaes,,0,,2,2
+BOOMERANG,Death By Chocolate,Chocolate Lovers Fantasy of gooey Chocolava Cake With Chocolate  Ice Cream Chocolate Fudge & Dark Chocolate Chips,252,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolicious Sundaes,,0,,2,3
+BOOMERANG,Mud Cake With Ice Cream,Scoop Of Creamy Vanilla Ice Cream Sperved With Coffee Mud Cake And Topped With Coffee Fude Sauce,222,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolicious Sundaes,,0,,2,4
+BOOMERANG,Golde Ribbon Brownie,,222,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolicious Sundaes,,0,,2,5
+BOOMERANG,Nutella Brownie Sundae,Large Scoop Of Vanilla Ice Cream Placed Over Warm Caramel Brownie With Swirls Of Fudge  Sauce And Roasted Cashew,270,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolicious Sundaes,,0,,2,6
+BOOMERANG,Choco Lava Cake With Ice Cream,Large Scoop Of Vanilla Ice Cream Served With Warm Choco Lava Cake And Fudge Sauce Sinfully Delicious,234,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chocolicious Sundaes,,0,,2,7
+BOOMERANG,Creamy Vanilla Scoops,,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,1
+BOOMERANG,Creamy Butterscotch (Scoops),,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,2
+BOOMERANG,Juicy Strawberry (Scoops),,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,3
+BOOMERANG,Pistachio (Scoops),,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,4
+BOOMERANG,Fig-o -  Honey,,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,5
+BOOMERANG,Pulpy Lychee (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,6
+BOOMERANG,Pulpy Mango (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,7
+BOOMERANG,Caramel Almond Crunch (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,8
+BOOMERANG,Mascarpone Red Velvet (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,9
+BOOMERANG,Cookies & Cream (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,10
+BOOMERANG,Banana Blueberry (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,11
+BOOMERANG,Cherry Merry (Scoops),,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,12
+BOOMERANG,Rose Water Honey Walnut (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,13
+BOOMERANG,Black Currant (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,14
+BOOMERANG,Unicorn (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,15
+BOOMERANG,Coconut Karupatti (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,16
+BOOMERANG,Malt Blast (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,17
+BOOMERANG,Double Chocolate Rasberry (scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,18
+BOOMERANG,Watermelon Fresh Mint Sorbet (Scopps),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,19
+BOOMERANG,Chocolate Sorbet Suger Free (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,20
+BOOMERANG,Belgian Chocolate (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,21
+BOOMERANG,Mocha Browine (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,21
+BOOMERANG,Raw Mango Lemon (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,21
+BOOMERANG,Coffee Chocolate Chips (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,21
+BOOMERANG,Oreo IceCream (Scoops),,126,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,6,21
+BOOMERANG,Berry Panna Cotta Jar,Italian Panna Cotta (Fresh Cream Dessert )With Layer  of Mixed Berry Coulis,168,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Chocolate Mousse Jar,Smooth and Fluffy Mousse made with rice Chocolate with Layers of Chocolate Cake and Ganache,168,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Salted Caramel Panna Cotta,,168,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Redvelvet Jar,,168,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Nutella Brownie,,114,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Brownie,,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Caramel Brownie,,108,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Mud Cake,,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Black Forest Cake,,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,BlueBerry Cake,,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Choco Fantasy Cake,,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Donut,,102,,,,5,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,6,21
+BOOMERANG,Gems,,15,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,Rainbow Sprinkle,,20,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,Oreo Crumbs,,20,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,Jelly Jellos,,20,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,Crushed Chikki,,20,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,Roasted Nuts,,36,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,Dry Fruits,,36,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,Extra  Sauce,,24,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,Waffle Cone,,24,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,rainbow Waffle Cone,,36,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21
+BOOMERANG,Extra Ice Cream Scoops (Shake),,60,,,,0,Veg,11.00AM ,11.00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,6,21

@@ -1,0 +1,35 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+VEETTU SAPADU MESS,Parcel Full Meals,,85,,,,10,Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,1,1
+VEETTU SAPADU MESS,Parotta (2 Nos),,30,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Lunch,,0,,1,2
+VEETTU SAPADU MESS,Tomato Rice,,20,,,,3,Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,1,3
+VEETTU SAPADU MESS,Omlet,,15,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Lunch,,0,,1,4
+VEETTU SAPADU MESS,Half Boiled,,15,,,,0,Non Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Lunch,,0,,1,5
+VEETTU SAPADU MESS,Egg Poriyal,,15,,,,0,Non Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Lunch,,0,,1,6
+VEETTU SAPADU MESS,Egg Gravy,,35,,,,3,Non Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Lunch,,0,,1,7
+VEETTU SAPADU MESS,Onion Roast,,60,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,1
+VEETTU SAPADU MESS,Onion Dosai,,40,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,2
+VEETTU SAPADU MESS,Plain Uthappam,,40,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,3
+VEETTU SAPADU MESS,Onion Uthappam,,60,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,4
+VEETTU SAPADU MESS,Kal Dosai,,20,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,5
+VEETTU SAPADU MESS,Pepper Idly,,60,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,6
+VEETTU SAPADU MESS,Podi Idly,,60,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,7
+VEETTU SAPADU MESS,Egg Podimass,,25,,,,2,Non Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,8
+VEETTU SAPADU MESS,Egg Dosai,,40,,,,3,Non Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,9
+VEETTU SAPADU MESS,Idiyappam Veg Fry,,55,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,10
+VEETTU SAPADU MESS,Idiyappam Egg Fry,,70,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,11
+VEETTU SAPADU MESS,Egg Lapha,,80,,,,5,Non Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,12
+VEETTU SAPADU MESS,Egg Kothu Porotta,,70,,,,5,Non Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,13
+VEETTU SAPADU MESS,Veg Kothu Porotta,,60,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,14
+VEETTU SAPADU MESS,Chappathi Egg Kothu,,70,,,,5,Non Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,15
+VEETTU SAPADU MESS,Chappathi Veg Kothu,,60,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,16
+VEETTU SAPADU MESS,Ghee Roast,,50,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,17
+VEETTU SAPADU MESS,Idly (2 Nos),,20,,,,2,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,18
+VEETTU SAPADU MESS,Plain Dosai,,20,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,19
+VEETTU SAPADU MESS,Roast,,45,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,20
+VEETTU SAPADU MESS,Idiyappam,,40,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,21
+VEETTU SAPADU MESS,Rava Roast,,55,,,,5,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,22
+VEETTU SAPADU MESS,Adai Dosai,,30,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,23
+VEETTU SAPADU MESS,Podi Dosai,,40,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,24
+VEETTU SAPADU MESS,Garlic Dosai,,40,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,25
+VEETTU SAPADU MESS,Ragi Dosai,,30,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,26
+VEETTU SAPADU MESS,Chappathi,,20,,,,3,Veg,,,,,11:00AM,04:00PM,07:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,27

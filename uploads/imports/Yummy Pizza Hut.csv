@@ -1,0 +1,17 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+YUMMY PIZZA HUT,Yummy's Veg Pizza,,130,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,1,,1,1
+YUMMY PIZZA HUT,Yummy's Chicken Pizza,,145,,,,20,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,1,,1,2
+YUMMY PIZZA HUT,Yummy's Panner Pizza,,160,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,1,,1,1
+YUMMY PIZZA HUT,Yummy's Cheese Pizza,,150,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,1,1
+YUMMY PIZZA HUT,Yummy's Veg Sandwich,,60,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,1,2
+YUMMY PIZZA HUT,Yummy's Chicken Sandwich,,70,,,,20,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+YUMMY PIZZA HUT,Yummy's Panner Sandwich,,75,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+YUMMY PIZZA HUT,Yummy's Veg Burger,,65,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,1
+YUMMY PIZZA HUT,Yummy's Chicken Burger,,85,,,,20,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,1
+YUMMY PIZZA HUT,Yummy's French Fries,,50,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,1,,2,1
+YUMMY PIZZA HUT,Yummy's Smile Fries,,70,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,2,1
+YUMMY PIZZA HUT,Yummy's Potato Pops,,50,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,1
+YUMMY PIZZA HUT,Yummy's Chicken Pops,,65,,,,20,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,1
+YUMMY PIZZA HUT,Yummy's Chicken Nuggets,,70,,,,20,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,1
+YUMMY PIZZA HUT,Yummy's Cold Coffee,,85,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,1
+YUMMY PIZZA HUT,Yummy's Mint Lime,,45,,,,20,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,3,1

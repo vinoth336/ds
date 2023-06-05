@@ -1,0 +1,47 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SRI AMMAN HOTEL (Lighthouse Corner),Idly 1 Set,,24,,,,0,0,veg,,,07:30AM,10:00AM,,,06:00PM,08:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Pongal,,48,,,,0,0,veg,,,07:30AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Poori 1 Set,,48,,,,0,0,veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,2
+SRI AMMAN HOTEL (Lighthouse Corner),Dosa 2 Pcs,,48,,,,0,0,veg,,,07:30AM,11:00AM,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,2
+SRI AMMAN HOTEL (Lighthouse Corner),Roast,,48,,,,0,0,veg,,,07:30AM,11:00AM,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Uthappam,,48,,,,0,0,veg,,,07:30AM,11:00AM,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Onion Uthappam,,60,,,,0,0,veg,,,07:30AM,11:00AM,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Onion Roast,,60,,,,0,0,veg,,,07:30AM,11:00AM,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Parotta 1 Set with Veg Kuruma,,36,,,,0,0,veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Parotta 1 Set with Non Veg Kulambu,,36,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Veg Kothu Parotta with Kuruma,,84,,,,0,0,veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Non Veg Kothu Parotta with Kulambu,,84,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Vechu Parotta,,30,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Egg Vechu Parotta,,48,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Bun Parotta,,30,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Chicken Lappa,,192,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Mutton Lappa,,216,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Kudal Lappa,,216,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Ilai Parotta Mutton,,216,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Ilai Parotta Chicken,,192,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Chicken Kothu,,192,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Egg Roast,,60,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Egg Uthappam,,60,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Podi Dosa,,60,,,,0,0,veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Kari Dosa Mutton,,216,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Kari Dosa Chicken,,192,,,,0,0,Non Veg,,,06:00PM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Tiffin Items,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Meals,,96,,,,0,0,veg,,,11:30AM,03:00PM,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Chicken Biriyani,,96,,,,0,0,Non Veg,,,11:30AM,04:00PM,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Egg Biriyani,,72,,,,0,0,Non Veg,,,11:30AM,04:00PM,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Plain Biriyani,,60,,,,0,0,Non Veg,,,11:30AM,04:00PM,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Tomato Rice,,36,,,,0,0,veg,,,11:30AM,04:00PM,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Curd Rice,,36,,,,0,0,veg,,,11:30AM,04:00PM,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Chicken Fry,,144,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Chicken Chilly,,120,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Fish Fry,,60,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Chicken Chukka,,120,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Chicken Leg ,,120,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Chicken 65,,120,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Kaadai Varuval,,132,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Nattukozhi Varuval,,180,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Spl,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Nattukozhi Uppukari,,180,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Spl,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Thalai Curry Fry,,180,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Brain Fry,,132,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Kudal Varuval,,180,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Mutton Chukka,,180,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,1,1
+SRI AMMAN HOTEL (Lighthouse Corner),Thalai Curry,,144,,,,0,0,Non Veg,,,11:30AM,11:00PM,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,1,1

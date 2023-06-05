@@ -1,0 +1,120 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THE FALOODA SHOP (CAR STREET),Sweet Lassi,,50,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,1
+THE FALOODA SHOP (CAR STREET),Mango Madness Lassi,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,2
+THE FALOODA SHOP (CAR STREET),Tangy Orange,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,3
+THE FALOODA SHOP (CAR STREET),Pineapple Passion,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,4
+THE FALOODA SHOP (CAR STREET),Chocolate,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,5
+THE FALOODA SHOP (CAR STREET),Banana,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,7
+THE FALOODA SHOP (CAR STREET),Pan Masala Lassi,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,8
+THE FALOODA SHOP (CAR STREET),Strawberry  Lassi,,65,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,9
+THE FALOODA SHOP (CAR STREET),Mixed Fruit,,89,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,10
+THE FALOODA SHOP (CAR STREET),Pista,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,11
+THE FALOODA SHOP (CAR STREET),Gulkand,,89,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,13
+THE FALOODA SHOP (CAR STREET),Persian Dry Fruit,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,14
+THE FALOODA SHOP (CAR STREET),Lassi Ice Cream,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Oye Lassi,,0,,1,16
+THE FALOODA SHOP (CAR STREET),Fruit Salad Ice Cream,,79,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,1
+THE FALOODA SHOP (CAR STREET),May Be I Am Addicted!!,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,2
+THE FALOODA SHOP (CAR STREET),Choco Man,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,3
+THE FALOODA SHOP (CAR STREET),Bombastic Brownie,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,4
+THE FALOODA SHOP (CAR STREET),Butterscotch Bliss,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,5
+THE FALOODA SHOP (CAR STREET),Fruits Melba,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,6
+THE FALOODA SHOP (CAR STREET),Lassi Shock,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,7
+THE FALOODA SHOP (CAR STREET),I Love U Babe,,165,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,8
+THE FALOODA SHOP (CAR STREET),Death By Chocolate (Dbc),,165,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,9
+THE FALOODA SHOP (CAR STREET),Gud-Bud,,165,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sundae!,,0,,2,10
+THE FALOODA SHOP (CAR STREET),Guns N Roses,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,1
+THE FALOODA SHOP (CAR STREET),Strawberry Swril,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,2
+THE FALOODA SHOP (CAR STREET),Mango Madness,,115,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,3
+THE FALOODA SHOP (CAR STREET),Pista Pacific,,115,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,4
+THE FALOODA SHOP (CAR STREET),Let'S Kulfi,,145,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,5
+THE FALOODA SHOP (CAR STREET),Arabian Nights,,140,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,6
+THE FALOODA SHOP (CAR STREET),Chocolate Man,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,7
+THE FALOODA SHOP (CAR STREET),Persian Dry Fruits,,135,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,8
+THE FALOODA SHOP (CAR STREET),Blackcurrant Beast,,135,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,9
+THE FALOODA SHOP (CAR STREET),Pan Masala,,115,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,10
+THE FALOODA SHOP (CAR STREET),Butterscotch Bliss,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,11
+THE FALOODA SHOP (CAR STREET),Fig & Honey,,135,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,12
+THE FALOODA SHOP (CAR STREET),Dil Kush (Tuti Fruti),,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Fun'Tastic Faloodas,,0,,3,13
+THE FALOODA SHOP (CAR STREET),French Fires,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,1
+THE FALOODA SHOP (CAR STREET),Potato Bets,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,2
+THE FALOODA SHOP (CAR STREET),Potato Smiley,,85,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,4
+THE FALOODA SHOP (CAR STREET),Spicy Veg Nuggets,,99,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,5
+THE FALOODA SHOP (CAR STREET),Veg Cheese Ball,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,1
+THE FALOODA SHOP (CAR STREET),Veg Pops,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,2
+THE FALOODA SHOP (CAR STREET),Veg Spring Roll,,110,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,4
+THE FALOODA SHOP (CAR STREET),Panner Roll,,125,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,5
+THE FALOODA SHOP (CAR STREET),Veg Momos,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,1
+THE FALOODA SHOP (CAR STREET),Panner Momos,,105,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,2
+THE FALOODA SHOP (CAR STREET),Cheese Corn Momos,,150,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy & Munchy,,0,,5,4
+THE FALOODA SHOP (CAR STREET),American Cheese Chilly,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,6,1
+THE FALOODA SHOP (CAR STREET),Chutney Grill,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,6,2
+THE FALOODA SHOP (CAR STREET),Mushroom Cheese Chilly,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,6,3
+THE FALOODA SHOP (CAR STREET),Paneer Masala,,115,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,6,4
+THE FALOODA SHOP (CAR STREET),Schezwan Veg Cheese Sandwich,,130,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,6,1
+THE FALOODA SHOP (CAR STREET),Schezwan Panner Grill,,140,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,6,2
+THE FALOODA SHOP (CAR STREET),Butter Jam,,45,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,6,3
+THE FALOODA SHOP (CAR STREET),Nutella Italiana,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,6,4
+THE FALOODA SHOP (CAR STREET),Fruit & Veg,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,7,1
+THE FALOODA SHOP (CAR STREET),Dairy Milk,,79,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,7,2
+THE FALOODA SHOP (CAR STREET),Gulkand,,79,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,, Sandwiches,,0,,7,3
+THE FALOODA SHOP (CAR STREET),Oreo Milk Shake,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,4
+THE FALOODA SHOP (CAR STREET),KitKat Milk Shake,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,5
+THE FALOODA SHOP (CAR STREET),Hide & Seek Milk Shake,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,6
+THE FALOODA SHOP (CAR STREET),Snickers Milk Shake,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,7
+THE FALOODA SHOP (CAR STREET),Munch Milk Shake,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,8
+THE FALOODA SHOP (CAR STREET),Gems Milk Shake,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,9
+THE FALOODA SHOP (CAR STREET),Boost Shake,,90,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,10
+THE FALOODA SHOP (CAR STREET),Horlicks Shake,,90,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,11
+THE FALOODA SHOP (CAR STREET),Dairy Milk Shake,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,8,2
+THE FALOODA SHOP (CAR STREET),Milky Bikkies Shake,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,8,3
+THE FALOODA SHOP (CAR STREET),Veg Burger,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Burger Bungies,,0,,9,1
+THE FALOODA SHOP (CAR STREET),Aloo Tiki Burger,,125,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Burger Bungies,,0,,9,2
+THE FALOODA SHOP (CAR STREET),Panner Burji Burger,,140,,,,5,Non Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Burger Bungies,,0,,9,2
+THE FALOODA SHOP (CAR STREET),Fresh Lemon,,40,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,10,1
+THE FALOODA SHOP (CAR STREET),Chaat Masala Lime,,69,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,10,2
+THE FALOODA SHOP (CAR STREET),Blue Ocean,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,10,3
+THE FALOODA SHOP (CAR STREET),Geeky Green Lime,,69,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,10,4
+THE FALOODA SHOP (CAR STREET),Rowdy Red Lime,,69,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,10,5
+THE FALOODA SHOP (CAR STREET),Mexican Club,,69,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,10,6
+THE FALOODA SHOP (CAR STREET),Nannari Special,,69,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Club Soda,,0,,10,7
+THE FALOODA SHOP (CAR STREET),Dubai Sheikh,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Shakes,,0,,11,1
+THE FALOODA SHOP (CAR STREET),Carolina Nutricious Cocktail,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Shakes,,0,,11,2
+THE FALOODA SHOP (CAR STREET),Persian Dry Fruits,,150,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Shakes,,0,,11,4
+THE FALOODA SHOP (CAR STREET),Brownie Bomb,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Shakes,,0,,11,5
+THE FALOODA SHOP (CAR STREET),Kadalai Mittai ,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Shakes,,0,,11,6
+THE FALOODA SHOP (CAR STREET),Vanilla,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,1
+THE FALOODA SHOP (CAR STREET),Pista,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,2
+THE FALOODA SHOP (CAR STREET),Kesar Pista,,95,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,3
+THE FALOODA SHOP (CAR STREET),Mango,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,4
+THE FALOODA SHOP (CAR STREET),Strawberry,,75,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,5
+THE FALOODA SHOP (CAR STREET),Tuti Fruti,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,6
+THE FALOODA SHOP (CAR STREET),Black Currant,,115,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,7
+THE FALOODA SHOP (CAR STREET),Fig & Honey,,115,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,8
+THE FALOODA SHOP (CAR STREET),Kulfi,,135,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,9
+THE FALOODA SHOP (CAR STREET),Butter Scotch,,99,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,10
+THE FALOODA SHOP (CAR STREET),Chocolate,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Shakes,,0,,12,10
+THE FALOODA SHOP (CAR STREET),Lemonde,,35,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonde,,0,,13,1
+THE FALOODA SHOP (CAR STREET),Ginger Lemonde,,49,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonde,,0,,13,2
+THE FALOODA SHOP (CAR STREET),Mexican Mint Lemonde,,49,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonde,,0,,13,3
+THE FALOODA SHOP (CAR STREET),Pineapple Lemonade,,49,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonde,,0,,13,4
+THE FALOODA SHOP (CAR STREET),Pacha Mango Lemonde,,49,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Lemonde,,0,,13,5
+THE FALOODA SHOP (CAR STREET),Mango Smoothies,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,14,1
+THE FALOODA SHOP (CAR STREET),Banana Smoothies,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,14,2
+THE FALOODA SHOP (CAR STREET),Pineapple Smoothies,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,14,3
+THE FALOODA SHOP (CAR STREET),Green Apple Smoothies,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,14,4
+THE FALOODA SHOP (CAR STREET),Strawberry Smoothies,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,14,5
+THE FALOODA SHOP (CAR STREET),Honey Banana Smoothies,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,14,6
+THE FALOODA SHOP (CAR STREET),Gulab (Rose) Smoothies,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,14,7
+THE FALOODA SHOP (CAR STREET),Fruits & Nuts,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Smoothies,,0,,15,1
+THE FALOODA SHOP (CAR STREET),Peanut Butter Chocolate,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Smoothies,,0,,15,2
+THE FALOODA SHOP (CAR STREET),Sharja Sheikh Smoothies,,125,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Smoothies,,0,,15,1
+THE FALOODA SHOP (CAR STREET),Anjeer (Fig),,147,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Smoothies,,0,,15,2
+THE FALOODA SHOP (CAR STREET),Cold Coffee,,70,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Cafe Coffee,,0,,16,1
+THE FALOODA SHOP (CAR STREET),Irish Coffee,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Cafe Coffee,,0,,16,2
+THE FALOODA SHOP (CAR STREET),Hard Rock Coffee,,90,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Cafe Coffee,,0,,16,3
+THE FALOODA SHOP (CAR STREET),Caramel Coffee,,85,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Cafe Coffee,,0,,16,4
+THE FALOODA SHOP (CAR STREET),Marghrita Pizza,,156,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Pizza ,,0,,16,4
+THE FALOODA SHOP (CAR STREET),Mushroom Pizza,,180,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Pizza ,,0,,16,4
+THE FALOODA SHOP (CAR STREET),Roasted Panner Pizza,,192,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Pizza ,,0,,16,4
+THE FALOODA SHOP (CAR STREET),American Corn Pizza,,156,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Pizza ,,0,,16,4
+THE FALOODA SHOP (CAR STREET),TFS Spl Pizza,,204,,,,5,Veg,11.00am,10.30pm,,,,,,,"1,2,3,4,5,6,7",1,,Pizza ,,0,,16,4

@@ -1,0 +1,269 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SUMATHI INIPAGAM & RESTAURANT (S2),Paani Poori ,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Bhael Poori ,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Masala Poori ,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Curd Poori,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Aalu Poori,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Channa Masala,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Bread Channa,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Curd Samosa,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Curd Kachodi,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,9
+SUMATHI INIPAGAM & RESTAURANT (S2),Raj Kachodi,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,10
+SUMATHI INIPAGAM & RESTAURANT (S2),Fruit Raj Kachodi,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,11
+SUMATHI INIPAGAM & RESTAURANT (S2),Samosa Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,12
+SUMATHI INIPAGAM & RESTAURANT (S2),Bombay Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,13
+SUMATHI INIPAGAM & RESTAURANT (S2),Cutlet Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,14
+SUMATHI INIPAGAM & RESTAURANT (S2),Fruit Chat,,60,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,15
+SUMATHI INIPAGAM & RESTAURANT (S2),Parotta Chat,,60,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,16
+SUMATHI INIPAGAM & RESTAURANT (S2),Curd Paapdi Chat,,60,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,17
+SUMATHI INIPAGAM & RESTAURANT (S2),Fruit Paapdi Chat,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,18
+SUMATHI INIPAGAM & RESTAURANT (S2),Kachodi Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,19
+SUMATHI INIPAGAM & RESTAURANT (S2),Kattori Chat,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,20
+SUMATHI INIPAGAM & RESTAURANT (S2),Fruit Kattori Chat,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,21
+SUMATHI INIPAGAM & RESTAURANT (S2),Pav Baaji,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,22
+SUMATHI INIPAGAM & RESTAURANT (S2),Panner Pav Baaji,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,23
+SUMATHI INIPAGAM & RESTAURANT (S2),Cheese Pav Baaji,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,24
+SUMATHI INIPAGAM & RESTAURANT (S2),Fry Pav Baaji,,70,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,25
+SUMATHI INIPAGAM & RESTAURANT (S2),Panner Fry Pav Baaji,,80,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,26
+SUMATHI INIPAGAM & RESTAURANT (S2),Cheese Fry Pav Baaji,,80,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Chaat,,0,,9,27
+SUMATHI INIPAGAM & RESTAURANT (S2),Veg Sandwich,,40,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Sandwich,,0,,10,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Veg Cheese Sandwich,,45,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Sandwich,,0,,10,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Panner Sandwich,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Sandwich,,0,,10,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Sandwich,,50,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Sandwich,,0,,10,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Chilly Cheese Sandwich,,40,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Sandwich,,0,,10,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Butter Jam  Sandwich,,30,,,,5,Veg,,,,,,,4:00PM,8:00PM,"1,2,3,4,5,6,7",1,,Sandwich,,0,,10,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Mini Tiffin,,80,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Idly (2 Pcs),,20,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Sambar Idly,,40,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Soup  Idly,,40,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Sambar  Vada,,30,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Curd Vada,,30,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Poori (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Kothu Parotta ,,60,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Bun Parotta (2 Pcs),,70,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,9
+SUMATHI INIPAGAM & RESTAURANT (S2),Wheat Parotta (2 Pcs),,80,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,10
+SUMATHI INIPAGAM & RESTAURANT (S2),Chcolate Dosa,,70,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,11
+SUMATHI INIPAGAM & RESTAURANT (S2),Onion Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,12
+SUMATHI INIPAGAM & RESTAURANT (S2),Rava Roast,,55,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,13
+SUMATHI INIPAGAM & RESTAURANT (S2),Ghee Rava Roast,,70,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,14
+SUMATHI INIPAGAM & RESTAURANT (S2),Onion Rava,,70,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,15
+SUMATHI INIPAGAM & RESTAURANT (S2),Utthappam,,35,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,16
+SUMATHI INIPAGAM & RESTAURANT (S2),Onion Uthappam,,60,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Indian,,0,,11,17
+SUMATHI INIPAGAM & RESTAURANT (S2),Mini Meals,,80,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,18
+SUMATHI INIPAGAM & RESTAURANT (S2),Thakkali Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,19
+SUMATHI INIPAGAM & RESTAURANT (S2),Poondu  Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,20
+SUMATHI INIPAGAM & RESTAURANT (S2),Ellu Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,21
+SUMATHI INIPAGAM & RESTAURANT (S2),Puli Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,22
+SUMATHI INIPAGAM & RESTAURANT (S2),Caroot Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,23
+SUMATHI INIPAGAM & RESTAURANT (S2),Beet Root Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,24
+SUMATHI INIPAGAM & RESTAURANT (S2),Veg Pulao,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,25
+SUMATHI INIPAGAM & RESTAURANT (S2),Kashmiri Pulao,,100,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,26
+SUMATHI INIPAGAM & RESTAURANT (S2),Pattani Pulao,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,27
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Pulao,,80,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,28
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Pulao,,70,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,29
+SUMATHI INIPAGAM & RESTAURANT (S2),Munthiri Thiratchai Pulao,,80,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,30
+SUMATHI INIPAGAM & RESTAURANT (S2),Malli Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,31
+SUMATHI INIPAGAM & RESTAURANT (S2),Puthina Sadam,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,32
+SUMATHI INIPAGAM & RESTAURANT (S2),Sumathy Rathinam Meals,,50,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,33
+SUMATHI INIPAGAM & RESTAURANT (S2),Sp.Full Meals,,110,,,,5,Veg,,,,,12:00PM,2:30PM,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,34
+SUMATHI INIPAGAM & RESTAURANT (S2),Chilli Parotta,,70,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,35
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Manchurian,,80,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,36
+SUMATHI INIPAGAM & RESTAURANT (S2),Schezwan Noodles,,80,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,37
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Pepper Salt,,80,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,38
+SUMATHI INIPAGAM & RESTAURANT (S2),Gobi Pepper Salt,,80,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,39
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Pepper Salt,,90,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,40
+SUMATHI INIPAGAM & RESTAURANT (S2),Baby Corn Pepper Salt,,90,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,41
+SUMATHI INIPAGAM & RESTAURANT (S2),Pepper Idly,,60,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,42
+SUMATHI INIPAGAM & RESTAURANT (S2),Chilli Idly,,60,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,43
+SUMATHI INIPAGAM & RESTAURANT (S2),Podi Idly,,60,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,44
+SUMATHI INIPAGAM & RESTAURANT (S2),Idly Manchurian,,70,,,,5,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Indian,,0,,11,45
+SUMATHI INIPAGAM & RESTAURANT (S2),Plain Naan,,35,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Plain Roti,,45,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Roti,,40,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Phulka,,40,,,,0,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Paneer Butter Masala,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,5,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Masala,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,5,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Mixed,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,5,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Veg Noodles,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Noodules,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Paneer Noodles,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Babycorn Noodles,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,6,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Veg Fried Rice,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Baby Corn Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Cauliflower Chilly 65,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Chilly 65,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Paneer Chilly 65,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Babycorn Chilly 65,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Cauliflower Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Paneer Manchurian,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Babycorn Manchurian,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Cauliflower Pepper Fry,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,9
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Pepper Fry,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,10
+SUMATHI INIPAGAM & RESTAURANT (S2),Paneer Pepper Fry,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,11
+SUMATHI INIPAGAM & RESTAURANT (S2),Babycorn Pepper Fry,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,4,12
+SUMATHI INIPAGAM & RESTAURANT (S2),Full Meals,,90,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Sambar Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Thayir Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Variety Rice (Day Special),,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Masala Roast,,75,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Chappathi (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Parotta (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dinner,,0,,2,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Ghee Roast,,60,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Masal Roast,,55,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Paneer Masala Roast,,80,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Podi Dosa,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Plain Dosa,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,3,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Sambar Vada,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,2,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Curd Vada,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Poori (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Bun Parotta (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Wheat Parotta (2 Pcs),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Veechu Parotta (1 No),,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dinner,,0,,11,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Mini Meals,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Lemon Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Thakkali Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Poondu Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Ellu Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,9
+SUMATHI INIPAGAM & RESTAURANT (S2),Puli Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,10
+SUMATHI INIPAGAM & RESTAURANT (S2),Carrot Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,11
+SUMATHI INIPAGAM & RESTAURANT (S2),Beet Root Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,12
+SUMATHI INIPAGAM & RESTAURANT (S2),Veg Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,13
+SUMATHI INIPAGAM & RESTAURANT (S2),Kashmiri Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,14
+SUMATHI INIPAGAM & RESTAURANT (S2),Pattani Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,15
+SUMATHI INIPAGAM & RESTAURANT (S2),Paneer Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,16
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,17
+SUMATHI INIPAGAM & RESTAURANT (S2),Munthiri Thiratchai Pulao,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,18
+SUMATHI INIPAGAM & RESTAURANT (S2),Malli Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,19
+SUMATHI INIPAGAM & RESTAURANT (S2),Puthina Sadam,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,20
+SUMATHI INIPAGAM & RESTAURANT (S2),Sumathi Rathinam Meals,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,21
+SUMATHI INIPAGAM & RESTAURANT (S2),Sp.Full Meals,,50,,,,5,Veg,,,,,12:00PM,3:00PM,,,"1,2,3,4,5,6,7",0,,Meals,,0,,1,22
+SUMATHI INIPAGAM & RESTAURANT (S2),Kal Dosa,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Chocolate Dosa,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Rava Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,9
+SUMATHI INIPAGAM & RESTAURANT (S2),Ghee Rava Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,10
+SUMATHI INIPAGAM & RESTAURANT (S2),Onion Rava,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,11
+SUMATHI INIPAGAM & RESTAURANT (S2),Uthappam,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,12
+SUMATHI INIPAGAM & RESTAURANT (S2),Onion Uthappam,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,13
+SUMATHI INIPAGAM & RESTAURANT (S2),Onion Roast,,50,,,,5,Veg,,,,,,,4:00PM,10:30PM,"1,2,3,4,5,6,7",0,,Dosa,,0,,3,14
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Chilli,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Gobi Chilli,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Baby Corn Chilli,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Gobi Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Baby Corn Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Chilli,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Gravy,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Channa Gravy,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,9
+SUMATHI INIPAGAM & RESTAURANT (S2),Pattani Gravy,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,10
+SUMATHI INIPAGAM & RESTAURANT (S2),Veg Noodles,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,11
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Noodules,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,12
+SUMATHI INIPAGAM & RESTAURANT (S2),Veg Fried Rice,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,13
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,14
+SUMATHI INIPAGAM & RESTAURANT (S2),Baby Corn Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,15
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,16
+SUMATHI INIPAGAM & RESTAURANT (S2),Schezwan Fried Rice,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,17
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Biriyani,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,18
+SUMATHI INIPAGAM & RESTAURANT (S2),Veg Biriyani,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,19
+SUMATHI INIPAGAM & RESTAURANT (S2),Chilli Parotta,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,20
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Manchurian,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,21
+SUMATHI INIPAGAM & RESTAURANT (S2),Schezwan Noodles,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,22
+SUMATHI INIPAGAM & RESTAURANT (S2),Mushroom Pepper Salt,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,23
+SUMATHI INIPAGAM & RESTAURANT (S2),Gobi Pepper Salt,,80,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,24
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Pepper Salt,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,25
+SUMATHI INIPAGAM & RESTAURANT (S2),Baby Corn Pepper Salt,,90,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,26
+SUMATHI INIPAGAM & RESTAURANT (S2),Pepper Idly,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,27
+SUMATHI INIPAGAM & RESTAURANT (S2),Chilli Idly,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,28
+SUMATHI INIPAGAM & RESTAURANT (S2),Podi Idly,,60,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,29
+SUMATHI INIPAGAM & RESTAURANT (S2),Idly Manchurian,,70,,,,5,Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Chinese,,0,,12,30
+SUMATHI INIPAGAM & RESTAURANT (S2),Mini Jilebi (250 Gms),,85,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Big Jilebi (250 Gms),,85,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Badusha (250 Gms),,85,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Mini Badusha (250 Gms),,90,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Milk Badusha (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Mysore Pak (250 Gms),,85,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Ghee Mysore Pak (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Small Beda (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Big Beda (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,9
+SUMATHI INIPAGAM & RESTAURANT (S2),Kalakand (250 Gms),,90,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,10
+SUMATHI INIPAGAM & RESTAURANT (S2),Pal Cova (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,11
+SUMATHI INIPAGAM & RESTAURANT (S2),Laddu (250 Gms),,85,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,12
+SUMATHI INIPAGAM & RESTAURANT (S2),Laddu ( Spl ) (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,13
+SUMATHI INIPAGAM & RESTAURANT (S2),Mothi Laddu (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,14
+SUMATHI INIPAGAM & RESTAURANT (S2),Sugar Free Laddu (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,15
+SUMATHI INIPAGAM & RESTAURANT (S2),Marble Parbi (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,16
+SUMATHI INIPAGAM & RESTAURANT (S2),Munthiri Parbi (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,17
+SUMATHI INIPAGAM & RESTAURANT (S2),Milk Kathli (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,18
+SUMATHI INIPAGAM & RESTAURANT (S2),Milk Parbi (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,19
+SUMATHI INIPAGAM & RESTAURANT (S2),Horlicks Parbi (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,20
+SUMATHI INIPAGAM & RESTAURANT (S2),Pista Roll (250 Gms),,150,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,21
+SUMATHI INIPAGAM & RESTAURANT (S2),Kaju Kathli (250 Gms),,150,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,22
+SUMATHI INIPAGAM & RESTAURANT (S2),Caroot Halwa (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,23
+SUMATHI INIPAGAM & RESTAURANT (S2),Sonpapdi (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,24
+SUMATHI INIPAGAM & RESTAURANT (S2),Bornvita Sonpapdi (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,25
+SUMATHI INIPAGAM & RESTAURANT (S2),Chandrakala (250 Gms),,90,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,26
+SUMATHI INIPAGAM & RESTAURANT (S2),Baby Milk (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,27
+SUMATHI INIPAGAM & RESTAURANT (S2),Panneer Jamun (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,28
+SUMATHI INIPAGAM & RESTAURANT (S2),Mini Jamun (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,29
+SUMATHI INIPAGAM & RESTAURANT (S2),Mini Rasagulla (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,30
+SUMATHI INIPAGAM & RESTAURANT (S2),Big Jamun,,30,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,31
+SUMATHI INIPAGAM & RESTAURANT (S2),Kothumai Halwa (250 Gms),,95,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,32
+SUMATHI INIPAGAM & RESTAURANT (S2),Bombay Halwa,,20,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,33
+SUMATHI INIPAGAM & RESTAURANT (S2),Boonthi (250 Gms),,80,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,17,34
+SUMATHI INIPAGAM & RESTAURANT (S2),Onion Pakkoda (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Munthiri Pakkoda (250 Gms),,65,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Thakkali Mixer (250 Gms),,65,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Puthina Mixer (250 Gms),,65,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Mixer (250 Gms),,55,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Spl  Mixer (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Corn Mixer (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Sweet Mixer (250 Gms),,75,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Ellu Murukku (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,9
+SUMATHI INIPAGAM & RESTAURANT (S2),Anthira  Murukku (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,10
+SUMATHI INIPAGAM & RESTAURANT (S2),Thattai (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,11
+SUMATHI INIPAGAM & RESTAURANT (S2),Oma Podi (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,12
+SUMATHI INIPAGAM & RESTAURANT (S2),Ottu Pakkoda (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,13
+SUMATHI INIPAGAM & RESTAURANT (S2),Thull Bajji (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,14
+SUMATHI INIPAGAM & RESTAURANT (S2),Masal Kadalai (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,15
+SUMATHI INIPAGAM & RESTAURANT (S2),Mullu Murukku (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,16
+SUMATHI INIPAGAM & RESTAURANT (S2),Raagi Sev (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,17
+SUMATHI INIPAGAM & RESTAURANT (S2),Kara Kadalai (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,18
+SUMATHI INIPAGAM & RESTAURANT (S2),Karaa Boonthi (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,19
+SUMATHI INIPAGAM & RESTAURANT (S2),Kara Sev (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,20
+SUMATHI INIPAGAM & RESTAURANT (S2),Milagu Sev (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,21
+SUMATHI INIPAGAM & RESTAURANT (S2),Navathaniam (250 Gms),,65,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,22
+SUMATHI INIPAGAM & RESTAURANT (S2),Munthiri  (250 Gms),,225,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,23
+SUMATHI INIPAGAM & RESTAURANT (S2),Mytha Cacke (250 Gms),,60,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,24
+SUMATHI INIPAGAM & RESTAURANT (S2),Chilli Chips (250 Gms),,75,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,25
+SUMATHI INIPAGAM & RESTAURANT (S2),Urulai Chips (250 Gms),,75,,,,5,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,18,26
+SUMATHI INIPAGAM & RESTAURANT (S2),Vanilla-Butter Cream (1Kg) ,With Egg (Kindly Order Before 1 Hr),350,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Egg),,0,,13,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Pineapple-Butter Cream (1Kg) ,With Egg (Kindly Order Before 1 Hr),350,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Egg),,0,,13,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Strawberry-Butter Cream (1Kg) ,With Egg (Kindly Order Before 1 Hr),350,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Egg),,0,,13,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Chocolate-Butter Cream (1Kg) ,With Egg (Kindly Order Before 1 Hr),400,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Egg),,0,,13,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Butterscotch-Butter Cream (1Kg) ,With Egg (Kindly Order Before 1 Hr),400,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Egg),,0,,13,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Honey Cake-Butter Cream (1Kg) ,With Egg (Kindly Order Before 1 Hr),400,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Egg),,0,,13,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Vanilla-Butter Cream (1Kg) ,Eggless (Kindly Order Before 1 Hr),450,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Eggless),,0,,14,1
+SUMATHI INIPAGAM & RESTAURANT (S2),Pineapple-Butter Cream (1Kg) ,Eggless (Kindly Order Before 1 Hr),450,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Eggless),,0,,14,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Strawberry-Butter Cream (1Kg) ,Eggless (Kindly Order Before 1 Hr),450,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Eggless),,0,,14,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Chocolate-Butter Cream (1Kg) ,Eggless (Kindly Order Before 1 Hr),500,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Eggless),,0,,14,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Butterscotch-Butter Cream (1Kg) ,Eggless (Kindly Order Before 1 Hr),500,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Eggless),,0,,14,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Honey Cake-Butter Cream (1Kg) ,Eggless (Kindly Order Before 1 Hr),500,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes (Eggless),,0,,14,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Black Forest-Fresh Cream (1Kg),With Egg (Kindly Order Before 4 Hrs),500,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Egg),,0,,15,1
+SUMATHI INIPAGAM & RESTAURANT (S2),White Forest-Fresh Cream (1Kg),With Egg (Kindly Order Before 4 Hrs),500,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Egg),,0,,15,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Vanilla-Fresh Cream (1Kg),With Egg (Kindly Order Before 4 Hrs),600,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Egg),,0,,15,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Pineapple-Fresh Cream (1Kg),With Egg (Kindly Order Before 4 Hrs),700,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Egg),,0,,15,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Choco Truffle-Fresh Cream (1Kg),With Egg (Kindly Order Before 4 Hrs),800,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Egg),,0,,15,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Butterscotch-Fresh Cream (1Kg),With Egg (Kindly Order Before 4 Hrs),800,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Egg),,0,,15,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Fresh Fruit-Fresh Cream (1Kg),With Egg (Kindly Order Before 4 Hrs),1000,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Egg),,0,,15,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Red Velvet-Fresh Cream (1Kg),With Egg (Kindly Order Before 4 Hrs),1000,,,,10,Non Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Egg),,0,,15,8
+SUMATHI INIPAGAM & RESTAURANT (S2),Black Forest-Fresh Cream (1Kg),Eggless (Kindly Order Before 4 Hrs),600,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Eggless),,0,,16,1
+SUMATHI INIPAGAM & RESTAURANT (S2),White Forest-Fresh Cream (1Kg),Eggless (Kindly Order Before 4 Hrs),600,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Eggless),,0,,16,2
+SUMATHI INIPAGAM & RESTAURANT (S2),Vanilla-Fresh Cream (1Kg),Eggless (Kindly Order Before 4 Hrs),700,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Eggless),,0,,16,3
+SUMATHI INIPAGAM & RESTAURANT (S2),Pineapple-Fresh Cream (1Kg),Eggless (Kindly Order Before 4 Hrs),800,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Eggless),,0,,16,4
+SUMATHI INIPAGAM & RESTAURANT (S2),Choco Truffle-Fresh Cream (1Kg),Eggless (Kindly Order Before 4 Hrs),900,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Eggless),,0,,16,5
+SUMATHI INIPAGAM & RESTAURANT (S2),Butterscotch-Fresh Cream (1Kg),Eggless (Kindly Order Before 4 Hrs),900,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Eggless),,0,,16,6
+SUMATHI INIPAGAM & RESTAURANT (S2),Fresh Fruit-Fresh Cream (1Kg),Eggless (Kindly Order Before 4 Hrs),1100,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Eggless),,0,,16,7
+SUMATHI INIPAGAM & RESTAURANT (S2),Red Velvet-Fresh Cream (1Kg),Eggless (Kindly Order Before 4 Hrs),1100,,,,10,Veg,10:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes (Eggless),,0,,16,8

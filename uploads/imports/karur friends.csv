@@ -1,0 +1,12 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KARUR FRIENDS BRIYANI & FASTFOOD,Chicken Briyani,,60,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+KARUR FRIENDS BRIYANI & FASTFOOD,Plain Briyani,,40,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+KARUR FRIENDS BRIYANI & FASTFOOD,Chicken 65 bone,,40,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+KARUR FRIENDS BRIYANI & FASTFOOD,Chicken 65 Boneless,,60,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+KARUR FRIENDS BRIYANI & FASTFOOD,Chicken Leg pc,,50,,,,0,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+KARUR FRIENDS BRIYANI & FASTFOOD,Chicken Fried Rice,,60,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,3
+KARUR FRIENDS BRIYANI & FASTFOOD,Egg Fried Rice,,50,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,3
+KARUR FRIENDS BRIYANI & FASTFOOD,Veg Fried Rice,,40,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,3
+KARUR FRIENDS BRIYANI & FASTFOOD,Chicken Noodles,,60,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,4
+KARUR FRIENDS BRIYANI & FASTFOOD,Egg Noodles,,50,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,4
+KARUR FRIENDS BRIYANI & FASTFOOD,Veg Noodles,,40,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,4

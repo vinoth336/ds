@@ -1,0 +1,20 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+AARAPPAR MESS,Non Meals,,120,,,,0,0,Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,2
+AARAPPAR MESS,NattuKozhi Biriyani ,,241,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+AARAPPAR MESS,Chicken Biriyani,,127,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+AARAPPAR MESS,Mutton Biriyani,,242,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
+AARAPPAR MESS,NattuKozhi Fry,,196,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattu Kozhi Specials,,0,,2,1
+AARAPPAR MESS,NattuKozhi Kulambu,,173,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Nattu Kozhi Specials,,0,,2,1
+AARAPPAR MESS,Chicken Fry,,116,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,2,1
+AARAPPAR MESS,Chicken Chilly,,116,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,2,1
+AARAPPAR MESS,Mutton Fry,,196,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,2,1
+AARAPPAR MESS,Mutton Kulambu,,173,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,2,1
+AARAPPAR MESS,Kudal Kulambu,,150,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,3,1
+AARAPPAR MESS,Kudal Fry,,162,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,3,1
+AARAPPAR MESS,Fish Kulambu,,93,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,3,1
+AARAPPAR MESS,Fish Chilly,,104,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,3,1
+AARAPPAR MESS,Fish Fry (Vanjaram),,208,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,3,1
+AARAPPAR MESS,Fish Fry(Nethilli),,139,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,3,1
+AARAPPAR MESS,Fish Fry (Katla ),,93,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,3,1
+AARAPPAR MESS,Egg Masala,,24,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,3,1
+AARAPPAR MESS,Curd,,12,,,,0,0,Non Veg,11:00AM,04:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Specials,,0,,4,1

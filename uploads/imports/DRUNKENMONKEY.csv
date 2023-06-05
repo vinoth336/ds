@@ -1,0 +1,130 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DRUNKEN MONKEY,Sexy Spinach,,179,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Beet The Root,,179,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Crazy Stupid Vegan,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Avocado Epic,,279,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Dragon Fruit Epic,,229,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Kiwi Epic,,229,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Strawberry Epic,,229,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Black Grape Magic,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Pomegranate Epic,,199,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Spinach and Beet Smoothie Bowl,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Dry Fruit Smoothie Bowl,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies,,0,,1,1
+DRUNKEN MONKEY,Red Sunflower Smoothie Bowl Lite,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Lite,,0,,1,1
+DRUNKEN MONKEY,Tropical Charcoal Smoothie Bowl Lite,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Lite,,0,,1,2
+DRUNKEN MONKEY,Dry Fruit Smoothie Bowl Lite,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Lite,,0,,2,1
+DRUNKEN MONKEY,Spinach and Beet Smoothie Bowl Lite,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Lite,,0,,2,2
+DRUNKEN MONKEY,Chocolate and Love Smoothie Bowl Lite,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Lite,,0,,2,3
+DRUNKEN MONKEY,Cereal and Malt Smoothie Bowl Lite,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Lite,,0,,2,3
+DRUNKEN MONKEY,Red Sunflower Smoothie Bowl Regular,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Regular,,0,,1,1
+DRUNKEN MONKEY,Tropical Charcoal Smoothie Bowl Regular,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Regular,,0,,1,2
+DRUNKEN MONKEY,Dry Fruit Smoothie Bowl Regular,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Regular,,0,,2,1
+DRUNKEN MONKEY,Spinach and Beet Smoothie Bowl Regular,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Regular,,0,,2,2
+DRUNKEN MONKEY,Chocolate and Love Smoothie Bowl Regular,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Regular,,0,,2,3
+DRUNKEN MONKEY,Cereal and Malt Smoothie Bowl Regular,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Bowls Regular,,0,,2,3
+DRUNKEN MONKEY,Body and Soul One,,499,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Packs,,0,,3,3
+DRUNKEN MONKEY,Body and Soul Two,,499,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Packs,,0,,3,4
+DRUNKEN MONKEY,Body and Soul Three,,499,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Packs,,0,,3,5
+DRUNKEN MONKEY,Naturally High Part One,,599,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Packs,,0,,3,6
+DRUNKEN MONKEY,Naturally High Part Two,,599,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Packs,,0,,3,7
+DRUNKEN MONKEY,Naturally High Part Three,,599,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Packs,,0,,3,8
+DRUNKEN MONKEY,A Pack of Four Smoothie,,499,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Packs,,0,,6,13
+DRUNKEN MONKEY,A Pack of Eight Soothie,,899,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothie Packs,,0,,6,13
+DRUNKEN MONKEY,Watermelon Smoothie,,129,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,3,9
+DRUNKEN MONKEY,Pineapple Smoothie,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,3,10
+DRUNKEN MONKEY,Banana Smoothie,,149,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,3,11
+DRUNKEN MONKEY,Mushmelon Smoothie,,149,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,3,12
+DRUNKEN MONKEY,Chickoo Smoothie,,149,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,1
+DRUNKEN MONKEY,Apple Smoothie,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,2
+DRUNKEN MONKEY,Papaya Smoothie,,179,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,3
+DRUNKEN MONKEY,Pomegranate Smoothie,,199,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,4
+DRUNKEN MONKEY,Black Grape Smoothie,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,5
+DRUNKEN MONKEY,Green Grape Smoothie,,169,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,6
+DRUNKEN MONKEY,Strawberry Smoothie,,229,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,7
+DRUNKEN MONKEY,Kiwi Smoothie,,229,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,8
+DRUNKEN MONKEY,Dragon Fruit Smoothie,,229,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,9
+DRUNKEN MONKEY,Avocado Smoothie,,279,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,10
+DRUNKEN MONKEY,Date Nite Smoothie,,199,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,11
+DRUNKEN MONKEY,Fig er it Out Smoothie,,219,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,12
+DRUNKEN MONKEY,Nutcase Smoothie,,199,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,4,13
+DRUNKEN MONKEY,Crazy Stupid Smoothie,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,5,1
+DRUNKEN MONKEY,Monkey Confidential Smoothie,,199,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,5,3
+DRUNKEN MONKEY,Monkey King Smoothie,,239,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Smoothies by fruits,,0,,5,3
+DRUNKEN MONKEY,Dates and Cereal Meal,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meal Smoothies,,0,,5,9
+DRUNKEN MONKEY,Wholesome Coffee Meal,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meal Smoothies,,0,,5,10
+DRUNKEN MONKEY,Caramel and Muesli Meal,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meal Smoothies,,0,,5,11
+DRUNKEN MONKEY,Horlicks Meal,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meal Smoothies,,0,,5,12
+DRUNKEN MONKEY,Nutella Meal,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meal Smoothies,,0,,5,13
+DRUNKEN MONKEY,ABC Meal,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meal Smoothies,,0,,6,1
+DRUNKEN MONKEY,Super Fiber Meal,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meal Smoothies,,0,,6,2
+DRUNKEN MONKEY,Iron Man Green Meal,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meal Smoothies,,0,,6,3
+DRUNKEN MONKEY,Dry Fruit Meal,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meal Smoothies,,0,,6,4
+DRUNKEN MONKEY,Strawberry Lime Hydrator with Electrolyte Salts,,179,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,5
+DRUNKEN MONKEY,Lime Sweet Hydrator,,119,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,6
+DRUNKEN MONKEY,Lime Sweet Hydrator with Electrolyte Salts,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,6
+DRUNKEN MONKEY,Lime Sweet Salt Hydrator,,119,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,6
+DRUNKEN MONKEY,Lime Sweet Salt Hydrator with Electrolyte Salts,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,6
+DRUNKEN MONKEY,Strawberry Lime Hydrator ,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,7
+DRUNKEN MONKEY,Strawberry Lime Hydrator with Electrolyte Salts,,179,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,7
+DRUNKEN MONKEY,Mint Hydrator,,119,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,9
+DRUNKEN MONKEY,Mint Hydrator with Electrolyte Salts,,139,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,9
+DRUNKEN MONKEY,Watermelon Lemon Hydrator,,129,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,10
+DRUNKEN MONKEY,Watermelon Lemon Hydrator with Electrolyte Salts,,149,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hydrators,,0,,6,10
+DRUNKEN MONKEY,Last Night Sin,,189,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hangover Warriors,,0,,6,10
+DRUNKEN MONKEY,Party Monster,,189,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hangover Warriors,,0,,6,11
+DRUNKEN MONKEY,After Party Caffenie,,189,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hangover Warriors,,0,,6,12
+DRUNKEN MONKEY,Dolphin Nose,,299,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Protein Smoothies,,0,,6,13
+DRUNKEN MONKEY,Meth,,299,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Protein Smoothies,,0,,6,13
+DRUNKEN MONKEY,Arabian Knight,,299,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Protein Smoothies,,0,,6,13
+DRUNKEN MONKEY,Smooth Criminal ,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,Eternal Sunshine,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,Beach Body,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,U Kill I Kill,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,Mirror Mirror,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,Forbidden,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,Full Throttle,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,Super Food,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,Black Magic,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,Shot Glass,,159,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Detox Smoothies,,0,,6,13
+DRUNKEN MONKEY,Cold Brew ,,189,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Cold Coffee Classic,,219,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Cold Cappuccino,,219,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Cold Mocaccino,,219,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Turkish Cardamom Cold Coffee,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Cold Coffee Nutella,,259,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Coffee Oreo,,259,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Coffee Brownie,,259,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Coffee Caramel,,259,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Irish Cream Coffee,,259,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,6,13
+DRUNKEN MONKEY,Choco,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Fresh Vanilla,,209,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Oreo,,219,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Crunchy Horlicks,,219,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Caramalized,,259,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Choco Almond,,229,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Brownie,,229,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Choco Nutella,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Pure Nutella,,249,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Cheese Cake,,259,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Red Velvet,,259,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Kit Kat Caramel,,299,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Brownie Nutella,,299,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,All Star,,299,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Oreo Red Velvet,,299,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indulgence Shakes,,0,,6,13
+DRUNKEN MONKEY,Mint,,20,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Chia Seeds,,30,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Basil Seeds,,30,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Electrolyte Salts,,30,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Extra Coffee,,30,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Chocolate Powder,,30,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Almonds and Cashews,,30,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Hazelnut,,40,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Horlicks,,40,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Caramel,,40,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Muesli,,40,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Corn Flakes,,40,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Oreo,,40,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Kitkat,,40,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Irish Cream,,50,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Avocado,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13
+DRUNKEN MONKEY,Extra Protein,,120,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addon,,0,,6,13

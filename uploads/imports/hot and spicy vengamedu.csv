@@ -1,0 +1,7 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOT AND SPICY BBQ VENGAMEDU,Chicken Leg pc 1Pc,,55,,,,0,0,Non Veg,06:30PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,1,1
+HOT AND SPICY BBQ VENGAMEDU,Chicken Loly Pop 2Pcs,,55,,,,0,0,Non Veg,06:30PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,1,1
+HOT AND SPICY BBQ VENGAMEDU,Chicken Wings 3Pcs,,55,,,,0,0,Non Veg,06:30PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,1,2
+HOT AND SPICY BBQ VENGAMEDU,Chicken Boneless 3Pcs,,55,,,,0,0,Non Veg,06:30PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Chicken,,0,,1,2
+HOT AND SPICY BBQ VENGAMEDU,Kadai 1Pcs,,65,,,,0,0,Non Veg,06:30PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Kadai,,0,,2,2
+HOT AND SPICY BBQ VENGAMEDU,Fish ,,80,,,,0,0,Non Veg,06:30PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Fish,,0,,3,2

@@ -1,0 +1,207 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DE FLAVORS CAKES & PASTRY,Cheese Pizza Regular,,180,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,1
+DE FLAVORS CAKES & PASTRY,Spicy Mix Veg Pizza Regular,,265,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,2
+DE FLAVORS CAKES & PASTRY,Mushroom Delight Pizza Regular,,265,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,3
+DE FLAVORS CAKES & PASTRY,Tomato & Sweet Corn Pizza Regular,,265,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,4
+DE FLAVORS CAKES & PASTRY,Creamy Veg Pizza Regular,,275,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,5
+DE FLAVORS CAKES & PASTRY,Classic Corn Pizza Regular,,265,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,6
+DE FLAVORS CAKES & PASTRY,Peri Peri Paneer Pizza Regular,,275,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,7
+DE FLAVORS CAKES & PASTRY,Roasted Garlic & Veg Pizza Regular,,260,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,8
+DE FLAVORS CAKES & PASTRY,BBQ Paneer Pizza Regular,,275,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,9
+DE FLAVORS CAKES & PASTRY,Half Veg & Half Paneer Pizza Regular,,300,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,10
+DE FLAVORS CAKES & PASTRY,Mix Veg & Fried Egg Pizza Regular,,300,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,11
+DE FLAVORS CAKES & PASTRY,Peri Peri Paneer & Fried Egg Pizza Regular,,320,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,12
+DE FLAVORS CAKES & PASTRY,Chicken Pizza Regular,,280,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,13
+DE FLAVORS CAKES & PASTRY,Creamy Chicken Pizza Regular,,300,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,14
+DE FLAVORS CAKES & PASTRY,Peri Peri Chicken Pizza Regular,,320,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,15
+DE FLAVORS CAKES & PASTRY,BBQ Chicken Pizza Regular,,300,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,16
+DE FLAVORS CAKES & PASTRY,Roasted Garlic & Chicken Pizza Regular,,300,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,17
+DE FLAVORS CAKES & PASTRY,Half Creamy Chicken & Half Peri Peri Chicken Pizza Regular,,355,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,18
+DE FLAVORS CAKES & PASTRY,Chicken & Fried Egg Pizza Regular,,330,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,19
+DE FLAVORS CAKES & PASTRY,Peri Peri Chicken & Fried Egg Pizza Regular,,360,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,20
+DE FLAVORS CAKES & PASTRY,Extra Cheese,,40,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,21
+DE FLAVORS CAKES & PASTRY,Extra Paneer,,40,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,22
+DE FLAVORS CAKES & PASTRY,Extra Mushroom,,20,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,23
+DE FLAVORS CAKES & PASTRY,Extra Olives,,30,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,24
+DE FLAVORS CAKES & PASTRY,Extra Jalapeno,,40,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,25
+DE FLAVORS CAKES & PASTRY,Extra Chicken,,50,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Pizzas,,0,,1,26
+DE FLAVORS CAKES & PASTRY,Veg Patty Burger,,110,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,1
+DE FLAVORS CAKES & PASTRY,Spicy Jalapeno Veg Patty Burger,,125,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,2
+DE FLAVORS CAKES & PASTRY,Plain Cheese Burger,,95,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,3
+DE FLAVORS CAKES & PASTRY,BBQ Veg Patty Burger,,135,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,4
+DE FLAVORS CAKES & PASTRY,Peri Peri Paneer Burger,,135,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,5
+DE FLAVORS CAKES & PASTRY,Chicken Patty Burger,,140,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,6
+DE FLAVORS CAKES & PASTRY,Chicken Tikka Burger,,150,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,7
+DE FLAVORS CAKES & PASTRY,Chicken Patty & Cheese Burger,,160,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,8
+DE FLAVORS CAKES & PASTRY,BBQ Chicken Patty Burger,,150,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,9
+DE FLAVORS CAKES & PASTRY,Extra Cheese,,20,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,10
+DE FLAVORS CAKES & PASTRY,Butter Toast 2 Pcs,,50,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,1
+DE FLAVORS CAKES & PASTRY,Veg Sandwich,,95,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,2
+DE FLAVORS CAKES & PASTRY,Spicy Veg & Cheese Sandwich,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,3
+DE FLAVORS CAKES & PASTRY,Chilly Corn Sandwich,,95,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,4
+DE FLAVORS CAKES & PASTRY,Peri Peri Paneer Sandwich,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,5
+DE FLAVORS CAKES & PASTRY,Spicy Pesto Paneer Sandwich,,130,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,6
+DE FLAVORS CAKES & PASTRY,Cheese Sandwich,,95,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,7
+DE FLAVORS CAKES & PASTRY,Paneer & Cheese Sandwich,,130,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,8
+DE FLAVORS CAKES & PASTRY,Spicy BBQ Paneer Sandwich,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,9
+DE FLAVORS CAKES & PASTRY,Chicken Sandwich,,130,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,10
+DE FLAVORS CAKES & PASTRY,Pesto Chicken Sandwich,,135,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,11
+DE FLAVORS CAKES & PASTRY,BBQ Chicken Sandwich,,130,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,12
+DE FLAVORS CAKES & PASTRY,Peri Peri Chicken Sandwich,,130,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,13
+DE FLAVORS CAKES & PASTRY,Chicken & Cheese Sandwich,,145,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,14
+DE FLAVORS CAKES & PASTRY,Extra Cheese,,40,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,15
+DE FLAVORS CAKES & PASTRY,Extra Paneer,,40,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,16
+DE FLAVORS CAKES & PASTRY,Extra Olives,,30,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,17
+DE FLAVORS CAKES & PASTRY,Extra Jalapeno,,30,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,18
+DE FLAVORS CAKES & PASTRY,Extra Chicken,,50,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,3,19
+DE FLAVORS CAKES & PASTRY,Garlic Bread 3 Pcs,,80,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,4,1
+DE FLAVORS CAKES & PASTRY,Cheese Garlic Bread 3 Pcs,,100,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,4,2
+DE FLAVORS CAKES & PASTRY,Pesto Paneer Garlic Bread 3 Pcs,,120,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,4,3
+DE FLAVORS CAKES & PASTRY,Spicy BBQ Paneer Garlic Bread 3 Pcs,,120,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,4,4
+DE FLAVORS CAKES & PASTRY,Peri Peri Paneer Garlic Bread 3 Pcs,,120,,,,0,Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,4,5
+DE FLAVORS CAKES & PASTRY,Spicy Chicken Garlic Bread 3 Pcs,,130,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,4,6
+DE FLAVORS CAKES & PASTRY,Pesto Chicken Garlic Bread 3 Pcs,,145,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,4,7
+DE FLAVORS CAKES & PASTRY,Peri Peri Chicken Garlic Bread 3 Pcs,,145,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,4,8
+DE FLAVORS CAKES & PASTRY,BBQ Chicken Garlic Bread 3 Pcs,,145,,,,0,Non Veg,02:00PM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Garlic Breads,,0,,4,9
+DE FLAVORS CAKES & PASTRY,White Sauce Veg Pasta,,245,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,1
+DE FLAVORS CAKES & PASTRY,Red Sauce Veg Pasta,,245,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,2
+DE FLAVORS CAKES & PASTRY,White Sauce Paneer & Veg Pasta,,280,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,3
+DE FLAVORS CAKES & PASTRY,Red Sauce Paneer & Veg Pasta,,280,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,4
+DE FLAVORS CAKES & PASTRY,White Sauce Veg & Cheesy Pasta,,280,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,5
+DE FLAVORS CAKES & PASTRY,Red Sauce Veg & Cheesy Pasta,,280,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,6
+DE FLAVORS CAKES & PASTRY,Red Sauce Chicken Pasta,,260,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,7
+DE FLAVORS CAKES & PASTRY,White Sauce Chicken Pasta,,260,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,8
+DE FLAVORS CAKES & PASTRY,White Sauce Chicken & Cheesy Pasta,,300,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,9
+DE FLAVORS CAKES & PASTRY,Red Sauce Chicken & Cheesy Pasta,,300,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,10
+DE FLAVORS CAKES & PASTRY,Extra Cheese,,40,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,11
+DE FLAVORS CAKES & PASTRY,Extra Mushroom,,20,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,12
+DE FLAVORS CAKES & PASTRY,Extra Olives,,30,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,13
+DE FLAVORS CAKES & PASTRY,Extra Paneer,,40,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,14
+DE FLAVORS CAKES & PASTRY,Extra Chicken,,50,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pasta,,0,,5,15
+DE FLAVORS CAKES & PASTRY,French Fries,,95,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,6,1
+DE FLAVORS CAKES & PASTRY,Peri Peri French Fries,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,6,2
+DE FLAVORS CAKES & PASTRY,Veg Nuggets 5 Pcs,,90,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,6,3
+DE FLAVORS CAKES & PASTRY,Veg Smiley 5 Pcs,,90,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,6,4
+DE FLAVORS CAKES & PASTRY,Veg Spring Roll 3 Pcs,,90,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,6,5
+DE FLAVORS CAKES & PASTRY,Chicken Spring Roll 3 Pcs,,110,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,6,6
+DE FLAVORS CAKES & PASTRY,Chicken Nuggets 5 Pcs,,100,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,6,7
+DE FLAVORS CAKES & PASTRY,Chicken Popcorn 10 Pcs,,110,,,,0,Non Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sides,,0,,6,8
+DE FLAVORS CAKES & PASTRY,Black Forest Cake 1 Pc,,75,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,1
+DE FLAVORS CAKES & PASTRY,White Forest Cake 1 Pc,,75,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,2
+DE FLAVORS CAKES & PASTRY,Strawberry Cake 1 Pc,,80,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,3
+DE FLAVORS CAKES & PASTRY,Pineapple Cake 1 Pc,,80,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,4
+DE FLAVORS CAKES & PASTRY,Black Currants Cake 1 Pc,,80,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,5
+DE FLAVORS CAKES & PASTRY,Mango Cake 1 Pc,,80,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,6
+DE FLAVORS CAKES & PASTRY,Butterscotch Cake 1 Pc,,85,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,7
+DE FLAVORS CAKES & PASTRY,Choco Truffle Cake 1 Pc,,95,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,8
+DE FLAVORS CAKES & PASTRY,Red Velvet Choco Fudge Cake 1 Pc,,100,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,9
+DE FLAVORS CAKES & PASTRY,Death By Chocolate Cake 1 Pc,,100,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,10
+DE FLAVORS CAKES & PASTRY,Blueberry White Choco Cake 1 Pc,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,11
+DE FLAVORS CAKES & PASTRY,Milky Almond Cake 1 Pc,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,12
+DE FLAVORS CAKES & PASTRY,Rasamalai Cake 1 Pc,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,13
+DE FLAVORS CAKES & PASTRY,Cookies & Cream Cake 1 Pc,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,14
+DE FLAVORS CAKES & PASTRY,Choco Hazelnut Cake 1 Pc,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,15
+DE FLAVORS CAKES & PASTRY,White Rose White Truffle Cake 1 Pc,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,16
+DE FLAVORS CAKES & PASTRY,Ferrero Rocher Cake 1 Pc,,145,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cake Pieces,,0,,7,17
+DE FLAVORS CAKES & PASTRY,Lemon Juice Sweet,,50,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,8,1
+DE FLAVORS CAKES & PASTRY,Lemon Soda Salt,,55,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,8,2
+DE FLAVORS CAKES & PASTRY,Lemon Sprite,,70,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,8,3
+DE FLAVORS CAKES & PASTRY,Iced Lemon Tea,,80,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,8,4
+DE FLAVORS CAKES & PASTRY,Mojito Mint,,95,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,8,5
+DE FLAVORS CAKES & PASTRY,Blueberry Mojito,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,8,6
+DE FLAVORS CAKES & PASTRY,Strawberry Mojito,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,8,7
+DE FLAVORS CAKES & PASTRY,Bluecuracco Mojito,,95,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soft Drinks,,0,,8,8
+DE FLAVORS CAKES & PASTRY,Vanilla Milkshake,,100,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,1
+DE FLAVORS CAKES & PASTRY,Strawberry Milkshake,,130,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,2
+DE FLAVORS CAKES & PASTRY,Butterscotch Milkshake,,130,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,3
+DE FLAVORS CAKES & PASTRY,Rasmalai Milkshake,,190,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,4
+DE FLAVORS CAKES & PASTRY,Chocolate Milkshake,,160,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,5
+DE FLAVORS CAKES & PASTRY,White Chocolate & Cotton Candy Milkshake,,220,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,6
+DE FLAVORS CAKES & PASTRY,Cookies & Cream Milkshake,,199,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,7
+DE FLAVORS CAKES & PASTRY,Choco Brownie Milkshake,,199,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,8
+DE FLAVORS CAKES & PASTRY,Choco Hazelnuts Milkshake,,199,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,9
+DE FLAVORS CAKES & PASTRY,Caramel Milkshake,,199,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,10
+DE FLAVORS CAKES & PASTRY,White Chocolate & Bubble Gum Milkshake,,220,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,9,11
+DE FLAVORS CAKES & PASTRY,Choco Lava Cake,,95,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,1
+DE FLAVORS CAKES & PASTRY,Choco Brownie Cake,,95,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,2
+DE FLAVORS CAKES & PASTRY,Caramel Brownie Cake,,120,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,3
+DE FLAVORS CAKES & PASTRY,Hazelnut Brownie Cake,,130,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,4
+DE FLAVORS CAKES & PASTRY,Tiramisu Cake,,115,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,5
+DE FLAVORS CAKES & PASTRY,Choco Donut ,,90,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,6
+DE FLAVORS CAKES & PASTRY,Apple Pie,,130,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,7
+DE FLAVORS CAKES & PASTRY,Linzer Jam Tart,,110,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,8
+DE FLAVORS CAKES & PASTRY,Apple Tart,,110,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,9
+DE FLAVORS CAKES & PASTRY,Baked Bun Donuts,,950,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,10,10
+DE FLAVORS CAKES & PASTRY,Classic Cold Coffee,,130,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,11,1
+DE FLAVORS CAKES & PASTRY,Caramel Cold Coffee,,160,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,11,2
+DE FLAVORS CAKES & PASTRY,Cold Coffee with Vanilla Ice Cream,,170,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,11,3
+DE FLAVORS CAKES & PASTRY,Cold Coffee with Chocolate Icecream,,170,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,11,4
+DE FLAVORS CAKES & PASTRY,Pack of Jam Bun & Cream Bun,,50,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,12,1
+DE FLAVORS CAKES & PASTRY,Butter Bun,,35,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,12,2
+DE FLAVORS CAKES & PASTRY,Coconut Bun 2 Slices,,50,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,12,3
+DE FLAVORS CAKES & PASTRY,Milk Rusk,,60,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,12,4
+DE FLAVORS CAKES & PASTRY,Omam Bread Stick,,55,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,12,5
+DE FLAVORS CAKES & PASTRY,Carrot Cake,,50,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,12,6
+DE FLAVORS CAKES & PASTRY,Cup Cakes 4 Pcs,,65,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,12,7
+DE FLAVORS CAKES & PASTRY,Banana Cake,,50,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery,,0,,12,8
+DE FLAVORS CAKES & PASTRY,Black Forest Fresh Cream Cake 1/2 Kg,,390,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,1
+DE FLAVORS CAKES & PASTRY,White Forest Fresh Cream Cake 1/2 Kg,,400,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,2
+DE FLAVORS CAKES & PASTRY,Strawberry Fresh Cream Cake 1/2 Kg,,499,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,3
+DE FLAVORS CAKES & PASTRY,Blueberry Fresh Cream Cake 1/2 Kg,,565,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,4
+DE FLAVORS CAKES & PASTRY,Blackcurrant Fresh Cream Cake 1/2 Kg,,499,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,5
+DE FLAVORS CAKES & PASTRY,Pineapple Fresh Cream Cake 1/2 Kg,,499,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,6
+DE FLAVORS CAKES & PASTRY,Butterscotch Fresh Cream Cake 1/2 Kg,,550,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,7
+DE FLAVORS CAKES & PASTRY,Pista Fresh Cream Cake 1/2 Kg,,525,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,8
+DE FLAVORS CAKES & PASTRY,Mango Fresh Cream Cake 1/2 Kg,,499,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,9
+DE FLAVORS CAKES & PASTRY,Orange Fresh Cream Cake 1/2 Kg,,499,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,10
+DE FLAVORS CAKES & PASTRY,Kiwi Fresh Cream Cake 1/2 Kg,,499,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,11
+DE FLAVORS CAKES & PASTRY,Litchi Fresh Cream Cake 1/2 Kg,,499,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,12
+DE FLAVORS CAKES & PASTRY,Green Apple Fresh Cream Cake 1/2 Kg,,499,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,13
+DE FLAVORS CAKES & PASTRY,Choco Truffle Fresh Cream Cake 1/2 Kg,,575,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,14
+DE FLAVORS CAKES & PASTRY,Tiramisu Fresh Cream Cake 1/2 Kg,Non Alcoholic,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,15
+DE FLAVORS CAKES & PASTRY,Deli Caramel Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,16
+DE FLAVORS CAKES & PASTRY,Turkish Delight Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,17
+DE FLAVORS CAKES & PASTRY,White Chocolate Bubblegum Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,18
+DE FLAVORS CAKES & PASTRY,Premium Strawberry Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,19
+DE FLAVORS CAKES & PASTRY,Irish Coffee Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,20
+DE FLAVORS CAKES & PASTRY,Ferrero Rocher Fresh Cream Cake 1/2 Kg,,999,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,21
+DE FLAVORS CAKES & PASTRY,Death By Chocolate Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,22
+DE FLAVORS CAKES & PASTRY,Cotton Candy Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,23
+DE FLAVORS CAKES & PASTRY,Passion Fruit Fresh Cream Cake 1/2 Kg,,899,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,24
+DE FLAVORS CAKES & PASTRY,Premium Mango Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,25
+DE FLAVORS CAKES & PASTRY,Raspberry Fresh Cream Cake 1/2 Kg,,895,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,26
+DE FLAVORS CAKES & PASTRY,Vancho Fresh Cream Cake 1/2 Kg,,895,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,27
+DE FLAVORS CAKES & PASTRY,Classic White Rose Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,28
+DE FLAVORS CAKES & PASTRY,Premium Pineapple Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,29
+DE FLAVORS CAKES & PASTRY,Classic Lemon Berry Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,30
+DE FLAVORS CAKES & PASTRY,Peach White Chocolate Fresh Cream Cake 1/2 Kg,,895,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,31
+DE FLAVORS CAKES & PASTRY,Choco Hazelnut Fresh Cream Cake 1/2 Kg,,895,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,32
+DE FLAVORS CAKES & PASTRY,Red Velvet Choco Fudge Fresh Cream Cake 1/2 Kg,,850,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,33
+DE FLAVORS CAKES & PASTRY,Milky Almond Crunch Fresh Cream Cake 1/2 Kg,,895,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,34
+DE FLAVORS CAKES & PASTRY,Cookies & Cream Fresh Cream Cake 1/2 Kg,,875,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,35
+DE FLAVORS CAKES & PASTRY,Lotus Biscoffee Fresh Cream Cake 1/2 Kg,,1100,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,36
+DE FLAVORS CAKES & PASTRY,Classic Lavander Fresh Cream Cake 1/2 Kg,,895,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,37
+DE FLAVORS CAKES & PASTRY,Mandarin White Chocolate Fresh Cream Cake 1/2 Kg,,895,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,13,38
+DE FLAVORS CAKES & PASTRY,Choco Nutty Brownie Jar Cake,,175,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,1
+DE FLAVORS CAKES & PASTRY,Hazelnut & Choco Truffle Jar Cake,,175,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,2
+DE FLAVORS CAKES & PASTRY,Tiramisu Jar Cake,,160,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,3
+DE FLAVORS CAKES & PASTRY,Chocolate Truffle Jar Cake,,160,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,4
+DE FLAVORS CAKES & PASTRY,Peach & Raspberry Jar Cake,,180,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,5
+DE FLAVORS CAKES & PASTRY,Mandarin Jar Cake,,175,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,6
+DE FLAVORS CAKES & PASTRY,Deli Caramel Crunch Jar Cake,,170,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,7
+DE FLAVORS CAKES & PASTRY,Mango & Chocolate Jar Cake,,170,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,8
+DE FLAVORS CAKES & PASTRY,Pineapple & Chocolate Jar Cake,,170,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,9
+DE FLAVORS CAKES & PASTRY,Blueberry & Chocolate Jar Cake,,175,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Jar Cakes,,0,,14,10
+DE FLAVORS CAKES & PASTRY,Milk Bread 400 Grams,,58,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,15,1
+DE FLAVORS CAKES & PASTRY,Wheat Bread 400 Grams,,65,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,15,2
+DE FLAVORS CAKES & PASTRY,Wheat Masala Bread 200 Grams,,55,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,15,3
+DE FLAVORS CAKES & PASTRY,Wheat Garlic Bread 200 Grams,,55,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,15,4
+DE FLAVORS CAKES & PASTRY,Sandwich Bread 500 Grams,,68,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,15,5
+DE FLAVORS CAKES & PASTRY,Tea Bun 1 Pc,,10,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,15,6
+DE FLAVORS CAKES & PASTRY,Fruit Cookies,,90,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,16,1
+DE FLAVORS CAKES & PASTRY,Ghee Cookies,,100,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,16,2
+DE FLAVORS CAKES & PASTRY,Fresh Coconut Cookies,,90,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,16,3
+DE FLAVORS CAKES & PASTRY,Peanut Cookies,,90,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,16,4
+DE FLAVORS CAKES & PASTRY,Salt Cookies,,80,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,16,5
+DE FLAVORS CAKES & PASTRY,Chocolate Cookies,,90,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,16,6
+DE FLAVORS CAKES & PASTRY,Vanilla Cookies,,80,,,,0,Veg,11:30AM,09:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,16,7

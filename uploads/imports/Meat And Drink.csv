@@ -1,0 +1,99 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+MEET & DRINK,Veg Mayo Cheese Sandwich,,66,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,1,1
+MEET & DRINK,Veg Mayo Garlic Sandwich,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,2,1
+MEET & DRINK,Veg Mayo Carn Cheese Sandwich,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,3,1
+MEET & DRINK,Veg Mayo Panner Cheese Sandwich,,78,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,3,1
+MEET & DRINK,Veg Peanut Butter Cheese Sandwich,,78,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,4,1
+MEET & DRINK,Veg Mushroom Cheese Sandwich,,84,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,5,1
+MEET & DRINK,French Fries ,,66,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,French Fries,,0,,5,1
+MEET & DRINK,Masala French Fries,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,French Fries,,0,,6,1
+MEET & DRINK,Chicken Roll (2 Pcs),,66,,,,0,0,Non Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,French Fries,,0,,1,2
+MEET & DRINK,Veg Cheese Burger,,90,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,2,2
+MEET & DRINK,Egg Burger,,102,,,,0,0,Non Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,3,2
+MEET & DRINK,Egg Burger With Cheese,,120,,,,0,0,Non Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,4,2
+MEET & DRINK,Chicken Burger With Cheese,,108,,,,0,0,Non Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,5,2
+MEET & DRINK,Chicken Burger With Egg + Cheese,,132,,,,0,0,Non Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,6,2
+MEET & DRINK,Vannilla Milk Shake,,66,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,2
+MEET & DRINK,Strawberry Milk Shake,,66,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,1,3
+MEET & DRINK,Sevvazhai Milk Shake,,66,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,3
+MEET & DRINK,Aval Milk Shake,,66,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,4,3
+MEET & DRINK,Pineapple Milk Shake,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,5,3
+MEET & DRINK,Mango Milk Shake,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,3,4
+MEET & DRINK,Pista Milk Shake,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,4,4
+MEET & DRINK,Chocolate Blast Milk Shake,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,5,4
+MEET & DRINK,BUtterScotch Milk Shake,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,6,4
+MEET & DRINK,Banana Peanut Butter Milk Shake,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,4
+MEET & DRINK,Black Currant Milk Shake,,84,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,1,5
+MEET & DRINK,Spl Sharjah Milk Shake,,84,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,5
+MEET & DRINK,Oero Thick Monster Shake,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,2,5
+MEET & DRINK,Manogo Pulpy Caramel Monster Shake,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,1,1
+MEET & DRINK,Cookies & Cream Protein Monster Shake,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,3,1
+MEET & DRINK,Black Current Blueberry Monster Shake,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,4,1
+MEET & DRINK,Bubblegum Freak Monster Shake,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,6,1
+MEET & DRINK,Fruity Pebble Monster Shake,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,1,2
+MEET & DRINK,Pista Gems Monster Shake,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,2,2
+MEET & DRINK,Chocolate Strawberry Banana Milk Shake,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,2,2
+MEET & DRINK,Mocha Coffee Monster Shakes,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,3,2
+MEET & DRINK,Fruit Rainbow Monster Shake,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shakes,,0,,4,2
+MEET & DRINK,Lemonade Virgin Mojito,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,5,2
+MEET & DRINK,Kiwi Freez,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,6,2
+MEET & DRINK,Guava Pink,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,1,4
+MEET & DRINK,Mango Magic,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Jeera Masala,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,6,2
+MEET & DRINK,Virgin Orange,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,1,4
+MEET & DRINK,Black Current  Mojito,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Paan Shot Mojito,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Green Apple Mojito,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Strawberry Sentation Mojito,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Ginger Lemon Surice Mojito,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Litchee White Mojito,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Water Melon Cooler Mojito,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Blue Ocean Mojito,,60,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Blue Moon Mojito,,60,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Guava Orange Surprise Mojito,,60,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Vergin Vanilla Mojito,,60,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Bubblegum Pinky Mojito,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Blueberry Violet  berry Mojito,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Fig & Honey Mojito,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Pineapple Pine Colada Mojito,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Two Layerd Mocktails,,84,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Mix Fruit Ginger Mint Punch Mojito,,84,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Fruit Punch Mojito,,84,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Virgin Mojitos,,0,,2,4
+MEET & DRINK,Regular Falooda,,90,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,2,4
+MEET & DRINK,Mixed Ice Cream Falooda,,102,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,2,4
+MEET & DRINK,Butterscotch Falooda,,102,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,2,4
+MEET & DRINK,Mango Falooda,,102,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,2,4
+MEET & DRINK,Royal Falooda,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,2,4
+MEET & DRINK,Black Current Falooda,,108,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,2,4
+MEET & DRINK,Special Kesar Pista Falooda,,144,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,2,4
+MEET & DRINK,Cold Coffee,,54,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,2,4
+MEET & DRINK,Cold Coffee Mug,,60,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,2,4
+MEET & DRINK,Cold Coffee With Ice Cream,,78,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,2,4
+MEET & DRINK,Cold Boost,,72,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cold Coffee,,0,,2,4
+MEET & DRINK,Kerala Kulukki Sarbath,,42,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sarbath,,0,,2,4
+MEET & DRINK,Nannari Sarbath,,30,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sarbath,,0,,2,4
+MEET & DRINK,Paan Sarbath(Vethazhai),,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sarbath,,0,,2,4
+MEET & DRINK,Rose Sarbath,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sarbath,,0,,2,4
+MEET & DRINK,Pineapple Sarbath,,30,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sarbath,,0,,2,4
+MEET & DRINK,Mango Sarbath,,30,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sarbath,,0,,2,4
+MEET & DRINK,Orange Sarbath,,30,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sarbath,,0,,2,4
+MEET & DRINK,Kesar(Kunguma Poo Sarbath),,48,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sarbath,,0,,2,4
+MEET & DRINK,Delhi Paal Sarbath,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paal Sarbath Veritys,,0,,2,4
+MEET & DRINK,NaavalPazha Paal Sarbath,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paal Sarbath Veritys,,0,,2,4
+MEET & DRINK,Strawberry Paal Sarbath,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paal Sarbath Veritys,,0,,2,4
+MEET & DRINK,Mango Paal Sarbath,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paal Sarbath Veritys,,0,,2,4
+MEET & DRINK,Badam Paal Sarbath,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paal Sarbath Veritys,,0,,2,4
+MEET & DRINK,Sweet Lime Soda,,30,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,2,4
+MEET & DRINK,Salt Lime Soda,,30,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,2,4
+MEET & DRINK,Jalgeera Soda,,30,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,2,4
+MEET & DRINK,Nannari Sarbath Soda,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soda,,0,,2,4
+MEET & DRINK,Badam Milk,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Drink Veritys,,0,,2,4
+MEET & DRINK,Rose Milk,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Drink Veritys,,0,,2,4
+MEET & DRINK,Chocolate Milk,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Drink Veritys,,0,,2,4
+MEET & DRINK,Strawberry Milk ,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Drink Veritys,,0,,2,4
+MEET & DRINK,Keser Badam Milk,,60,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Drink Veritys,,0,,2,4
+MEET & DRINK,Lassi,,36,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,4
+MEET & DRINK,Gulkandh Lassi,,42,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,4
+MEET & DRINK,Banana Lassi,,48,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,4
+MEET & DRINK,Mango Lassi,,48,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,4
+MEET & DRINK,Mixed Dry Fruit Lassi,,60,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lassi,,0,,2,4

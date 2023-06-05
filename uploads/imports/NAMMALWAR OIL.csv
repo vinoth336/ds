@@ -1,0 +1,5 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+NAMMALWAR COLD WOOD PRESSED OIL,Sesame Oil Mixed with Palm Jaggery 1/2 Lit,,275,,,,0,0,Veg,09:00AM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,CHEKKU GINGELLY OIL,,0,,1,1
+NAMMALWAR COLD WOOD PRESSED OIL,Sesame Oil Mixed with Sugarcane Jaggery 1/2 Lit,,210,,,,0,0,Veg,09:00AM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,CHEKKU GINGELLY OIL,,0,,1,2
+NAMMALWAR COLD WOOD PRESSED OIL,Groundnut Oil 1/2 Lit,,152,,,,0,0,Veg,09:00AM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,CHEKKU GROUNDNUT OIL,,0,,2,1
+NAMMALWAR COLD WOOD PRESSED OIL,Coconut Oil 1/2 Lit,,164,,,,0,0,Veg,09:00AM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,CHEKKU COCONUT OIL,,0,,2,2

@@ -1,0 +1,3 @@
+S.No,"Order Id","Res Name","Cust Name","Boy Name","Item Total","Res Offer Price","DS Offer Price",GST,"Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
+1,TVM133887,"JUICE WORLD","Krishna  ",GOKULTVM,90,0,0,0,30,5,125,"01/31/2019 13:20:38",cash,cod,"Order Finished","1xClassic Pizza-90"
+2,TVM133838,"JUICE WORLD","Pradeep ",GOKULTVM,320,0,0,0,12,30,362,"01/30/2019 20:43:24",cash,cod,"Order Finished","2xChilly Sandwich-50,1xCheese Sandwich-60,1xVeg Sandwich-40,1xChocolate Chikku-60,1xSharjah-60"

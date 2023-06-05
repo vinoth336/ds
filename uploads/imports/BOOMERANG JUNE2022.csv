@@ -1,0 +1,119 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BOOMERANG,Banana Blueberry Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,1
+BOOMERANG,Belgium Chocolate Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,2
+BOOMERANG,Black Currant Scoop,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,3
+BOOMERANG,Caramel Almond Crunch Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,4
+BOOMERANG,Cherry Merry Scoop,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,5
+BOOMERANG,Cookies & Cream Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,6
+BOOMERANG,Creamy Butterscotch Scoop,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,7
+BOOMERANG,Creamy Vanilla Scoop,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,8
+BOOMERANG,Fig O Honey Scoop,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,9
+BOOMERANG,Mad Muddy Choco Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,10
+BOOMERANG,Mocha Brownie Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,11
+BOOMERANG,Oreo Ice cream Scoop,,126,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,12
+BOOMERANG,Pistachio Scoop,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,13
+BOOMERANG,Raw Mango Lemon Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,14
+BOOMERANG,Pulpy Lychee Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,15
+BOOMERANG,Pulpy Mango Scoop,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,16
+BOOMERANG,Juicy Strawberry Scoop,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,17
+BOOMERANG,Mascorpone Redvelvet Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,18
+BOOMERANG,Rosewater Honey Walnut Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,19
+BOOMERANG,Watermelon Fresh Mint Sorbet Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,20
+BOOMERANG,Malt Blast Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,21
+BOOMERANG,Golden Caramel Swirl Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,22
+BOOMERANG,Coconut Karpatti Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,23
+BOOMERANG,Unicorn Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,24
+BOOMERANG,Chocolate Sorbet SF Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,25
+BOOMERANG,Coffee Chocolate Chips Scoop,,120,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Scoops,,0,,1,26
+BOOMERANG,Badam Shake,,180,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,1
+BOOMERANG,Brownie Shake,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,2
+BOOMERANG,Butterscotch Shake,,180,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,3
+BOOMERANG,Chocolate Shake,,192,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,4
+BOOMERANG,Cold coffee Shake,,192,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,5
+BOOMERANG,Lychee Shake,,192,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,6
+BOOMERANG,Mango Shake ,,180,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,7
+BOOMERANG,Nuttella Shake ,,240,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,8
+BOOMERANG,Oreo Shake,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,9
+BOOMERANG,Power Shake,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,10
+BOOMERANG,Strawberry Shake,,180,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,11
+BOOMERANG,Vanilla Shake,,180,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,12
+BOOMERANG,Fantasy Shake,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,13
+BOOMERANG,Verry Berry Shake,,192,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,14
+BOOMERANG,Cookie Dough Shake,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,15
+BOOMERANG,Red Velvet Shake,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,2,16
+BOOMERANG,Berry Pannacotta Jar,,156,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,1
+BOOMERANG,Cholate Mousse Jar ,,156,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,2
+BOOMERANG,Salted Caramel Panna Cotta,,156,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,3
+BOOMERANG,Red Velvet Jar ,,156,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,4
+BOOMERANG,Brownie ,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,5
+BOOMERANG,Nutella Brownie,,108,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,6
+BOOMERANG,Caramel Brownie,,102,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,7
+BOOMERANG,Mud Cake,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,8
+BOOMERANG,Black Forest Cake,,90,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,9
+BOOMERANG,Blueberry Cake,,90,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,10
+BOOMERANG,Choco Fantasy cake ,,90,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,11
+BOOMERANG,Donut,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastry,,0,,3,12
+BOOMERANG,Black Forest  Dream Family Pack,,372,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,4,1
+BOOMERANG,Butter Scotch Caramel Family Pack,,336,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,4,2
+BOOMERANG,Choco Vanilla Family Pack,,252,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,4,3
+BOOMERANG,Dry Fruits Island Family Pack,,372,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,4,4
+BOOMERANG,Fruit & Nut Sundae Family Pack,,372,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,4,5
+BOOMERANG,Nutty Crunch Family Pack,,378,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,4,6
+BOOMERANG,Vanilla Family Pack,,228,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Family Packs,,0,,4,7
+BOOMERANG,Brownie Earth Quake ,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Sundae,,0,,5,1
+BOOMERANG,Golden Ribbon Brownie,,204,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Sundae,,0,,5,2
+BOOMERANG,Nutella Brownie Sundae,,252,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Sundae,,0,,5,3
+BOOMERANG,Mud Cake Sundae ,,210,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Sundae,,0,,5,4
+BOOMERANG,Death by Chocolate DBC,,240,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Sundae,,0,,5,5
+BOOMERANG,Double Fudge Brownie ,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Sundae,,0,,5,6
+BOOMERANG,Choco Lava Sundae,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Choco Sundae,,0,,5,7
+BOOMERANG,Dark Sensation,,198,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,1
+BOOMERANG,Red Velvet Dream,,204,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,2
+BOOMERANG,Jelly Jellos,,144,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,3
+BOOMERANG,Hot Fudge Nut Sundae,,192,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,4
+BOOMERANG,Get Smart,,204,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,5
+BOOMERANG,Love Lichee,,192,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,6
+BOOMERANG,Protein Blast,,210,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,7
+BOOMERANG,Oreo Nutella Sundae,,210,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,8
+BOOMERANG,Fruit Salad,,192,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,9
+BOOMERANG,Black Forest Pleasure,,204,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,10
+BOOMERANG,Special  DRY  Fruits Sundae ,,216,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,11
+BOOMERANG,Mix Fruit Caramel ,,192,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Softies,,0,,6,12
+BOOMERANG,Chocochips Cookie Melt Jar,,186,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Melts,,0,,7,1
+BOOMERANG,Double Fudge Melt Jar,,186,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Melts,,0,,7,2
+BOOMERANG,Red Velvet Melt Jar,,186,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Melts,,0,,7,3
+BOOMERANG,Tall Beauty,,240,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature Softies,,0,,8,1
+BOOMERANG,Black Beauty ,,252,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature Softies,,0,,8,2
+BOOMERANG,Gudbud,,240,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature Softies,,0,,8,3
+BOOMERANG,Titanic Boat ,,240,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature Softies,,0,,8,4
+BOOMERANG,Black Pearl,,240,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Signature Softies,,0,,8,5
+BOOMERANG,Butterscotch Sundae,,108,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,1
+BOOMERANG,Caramel Sundae,,102,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,2
+BOOMERANG,Mango Sundae,,84,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,3
+BOOMERANG,Strawberry Sundae ,,90,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,4
+BOOMERANG,Energy Sundae,,102,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,5
+BOOMERANG,Rasberry Sundae,,90,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,6
+BOOMERANG,Butterscotch Sundae Medium,,180,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,7
+BOOMERANG,Strawberry Sundae Medium,,168,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,8
+BOOMERANG,Mango Sundae Medium,,168,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,9
+BOOMERANG,Choco Classic ,,66,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,10
+BOOMERANG,Choco Éclair ,,90,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,11
+BOOMERANG,Choco Top,,102,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,12
+BOOMERANG,Choco Vanilla Classic,,66,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,13
+BOOMERANG,Crispy Choco Crunch,,96,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,14
+BOOMERANG,Nutty Crunch ,,126,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,15
+BOOMERANG,Vanilla Classic,,54,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,16
+BOOMERANG,Fig O Honey Softy,,102,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,17
+BOOMERANG,Chikki Crunch ,,126,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,18
+BOOMERANG,Thaen Mittai ,,114,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,19
+BOOMERANG,Choco Vanilla Classic Medium,,114,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,20
+BOOMERANG,Vanilla Classic Medium,,108,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,21
+BOOMERANG,Choco Éclair Medium ,,168,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,22
+BOOMERANG,Choco Top Medium,,180,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,23
+BOOMERANG,Nutty Crunch Medium ,,186,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,24
+BOOMERANG,Choco Classic Medium ,,114,,,,5,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Classic Softies,,0,,9,25
+BOOMERANG,Waffle Cone Rainbow ,,36,,,,,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,10,1
+BOOMERANG,Extra Nuts,,36,,,,,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,10,2
+BOOMERANG,Extra Icecream with Shakes,,30,,,,,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,10,3
+BOOMERANG,Gems,,18,,,,,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,10,4
+BOOMERANG,Thaen Mittai  Extra ,,18,,,,,,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Addons,,0,,10,5

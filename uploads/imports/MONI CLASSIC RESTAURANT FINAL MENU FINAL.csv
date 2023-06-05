@@ -1,0 +1,125 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+MONI CLASSIC RESTAURANT,Tandoori Roti,,20,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Naan & Rotis,,0,,1,1
+MONI CLASSIC RESTAURANT,Butter Roti,,25,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Naan & Rotis,,0,,1,2
+MONI CLASSIC RESTAURANT,Garlic Roti,,30,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Naan & Rotis,,0,,1,3
+MONI CLASSIC RESTAURANT,Plain Naan,,25,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Naan & Rotis,,0,,1,4
+MONI CLASSIC RESTAURANT,Butter Naan,,30,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Naan & Rotis,,0,,1,5
+MONI CLASSIC RESTAURANT,Plain Kulcha,,20,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Naan & Rotis,,0,,1,6
+MONI CLASSIC RESTAURANT,Garlic Naan,,35,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Naan & Rotis,,0,,1,7
+MONI CLASSIC RESTAURANT,Butter Kulsa,,25,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Naan & Rotis,,0,,1,8
+MONI CLASSIC RESTAURANT,Paneer Kulsa,,35,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Naan & Rotis,,0,,1,9
+MONI CLASSIC RESTAURANT,Gobi 65,,60,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,1
+MONI CLASSIC RESTAURANT,Mushroom 65,,60,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,2
+MONI CLASSIC RESTAURANT,Chicken Pakoda,,40,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,3
+MONI CLASSIC RESTAURANT,Chicken Boneless,,80,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,4
+MONI CLASSIC RESTAURANT,Chicken Lollipop,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,5
+MONI CLASSIC RESTAURANT,Chicken Pieces,,50,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,6
+MONI CLASSIC RESTAURANT,Pepper Chicken Fry,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,7
+MONI CLASSIC RESTAURANT,Chicken Fry,,80,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,8
+MONI CLASSIC RESTAURANT,Garlic Chicken Fry,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,9
+MONI CLASSIC RESTAURANT,Ginger Chicken Fry,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Drys,,0,,2,10
+MONI CLASSIC RESTAURANT,Veg Noodles,,65,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,1
+MONI CLASSIC RESTAURANT,Schezwan Veg Noodles,,70,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,2
+MONI CLASSIC RESTAURANT,Egg Noodles,,75,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,3
+MONI CLASSIC RESTAURANT,Schezwan Egg Noodles,,80,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,4
+MONI CLASSIC RESTAURANT,Chicken Noodles,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,5
+MONI CLASSIC RESTAURANT,Scezwan Chicken Noodles,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,6
+MONI CLASSIC RESTAURANT,Gobi Noodles,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,7
+MONI CLASSIC RESTAURANT,Paneer Noodles,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,8
+MONI CLASSIC RESTAURANT,Mushroom Noodles,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,9
+MONI CLASSIC RESTAURANT,Mix Noodles,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,10
+MONI CLASSIC RESTAURANT,Gobi Egg Noodles,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Noodles,,0,,3,11
+MONI CLASSIC RESTAURANT,Parotta (1 Set),,30,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,1
+MONI CLASSIC RESTAURANT,Chapati (1Set),,30,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,2
+MONI CLASSIC RESTAURANT,Onion Uthappam,,50,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,3
+MONI CLASSIC RESTAURANT,Onion Dosai,,50,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,4
+MONI CLASSIC RESTAURANT,Plain Dosai,,30,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,5
+MONI CLASSIC RESTAURANT,Kal Dosai,,25,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,6
+MONI CLASSIC RESTAURANT,Egg Dosai,,50,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,7
+MONI CLASSIC RESTAURANT,Special Dosai,,50,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,8
+MONI CLASSIC RESTAURANT,Ghee Roast,,60,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,9
+MONI CLASSIC RESTAURANT,Veg Kottu Parotta,,70,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,10
+MONI CLASSIC RESTAURANT,Egg Kottu Parotta,,80,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,11
+MONI CLASSIC RESTAURANT,Chicken Kottu Parotta,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,12
+MONI CLASSIC RESTAURANT,Sada Veechu,,25,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,13
+MONI CLASSIC RESTAURANT,Egg Veechu,,40,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,14
+MONI CLASSIC RESTAURANT,Egg Parotta,,60,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,15
+MONI CLASSIC RESTAURANT,Egg Chapati,,60,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,16
+MONI CLASSIC RESTAURANT,Egg Lafa,,80,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,17
+MONI CLASSIC RESTAURANT,Chicken Lafa,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,18
+MONI CLASSIC RESTAURANT,Half Bail Kalaki,,20,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,19
+MONI CLASSIC RESTAURANT,Plain Omelet,,20,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,20
+MONI CLASSIC RESTAURANT,Onion Omelet,,20,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Foods,,0,,4,21
+MONI CLASSIC RESTAURANT,Veg Fried Rice,,65,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,1
+MONI CLASSIC RESTAURANT,Schezwan Fried Rice,,70,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,2
+MONI CLASSIC RESTAURANT,Egg Fried Rice,,75,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,3
+MONI CLASSIC RESTAURANT,Schezwan Fried Rice,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,4
+MONI CLASSIC RESTAURANT,Chicken Fried Rice,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,5
+MONI CLASSIC RESTAURANT,Schezwan Chicken Fried Rice,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,6
+MONI CLASSIC RESTAURANT,Gobi Fried Rice,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,7
+MONI CLASSIC RESTAURANT,Paneer Fried Rice,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,8
+MONI CLASSIC RESTAURANT,Mushroom Fried Rice,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,9
+MONI CLASSIC RESTAURANT,Mix Fried Rice,,100,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,10
+MONI CLASSIC RESTAURANT,Ghee Fried Rice,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,11
+MONI CLASSIC RESTAURANT,Jeera Fried Rice,,70,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,12
+MONI CLASSIC RESTAURANT,Kaju Fried Rice,,100,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,13
+MONI CLASSIC RESTAURANT,Gobi Fried Rice,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,14
+MONI CLASSIC RESTAURANT,Paneer Egg Fried Rice,,80,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,15
+MONI CLASSIC RESTAURANT,Mushroom Egg Fried Rice,,80,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Fried Rices,,0,,5,16
+MONI CLASSIC RESTAURANT,Gobi Paneer Masala,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Items,,0,,6,1
+MONI CLASSIC RESTAURANT,Paneer Masala,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Items,,0,,6,2
+MONI CLASSIC RESTAURANT,Kadai Panner Masala,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Items,,0,,6,3
+MONI CLASSIC RESTAURANT,Kaju Paneer,,110,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Items,,0,,6,4
+MONI CLASSIC RESTAURANT,Shaki Paneer ,,110,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Items,,0,,6,5
+MONI CLASSIC RESTAURANT,Kashmiri Paneer ,,110,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Items,,0,,6,6
+MONI CLASSIC RESTAURANT,Paneer Tikka Masala,,120,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Items,,0,,6,7
+MONI CLASSIC RESTAURANT,Mix Veg Curry,,100,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Veg Items,,0,,6,8
+MONI CLASSIC RESTAURANT,Tandoori Full,,360,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,7,1
+MONI CLASSIC RESTAURANT,Tandoori Half,,180,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,7,2
+MONI CLASSIC RESTAURANT,Tandoori Quarter,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,7,3
+MONI CLASSIC RESTAURANT,Afgani Full,,440,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,7,4
+MONI CLASSIC RESTAURANT,Afgani Half,,220,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,7,5
+MONI CLASSIC RESTAURANT,Afgani Quarter,,110,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,7,6
+MONI CLASSIC RESTAURANT,Chilli Chicken Gravy,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,1
+MONI CLASSIC RESTAURANT,Chilli Chicken Dry,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,2
+MONI CLASSIC RESTAURANT,Chicken Manchurian Gravy,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,3
+MONI CLASSIC RESTAURANT,Chicken Manchurian Dry,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,4
+MONI CLASSIC RESTAURANT,Garlic Chicken Gravy,,110,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,5
+MONI CLASSIC RESTAURANT,Garlic Chicken Dry,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,6
+MONI CLASSIC RESTAURANT,Dragon Chicken Dry,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,7
+MONI CLASSIC RESTAURANT,Pepper Chicken Dry,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,8
+MONI CLASSIC RESTAURANT,Gobi Manchurian Gravy,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,9
+MONI CLASSIC RESTAURANT,Gobi Manchurian Dry,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,10
+MONI CLASSIC RESTAURANT,Paneer Manchurian Garvy,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,11
+MONI CLASSIC RESTAURANT,Paneer Manchurian Dry,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,12
+MONI CLASSIC RESTAURANT,Mushroom Manchurian Gravy,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,13
+MONI CLASSIC RESTAURANT,Mushroom Manchurian Dry,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,14
+MONI CLASSIC RESTAURANT,Chilly Paneer Gravy,,100,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,15
+MONI CLASSIC RESTAURANT,Chilly Paneer Dry,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,16
+MONI CLASSIC RESTAURANT,Chilly Gobi Gravy,,100,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,17
+MONI CLASSIC RESTAURANT,Chilly Gobi Dry,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,18
+MONI CLASSIC RESTAURANT,Chilly Mushroom Gravy,,100,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,19
+MONI CLASSIC RESTAURANT,Chilly Mushroom Dry,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,20
+MONI CLASSIC RESTAURANT,Ramba Chicken (1 Pis),,80,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys & Drys,,0,,8,21
+MONI CLASSIC RESTAURANT,Veg Curry,,60,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,22
+MONI CLASSIC RESTAURANT,Egg Curry,,70,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,23
+MONI CLASSIC RESTAURANT,Chicken Masala,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,24
+MONI CLASSIC RESTAURANT,Butter Chicken Masala,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,25
+MONI CLASSIC RESTAURANT,Garlic Chicken Masala,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,26
+MONI CLASSIC RESTAURANT,Pepper Chicken Masala,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,27
+MONI CLASSIC RESTAURANT,Ginger Chicken Masala,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,28
+MONI CLASSIC RESTAURANT,Kadai Chicken Masala,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,29
+MONI CLASSIC RESTAURANT,Chettinadu Chicken ,,110,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,30
+MONI CLASSIC RESTAURANT,Singapore Chicken ,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,31
+MONI CLASSIC RESTAURANT,Hyderabad Chicken,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,32
+MONI CLASSIC RESTAURANT,Mushroom Masala,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,33
+MONI CLASSIC RESTAURANT,Gobi Masala,,80,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,34
+MONI CLASSIC RESTAURANT,Paneer Butter Masala,,90,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,35
+MONI CLASSIC RESTAURANT,Paneer Tikka Masala,,110,,,,0,Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,36
+MONI CLASSIC RESTAURANT,Egg Bhuji,,40,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,8,37
+MONI CLASSIC RESTAURANT,Hariyal Kebab,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,2
+MONI CLASSIC RESTAURANT,Chicken Tikka,,90,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,3
+MONI CLASSIC RESTAURANT,Malai Kebab,,120,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,4
+MONI CLASSIC RESTAURANT,Abraki Kebab,,100,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,5
+MONI CLASSIC RESTAURANT,Lesswiv Kebab,,120,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,6
+MONI CLASSIC RESTAURANT,Chicken Cheese Kebab,,130,,,,0,Non-Veg,6:00Pm,10:30Pm,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,9,7

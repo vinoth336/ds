@@ -1,0 +1,176 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KARUR FOODS,Chicken Biriyani,,90,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,1,,1,1
+KARUR FOODS,Egg Biriyani,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,1,,1,1
+KARUR FOODS,MT Biriyani,,70,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+KARUR FOODS,Veg Fried Rice,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+KARUR FOODS,Egg Fried Rice,,90,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+KARUR FOODS,Chicken Fried Rice,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,1,1
+KARUR FOODS,Schezwan Chicken Fried Rice,,120,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+KARUR FOODS,Schezwan Egg Fried Rice,,110,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,1,,2,1
+KARUR FOODS,Veg Noodles,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+KARUR FOODS,Chicken Noodles,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+KARUR FOODS,Egg Noodles,,90,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+KARUR FOODS,Schezwan Chicken Noodles,,120,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+KARUR FOODS,Schezwan Egg Noodles,,110,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Main Course,,0,,2,1
+KARUR FOODS,BBQ Chicken Quarter ,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Grilled,,0,,2,1
+KARUR FOODS,BBQ Chicken Half,,190,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Grilled,,0,,2,1
+KARUR FOODS,BBQ Chicken Full,,380,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Grilled,,0,,2,1
+KARUR FOODS,Chicekn DrumStick (2pcs),,120,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pieces Of BBQ,,0,,2,1
+KARUR FOODS,Chicekn Thighs (2pcs),,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pieces Of BBQ,,0,,2,1
+KARUR FOODS,Juice Chicken Wings (3 Pcs),,90,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pieces Of BBQ,,0,,2,1
+KARUR FOODS,Chicken Lollipop(3pcs),,90,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pieces Of BBQ,,0,,2,1
+KARUR FOODS,Boneless Chicken Strips (3PCs),,110,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pieces Of BBQ,,0,,2,1
+KARUR FOODS,Grilled Potato (5 Pcs),,50,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg BBQ,,0,,2,1
+KARUR FOODS,Grilled Pineapple (3 Pcs),,50,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg BBQ,,0,,2,1
+KARUR FOODS,Grilled Panner (5 Pcs),,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg BBQ,,0,,2,1
+KARUR FOODS,Veg Rolls (2 Pcs),,65,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls & Wrap,,0,,2,1
+KARUR FOODS,Veg Wrap,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls & Wrap,,0,,2,1
+KARUR FOODS,Veg Panner Wrap,,90,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls & Wrap,,0,,2,1
+KARUR FOODS,Chicken Roll (3 Pcs),,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls & Wrap,,0,,2,1
+KARUR FOODS,BBQ Chicken Wrap,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls & Wrap,,0,,2,1
+KARUR FOODS,Fried Chicken Wrap,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls & Wrap,,0,,2,1
+KARUR FOODS,Egg Wrap,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls & Wrap,,0,,2,1
+KARUR FOODS,Veg Panner Shwarma,,100,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,Chicken Shawarma,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,Chicken Shawarma Plate,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,Peri Peri Chicken Shawarma Roll,,90,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,Peri Peri Chicken Shawarma Plate,,110,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,MexiCan Chicekn Shawarma Roll,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,MexiCan Chicekn Shawarma Plate,,120,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,Schezwan Chicken Shawarma Roll,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,Schezwan Chicken Shawarma Plate,,120,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,Special Chicken Shawarma Roll,,120,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,Special Chicken Shawarma Plate,,140,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarma,,0,,2,1
+KARUR FOODS,2 Pcs Leg ,,170,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,2,1
+KARUR FOODS,5 Pcs Leg (Bucket),,390,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,2,1
+KARUR FOODS,10 Pcs Leg ( Bucket ),,750,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,2,1
+KARUR FOODS,2 pcs Thighs,,150,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Thighs,,0,,2,1
+KARUR FOODS,5 Pcs Thighs,,350,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Thighs,,0,,2,1
+KARUR FOODS,10 Pcs Thighs,,650,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Thighs,,0,,2,1
+KARUR FOODS,Lollipop 3 Pcs,,120,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Lollipop,,0,,2,1
+KARUR FOODS,Lollipop 5 Pcs,,190,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Lollipop,,0,,2,1
+KARUR FOODS,Lollipop 10 Pcs,,400,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Lollipop,,0,,2,1
+KARUR FOODS,Wings 3 Pcs,,99,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Wings,,0,,2,1
+KARUR FOODS,Wings 5 Pcs,,160,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Wings,,0,,2,1
+KARUR FOODS,Wings 10 Pcs,,330,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Wings,,0,,2,1
+KARUR FOODS,Strips 3 Pcs,,110,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Boneless Strips,,0,,2,1
+KARUR FOODS,Strips 5 Pcs,,180,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Boneless Strips,,0,,2,1
+KARUR FOODS,Strips 10 Pcs,,360,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Boneless Strips,,0,,2,1
+KARUR FOODS,Veg Salad,,20,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad,,0,,2,1
+KARUR FOODS,Veg Patty Burger ,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger ,,0,,2,1
+KARUR FOODS,Veg Panner Burger,,90,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger ,,0,,2,1
+KARUR FOODS,Double Veg Patty Burger,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger ,,0,,2,1
+KARUR FOODS,Chicken Patty Burger,,90,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger ,,0,,2,1
+KARUR FOODS,Double Chicken Patty Burger,,120,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger ,,0,,2,1
+KARUR FOODS,Shawarma Burger,,100,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger ,,0,,2,1
+KARUR FOODS,BBQ Chicken Burger,,100,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger ,,0,,2,1
+KARUR FOODS,Fried Chicekn Burger,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger ,,0,,2,1
+KARUR FOODS,Cheesy Tower Burger,,140,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger ,,0,,2,1
+KARUR FOODS,Veg Nuggets 5 Pcs,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Veg Cutlet 2 Pcs,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Veg Fingers 5 Pcs,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Veg Maggi,,50,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Salted French Fries,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Masala French Fries,,75,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Egg Maggi,,60,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Chicken Nuggets,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Chicken Cutlet,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Chicken Popcorn,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Bread Omelette,,60,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Omelette,,20,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Double Egg Omelette,,30,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Chicken Bread Omelette,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+KARUR FOODS,Veg Cheese Sandwich,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,Chilli Cheese Sandwich,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,Panner Cheese Sandwich,,90,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,Mushroom Cheese Sandwich,,90,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,Double Top Veg Cheese Sandwich,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,Egg Cheese Sandwich,,80,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,Shawarma Cheese Sandwich,,110,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,BBQ Chicken Cheese Sandwich,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,Fried Chicken Cheese Sandwich,,110,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,schezwan Chicken Cheese Sandwich,,110,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,Tandoori Mayo Chicken Sandwich,,110,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,2,1
+KARUR FOODS,Veg Momos,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,1
+KARUR FOODS,Mushroom Momos,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,1
+KARUR FOODS,Panner Momos,,90,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,1
+KARUR FOODS,Chicken Momos,,100,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,1
+KARUR FOODS,Fish Momos,,90,,,,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Momos,,0,,2,1
+KARUR FOODS,Vennila  Ice Cream,,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,1
+KARUR FOODS,Stawberry Ice Cream,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,1
+KARUR FOODS,Pista Ice Cream,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,1
+KARUR FOODS,Mango Ice Cream,,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,1
+KARUR FOODS,Choclate Ice Cream,,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,1
+KARUR FOODS,ButterScotch Ice Cream,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,1
+KARUR FOODS,Black Currant Ice Cream,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,1
+KARUR FOODS,Puttu Ice Cream,,290,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,1
+KARUR FOODS,White Mayo,,15,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mayonnaise,,0,,2,1
+KARUR FOODS,Peri Peri Mayo,,20,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mayonnaise,,0,,2,1
+KARUR FOODS,Tandoori Mayo,,20,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mayonnaise,,0,,2,1
+KARUR FOODS,Mint Mojito,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,2,1
+KARUR FOODS,Lime Mint Mojito,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,2,1
+KARUR FOODS,Strawberry Mojito,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,2,1
+KARUR FOODS,BlueBerry Mojito,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,2,1
+KARUR FOODS,Green Apple Mojito,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,2,1
+KARUR FOODS,Kiwi Mojito,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,2,1
+KARUR FOODS,Orange Mojito,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,2,1
+KARUR FOODS,Black Current Mojito,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito,,0,,2,1
+KARUR FOODS,Mixed Berry Shake,,100,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Nutto Coffee Shake,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Bubblegum Shake,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,ButterScotch Shake,,120,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Mango Shake,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Strawberry Shake,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Choclate Shake,,120,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Choco Oreo Shake,,130,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Dry Fruits Shake,,130,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Black Current Shake,,120,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Sharjah Shake,,120,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Apple Dates Shake,,100,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Banna Nuts Shake,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,Triple Treat Shake,,100,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Creemy Signature Shake,,0,,2,1
+KARUR FOODS,MIxed Berry MilkShake,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Nutto Coffee MilkShake,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Bubblegum MilkShake,,90,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,ButterScotch Milk Shake,,90,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Mango  Milkshake,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Strawberry MilkShake,,85,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Choclate MilkShake,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Choco Oreo MilkShake,,90,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Britannia MilkShake,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,KitKat MIlkShake,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Snickers MIlkShake,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,DairyMIlk MilkShake,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Banana MilkShake,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Apple MIlkShake,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Rosemilk MilkShake,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Badam MilkShake,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Boost MIlkShake,,70,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+KARUR FOODS,Apple Juice,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+KARUR FOODS,Awesome Orange Juice,,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+KARUR FOODS,Majestic Mosambi Juice,,50,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+KARUR FOODS,WaterMilon Juice,,50,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+KARUR FOODS,Master Musk Mrlon Juice,,50,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+KARUR FOODS,Amla Juice,,40,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+KARUR FOODS,Pomogranate Juice,,80,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+KARUR FOODS,Pine Fine Juice,,60,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+KARUR FOODS,Guava Juice,,50,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,2,1
+KARUR FOODS,Vannila Falooda,,100,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Strawberry Falooda,,100,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Choclate Falooda,,120,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Mango Falooda,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Butter Scoth Falooda,,130,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Rose Falooda,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Triple Top Falooda,,140,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Tn47 Falooda,,120,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Dry Fruits Falooda,,150,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Pista Falooda,,120,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Mixed Falooda,,140,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Black Diamond Falooda,,150,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Oreo Falooda,,110,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Faloodas,,0,,2,1
+KARUR FOODS,Black Current Monster Shake,,160,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shake,,0,,2,1
+KARUR FOODS,Dry Fruit Monster Shake,,160,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shake,,0,,2,1
+KARUR FOODS,Choclate Candy Monster Shake,,160,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shake,,0,,2,1
+KARUR FOODS,Oreo Cruser Monster Shake,,160,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shake,,0,,2,1
+KARUR FOODS,Butter Scotch Cruser Shake,,160,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shake,,0,,2,1
+KARUR FOODS,Vannila Vibe Shake,,160,,,,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Monster Shake,,0,,2,1

@@ -1,0 +1,4 @@
+"Order Id","Cust Id","Cust Name","Boy Name","Cust Phone","Res Name","Item Total","Offer Price","Delivery Charge","Packaging Charge","Grand Total","Date and Time","Order details",MOP,"Delivery Type",status,"Cust Address"
+116674,60002079,"Rakesh Mohanty",RVigneshKumar,9940011381,"THE VELLORE KITCHEN",761.25,0,10,36.25,808,2018-10-08,,,cod,"Order Finished","CMC HOSPITAL CAMPUS, Pillayar Koil St, Thottapalayam, Vellore, Tamil Nadu 632004, India"
+116643,60002266,"Stuti Chakraborty",RVigneshKumar,9033027597,"HART LOUNGE",180,0,60,5,245,2018-10-08,,"Debit Card",ccavenue,"Order Finished","Christian Medical college campus, Bagayam, Tamil Nadu 632002, India"
+116618,60002272,"Avica Atri",RVigneshKumar,9843234036,"RK TANDOORI",377,0,25,35,437,2018-10-08,,,cod,"Order Finished","Thorapadi - Bagayam Rd, Bagayam, Vellore, Tamil Nadu 632002, India"

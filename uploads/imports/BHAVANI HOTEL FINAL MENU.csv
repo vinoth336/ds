@@ -1,0 +1,53 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SRI BHAVANI HOTEL,Special Bun Parotta,,20,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+SRI BHAVANI HOTEL,Idly (2 Pcs),,15,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+SRI BHAVANI HOTEL,Idly Kothu,,40,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,3
+SRI BHAVANI HOTEL,Idiyappam (2 Pcs),,20,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,4
+SRI BHAVANI HOTEL,Plain Dosa,,15,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,5
+SRI BHAVANI HOTEL,Mini Vattam Dosa,,15,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,6
+SRI BHAVANI HOTEL,Roast,,30,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,7
+SRI BHAVANI HOTEL,Nei Roast,,50,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,8
+SRI BHAVANI HOTEL,Podi Roast,,40,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,9
+SRI BHAVANI HOTEL,Podi Dosa,,25,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,10
+SRI BHAVANI HOTEL,Onion Roast,,40,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,11
+SRI BHAVANI HOTEL,Onion Uthappam,,40,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,12
+SRI BHAVANI HOTEL,Garlic Roast,,40,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,13
+SRI BHAVANI HOTEL,Masala Roast,,40,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,14
+SRI BHAVANI HOTEL,Rava Roast,,40,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,15
+SRI BHAVANI HOTEL,Ragi Dosa,,30,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,16
+SRI BHAVANI HOTEL,Wheat Dosa,,30,,,,0,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,17
+SRI BHAVANI HOTEL,Egg Dosa,,25,,,,0,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,18
+SRI BHAVANI HOTEL,Egg Roast,,50,,,,0,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,19
+SRI BHAVANI HOTEL,Egg Lappa,,60,,,,0,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,20
+SRI BHAVANI HOTEL,Veg Limitted Meals,,40,,,,0,Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,1
+SRI BHAVANI HOTEL,Veg Full Meals,,60,,,,0,Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,2
+SRI BHAVANI HOTEL,Non Veg Limitted Meals,,40,,,,0,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,3
+SRI BHAVANI HOTEL,Non Veg Full Meals,,60,,,,0,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,4
+SRI BHAVANI HOTEL,Mutton Briyani,With White Rice & Rasam,130,,,,0,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Briyani,,1,,5,1
+SRI BHAVANI HOTEL,Chicken Briyani,With White Rice & Rasam,70,,,,0,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,2
+SRI BHAVANI HOTEL,Mt Briyani,,40,,,,0,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,3
+SRI BHAVANI HOTEL,Mutton Chukka,,80,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,1
+SRI BHAVANI HOTEL,Mutton Semi Gravy,,80,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,2
+SRI BHAVANI HOTEL,Chicken Chukka,,80,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,3
+SRI BHAVANI HOTEL,Chicken Semi Gravy,,60,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,4
+SRI BHAVANI HOTEL,Chicken Fry,,60,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+SRI BHAVANI HOTEL,Mutton Fry,,80,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+SRI BHAVANI HOTEL,Chicken 65 Bone,,30,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+SRI BHAVANI HOTEL,Chicken 65 Boneless,,40,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+SRI BHAVANI HOTEL,Nattu Kozhi Varuval,,80,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Starters,,1,,2,5
+SRI BHAVANI HOTEL,Kudal,,80,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Starters,,1,,2,6
+SRI BHAVANI HOTEL,Fish Fry,,30,,,,0,Non Veg,,,,,12:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Starters,,1,,2,7
+SRI BHAVANI HOTEL,Veg Kotthu Parotta,,50,,,,0,Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta's,,0,,6,1
+SRI BHAVANI HOTEL,Egg Kotthu Parota,,60,,,,0,Non Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta's,,0,,6,2
+SRI BHAVANI HOTEL,Chicken Kotthu Parotta,,110,,,,0,Non Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta's,,0,,6,3
+SRI BHAVANI HOTEL,Mutton Kotthu Parotta,,140,,,,0,Non Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta's,,0,,6,4
+SRI BHAVANI HOTEL,Parotta (2 Pcs),,24,,,,0,Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta's,,0,,6,5
+SRI BHAVANI HOTEL,Chappathi (2 Pcs),,30,,,,0,Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parotta's,,0,,6,6
+SRI BHAVANI HOTEL,Sambar Rice,,30,,,,0,Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,8,1
+SRI BHAVANI HOTEL,Tomato Rice,,30,,,,0,Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,8,2
+SRI BHAVANI HOTEL,Curd Rice,,30,,,,0,Veg,,,,,12:30PM,04:00PM,,,"1,2,3,4,5,6,7",1,,Rice,,0,,8,3
+SRI BHAVANI HOTEL,Omlette,,15,,,,0,Non Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,3,1
+SRI BHAVANI HOTEL,Full Boil,,10,,,,0,Non Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,3,2
+SRI BHAVANI HOTEL,Half Boil,,10,,,,0,Non Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,3,3
+SRI BHAVANI HOTEL,Kalakki,,10,,,,0,Non Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,3,4
+SRI BHAVANI HOTEL,Muttai Poriyal,,25,,,,0,Non Veg,,,,,11:00PM,04:00PM,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,3,5

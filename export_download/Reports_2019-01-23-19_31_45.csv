@@ -1,0 +1,4 @@
+S.No,"Order Id","Res Name","Boy Name","Item Total","Offer Price","Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
+1,VLR131787,"MEAT & EAT","GANESH VLR",429,0,36,7,472,"01/19/2019 16:33:37",cash,cod,"Order Finished","1xFiery Chota Chicken Bucket 4Pcs-335,1xChocolate Shake-94"
+2,VLR131485,"MEAT & EAT","MURUGAN VLR",177,0,75,4,256,"01/17/2019 19:32:43",cash,cod,"Order Finished","1xHot Choco Lava Cake-83,1xCheesy French Fries-94"
+3,VLR131270,"MEAT & EAT","MURUGAN VLR",209,0,12,5,226,"01/16/2019 13:27:38",Wallet,ccavenue,"Order Finished","1xChicken Cheese Burst Burger Meal-209"

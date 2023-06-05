@@ -1,0 +1,49 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SRI YAZHINI HOME MESS,Veg Meals,,130,,,,0,Veg,12:00PM,03:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,1
+SRI YAZHINI HOME MESS,Non Veg Meals,,170,,,,0,Non Veg,12:00PM,03:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,3
+SRI YAZHINI HOME MESS,Chicken Biriyani,,90,,,,0,Non Veg,11:30AM,03:50PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,4
+SRI YAZHINI HOME MESS,Chicken 65 Biriyani,,100,,,,0,Non Veg,11:30AM,03:50PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,5
+SRI YAZHINI HOME MESS,Plain Biriyani,,70,,,,0,Non Veg,11:30AM,03:50PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,6
+SRI YAZHINI HOME MESS,Plain Dosa,,35,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,7
+SRI YAZHINI HOME MESS,Garlic Dosa,,60,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,9
+SRI YAZHINI HOME MESS,Puthina Dosa,,60,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,10
+SRI YAZHINI HOME MESS,Podi Dosa,,60,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,11
+SRI YAZHINI HOME MESS,Chappathi (1 set),,50,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,12
+SRI YAZHINI HOME MESS,Poori (1 Set),,50,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,13
+SRI YAZHINI HOME MESS,Egg Dosa,,60,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,14
+SRI YAZHINI HOME MESS,Masal Dosa,,60,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,15
+SRI YAZHINI HOME MESS,Onion Utthappam,,60,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,17
+SRI YAZHINI HOME MESS,Utthappam,,50,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,18
+SRI YAZHINI HOME MESS,Omelete,,25,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg items,,0,,4,7
+SRI YAZHINI HOME MESS,Egg Poriyal,,35,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg items,,0,,4,2
+SRI YAZHINI HOME MESS,Full Boil,,15,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg items,,0,,4,3
+SRI YAZHINI HOME MESS,Filte Coffee,,50,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tea,,0,,4,4
+SRI YAZHINI HOME MESS,Ginger Tea,,45,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tea,,0,,4,5
+SRI YAZHINI HOME MESS,Valakka Bajji (2 pcs),,20,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,9
+SRI YAZHINI HOME MESS,Egg Bonda (2 pcs),,40,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,1
+SRI YAZHINI HOME MESS,Bread Omelete,,80,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,2
+SRI YAZHINI HOME MESS,Cheese Bread Omelete,,100,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,4,3
+SRI YAZHINI HOME MESS,Katla Fish,,70,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Staters,,0,,4,4
+SRI YAZHINI HOME MESS,Chicken Leg Pc,,80,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Staters,,0,,4,5
+SRI YAZHINI HOME MESS,Karurvaadu Thokku,,85,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Staters,,0,,4,6
+SRI YAZHINI HOME MESS,Chicken Varuval,,80,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Staters,,0,,4,1
+SRI YAZHINI HOME MESS,Hot Maggi Noodles,,90,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Noodles,,0,,4,2
+SRI YAZHINI HOME MESS,Egg Maggi Noodles,,100,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Noodles,,0,,4,3
+SRI YAZHINI HOME MESS,Califlower Gravy,,80,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,4,4
+SRI YAZHINI HOME MESS,Mushroom Gravy,,100,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,5,5
+SRI YAZHINI HOME MESS,Panner Butter Masala,,100,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,5,6
+SRI YAZHINI HOME MESS,Chicken Chilli,,60,,,,0,Non Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Staters,,0,,5,7
+SRI YAZHINI HOME MESS,Califlower Chilli,,60,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Staters,,0,,5,8
+SRI YAZHINI HOME MESS,Panner Chillli,,70,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Staters,,0,,5,10
+SRI YAZHINI HOME MESS,Sambar Sadam,,75,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,5,11
+SRI YAZHINI HOME MESS,Lemon Rice,,75,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,5,12
+SRI YAZHINI HOME MESS,Tomato Rice,,75,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,5,13
+SRI YAZHINI HOME MESS,Curd Rice,,70,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,5,1
+SRI YAZHINI HOME MESS,Mixture (1/4kg),,80,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,6,2
+SRI YAZHINI HOME MESS,Mixture (1/2kg),,140,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,6,3
+SRI YAZHINI HOME MESS,Mixture (1kg),,270,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,6,4
+SRI YAZHINI HOME MESS,Adhurasam (10pcs),,120,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,6,1
+SRI YAZHINI HOME MESS,Laddu (1/4kg),,90,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,6,2
+SRI YAZHINI HOME MESS,Laddu (1/2kg),,160,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,6,3
+SRI YAZHINI HOME MESS,Laddu (1kg),,310,,,,0,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,6,4
+SRI YAZHINI HOME MESS,Murukku (10pcs),,120,,,,5,Veg,08:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,6,5

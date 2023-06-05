@@ -1,0 +1,534 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+RASNA FAMILY RESTAURANT,Chicken Briyani,,168,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,1
+RASNA FAMILY RESTAURANT,Mutton Briyani,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,2
+RASNA FAMILY RESTAURANT,Fish Briyani,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,3
+RASNA FAMILY RESTAURANT,Prawn Briyani,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,4
+RASNA FAMILY RESTAURANT,Kaadai Briyani,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,5
+RASNA FAMILY RESTAURANT,Egg Briyani,,136.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,6
+RASNA FAMILY RESTAURANT,Plain Briyani,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,7
+RASNA FAMILY RESTAURANT,Special Chicken Briyani,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,8
+RASNA FAMILY RESTAURANT,Special Mutton Briyani,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,9
+RASNA FAMILY RESTAURANT,Chicken Mughal Briyani,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,10
+RASNA FAMILY RESTAURANT,Mutton Mughal Briyani,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,11
+RASNA FAMILY RESTAURANT,Hydrabadi Chicken Briyani,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,12
+RASNA FAMILY RESTAURANT,Hydrabadi Mutton Briyani,,262.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,13
+RASNA FAMILY RESTAURANT,Tandoori Chicken Briyani,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,5,14
+RASNA FAMILY RESTAURANT,Chicken Curry Gravy Gravy,,178.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,1
+RASNA FAMILY RESTAURANT,Chicken Kurma Gravy,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,2
+RASNA FAMILY RESTAURANT,Chicken Masala Gravy,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,3
+RASNA FAMILY RESTAURANT,Chicken Pepper Masala Gravy,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,4
+RASNA FAMILY RESTAURANT,Chettinadu Chicken Gravy,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,5
+RASNA FAMILY RESTAURANT,Kadai Chicken Gravy,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,6
+RASNA FAMILY RESTAURANT,Hydrabadi Chicken Gravy,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,7
+RASNA FAMILY RESTAURANT,Andhra Chicken Gravy,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,8
+RASNA FAMILY RESTAURANT,Punjabi Chicken Gravy,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,9
+RASNA FAMILY RESTAURANT,Kerala Chicken  Gravy,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,10
+RASNA FAMILY RESTAURANT,Butter Chicken Masala Gravy,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,11
+RASNA FAMILY RESTAURANT,Chicken Mirchi Masala Gravy,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,12
+RASNA FAMILY RESTAURANT,Chicken Tikka Masala Gravy,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,13
+RASNA FAMILY RESTAURANT,Chicken Mughlai Gravy,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,14
+RASNA FAMILY RESTAURANT,Chicken Dopiaza Gravy,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,15
+RASNA FAMILY RESTAURANT,Chicken Vindaloo Gravy,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,16
+RASNA FAMILY RESTAURANT,Chicken Shahi Kurma Gravy,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,17
+RASNA FAMILY RESTAURANT,Chicken Makhani Gravy,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,18
+RASNA FAMILY RESTAURANT,Chicken Palak Gravy,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,19
+RASNA FAMILY RESTAURANT,Chilli Chicken Gravy,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,20
+RASNA FAMILY RESTAURANT,Chicken Manchurian Gravy,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,21
+RASNA FAMILY RESTAURANT,Garlic Chicken Gravy,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,22
+RASNA FAMILY RESTAURANT,Ginger Chicken Gravy,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,23
+RASNA FAMILY RESTAURANT,Schezwan Chicken Gravy,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Gravys,,0,,6,24
+RASNA FAMILY RESTAURANT,Chilli Gobi Gravy,,136.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys,,0,,31,1
+RASNA FAMILY RESTAURANT,Gobi Manchurian Gravy,,136.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys,,0,,31,2
+RASNA FAMILY RESTAURANT,Chilli Paneer Gravy,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys,,0,,31,3
+RASNA FAMILY RESTAURANT,Paneer Manchurian Gravy,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys,,0,,31,4
+RASNA FAMILY RESTAURANT,Chilli Mushroom Gravy,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys,,0,,31,5
+RASNA FAMILY RESTAURANT,Mushroom Manchurian  Gravy,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys,,0,,31,6
+RASNA FAMILY RESTAURANT,Veg Manchurian  Gravy,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys,,0,,31,7
+RASNA FAMILY RESTAURANT,Chilli Baby Corn  Gravy,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys,,0,,31,8
+RASNA FAMILY RESTAURANT,Baby Corn Manchurian  Gravy,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Gravys,,0,,31,9
+RASNA FAMILY RESTAURANT,American Chopsuey (Veg),,199.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chopsueys,,0,,7,1
+RASNA FAMILY RESTAURANT,American Chopsuey (Non Veg),,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chopsueys,,0,,7,2
+RASNA FAMILY RESTAURANT,Chinese Chopsuey (Veg),,199.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chopsueys,,0,,7,3
+RASNA FAMILY RESTAURANT,Chinese Chopsuey (Non Veg),,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chopsueys,,0,,7,4
+RASNA FAMILY RESTAURANT,Schezwan Chopsuey (Veg),,210,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chopsueys,,0,,7,5
+RASNA FAMILY RESTAURANT,Schezwan Chopsuey (Non Veg),,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chopsueys,,0,,7,6
+RASNA FAMILY RESTAURANT,American Mix Chopsuey,,231,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chopsueys,,0,,7,7
+RASNA FAMILY RESTAURANT,Chinese Mix Chopsuey,,231,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chopsueys,,0,,7,8
+RASNA FAMILY RESTAURANT,Schezwan Mix Chopsuey,,241.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chopsueys,,0,,7,9
+RASNA FAMILY RESTAURANT,Blueberry Crusher,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,8,1
+RASNA FAMILY RESTAURANT,Litchi Crusher,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,8,2
+RASNA FAMILY RESTAURANT,Green Apple Crusher,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,8,3
+RASNA FAMILY RESTAURANT,Mango Crusher,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,8,4
+RASNA FAMILY RESTAURANT,Orange Crusher,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Crushers,,0,,8,5
+RASNA FAMILY RESTAURANT,Egg Masala,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Specials,,0,,9,6
+RASNA FAMILY RESTAURANT,Egg Pepper Masala,,115.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Specials,,0,,9,7
+RASNA FAMILY RESTAURANT,Chilli Egg Dry,,126,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Specials,,0,,9,8
+RASNA FAMILY RESTAURANT,Egg Burji,,63,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Specials,,0,,9,9
+RASNA FAMILY RESTAURANT,Egg Omlet,,42,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Specials,,0,,9,10
+RASNA FAMILY RESTAURANT,Boiled Egg (2 Pcs),,31.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Specials,,0,,9,11
+RASNA FAMILY RESTAURANT,Veg Fried Rice,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,1
+RASNA FAMILY RESTAURANT,Paneer Fried Rice,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,2
+RASNA FAMILY RESTAURANT,Mushroom Fried Rice,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,3
+RASNA FAMILY RESTAURANT,Gobi Fried Rice,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,4
+RASNA FAMILY RESTAURANT,Chicken Fried Rice,,157.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,5
+RASNA FAMILY RESTAURANT,Mutton Fried Rice,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,6
+RASNA FAMILY RESTAURANT,Prawn Fried Rice,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,7
+RASNA FAMILY RESTAURANT,Egg Fried Rice,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,8
+RASNA FAMILY RESTAURANT,Mix Fried Rice,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,9
+RASNA FAMILY RESTAURANT,Shanghai Chicken Fried Rice,,168,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,10
+RASNA FAMILY RESTAURANT,Shanghai Mutton Fried Rice,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,11
+RASNA FAMILY RESTAURANT,Schezwan Chicken Fried Rice,,168,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,12
+RASNA FAMILY RESTAURANT,Schezwan Mutton Fried Rice,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,13
+RASNA FAMILY RESTAURANT,Schezwan Prawn Fried Rice,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,14
+RASNA FAMILY RESTAURANT,Schezwan Egg Fried Rice,,157.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,15
+RASNA FAMILY RESTAURANT,Schezwan Veg Fried Rice,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,16
+RASNA FAMILY RESTAURANT,Shcezwan Mix Fried Rice,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,17
+RASNA FAMILY RESTAURANT,Chicken & Mushroom Fried Rice,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,18
+RASNA FAMILY RESTAURANT,Singapore Chicken Fried Rice,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,19
+RASNA FAMILY RESTAURANT,Singapore Mutton Fried Rice,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,20
+RASNA FAMILY RESTAURANT,Tripple Chicken Fried Rice,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,21
+RASNA FAMILY RESTAURANT,Garlic Chicken Fried Rice,,168,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,22
+RASNA FAMILY RESTAURANT,Garlic Mutton Fried Rice,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,10,23
+RASNA FAMILY RESTAURANT,Fruit Salad,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Salad & Faloodas,,0,,11,1
+RASNA FAMILY RESTAURANT,Fruit Salad With Ice Cream,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Salad & Faloodas,,0,,11,2
+RASNA FAMILY RESTAURANT,Fruit Salad With Nuts,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Salad & Faloodas,,0,,11,3
+RASNA FAMILY RESTAURANT,Fruit Salad With Honey,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Salad & Faloodas,,0,,11,4
+RASNA FAMILY RESTAURANT,Honey Falooda,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Salad & Faloodas,,0,,11,5
+RASNA FAMILY RESTAURANT,Mini Falooda,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Salad & Faloodas,,0,,11,6
+RASNA FAMILY RESTAURANT,Mango Falooda,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Salad & Faloodas,,0,,11,7
+RASNA FAMILY RESTAURANT,Chocolate Falooda,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Salad & Faloodas,,0,,11,8
+RASNA FAMILY RESTAURANT,Rasna Royal Falooda,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Salad & Faloodas,,0,,11,9
+RASNA FAMILY RESTAURANT,Mango Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,1
+RASNA FAMILY RESTAURANT,Chikku Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,2
+RASNA FAMILY RESTAURANT,Pappaya Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,3
+RASNA FAMILY RESTAURANT,Anjeer Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,4
+RASNA FAMILY RESTAURANT,Apple Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,5
+RASNA FAMILY RESTAURANT,Dates Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,6
+RASNA FAMILY RESTAURANT,Shamam Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,7
+RASNA FAMILY RESTAURANT,Banana Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,8
+RASNA FAMILY RESTAURANT,Kiwi Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,9
+RASNA FAMILY RESTAURANT,Pista Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,10
+RASNA FAMILY RESTAURANT,Badam Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,11
+RASNA FAMILY RESTAURANT,Rose Milk Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,12
+RASNA FAMILY RESTAURANT,Butter Scotch Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,13
+RASNA FAMILY RESTAURANT,Oreo Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,14
+RASNA FAMILY RESTAURANT,Cool Boost Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,15
+RASNA FAMILY RESTAURANT,Cool Horlicks Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,16
+RASNA FAMILY RESTAURANT,Black Current Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,17
+RASNA FAMILY RESTAURANT,Choco-Banana Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,18
+RASNA FAMILY RESTAURANT,Cool Coffee Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,19
+RASNA FAMILY RESTAURANT,Cherry Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,20
+RASNA FAMILY RESTAURANT,Dragon Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,21
+RASNA FAMILY RESTAURANT,Chocolate Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,22
+RASNA FAMILY RESTAURANT,Sharjah Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,23
+RASNA FAMILY RESTAURANT,Vanila Galaxy,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,24
+RASNA FAMILY RESTAURANT,Strawberry Galaxy,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,25
+RASNA FAMILY RESTAURANT,Avocado Galaxy,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,26
+RASNA FAMILY RESTAURANT,Dry Fruit Galaxy,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,27
+RASNA FAMILY RESTAURANT,Galaxy,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,28
+RASNA FAMILY RESTAURANT,Snickers Galaxy,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,29
+RASNA FAMILY RESTAURANT,Bounty Galaxy,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,30
+RASNA FAMILY RESTAURANT,Kit-Kat Galaxy,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Galaxies,,0,,12,31
+RASNA FAMILY RESTAURANT,Mix Veg Curry Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,1
+RASNA FAMILY RESTAURANT,Green Peas Masala Gravy,,126,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,2
+RASNA FAMILY RESTAURANT,Chana Masala Gravy,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,3
+RASNA FAMILY RESTAURANT,Aloo Gobi Masala Gravy,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,4
+RASNA FAMILY RESTAURANT,Aloo Mutter Masla Gravy,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,5
+RASNA FAMILY RESTAURANT,Aloo Palak Gravy,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,6
+RASNA FAMILY RESTAURANT,Paneer Masala Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,7
+RASNA FAMILY RESTAURANT,Paneer Butter Masala Gravy,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,8
+RASNA FAMILY RESTAURANT,Paneer Mutter Masala Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,9
+RASNA FAMILY RESTAURANT,Paneer Pasanda Gravy,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,10
+RASNA FAMILY RESTAURANT,Palak Paneer Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,11
+RASNA FAMILY RESTAURANT,Kadai Paneer Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,12
+RASNA FAMILY RESTAURANT,Paneer Tikka Masala Gravy,,189,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,13
+RASNA FAMILY RESTAURANT,Mushroom Masala Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,14
+RASNA FAMILY RESTAURANT,Mushroom Pepper Masala Gravy,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,15
+RASNA FAMILY RESTAURANT,Mushroom Mutter Masala Gravy,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,16
+RASNA FAMILY RESTAURANT,Kadai Mushroom Gravy,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,17
+RASNA FAMILY RESTAURANT,Gobi Masala Gravy,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,18
+RASNA FAMILY RESTAURANT,Gobi Capsicum Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,19
+RASNA FAMILY RESTAURANT,Kadai Veg Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,20
+RASNA FAMILY RESTAURANT,Veg Kolhapuri Gravy,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,21
+RASNA FAMILY RESTAURANT,Dal Fry Gravy,,126,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,22
+RASNA FAMILY RESTAURANT,Dal Tadka Gravy,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,23
+RASNA FAMILY RESTAURANT,Dal Makhani Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,24
+RASNA FAMILY RESTAURANT,Malai Kofta Gravy,,168,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,25
+RASNA FAMILY RESTAURANT,Veg Kofta Gravy,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,26
+RASNA FAMILY RESTAURANT,Cashew Nut Masala Gravy,,168,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravys,,0,,13,27
+RASNA FAMILY RESTAURANT,Grill Chicken (Quarter),,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,1
+RASNA FAMILY RESTAURANT,Grill Chicken (Half),,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,2
+RASNA FAMILY RESTAURANT,Grill Chicken (Full),,367.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,3
+RASNA FAMILY RESTAURANT,Bbq Chicken (Quarter),,115.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,4
+RASNA FAMILY RESTAURANT,Bbq Chicken (Half),,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,5
+RASNA FAMILY RESTAURANT,Bbq Chicken (Full),,367.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,6
+RASNA FAMILY RESTAURANT,Al-Faham Bbq (Quarter),,115.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,7
+RASNA FAMILY RESTAURANT,Al-Faham Bbq (Half),,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,8
+RASNA FAMILY RESTAURANT,Al-Faham Bbq (Full),,378,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,9
+RASNA FAMILY RESTAURANT,Pepper Bbq (Quarter),,126,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,10
+RASNA FAMILY RESTAURANT,Pepper Bbq (Half),,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,11
+RASNA FAMILY RESTAURANT,Pepper Bbq (Full),,399,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,12
+RASNA FAMILY RESTAURANT,Afghani Bbq (Quarter),,115.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,13
+RASNA FAMILY RESTAURANT,Afghani Bbq (Half),,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,14
+RASNA FAMILY RESTAURANT,Afghani Bbq (Full),,388.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill & Bbq,,0,,14,15
+RASNA FAMILY RESTAURANT,Strawberry Ice Cream,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,15,1
+RASNA FAMILY RESTAURANT,Vannila Ice Cream,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,15,2
+RASNA FAMILY RESTAURANT,Pista Ice Cream,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,15,3
+RASNA FAMILY RESTAURANT,Butter Scotch Ice Cream,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,15,4
+RASNA FAMILY RESTAURANT,Chocolate Ice Cream,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,15,5
+RASNA FAMILY RESTAURANT,Mango Ice Cream,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,15,6
+RASNA FAMILY RESTAURANT,Black Current Ice Cream,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,15,7
+RASNA FAMILY RESTAURANT,Rotti,,26.25,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,1
+RASNA FAMILY RESTAURANT,Butter Rotti,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,2
+RASNA FAMILY RESTAURANT,Naan,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,3
+RASNA FAMILY RESTAURANT,Butter Naan,,36.75,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,4
+RASNA FAMILY RESTAURANT,Garlic Naan,,42,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,5
+RASNA FAMILY RESTAURANT,Keema Naan,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,6
+RASNA FAMILY RESTAURANT,Kashmiri Naan,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,7
+RASNA FAMILY RESTAURANT,Kulcha,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,8
+RASNA FAMILY RESTAURANT,Butter Kulcha,,42,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,9
+RASNA FAMILY RESTAURANT,Masala Kulcha,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,10
+RASNA FAMILY RESTAURANT,Onion Kulcha,,36.75,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,11
+RASNA FAMILY RESTAURANT,Paneer Kulcha,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,12
+RASNA FAMILY RESTAURANT,Wheat Paratha,,36.75,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,13
+RASNA FAMILY RESTAURANT,Aloo Paratha ,,42,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,14
+RASNA FAMILY RESTAURANT,Pudina Paratha,,42,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,15
+RASNA FAMILY RESTAURANT,Kuboos,,15.75,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,16,16
+RASNA FAMILY RESTAURANT,Lemon Juice,,26.25,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,1
+RASNA FAMILY RESTAURANT,Special Lemon Juice,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,2
+RASNA FAMILY RESTAURANT,Grape Lemon,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,3
+RASNA FAMILY RESTAURANT,Pineapple Lemon,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,4
+RASNA FAMILY RESTAURANT,Ginger Lemon,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,5
+RASNA FAMILY RESTAURANT,Mint Lemon,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,6
+RASNA FAMILY RESTAURANT,Lemon Soda,,36.75,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,7
+RASNA FAMILY RESTAURANT,Magic Lemon,,42,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,8
+RASNA FAMILY RESTAURANT,Nannari Sarbath Juice,,36.75,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,9
+RASNA FAMILY RESTAURANT,Nannari Soda,,42,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,10
+RASNA FAMILY RESTAURANT,Carrot Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,11
+RASNA FAMILY RESTAURANT,Mosambi Juice,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,12
+RASNA FAMILY RESTAURANT,Orange Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,13
+RASNA FAMILY RESTAURANT,Pineapple Juice,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,14
+RASNA FAMILY RESTAURANT,Grape Juice,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,15
+RASNA FAMILY RESTAURANT,Avocado Juice,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,16
+RASNA FAMILY RESTAURANT,Water Melon,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,17
+RASNA FAMILY RESTAURANT,Mango Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,18
+RASNA FAMILY RESTAURANT,Chikku Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,19
+RASNA FAMILY RESTAURANT,Papaya Juice,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,20
+RASNA FAMILY RESTAURANT,Anjeer Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,21
+RASNA FAMILY RESTAURANT,Apple Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,22
+RASNA FAMILY RESTAURANT,Pomogranate Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,23
+RASNA FAMILY RESTAURANT,Dates Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,24
+RASNA FAMILY RESTAURANT,Shamam Juice,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,25
+RASNA FAMILY RESTAURANT,Banana Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,26
+RASNA FAMILY RESTAURANT,Kiwi Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,27
+RASNA FAMILY RESTAURANT,Strawberry Juice,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,28
+RASNA FAMILY RESTAURANT,Custard Apple Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,29
+RASNA FAMILY RESTAURANT,Amla Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,30
+RASNA FAMILY RESTAURANT,Beetroot Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,31
+RASNA FAMILY RESTAURANT,Dragon Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,32
+RASNA FAMILY RESTAURANT,Kuyya Juice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,33
+RASNA FAMILY RESTAURANT,Cucumber Juice,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,34
+RASNA FAMILY RESTAURANT,Badam Milk,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,35
+RASNA FAMILY RESTAURANT,Rose Milk,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,36
+RASNA FAMILY RESTAURANT,Pista Milk,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,17,37
+RASNA FAMILY RESTAURANT,Kaadai 65,,157.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,18,1
+RASNA FAMILY RESTAURANT,Kaadai Masala,,168,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,18,2
+RASNA FAMILY RESTAURANT,Kaadai Pepper Masala,,178.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,18,3
+RASNA FAMILY RESTAURANT,Kaadai Chettinadu,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,18,4
+RASNA FAMILY RESTAURANT,Kaadai Pepper Fry,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Specials,,0,,18,5
+RASNA FAMILY RESTAURANT,Mango Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,1
+RASNA FAMILY RESTAURANT,Chikku Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,2
+RASNA FAMILY RESTAURANT,Papaya Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,3
+RASNA FAMILY RESTAURANT,Anjeer Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,4
+RASNA FAMILY RESTAURANT,Apple Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,5
+RASNA FAMILY RESTAURANT,Dates Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,6
+RASNA FAMILY RESTAURANT,Shamam Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,7
+RASNA FAMILY RESTAURANT,Banana Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,8
+RASNA FAMILY RESTAURANT,Kiwi Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,9
+RASNA FAMILY RESTAURANT,Pista Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,10
+RASNA FAMILY RESTAURANT,Badam Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,11
+RASNA FAMILY RESTAURANT,Rose Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,12
+RASNA FAMILY RESTAURANT,Butter Scotch Shake With,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,13
+RASNA FAMILY RESTAURANT,Oreo Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,14
+RASNA FAMILY RESTAURANT,Cool Boost Milkshake With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,15
+RASNA FAMILY RESTAURANT,Cool Horlicks Milkshake With Ice Cream With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,16
+RASNA FAMILY RESTAURANT,Black Current Milkshake With Ice Cream With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,17
+RASNA FAMILY RESTAURANT,Choco-Banana Milkshake With Ice Cream With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,18
+RASNA FAMILY RESTAURANT,Cool Coffee Milkshake With Ice Cream With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,19
+RASNA FAMILY RESTAURANT,Cherry Milkshake With Ice Cream With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,20
+RASNA FAMILY RESTAURANT,Dragon Milkshake With Ice Cream With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,21
+RASNA FAMILY RESTAURANT,Chocolate Milkshake With Ice Cream With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,22
+RASNA FAMILY RESTAURANT,Sharjah Milkshake With Ice Cream With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,23
+RASNA FAMILY RESTAURANT,Vanila Milkshake With Ice Cream With Ice Cream,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,24
+RASNA FAMILY RESTAURANT,Strawberry Milkshake With Ice Cream With Ice Cream,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,25
+RASNA FAMILY RESTAURANT,Avocado Milkshake With Ice Cream With Ice Cream,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,26
+RASNA FAMILY RESTAURANT,Dry Fruit Milkshake With Ice Cream With Ice Cream,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,27
+RASNA FAMILY RESTAURANT,Galaxy Milkshake With Ice Cream With Ice Cream,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,28
+RASNA FAMILY RESTAURANT,Snickers Milkshake With Ice Cream With Ice Cream,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,29
+RASNA FAMILY RESTAURANT,Bounty Milkshake With Ice Cream With Ice Cream,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,30
+RASNA FAMILY RESTAURANT,Kit-Kat Milkshake With Ice Cream With Ice Cream,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshake With Ice Cream With Ice Creams With Ice Cream,,0,,19,31
+RASNA FAMILY RESTAURANT,Mango Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,1
+RASNA FAMILY RESTAURANT,Chikku Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,2
+RASNA FAMILY RESTAURANT,Papaya Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,3
+RASNA FAMILY RESTAURANT,Anjeer Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,4
+RASNA FAMILY RESTAURANT,Apple Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,5
+RASNA FAMILY RESTAURANT,Dates Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,6
+RASNA FAMILY RESTAURANT,Shamam Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,7
+RASNA FAMILY RESTAURANT,Banana Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,8
+RASNA FAMILY RESTAURANT,Kiwi Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,9
+RASNA FAMILY RESTAURANT,Pista Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,10
+RASNA FAMILY RESTAURANT,Badam Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,11
+RASNA FAMILY RESTAURANT,Rose Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,12
+RASNA FAMILY RESTAURANT,Butter Scotch Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,13
+RASNA FAMILY RESTAURANT,Oreo Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,14
+RASNA FAMILY RESTAURANT,Cool Boost Milk Shake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,15
+RASNA FAMILY RESTAURANT,Cool Horlicks Milkshake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,16
+RASNA FAMILY RESTAURANT,Black Current Milkshake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,17
+RASNA FAMILY RESTAURANT,Choco-Banana Milkshake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,18
+RASNA FAMILY RESTAURANT,Cool Coffee Milkshake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,19
+RASNA FAMILY RESTAURANT,Cherry Milkshake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,20
+RASNA FAMILY RESTAURANT,Dragon Milkshake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,21
+RASNA FAMILY RESTAURANT,Chocolate Milkshake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,22
+RASNA FAMILY RESTAURANT,Sharjah Milkshake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,23
+RASNA FAMILY RESTAURANT,Vanila Milkshake,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,24
+RASNA FAMILY RESTAURANT,Strawberry Milkshake,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,25
+RASNA FAMILY RESTAURANT,Avocado Milkshake,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,26
+RASNA FAMILY RESTAURANT,Dry Fruit Milkshake,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,27
+RASNA FAMILY RESTAURANT,Galaxy Milkshake,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,28
+RASNA FAMILY RESTAURANT,Snickers Milkshake,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,29
+RASNA FAMILY RESTAURANT,Bounty Milkshake,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,30
+RASNA FAMILY RESTAURANT,Kit-Kat Milkshake,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,20,31
+RASNA FAMILY RESTAURANT,Red Mango Mixed Juice,Mango + Strawberry,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,20,32
+RASNA FAMILY RESTAURANT,Splash Mixed Juice,Grape + Banana + Honey,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,20,33
+RASNA FAMILY RESTAURANT,Mango Smack Mixed Juice,Mango + Orange,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,20,34
+RASNA FAMILY RESTAURANT,Kp Smooothie Mixed Juice,Kiwi + Chicku + Dates,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,20,35
+RASNA FAMILY RESTAURANT,Best Of Three,Strawberry + Chicku + Dates,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,20,36
+RASNA FAMILY RESTAURANT,Rasna Mixed Juice,Orange + Strawberry,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,20,37
+RASNA FAMILY RESTAURANT,Rasna Sp Mixed Juice,Carrot + Orange,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mixed Juices,,0,,20,38
+RASNA FAMILY RESTAURANT,Mutton Masala Gravy,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,1
+RASNA FAMILY RESTAURANT,Mutton Pepper Masala Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,2
+RASNA FAMILY RESTAURANT,Mutton Chettinadu Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,3
+RASNA FAMILY RESTAURANT,Kadai Mutton Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,4
+RASNA FAMILY RESTAURANT,Mutton Hydrabadi Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,5
+RASNA FAMILY RESTAURANT,Mutton Punjabi Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,6
+RASNA FAMILY RESTAURANT,Andra Mutton  Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,7
+RASNA FAMILY RESTAURANT,Kerala Mutton Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,8
+RASNA FAMILY RESTAURANT,Mutton Dopiaza Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,9
+RASNA FAMILY RESTAURANT,Mutton Vindaloo Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,10
+RASNA FAMILY RESTAURANT,Mutton Rogan Josh Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,11
+RASNA FAMILY RESTAURANT,Mutton Shahi Kurma Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,12
+RASNA FAMILY RESTAURANT,Mutton Chops Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,13
+RASNA FAMILY RESTAURANT,Chilli Mutton Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,14
+RASNA FAMILY RESTAURANT,Mutton Manchurian Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,15
+RASNA FAMILY RESTAURANT,Garlic Mutton Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,16
+RASNA FAMILY RESTAURANT,Ginger Mutton Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,17
+RASNA FAMILY RESTAURANT,Schezwan Mutton Gravy,,262.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Gravys,,0,,21,18
+RASNA FAMILY RESTAURANT,Mutton Fry,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,22,1
+RASNA FAMILY RESTAURANT,Mutton Chukka,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,22,2
+RASNA FAMILY RESTAURANT,Mutton Pepper Fry,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,22,3
+RASNA FAMILY RESTAURANT,Chilli Mutton,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,22,4
+RASNA FAMILY RESTAURANT,Mutton Manchurian,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,22,5
+RASNA FAMILY RESTAURANT,Garlic Mutton,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,22,6
+RASNA FAMILY RESTAURANT,Ginger Mutton,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,22,7
+RASNA FAMILY RESTAURANT,Veg Noodles,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,1
+RASNA FAMILY RESTAURANT,Mushroom Noodles,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,2
+RASNA FAMILY RESTAURANT,Paneer Noodles,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,3
+RASNA FAMILY RESTAURANT,Chicken Noodles,,157.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,4
+RASNA FAMILY RESTAURANT,Mutton Noodles,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,5
+RASNA FAMILY RESTAURANT,Prawn Noodles,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,6
+RASNA FAMILY RESTAURANT,Egg Noodles,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,7
+RASNA FAMILY RESTAURANT,Mix Noodles,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,8
+RASNA FAMILY RESTAURANT,Schezwan Veg Noodles,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,9
+RASNA FAMILY RESTAURANT,Schezwan Mushroom Noodles,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,10
+RASNA FAMILY RESTAURANT,Schezwan Paneer Noodles,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,11
+RASNA FAMILY RESTAURANT,Schezwan Chicken Noodles,,168,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,12
+RASNA FAMILY RESTAURANT,Schezwan Mutton Noodles,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,13
+RASNA FAMILY RESTAURANT,Schezwan Prawn Noodles,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,14
+RASNA FAMILY RESTAURANT,Schezwan Egg Noodles,,157.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,15
+RASNA FAMILY RESTAURANT,Schezwan Mix Noodles,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,16
+RASNA FAMILY RESTAURANT,Hakka Noodles Chicken,,178.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,17
+RASNA FAMILY RESTAURANT,Hakka Noodles Mutton,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,18
+RASNA FAMILY RESTAURANT,Singapore Noodles Chicken,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,19
+RASNA FAMILY RESTAURANT,Singapore Noodles Mutton,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,20
+RASNA FAMILY RESTAURANT,Pan Fried Noodles Chicken,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,21
+RASNA FAMILY RESTAURANT,Mix Pan Fried Noodles,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,22
+RASNA FAMILY RESTAURANT,Pan Fried Noodles Veg,,168,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,23,23
+RASNA FAMILY RESTAURANT,Lassi,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Special Lassi,,0,,24,1
+RASNA FAMILY RESTAURANT,Strawberry Lassi,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Special Lassi,,0,,24,2
+RASNA FAMILY RESTAURANT,Banana Lassi,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Special Lassi,,0,,24,3
+RASNA FAMILY RESTAURANT,Mango Lassi,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Special Lassi,,0,,24,4
+RASNA FAMILY RESTAURANT,Butter Scotch Lassi,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Special Lassi,,0,,24,5
+RASNA FAMILY RESTAURANT,Avil Milk Kerala (Special),,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Special Lassi,,0,,24,6
+RASNA FAMILY RESTAURANT,Rasna Special Biriyani,,262.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Specials,,0,,25,1
+RASNA FAMILY RESTAURANT,Rasna Special Chicken,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Specials,,0,,25,2
+RASNA FAMILY RESTAURANT,Rasna Poricha Kozhi (Half),,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Specials,,0,,25,3
+RASNA FAMILY RESTAURANT,Rasna Poricha Kozhi (Full),,367.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Specials,,0,,25,4
+RASNA FAMILY RESTAURANT,Rasna Chicken Cheese Ball,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Specials,,0,,25,5
+RASNA FAMILY RESTAURANT,Rasna Lamp Crispy Fry,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Specials,,0,,25,6
+RASNA FAMILY RESTAURANT,Rasna Lamb-In Green Chilli,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Specials,,0,,25,7
+RASNA FAMILY RESTAURANT,Rasna Chinese Sizzler(Non Veg),,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rasna Specials,,0,,25,8
+RASNA FAMILY RESTAURANT,Ghee Rice,,115.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,1
+RASNA FAMILY RESTAURANT,Jeera Rice,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,2
+RASNA FAMILY RESTAURANT,Steam Rice,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,3
+RASNA FAMILY RESTAURANT,Plain Rice,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,4
+RASNA FAMILY RESTAURANT,Curd Rice,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,5
+RASNA FAMILY RESTAURANT,Veg Pulao,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,6
+RASNA FAMILY RESTAURANT,Kaju Pulao,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,7
+RASNA FAMILY RESTAURANT,Kashmiri Pulao,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,8
+RASNA FAMILY RESTAURANT,Mint Pulao,,126,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,9
+RASNA FAMILY RESTAURANT,Peas Pulao,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulaos,,0,,26,10
+RASNA FAMILY RESTAURANT,Green Salad,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,1
+RASNA FAMILY RESTAURANT,Cucumber Salad,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,2
+RASNA FAMILY RESTAURANT,Onion Salad,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,3
+RASNA FAMILY RESTAURANT,Carrot Salad,,63,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,4
+RASNA FAMILY RESTAURANT,Tomato Salad,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,5
+RASNA FAMILY RESTAURANT,Onion Raitha,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,6
+RASNA FAMILY RESTAURANT,Pineapple Raitha,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,7
+RASNA FAMILY RESTAURANT,Cucumber Raitha,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,8
+RASNA FAMILY RESTAURANT,Mix Raitha,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,9
+RASNA FAMILY RESTAURANT,Roasted Papad,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,10
+RASNA FAMILY RESTAURANT,Masala Papad,,52.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,11
+RASNA FAMILY RESTAURANT,Curd,,31.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Salads,,0,,27,12
+RASNA FAMILY RESTAURANT,Fish Curry Gravy,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,1
+RASNA FAMILY RESTAURANT,Fish Masala Gravy,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,2
+RASNA FAMILY RESTAURANT,Kerala Fish Curry Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,3
+RASNA FAMILY RESTAURANT,Fish Chettinadu Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,4
+RASNA FAMILY RESTAURANT,Prawn Masala Gravy,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,5
+RASNA FAMILY RESTAURANT,Prawn Pepper Masala Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,6
+RASNA FAMILY RESTAURANT,Kerala Prawns Curry Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,7
+RASNA FAMILY RESTAURANT,Prawn Chettinadu Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,8
+RASNA FAMILY RESTAURANT,Chilli Fish Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,9
+RASNA FAMILY RESTAURANT,Fish Manchurian Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,10
+RASNA FAMILY RESTAURANT,Ginger Fish Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,11
+RASNA FAMILY RESTAURANT,Garlic Fish Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,12
+RASNA FAMILY RESTAURANT,Schezwan Fish Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,13
+RASNA FAMILY RESTAURANT,Chilli Prawn Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,14
+RASNA FAMILY RESTAURANT,Prawn Manchurian Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,15
+RASNA FAMILY RESTAURANT,Ginger Prawn Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,16
+RASNA FAMILY RESTAURANT,Garlic Prawn Gravy,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,17
+RASNA FAMILY RESTAURANT,Schezwan Prawn Gravy,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Gravys,,0,,28,18
+RASNA FAMILY RESTAURANT,Fish 65,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,1
+RASNA FAMILY RESTAURANT,Chilli Fish,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,2
+RASNA FAMILY RESTAURANT,Fish Manchurian,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,3
+RASNA FAMILY RESTAURANT,Garlic Fish,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,4
+RASNA FAMILY RESTAURANT,Ginger Fish,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,5
+RASNA FAMILY RESTAURANT,Fish Finger,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,6
+RASNA FAMILY RESTAURANT,Phuket Fish ,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,7
+RASNA FAMILY RESTAURANT,Fish Nuggets,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,8
+RASNA FAMILY RESTAURANT,Prawn 65,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,9
+RASNA FAMILY RESTAURANT,Dragon Prawn,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,10
+RASNA FAMILY RESTAURANT,Prawn Pepper Salt,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,11
+RASNA FAMILY RESTAURANT,Prawn Golden Fry,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,12
+RASNA FAMILY RESTAURANT,Prawn Pepper Fry,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,13
+RASNA FAMILY RESTAURANT,Chilli Prawn,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,14
+RASNA FAMILY RESTAURANT,Prawn Manchurian,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,15
+RASNA FAMILY RESTAURANT,Garlic Prawn,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,16
+RASNA FAMILY RESTAURANT,Ginger Prawn,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Food Starters,,0,,4,17
+RASNA FAMILY RESTAURANT,Shawarma Roll,,94.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,29,1
+RASNA FAMILY RESTAURANT,Shawarma Plate,,126,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,29,2
+RASNA FAMILY RESTAURANT,Spicy Shawarma Roll,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,29,3
+RASNA FAMILY RESTAURANT,Spicy Shawarma Plate,,136.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,29,4
+RASNA FAMILY RESTAURANT,Cheese Shawarma Roll,,115.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,29,5
+RASNA FAMILY RESTAURANT,Cheese Shawarma Plate,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,29,6
+RASNA FAMILY RESTAURANT,Special Shawarma Roll,,126,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,29,7
+RASNA FAMILY RESTAURANT,Special Shawarma Plate,,157.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Shawarmas,,0,,29,8
+RASNA FAMILY RESTAURANT,Chicken Burger,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,1
+RASNA FAMILY RESTAURANT,Veg Burger,,84,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,2
+RASNA FAMILY RESTAURANT,Egg Sandwich,,63,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,3
+RASNA FAMILY RESTAURANT,Veg Sandwich,,52.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,4
+RASNA FAMILY RESTAURANT,Egg Maggi,,63,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,5
+RASNA FAMILY RESTAURANT,Veg Maggi,,52.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,6
+RASNA FAMILY RESTAURANT,Rasna Bread Omlet,,52.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,7
+RASNA FAMILY RESTAURANT,Veg Spring Roll,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,8
+RASNA FAMILY RESTAURANT,Chicken Spring Roll,,115.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,9
+RASNA FAMILY RESTAURANT,Chicken Cheese Roll,,126,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,10
+RASNA FAMILY RESTAURANT,Chicken Egg Roll,,136.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,11
+RASNA FAMILY RESTAURANT,Chicken Katti Roll,,115.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,12
+RASNA FAMILY RESTAURANT,Mutton Spring Roll,,136.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,13
+RASNA FAMILY RESTAURANT,Mutton Katti Roll,,136.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,14
+RASNA FAMILY RESTAURANT,Mutton Cheese Roll,,147,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,15
+RASNA FAMILY RESTAURANT,Chicken Pakoda,,115.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,16
+RASNA FAMILY RESTAURANT,Onion Pakkoda,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,17
+RASNA FAMILY RESTAURANT,French Fries,,105,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,30,18
+RASNA FAMILY RESTAURANT,Cream Of Veg Soup,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+RASNA FAMILY RESTAURANT,Veg Clear Soup,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+RASNA FAMILY RESTAURANT,Sweet Corn Veg Soup,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+RASNA FAMILY RESTAURANT,Hot & Sour Veg Soup,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+RASNA FAMILY RESTAURANT,Veg Manchow Soup,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+RASNA FAMILY RESTAURANT,Veg Noodles Soup,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+RASNA FAMILY RESTAURANT,Cream Of Mushroom Soup,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+RASNA FAMILY RESTAURANT,Mushroom Pepper Soup,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+RASNA FAMILY RESTAURANT,Spicy Mushroom Soup,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,9
+RASNA FAMILY RESTAURANT,French Onion Soup,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,10
+RASNA FAMILY RESTAURANT,Tomato Soup,,73.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,11
+RASNA FAMILY RESTAURANT,Cream Of Tomato Soup,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,12
+RASNA FAMILY RESTAURANT,Baby Corn Mushroom Soup,,94.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,13
+RASNA FAMILY RESTAURANT,Veg Lemon Coriander Soup,,84,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,14
+RASNA FAMILY RESTAURANT,Cream Of Chicken Soup,,94.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,15
+RASNA FAMILY RESTAURANT,Chicken Clear Soup,,84,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,16
+RASNA FAMILY RESTAURANT,Chicken Pepper Soup,,94.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,17
+RASNA FAMILY RESTAURANT,Sweet Corn Chicken Soup,,94.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,18
+RASNA FAMILY RESTAURANT,Hot & Sour Chicken Soup,,94.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,19
+RASNA FAMILY RESTAURANT,Chicken Noodles Soup,,94.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,20
+RASNA FAMILY RESTAURANT,Chicken & Mushroom Soup,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,21
+RASNA FAMILY RESTAURANT,Chicken Manchow Soup,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,22
+RASNA FAMILY RESTAURANT,Chicken Lemon Coriander Soup,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,23
+RASNA FAMILY RESTAURANT,Cream Of Mutton Soup,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,24
+RASNA FAMILY RESTAURANT,Mutton Clear Soup,,94.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,25
+RASNA FAMILY RESTAURANT,Mutton Pepper Soup,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,26
+RASNA FAMILY RESTAURANT,Hot & Sour Mutton Soup,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,27
+RASNA FAMILY RESTAURANT,Sweet Corn Mutton Soup,,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,28
+RASNA FAMILY RESTAURANT,Sea Food Soup,,126,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,29
+RASNA FAMILY RESTAURANT,Gobi 65,,126,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+RASNA FAMILY RESTAURANT,Paneer 65 ,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+RASNA FAMILY RESTAURANT,Mushroom 65,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+RASNA FAMILY RESTAURANT,Mushroom Pepper Fry,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+RASNA FAMILY RESTAURANT,Chilli Gobi Dry,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+RASNA FAMILY RESTAURANT,Gobi Manchurian Dry,,136.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+RASNA FAMILY RESTAURANT,Chilli Mushroom Dry,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,7
+RASNA FAMILY RESTAURANT,Mushroom Manchurian Dry,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+RASNA FAMILY RESTAURANT,Chilli Paneer Dry,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,9
+RASNA FAMILY RESTAURANT,Paneer Munchurian Dry,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,10
+RASNA FAMILY RESTAURANT,Mushroom Pepper Salt,,168,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,11
+RASNA FAMILY RESTAURANT,Baby Corn Pepper Salt,,168,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,12
+RASNA FAMILY RESTAURANT,Dragon Gobi,,168,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,13
+RASNA FAMILY RESTAURANT,Dragon Potato,,168,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,14
+RASNA FAMILY RESTAURANT,Honey Chilli Potato,,178.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,15
+RASNA FAMILY RESTAURANT,Chilli Baby Corn Dry,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,16
+RASNA FAMILY RESTAURANT,Baby Corn Manchurian Dry,,157.5,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,17
+RASNA FAMILY RESTAURANT,Golden Fried Baby Corn,,168,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,18
+RASNA FAMILY RESTAURANT,Veg Manchurian Dry,,147,,,,10,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,19
+RASNA FAMILY RESTAURANT,Chicken 65,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,20
+RASNA FAMILY RESTAURANT,Chicken Pepper Fry,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,21
+RASNA FAMILY RESTAURANT,Kerala Chicken Fry,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,22
+RASNA FAMILY RESTAURANT,Chicken Drum Stick,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,23
+RASNA FAMILY RESTAURANT,Chicken Lollipop,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,24
+RASNA FAMILY RESTAURANT,Karakudi Lollipop,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,25
+RASNA FAMILY RESTAURANT,Dragon Chicken,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,26
+RASNA FAMILY RESTAURANT,Crispy Fried Chicken,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,27
+RASNA FAMILY RESTAURANT,Honey Chicken ,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,28
+RASNA FAMILY RESTAURANT,Lemon Chicken,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,29
+RASNA FAMILY RESTAURANT,Chicken Bell Pepper,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,30
+RASNA FAMILY RESTAURANT,Chilli Chicken,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,31
+RASNA FAMILY RESTAURANT,Chicken Manchurian,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,32
+RASNA FAMILY RESTAURANT,Ginger Chicken,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,33
+RASNA FAMILY RESTAURANT,Garlic Chickn,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,34
+RASNA FAMILY RESTAURANT,Chicken Winglet,,199.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,35
+RASNA FAMILY RESTAURANT,Roster Honey Garlic Chicken,,252,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,36
+RASNA FAMILY RESTAURANT,Bullet Chicken,,220.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,37
+RASNA FAMILY RESTAURANT,Majestic Chicken,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,38
+RASNA FAMILY RESTAURANT,Tandoori Chicken (Quarter),,105,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,1
+RASNA FAMILY RESTAURANT,Tandoori Chicken (Half),,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,2
+RASNA FAMILY RESTAURANT,Tandoori Chicken (Full),,367.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,3
+RASNA FAMILY RESTAURANT,Tangdi Kebab ,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,4
+RASNA FAMILY RESTAURANT,Reshmi Kebab,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,5
+RASNA FAMILY RESTAURANT,Hariyali Kebab,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,6
+RASNA FAMILY RESTAURANT,Malai Kebab,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,7
+RASNA FAMILY RESTAURANT,Kalmi Kebab,,241.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,8
+RASNA FAMILY RESTAURANT,Lasooni Kebab,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,9
+RASNA FAMILY RESTAURANT,Kali Mirchi Kebab,,231,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,10
+RASNA FAMILY RESTAURANT,Chicken Tikka,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,11
+RASNA FAMILY RESTAURANT,Paneer Tikka ,,189,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,12
+RASNA FAMILY RESTAURANT,Paneer Malai Tikka,,210,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,13
+RASNA FAMILY RESTAURANT,Fish Tikka,,262.5,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,14
+RASNA FAMILY RESTAURANT,Tandoori Platter,,630,,,,10,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,,3,15

@@ -1,0 +1,63 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BISTRO57,Classic Mint,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito'S,,0,,4,1
+BISTRO57,Kiwi,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito'S,,0,,4,2
+BISTRO57,Peach,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito'S,,0,,4,3
+BISTRO57,Green Apple,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito'S,,0,,4,4
+BISTRO57,Strawberry,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito'S,,0,,4,5
+BISTRO57,Blueberry,,84,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito'S,,0,,4,6
+BISTRO57,Blackcurrant,,84,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito'S,,0,,4,7
+BISTRO57,Kala Khatta,,84,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mojito'S,,0,,4,8
+BISTRO57,Kiwi,,73.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sodas,,0,,5,1
+BISTRO57,Butterscotch,,73.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sodas,,0,,5,2
+BISTRO57,Strawberry,,73.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sodas,,0,,5,3
+BISTRO57,Blueberry,,73.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream Sodas,,0,,5,4
+BISTRO57,Hot Brownie Regular,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,6,1
+BISTRO57,Chocolate Fudge Regular,,73.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,6,2
+BISTRO57,Brownie Fudge Regular,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,6,3
+BISTRO57,Hot Brownie Large,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,6,4
+BISTRO57,Chocolate Fudge Large,,105,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,6,5
+BISTRO57,Brownie Fudge Large,,136.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,6,6
+BISTRO57,Oreo Regular,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,1
+BISTRO57,Kit Kat Regular,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,2
+BISTRO57,M & M Regular,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,3
+BISTRO57,Brownie Cookie Regular,,84,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,4
+BISTRO57,Caramel Crunch Regular,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,5
+BISTRO57,Nutella Crunch Regular,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,6
+BISTRO57,Oreo Large,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,7
+BISTRO57,Kit Kat Large,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,8
+BISTRO57,M & M Large,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,9
+BISTRO57,Brownie Cookie Large,,105,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,10
+BISTRO57,Caramel Crunch Large,,126,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,11
+BISTRO57,Nutella Crunch Large,,126,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Exotic Shakes,,0,,3,12
+BISTRO57,Vannila Regular,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,1
+BISTRO57,Chocolate Regular,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,2
+BISTRO57,Strawberry Regular,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,3
+BISTRO57,Butterscotch Regular,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,4
+BISTRO57,Kiwi Regular,,63,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,5
+BISTRO57,Black Currant Regular,,84,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,6
+BISTRO57,Blueberry Regular,,84,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,7
+BISTRO57,Vannila Large,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,8
+BISTRO57,Chocolate Large,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,9
+BISTRO57,Strawberry Large,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,10
+BISTRO57,Butterscotch Large,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,11
+BISTRO57,Kiwi Large,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,12
+BISTRO57,Black Currant Regular,,126,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,13
+BISTRO57,Blueberry Large,,126,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Regular Shakes,,0,,2,14
+BISTRO57,Plain Cheese (6 Inc),,84,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,1
+BISTRO57,Farm Fresh (6 Inc),"Onion, Capsicum, Tomato",84,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,2
+BISTRO57,Cheese Corn (6 Inc),,84,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,3
+BISTRO57,Paneer Makhani (6 Inc),,105,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,4
+BISTRO57,Exotic (6 Inc),"Onion, Red, Yellow, Capsicum, Black Oliv, Corn",126,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,5
+BISTRO57,Onion & Mushroom (6 Inc),,105,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,6
+BISTRO57,Plain Cheese (9 Inc),,136.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,7
+BISTRO57,Farm Fresh (9 Inc),,136.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,8
+BISTRO57,Cheese Corn (9 Inc),,136.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,9
+BISTRO57,Paneer Makhani (9 Inc),,136.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,10
+BISTRO57,Exotic (9 Inc),,199.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,11
+BISTRO57,Onion & Mushroom (9 Inc),,168,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,1,12
+BISTRO57,Garlic Toast,,73.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,7,1
+BISTRO57,Exotic Garlic Toast,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,7,2
+BISTRO57,Mushroom Toast,,94.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,7,3
+BISTRO57,Bruschetta,,157.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,7,4
+BISTRO57,Burger Veg,,73.5,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,7,5
+BISTRO57,Burger Paneer,,105,,,,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,7,6

@@ -1,0 +1,7 @@
+"Order Id","Cust Id","Cust Name","Boy Name","Cust Phone","Res Name","Item Total","Offer Price","Delivery Charge","Packaging Charge","Grand Total","Date and Time","Order details",MOP,"Delivery Type",status,"Cust Address"
+VLR122020,60001525,"FENEESHIAH ",Sathishs,8903835766,"LIMRA GARDEN",70,0,60,0,130,2018-11-11,,"Net Banking",ccavenue,"Order Finished","Christian Medical college campus, Bagayam, Tamil Nadu 632002, India"
+VLR122017,60003688,"Rohan Kumar",Sathishs,9843771153,"LIMRA GARDEN",210,0,60,5,275,2018-11-11,,cash,cod,"Order Finished","Anna Street, Pavendar Nagar, Rangapuram, Sathuvachari, Vellore, Tamil Nadu 632009, India"
+VLR122002,60000489,"M Sathvik",Sathishs,9030430303,"HART LOUNGE",240,0,10,14,264,2018-11-11,,tez,cod,"Order Finished","Katpadi, Vellore, Tamil Nadu, India"
+VLR121955,60001879,Shalini,Sathishs,8606539544,"BASKIN ROBBINS",232,0,30,10,272,2018-11-11,,"Debit Card",ccavenue,"Order Finished","Pillayar Koil St, Thottapalayam, Vellore, Tamil Nadu 632004, India"
+VLR121954,60001704,"Mohammed Yusuf",Sathishs,9486477331,"LASSI SHOP",270,27,40,20,303,2018-11-11,,cash,cod,"Order Finished","Pillayar Koil St, Konavattam, Vellore, Tamil Nadu 632013, India"
+VLR121913,60003651,Rishab,Sathishs,8300747160,"THE VELLORE KITCHEN",509.25,0,96,24.25,630,2018-11-11,,cash,cod,"Order Finished","Rajeswari Nagar, puliyanthangal, Ranipet, Tamil Nadu 632406, India"

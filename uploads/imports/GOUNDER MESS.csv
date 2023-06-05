@@ -1,0 +1,41 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+GOUNDER MESS,Idly 2 Pcs,,19,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+GOUNDER MESS,Chapathi 2 Pcs,,47,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+GOUNDER MESS,Veechu Parotta,,30,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,8,1
+GOUNDER MESS,Parotta 2 Pcs,,30,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,2,1
+GOUNDER MESS,Butter Veechu Parotta,,47,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,9,1
+GOUNDER MESS,Butter Dosai,,47,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,1,1
+GOUNDER MESS,Dosa 2 Pcs,,47,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,7,1
+GOUNDER MESS,Podi Dosai,,41,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,4,1
+GOUNDER MESS,Garlic Dosai,,41,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,5,1
+GOUNDER MESS,Pepper Dosai ,,47,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,6,1
+GOUNDER MESS,Podi Vattam,,41,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,4,1
+GOUNDER MESS,Garlic Vattam,,41,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,5,1
+GOUNDER MESS,Pepper Vattam,,47,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,6,1
+GOUNDER MESS,Podi Butter Dosai,,65,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,21,1
+GOUNDER MESS,Garlic Butter Dosai,,65,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,12,1
+GOUNDER MESS,Pepper Butter Dosai,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Dosa Varieties,,0,,14,1
+GOUNDER MESS,Roast,,47,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast Varieties,,0,,7,1
+GOUNDER MESS,Karuveppilai Roast,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast Varieties,,0,,7,1
+GOUNDER MESS,Karuveppilai Butter Roast,,87,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast Varieties,,0,,7,1
+GOUNDER MESS,Butter Roast,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast Varieties,,0,,11,1
+GOUNDER MESS,Onion Butter Roast,,88,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Roast Varieties,,0,,15,1
+GOUNDER MESS,Rava ,,47,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Rava Varieties,,0,,10,1
+GOUNDER MESS,Mini Rava ,,30,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Rava Varieties,,0,,10,1
+GOUNDER MESS,Onion Rava,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Rava Varieties,,0,,16,1
+GOUNDER MESS,Butter Rava,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Rava Varieties,,0,,17,1
+GOUNDER MESS,Podi Uthappam,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,18,1
+GOUNDER MESS,Garlic Uthappam,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,19,1
+GOUNDER MESS,Pepper Uthappam,,82,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,20,1
+GOUNDER MESS,Podi Butter Uthappam,,90,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,15,1
+GOUNDER MESS,Podi Butter Roast,,90,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,15,1
+GOUNDER MESS,Garlic Butter Uthappam,,90,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,15,1
+GOUNDER MESS,Garlic Butter Roast,,90,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,15,1
+GOUNDER MESS,Pepper Butter Uthappam,,95,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,15,1
+GOUNDER MESS,Pepper Butter Roast,,95,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,15,1
+GOUNDER MESS,Podi Roast,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,18,1
+GOUNDER MESS,Garlic Roast,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,19,1
+GOUNDER MESS,Pepper Roast,,82,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,20,1
+GOUNDER MESS,Onion Uthappam,,70,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,15,1
+GOUNDER MESS,Mini Onion Uthappam,,41,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,15,1
+GOUNDER MESS,Mini Onion Butter Uthappam,,65,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Uthappam Varieties,,0,,15,1

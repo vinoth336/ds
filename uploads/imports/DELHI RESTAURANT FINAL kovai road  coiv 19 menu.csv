@@ -1,0 +1,63 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Idly Set ,,20,,,,2,Veg,06:00PM,08:00PM,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Pongal ,,45,,,,2,Veg,,,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,2
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Roast,,55,,,,2,Veg,11:00AM,08:00PM,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,3
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Vadai,,10,,,,3,Veg,,,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,6
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Sambar Vadai,,25,,,,3,Veg,,,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,7
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Thair Vadai,,25,,,,4,Veg,11:00AM,08:00PM,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,8
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Utthappam,,55,,,,2,Veg,11:00AM,08:00PM,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,9
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Onion utthappam,,65,,,,2,Veg,11:00AM,08:00PM,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,10
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Kal utthappam,,45,,,,2,Veg,11:00AM,08:00PM,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,11
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Chappathi Set,,45,,,,2,Veg,06:00PM,08:00PM,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,1
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,parotta (1pc),,40,,,,2,Veg,11:00AM,10:00PM,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,2
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Podi Onion Utthappam,,95,,,,2,Veg,11:00AM,10:00PM,08:00AM,10:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,3
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Sambar  Rice,,45,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,9,4
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Curd Rice ,,45,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,9,5
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Tomato Rice,,45,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,9,6
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Mushroom Biriyani,,70,,,,2,Veg,11:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,9,7
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Mushroom Chilly,,75,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,9,8
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Panner Chilly,,80,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,9,9
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Gobi Chilly,,65,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,9,10
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Gobi 65,,70,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,8,1
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Mushroom 65,,80,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,8,2
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Panner 65,,85,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,8,3
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Kothu Parotta,,70,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,4
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Chilly parotta,,70,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,5
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Veg Fried Rice ,,65,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,8,6
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Mushroom Fried Rice,,95,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,8,7
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,panner Fried Rice,,95,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,8,8
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Veg Schezwan Fried Rice,,80,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,8,9
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Gobi Fried Rice,,65,,,,2,Veg,02:00PM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,8,10
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Apple Fresh Juice,,75,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,11
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Orange Fresh Juice,,55,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,8,12
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Sathukudi Fresh Juice,,65,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,1
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Mulam Palam Fresh Juice,,45,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,2
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,lemon Fresh Juice,,20,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,3
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Rose Milk,,30,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,4
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Badam Geer,,30,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,5
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Grapes Fresh Juice,,45,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,5
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Nellikkai Fresh Juice,,35,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,6
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Sappatta Fresh Juce,,35,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,7
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Pineapple Fresh Juice,,35,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,8
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,WaterMelon Fresh Juice,,35,,,,2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,9
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,madulai Fresh Juice,,75,,,,3,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,5,10
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Pani Poori ,,46,,,,3,Veg,05:00PM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,5,11
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Masal Poori,,46,,,,3,Veg,05:00PM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,5,12
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Bhel Poori,,46,,,,3,Veg,05:00PM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,5,13
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Thair Poori,,46,,,,3,Veg,05:00PM,08:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,5,14
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Vennila Cake (1 Kg),Order Before 2Hr,400,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,15
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Honey Cake (1 Kg),Order Before 2Hr,440,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,16
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Chocolate Cake (1 Kg),Order Before 2Hr,440,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,17
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Vennila Cake (1/2 Kg),Order Before 2Hr,200,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,15
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Honey Cake (1/2 Kg),Order Before 2Hr,220,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,16
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Chocolate Cake (1/2 Kg),Order Before 2Hr,220,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,17
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Black Forest Cake (1 Kg),Order Before 3Hr,600,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,5,25
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,White Forest Cake (1 Kg),Order Before 3Hr,600,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,5,26
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Choco Truffle,Order Before 3Hr,900,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,5,31
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,White Turffle,Order Before 3Hr,900,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,5,32
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Strawberry Fresh Cream Cake (1 Kg),Order Before 3Hr,800,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fiawers Cakes,,0,,5,27
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Pinnapple Fresh Cream Cake (1 Kg),Order Before 3Hr,800,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fiawers Cakes,,0,,5,28
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Manggo Fresh Cream Cake (1 Kg),Order Before 3Hr,800,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fiawers Cakes,,0,,5,29
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Orange Fresh Cream Cake (1 Kg),Order Before 3Hr,800,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fiawers Cakes,,0,,5,30
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Black Current Fresh Cream Cake (1 Kg),Order Before 3Hr,800,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fiawers Cakes,,0,,5,31
+DELHI SWEETS AND RESTAURANT KOVAI ROAD,Blueberry Fresh Cake (1 Kg),Order Before 3Hr,800,,,,10,Veg,09:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fiawers Cakes,,0,,5,32

@@ -1,0 +1,147 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HMD RESTAURANT,Shawarma Roll,,70,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+HMD RESTAURANT,Spicy Roll,,80,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+HMD RESTAURANT,Mexican Roll,,90,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+HMD RESTAURANT,Cheese Roll,,100,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+HMD RESTAURANT,Full Meat Roll,,100,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+HMD RESTAURANT,Peri Peri Roll,,100,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Rolls,,0,,1,1
+HMD RESTAURANT,Shawarma Plate,,120,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+HMD RESTAURANT,Spicy Plate,,80,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+HMD RESTAURANT,Mexican Plate,,120,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+HMD RESTAURANT,Cheese Plate,,170,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+HMD RESTAURANT,Full Meat Plate,,190,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+HMD RESTAURANT,Peri Peri Plate,,170,,,,0,0,Non Veg,,,,,,,04:30PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma Plates,,0,,1,1
+HMD RESTAURANT,Chicken Pepper Full,,380,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+HMD RESTAURANT,Chicken Pepper Half,,200,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+HMD RESTAURANT,Chicken Pepper Quarter,,120,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+HMD RESTAURANT,Chicken Spicy Full,,370,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+HMD RESTAURANT,Chicken Spicy Half,,190,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+HMD RESTAURANT,Chicken Spicy Quarter,,110,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ,,0,,1,1
+HMD RESTAURANT,Veg Biriyani,,85,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Mushroom Biriyani,,95,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Paneer Biriyani,,105,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,HMD'S Special Biriyani,,125,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Plain Biriyani,,75,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Egg Biriyani,,85,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Chicken Biriyani,,110,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Tandoori Biriyani,,155,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Lollipop Biriyani,,135,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Mutton Biriyani,,210,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Mutton Plain Biriyani,,110,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+HMD RESTAURANT,Tomato Soup,,60,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Mushroom Soup,,70,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Veg Clear Soup,,50,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Hot & Sour Soup,,50,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Monchow Soup,,50,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Chicken Clear Soup,,60,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Hot & Sour Soup,,70,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Chicken Moncho Soup,,80,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Chicken Pepper Soup,,90,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Crab Pepper Soup,,110,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Prawn Soup,,100,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Mutton Pepper Soup,,120,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Soups,,0,,1,1
+HMD RESTAURANT,Veg Fried Rice,,75,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Mushroom Fried Rice,,95,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Gobi Fried Rice,,85,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Paneer Fried Rice,,115,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Schezwan Mushroom Fried Rice,,105,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Schezwan Gobi Fried Rice,,105,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Schezwan Paneer Fried Rice,,105,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Egg Fried Rice,,85,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Schezwan Egg Fried Rice,,105,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Chicken Fried Rice,,95,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Prawn Fried Rice,,145,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Schezwan Chicken Fried Rice,,125,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Mutton Fried Rice,,185,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,1,1
+HMD RESTAURANT,Veg Noodles,,75,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Mushroom Noodles,,95,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Gobi Noodles,,85,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Paneer Noodles,,115,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Schezwan Mushroom Noodles,,105,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Schezwan Gobi Noodles,,105,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Schezwan Paneer Noodles,,105,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Egg Noodles,,85,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Schezwan Egg Noodles,,105,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Chicken Noodles,,95,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Prawn Noodles,,145,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Schezwan Chicken Noodles,,125,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Mutton Noodles,,185,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,1,1
+HMD RESTAURANT,Gobi 65,,70,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Mushroom 65,,90,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Paneer 65,,130,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Gobi Munchurian,,80,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Mushroom Manchurian,,110,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Paneer Manchurian,,140,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Chilli Paneer,,140,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Egg 65,,70,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Kaadai 65,,90,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Chicken 65,,100,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Leg 65,,60,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Chcken Lollipop,,120,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Honey Chicken,,180,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Garlic Chicken,,140,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Ginger Chicken,,140,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Dragon Chicken,,160,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Chilli Chicken,,140,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Chicken Manchurian,,140,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Lemon Chicken,,160,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Pepper Chicken,,160,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Chicken Fry,,120,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+HMD RESTAURANT,Grill Chicken Full,,390,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,1
+HMD RESTAURANT,Grill Chicken Half,,210,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,1
+HMD RESTAURANT,Grill Pepper Fry Full,,420,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,1
+HMD RESTAURANT,Grill Pepper Fry Half,,220,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,1,1
+HMD RESTAURANT,Aloo Gobi Masala,,85,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Dal Fry,,75,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Dal Dadka,,85,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Paneer Butter Masala,,165,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Palak Paneer,,165,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Kadai Paneer Masala,,155,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Mixed Veg,,75,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Channa Masala,,85,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Green Peas Masala,,75,,,,5,5,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Plain Gravy,,55,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Egg Masala,,85,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Egg Keema Masala,,85,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Butter Chicken Masala,,165,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Chicken Masala,,135,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Chettinad Chicken Masala,,155,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Kadai Chicken Masala,,145,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Pepper Chicken Masala,,165,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Hyderabadi Chicken Masala,,165,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Chicken Tikka Masala,,185,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Mutton Masala,,200,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Kadai Mutton Masala,,210,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Pepper Mutton Masala,,220,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Hyderabadi Mutton Masala,,240,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Prawn Masala,,165,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Crab Chettinad Masala,,195,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Crab Masala,,175,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravy,,0,,1,1
+HMD RESTAURANT,Naan 1 Pc,,35,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Plain Kulcha 1 Pc,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Butter Naan 1 Pc,,45,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Butter Kulcha 1 Pc,,50,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tandoori Parotta 1 Pc,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tandoori Lacha Parotta 1 Pc,,50,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Masala Kulcha 1 Pc,,50,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Paneer Kulcha 1 Pc,,35,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Butter Rotti 1 Pc,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Pulka 1 Pc,,15,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tandoori Full,,360,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tandoori Half,,190,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tandoori Quarter,,100,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Chicken Tikka,,160,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Hariyali Kabab,,180,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Rashmi Kabab,,180,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tangri Kabab,,180,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Malai Tikka,,190,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Ansari Kabab,,180,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tandoori Chicken Full,,360,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tandoori Chicken Half,,190,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tandoori Chicken Quarter,,100,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Chicken Tikka,,160,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Hariyali Kabab,,180,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Rashmi Kabab,,180,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Tangri Kabab,,180,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Malai Tikka,,190,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1
+HMD RESTAURANT,Ansari Kabab,,180,,,,5,5,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,1,1

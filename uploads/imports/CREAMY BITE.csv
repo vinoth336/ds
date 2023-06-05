@@ -1,0 +1,42 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+CREAMMI BITE,Italian Cassatta Fresh Cream Cake 1 Kg,,1000,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Special Cakes,,0,,1,1
+CREAMMI BITE,Chocolate Cappuccino Fresh Cream Cake 1Kg,,900,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Special Cakes,,0,,1,2
+CREAMMI BITE,Red Velvet Fresh Cream Cake 1 Kg,,1100,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Special Cakes,,0,,1,3
+CREAMMI BITE,Mixed Fruit Fresh Cream Cake 1 Kg,,1000,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Special Cakes,,0,,1,4
+CREAMMI BITE,Belgium Chocolate Fresh Cream Cake 1 Kg,,1100,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Special Cakes,,0,,1,5
+CREAMMI BITE,Vanilla Fresh Cream Cake 1 Kg,,750,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,1
+CREAMMI BITE,White Forest Fresh Cream Cake 1 Kg,,800,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,2
+CREAMMI BITE,Black Forest Fresh Cream Cake 1 Kg,,800,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,3
+CREAMMI BITE,Pineapple Fresh Cream Cake 1 Kg,,800,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,4
+CREAMMI BITE,Strawberry Fresh Cream Cake 1 Kg,,800,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,5
+CREAMMI BITE,Blueberry Fresh Cream Cake 1 Kg,,900,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,6
+CREAMMI BITE,Kiwi Fresh Cream Cake 1 Kg,,850,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,7
+CREAMMI BITE,Green Apple Fresh Cream Cake 1 Kg,,850,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,8
+CREAMMI BITE,Honey Fresh Cream Cake 1 Kg,,600,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,9
+CREAMMI BITE,Mango Alphonsa Fresh Cream Cake 1 Kg,,850,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,10
+CREAMMI BITE,Royal Butter Scotch Fresh Cream Cake 1 Kg,,900,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,11
+CREAMMI BITE,Chocolate Truffle Fresh Cream Cake 1 Kg,,900,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,12
+CREAMMI BITE,Irish Coffee Fresh Cream Cake 1 Kg,,850,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1 Kg,,0,,2,13
+CREAMMI BITE,Vanilla Butter Cream Cake 1 Kg,,500,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake 1 Kg,,0,,3,1
+CREAMMI BITE,Chocolate Butter Cream Cake 1 Kg,,600,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake 1 Kg,,0,,3,2
+CREAMMI BITE,Butter Scotch Butter Cream Cake 1 Kg,,650,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake 1 Kg,,0,,3,3
+CREAMMI BITE,Strawberry Butter Cream Cake 1 Kg,,550,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake 1 Kg,,0,,3,4
+CREAMMI BITE,Pineapple Butter Cream Cake 1 Kg,,550,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake 1 Kg,,0,,3,5
+CREAMMI BITE,Choco Vanilla Butter Cream Cake 1 Kg,,600,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake 1 Kg,,0,,3,6
+CREAMMI BITE,White Forest Fresh Cream Cake 1/2 Kg,,400,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1/2 Kg,,0,,4,1
+CREAMMI BITE,Black Forest Fresh Cream Cake 1/2 Kg,,400,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1/2 Kg,,0,,4,2
+CREAMMI BITE,Chocolate Truffle Fresh Cream Cake 1/2 Kg,,450,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1/2 Kg,,0,,4,3
+CREAMMI BITE,Strawberry Fresh Cream Cake 1/2 Kg,,400,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1/2 Kg,,0,,4,4
+CREAMMI BITE,Blueberry Fresh Cream Cake 1/2 Kg,,450,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1/2 Kg,,0,,4,5
+CREAMMI BITE,Royal Butter Scotch Fresh Cream Cake 1/2 Kg,,450,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes 1/2 Kg,,0,,4,6
+CREAMMI BITE,White Forest Cake 1 Pc,,80,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake Pcs,,0,,5,1
+CREAMMI BITE,Black Forest Cake 1 Pc,,80,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake Pcs,,0,,5,2
+CREAMMI BITE,Chocolate Tuffle Cake 1 Pc,,90,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake Pcs,,0,,5,3
+CREAMMI BITE,Strawberry Cake 1 Pc,,80,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake Pcs,,0,,5,4
+CREAMMI BITE,Blueberry Cake 1 Pc,,90,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake Pcs,,0,,5,5
+CREAMMI BITE,Royal Butter Scotch Cake 1 Pc,,90,,,,0,0,Non Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake Pcs,,0,,5,6
+CREAMMI BITE,Pizza Base 2 Pcs,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,6,1
+CREAMMI BITE,Sandwich Bread 1 Pack,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,6,2
+CREAMMI BITE,Burger Bun 4 Pcs,,60,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,6,3
+CREAMMI BITE,Sweet Bread 1 Pack,,50,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,6,4
+CREAMMI BITE,Sweet Bun 4 Pcs,,50,,,,0,0,Veg,10:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breads,,0,,6,5

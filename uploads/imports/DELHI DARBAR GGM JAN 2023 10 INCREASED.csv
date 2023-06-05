@@ -1,0 +1,284 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOTEL DELHI DHARBAR,Veg Clear Soup,,85,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,1
+HOTEL DELHI DHARBAR,Sweet Corn Veg Soup,,85,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,2
+HOTEL DELHI DHARBAR,Corn Noodles Soup,,85,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,3
+HOTEL DELHI DHARBAR,Veg Hot & Sour Soup,,85,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,4
+HOTEL DELHI DHARBAR,Veg Manchoo Soup,,85,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,5
+HOTEL DELHI DHARBAR,Tomato Soup,,85,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,6
+HOTEL DELHI DHARBAR,Baby Corn Soup,,85,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,1,7
+HOTEL DELHI DHARBAR,Chicken Clear Soup,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,2,1
+HOTEL DELHI DHARBAR,Sweet Corn Chicken Soup,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,2,2
+HOTEL DELHI DHARBAR,Tomato Egg Drop Soup,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,2,3
+HOTEL DELHI DHARBAR,Chicken Hot & Sour Soup,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,2,4
+HOTEL DELHI DHARBAR,Mutton Soup,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,2,5
+HOTEL DELHI DHARBAR,Pepper Chicken Soup,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,2,6
+HOTEL DELHI DHARBAR,Chicken Manchoo Soup,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soups,,0,,2,7
+HOTEL DELHI DHARBAR,Baby Corn Pepper Fry,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,1
+HOTEL DELHI DHARBAR,Golden Fried Baby Corn,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,2
+HOTEL DELHI DHARBAR,Baby Corn Chilly,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,3
+HOTEL DELHI DHARBAR,Baby Corn Manchurian,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+HOTEL DELHI DHARBAR,Gobi Chilly,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,5
+HOTEL DELHI DHARBAR,Gobi Monika,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,6
+HOTEL DELHI DHARBAR,Gobi Pepper Fry,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,7
+HOTEL DELHI DHARBAR,Gobi Manchurian,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,8
+HOTEL DELHI DHARBAR,Honey Chilly Gobi,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,9
+HOTEL DELHI DHARBAR,Honey Chilly Potato,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,10
+HOTEL DELHI DHARBAR,Gobi 65,,109,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,11
+HOTEL DELHI DHARBAR,Mushroom Manchurian,,121,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,12
+HOTEL DELHI DHARBAR,Mushroom 65,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,13
+HOTEL DELHI DHARBAR,Mushroom Chilly,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,14
+HOTEL DELHI DHARBAR,Golden Fry Mushroom,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,15
+HOTEL DELHI DHARBAR,Paneer Manchurian,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,16
+HOTEL DELHI DHARBAR,Paneer Monika,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,17
+HOTEL DELHI DHARBAR,Dragon Paneer,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,18
+HOTEL DELHI DHARBAR,Paneer Chilly,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,19
+HOTEL DELHI DHARBAR,Paneer Pepper Fry,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,20
+HOTEL DELHI DHARBAR,Methi Paneer,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,21
+HOTEL DELHI DHARBAR,Dharbar Special Chicken,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,1
+HOTEL DELHI DHARBAR,Chicken Lollypop 4 Pcs,,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,2
+HOTEL DELHI DHARBAR,Chicken Leg 3 Pcs,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,3
+HOTEL DELHI DHARBAR,Chicken Chilly Dry,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,4
+HOTEL DELHI DHARBAR,Chicken Manchurian,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,5
+HOTEL DELHI DHARBAR,Chicken 65,,121,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,6
+HOTEL DELHI DHARBAR,Pepper Chicken Dry,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,7
+HOTEL DELHI DHARBAR,Garlic Chicken Dry,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,8
+HOTEL DELHI DHARBAR,Ginger Chicken Dry,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,9
+HOTEL DELHI DHARBAR,Chicken Monika Dry,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,10
+HOTEL DELHI DHARBAR,Schezwan Chicken Dry,,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,11
+HOTEL DELHI DHARBAR,Dragon Chicken,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,12
+HOTEL DELHI DHARBAR,Cashew Chicken,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,13
+HOTEL DELHI DHARBAR,Hunan Chicken,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,14
+HOTEL DELHI DHARBAR,Coconut Chicken,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,15
+HOTEL DELHI DHARBAR,Malaysian Chicken,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,16
+HOTEL DELHI DHARBAR,Indonesia Chicken,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,17
+HOTEL DELHI DHARBAR,Hongkong Chicken,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,18
+HOTEL DELHI DHARBAR,Indonesia Ginger Chicken,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,19
+HOTEL DELHI DHARBAR,Spicy Kodi Kora,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,20
+HOTEL DELHI DHARBAR,Drumstick,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,21
+HOTEL DELHI DHARBAR,Kerala Chicken Fry,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,22
+HOTEL DELHI DHARBAR,Pepper Leg 3 Pcs,,254,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,23
+HOTEL DELHI DHARBAR,Hot Pepper Chicken,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,24
+HOTEL DELHI DHARBAR,Pichupota Kari,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,25
+HOTEL DELHI DHARBAR,Nattukozhi Varuval,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Starters,,0,,4,26
+HOTEL DELHI DHARBAR,Mutton Sukka Dry,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,1
+HOTEL DELHI DHARBAR,Mutton Onion Fry,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,2
+HOTEL DELHI DHARBAR,Mutton Pepper Fry,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,3
+HOTEL DELHI DHARBAR,Mutton Pepper & Salt,,290,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,4
+HOTEL DELHI DHARBAR,Mutton Manchurian,,303,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,5
+HOTEL DELHI DHARBAR,Mutton Pallipalayam,,303,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,6
+HOTEL DELHI DHARBAR,Mutton Chettinadu,,290,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,7
+HOTEL DELHI DHARBAR,Kadai Mutton Gravy,,303,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,8
+HOTEL DELHI DHARBAR,Mutton Balls 6 Pcs,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,9
+HOTEL DELHI DHARBAR,Mutton Monika,,290,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,10
+HOTEL DELHI DHARBAR,Keema Mutton,,290,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,11
+HOTEL DELHI DHARBAR,Mutton Kola Urundai 2 Pcs,,73,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,5,12
+HOTEL DELHI DHARBAR,Mixed Veg Curry,,169,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,1
+HOTEL DELHI DHARBAR,Gobi Masala,,182,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,2
+HOTEL DELHI DHARBAR,Gobi Kalimiruchi,,182,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,3
+HOTEL DELHI DHARBAR,Kadai Gobi,,194,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,4
+HOTEL DELHI DHARBAR,Green Peas Masala,,182,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,5
+HOTEL DELHI DHARBAR,Kadai Mushroom Chettinadu,,194,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,6
+HOTEL DELHI DHARBAR,Pepper Mushroom Masala,,182,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,7
+HOTEL DELHI DHARBAR,Veg Kadai,,182,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,8
+HOTEL DELHI DHARBAR,Paneer Methi Masala,,194,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,9
+HOTEL DELHI DHARBAR,Paneer Butter Masala,,194,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,10
+HOTEL DELHI DHARBAR,Paneer Masala,,182,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,11
+HOTEL DELHI DHARBAR,Kadai Paneer,,194,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravy,,0,,6,12
+HOTEL DELHI DHARBAR,Hyderabad Chicken Gravy,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,1
+HOTEL DELHI DHARBAR,Chicken Pallipalayam Gravy,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,2
+HOTEL DELHI DHARBAR,Chicken Chettinadu Gravy,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,3
+HOTEL DELHI DHARBAR,Pepper Chicken Masala,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,4
+HOTEL DELHI DHARBAR,Kerala Chicken Masala,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,5
+HOTEL DELHI DHARBAR,Chicken Varuval Gravy,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,6
+HOTEL DELHI DHARBAR,Garlic Chicken Gravy,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,7
+HOTEL DELHI DHARBAR,Ginger Chicken Gravy,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,8
+HOTEL DELHI DHARBAR,Chicken Monika Gravy,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,9
+HOTEL DELHI DHARBAR,Schezwan Chicken Gravy,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,10
+HOTEL DELHI DHARBAR,Coconut Chicken Gravy,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,11
+HOTEL DELHI DHARBAR,Chicken Manchurian Gravy,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,12
+HOTEL DELHI DHARBAR,Butter Chicken Masala,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,13
+HOTEL DELHI DHARBAR,Banaras Chicken Gravy,,254,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,14
+HOTEL DELHI DHARBAR,Kadai Chicken Gravy,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,15
+HOTEL DELHI DHARBAR,Dharbar Special Chicken Gravy,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,16
+HOTEL DELHI DHARBAR,Noipoor Hungama Chicken Gravy,,254,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,17
+HOTEL DELHI DHARBAR,Chicken Tikka Masala,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,18
+HOTEL DELHI DHARBAR,Chicken Gravy 2 Pcs,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,19
+HOTEL DELHI DHARBAR,Egg Burgi Masala,,145,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,20
+HOTEL DELHI DHARBAR,Nattukozhi Gravy,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,7,21
+HOTEL DELHI DHARBAR,Mutton Biriyani,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,1
+HOTEL DELHI DHARBAR,Mutton Mugal Biriyani,,327,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,2
+HOTEL DELHI DHARBAR,Chicken Biriyani,,157,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,3
+HOTEL DELHI DHARBAR,Chicken Mugal Biriyani,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,4
+HOTEL DELHI DHARBAR,Nattukozhi Biriyani,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,5
+HOTEL DELHI DHARBAR,Prawn Biriyani,,254,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,6
+HOTEL DELHI DHARBAR,Chicken Plain Biriyani,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,7
+HOTEL DELHI DHARBAR,Mutton Plain Biriyani,,121,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,8
+HOTEL DELHI DHARBAR,Veg Biriyani,,121,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,8,9
+HOTEL DELHI DHARBAR,Chicken Biriyani 4 Kg,Serve 7 to 8 Members,1065,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,9,1
+HOTEL DELHI DHARBAR,Chicken Biriyani 2 Kg,Serve 3 to 4 Members,532,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,9,2
+HOTEL DELHI DHARBAR,Chicken Biriyani 1 Kg,Serve 2 Members,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,9,3
+HOTEL DELHI DHARBAR,Mutton Biriyani 4 Kg,Serve 7 to 8 Members,2033,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,9,4
+HOTEL DELHI DHARBAR,Mutton Biriyani 2 Kg,Serve 3 to 4 Members,1016,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,9,5
+HOTEL DELHI DHARBAR,Mutton Biriyani 1 Kg,Serve 2 Members,508,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,9,6
+HOTEL DELHI DHARBAR,Plain Biriyani 4 Kg,Serve 7 to 8 Members,774,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,9,7
+HOTEL DELHI DHARBAR,Plain Biriyani 2 Kg,Serve 3 to 4 Members,387,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,9,8
+HOTEL DELHI DHARBAR,Plain Biriyani 1 Kg,Serve 2 Members,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bucket Biriyani,,0,,9,9
+HOTEL DELHI DHARBAR,Chicken Tikka,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,1
+HOTEL DELHI DHARBAR,Hariyali Kebab,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,2
+HOTEL DELHI DHARBAR,Reshmi Kebab,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,3
+HOTEL DELHI DHARBAR,Malai Tikka,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,4
+HOTEL DELHI DHARBAR,Anghura Kebab,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,5
+HOTEL DELHI DHARBAR,Kashmiri Tikka,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,6
+HOTEL DELHI DHARBAR,Chicken Bubisha,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,7
+HOTEL DELHI DHARBAR,Sushmitha Chicken,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,8
+HOTEL DELHI DHARBAR,Tangiri Kebab 2 Pcs,,315,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,9
+HOTEL DELHI DHARBAR,Afghani Kebab,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kebabs,,0,,10,10
+HOTEL DELHI DHARBAR,Arabian BBQ Full,,532,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,1
+HOTEL DELHI DHARBAR,Pepper BBQ Full,,545,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,2
+HOTEL DELHI DHARBAR,Chettinadu BBQ Full,,545,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,3
+HOTEL DELHI DHARBAR,Alfaham Chicken Full,,520,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,4
+HOTEL DELHI DHARBAR,Pepper Alfaham Full,,545,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,5
+HOTEL DELHI DHARBAR,Monika Alfaham Full,,545,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,6
+HOTEL DELHI DHARBAR,Chettinadu Alfaham Full,,545,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,7
+HOTEL DELHI DHARBAR,Arabian BBQ Half,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,8
+HOTEL DELHI DHARBAR,Pepper BBQ Half,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,9
+HOTEL DELHI DHARBAR,Chettinadu BBQ Half,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,10
+HOTEL DELHI DHARBAR,Alfaham Chicken Half,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,11
+HOTEL DELHI DHARBAR,Pepper Alfaham Half,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,12
+HOTEL DELHI DHARBAR,Monika Alfaham Half,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,13
+HOTEL DELHI DHARBAR,Chettinadu Alfaham Half,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,14
+HOTEL DELHI DHARBAR,Arabian BBQ Quarter,,145,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,15
+HOTEL DELHI DHARBAR,Alfaham Chicken Quarter,,145,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,BBQ Dry,,0,,11,16
+HOTEL DELHI DHARBAR,Paneer Tikka,,218,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Veg Dry,,0,,12,1
+HOTEL DELHI DHARBAR,Veg Sikh Kebab,,230,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Veg Dry,,0,,12,2
+HOTEL DELHI DHARBAR,Gobi Tikka,,218,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Veg Dry,,0,,12,3
+HOTEL DELHI DHARBAR,Paneer Sikh Kebab,,230,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Veg Dry,,0,,12,4
+HOTEL DELHI DHARBAR,Veg Shawarma Roll,,85,,,,0,0,veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,1
+HOTEL DELHI DHARBAR,Shawarma Regular Roll,,97,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,2
+HOTEL DELHI DHARBAR,Special Shawarma Roll,,169,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,3
+HOTEL DELHI DHARBAR,Lemon Shawarma Roll,,109,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,4
+HOTEL DELHI DHARBAR,Pepper Shawarma Roll,,109,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,5
+HOTEL DELHI DHARBAR,Spicy Shawarma Roll,,109,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,6
+HOTEL DELHI DHARBAR,Shawarma Regular Plate,,145,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,7
+HOTEL DELHI DHARBAR,Special Shawarma Plate,,169,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,8
+HOTEL DELHI DHARBAR,Lemon Shawarma Plate,,145,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,9
+HOTEL DELHI DHARBAR,Pepper Shawarma Plate,,145,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,10
+HOTEL DELHI DHARBAR,Spicy Shawarma Plate,,145,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,11
+HOTEL DELHI DHARBAR,Extra Kuboos,,18,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,12
+HOTEL DELHI DHARBAR,Extra Mayonnaise,,12,,,,0,0,Non Veg,,,,,,,05:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Shawarma,,0,,13,13
+HOTEL DELHI DHARBAR,Prawn Manchurian,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,1
+HOTEL DELHI DHARBAR,Prawn Chilly Pepper Fry,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,2
+HOTEL DELHI DHARBAR,Prawn Chilly,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,3
+HOTEL DELHI DHARBAR,Prawn Masala,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,4
+HOTEL DELHI DHARBAR,Prawn Chettinadu Masala,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,5
+HOTEL DELHI DHARBAR,Kadai Prawn,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,6
+HOTEL DELHI DHARBAR,Fish Manchurian,,169,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,7
+HOTEL DELHI DHARBAR,Fish Pepper Fry,,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,8
+HOTEL DELHI DHARBAR,Fish Masala,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,9
+HOTEL DELHI DHARBAR,Fish Curry,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,10
+HOTEL DELHI DHARBAR,Fish Chettinadu Masala,,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,11
+HOTEL DELHI DHARBAR,Chilly Fish,,145,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,12
+HOTEL DELHI DHARBAR,Vanjaram Fish,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,14,13
+HOTEL DELHI DHARBAR,Veg Pulao,,121,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulao,,0,,15,1
+HOTEL DELHI DHARBAR,Paneer Pulao,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulao,,0,,15,2
+HOTEL DELHI DHARBAR,Gobi Pulao,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulao,,0,,15,3
+HOTEL DELHI DHARBAR,Green Peas Pulao,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulao,,0,,15,4
+HOTEL DELHI DHARBAR,Mushroom Pulao,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulao,,0,,15,5
+HOTEL DELHI DHARBAR,Kashmiri Pulao,,157,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulao,,0,,15,6
+HOTEL DELHI DHARBAR,Jeera Rice,,121,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulao,,0,,15,7
+HOTEL DELHI DHARBAR,Ghee Rice,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pulao,,0,,15,8
+HOTEL DELHI DHARBAR,Plain Naan,,42,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,1
+HOTEL DELHI DHARBAR,Butter Naan,,55,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,2
+HOTEL DELHI DHARBAR,Tandoori Rotti,,42,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,3
+HOTEL DELHI DHARBAR,Butter Rotti,,55,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,4
+HOTEL DELHI DHARBAR,Romali Rotti,,42,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,5
+HOTEL DELHI DHARBAR,Puthina Rotti,,55,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,6
+HOTEL DELHI DHARBAR,Puthina Parotta,,55,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,7
+HOTEL DELHI DHARBAR,Tandoori Parotta,,48,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,8
+HOTEL DELHI DHARBAR,Kashmiri Naan,,66,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,9
+HOTEL DELHI DHARBAR,Latcher Parotta,,55,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,10
+HOTEL DELHI DHARBAR,Alo Parotta,,48,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,11
+HOTEL DELHI DHARBAR,Plain Kulcha,,54,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,12
+HOTEL DELHI DHARBAR,Butter Kulcha,,66,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,13
+HOTEL DELHI DHARBAR,Stuffed Kulcha Veg,,73,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,14
+HOTEL DELHI DHARBAR,Stuffed Kulcha Non Veg,,73,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,15
+HOTEL DELHI DHARBAR,Garlic Naan,,54,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,16
+HOTEL DELHI DHARBAR,Cheese Naan,,54,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,17
+HOTEL DELHI DHARBAR,Paneer Naan,,54,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,18
+HOTEL DELHI DHARBAR,Spl Tandoori Naan,,73,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,19
+HOTEL DELHI DHARBAR,Chappathi 2 Pcs,,36,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Rotti,,0,,16,20
+HOTEL DELHI DHARBAR,Tandoori Chicken Full,,508,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,17,1
+HOTEL DELHI DHARBAR,Tandoori Chicken Half,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,17,2
+HOTEL DELHI DHARBAR,Tandoori Chicken Quarter,,133,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,17,3
+HOTEL DELHI DHARBAR,Tandoori Pepper Dry Full,,532,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,17,4
+HOTEL DELHI DHARBAR,Tandoori Pepper Dry Half,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,17,5
+HOTEL DELHI DHARBAR,Tandoori Monika Full,,532,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,17,6
+HOTEL DELHI DHARBAR,Tandoori Monika Half,,278,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,17,7
+HOTEL DELHI DHARBAR,Extra Mayonnaise Half,,12,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,17,8
+HOTEL DELHI DHARBAR,Extra Mayonnaise Full,,24,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,17,9
+HOTEL DELHI DHARBAR,Plain Grill Full,,460,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,1
+HOTEL DELHI DHARBAR,Pepper Grill Full,,508,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,2
+HOTEL DELHI DHARBAR,Chettinadu Grill Full,,508,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,3
+HOTEL DELHI DHARBAR,Monika Grill Full,,508,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,4
+HOTEL DELHI DHARBAR,Plain Grill Half,,242,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,5
+HOTEL DELHI DHARBAR,Pepper Grill Half,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,6
+HOTEL DELHI DHARBAR,Chettinadu Grill Half,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,7
+HOTEL DELHI DHARBAR,Monika Grill Half,,266,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,8
+HOTEL DELHI DHARBAR,Plain Grill Quarter,,133,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,9
+HOTEL DELHI DHARBAR,Extra Mayonnaise Half,,12,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,10
+HOTEL DELHI DHARBAR,Extra Mayonnaise Full,,24,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grill Items,,0,,18,11
+HOTEL DELHI DHARBAR,Parotta 2 Pcs with Non Veg Kulambu,,48,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,1
+HOTEL DELHI DHARBAR,Parotta 2 Pcs Veg Kuruma,,48,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,2
+HOTEL DELHI DHARBAR,Bun Parotta with Non Veg Kulambu,,48,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,3
+HOTEL DELHI DHARBAR,Bun Parotta with Veg Kuruma,,48,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,3
+HOTEL DELHI DHARBAR,Veechu Parotta with Veg Kuruma,,42,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,4
+HOTEL DELHI DHARBAR,Egg Veechu Parotta,,61,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,5
+HOTEL DELHI DHARBAR,Egg Lapa,,109,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,6
+HOTEL DELHI DHARBAR,Chicken Lapa,,157,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,7
+HOTEL DELHI DHARBAR,Mutton Lapa,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,8
+HOTEL DELHI DHARBAR,Butter Parotta,,36,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,9
+HOTEL DELHI DHARBAR,Cauliflower Parotta,,73,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,10
+HOTEL DELHI DHARBAR,Paneer Parotta,,73,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,11
+HOTEL DELHI DHARBAR,Mushroom Parotta,,73,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,12
+HOTEL DELHI DHARBAR,Parotta Kothu Veg,,109,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,13
+HOTEL DELHI DHARBAR,Chicken Kothu,,157,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,15
+HOTEL DELHI DHARBAR,Mutton Kothu,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,16
+HOTEL DELHI DHARBAR,Chilly Parotta,,121,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,17
+HOTEL DELHI DHARBAR,Omelette ,,48,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta,,0,,19,18
+HOTEL DELHI DHARBAR,Idiyappam + Aattukal Paya,,182,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Idiyappam,,0,,20,1
+HOTEL DELHI DHARBAR,Idiyappam,,19,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Idiyappam,,0,,20,2
+HOTEL DELHI DHARBAR,Aattukal Paya,,133,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Idiyappam,,0,,20,3
+HOTEL DELHI DHARBAR,Veg Fried Rice,,109,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,1
+HOTEL DELHI DHARBAR,Veg Schezwan Fried Rice,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,2
+HOTEL DELHI DHARBAR,Mixed Veg Fried Rice,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,3
+HOTEL DELHI DHARBAR,Paneer Fried Rice,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,4
+HOTEL DELHI DHARBAR,Mushroom Fried Rice,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,5
+HOTEL DELHI DHARBAR,Gobi Fried Rice,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,6
+HOTEL DELHI DHARBAR,Egg Fried Rice,,133,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,7
+HOTEL DELHI DHARBAR,Egg Schezwan Fried Rice,,145,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,8
+HOTEL DELHI DHARBAR,Mutton Fried Rice,,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,9
+HOTEL DELHI DHARBAR,Mutton Schezwan Fried Rice,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,10
+HOTEL DELHI DHARBAR,Chicken Fried Rice,,157,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,11
+HOTEL DELHI DHARBAR,Chicken Schezwan Fried Rice,,169,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,12
+HOTEL DELHI DHARBAR,Chicken Hongkong Fried Rice,,169,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,13
+HOTEL DELHI DHARBAR,Triple Fried Rice,,169,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,14
+HOTEL DELHI DHARBAR,Mix Non Veg Fried Rice,,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,15
+HOTEL DELHI DHARBAR,Prawn Fried Rice,,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,16
+HOTEL DELHI DHARBAR,Prawn Schezwan Fried Rice,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,17
+HOTEL DELHI DHARBAR,Veg Noodles,,109,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,18
+HOTEL DELHI DHARBAR,Veg Schezwan Noodles,,133,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,19
+HOTEL DELHI DHARBAR,Mixed Veg Noodles,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,20
+HOTEL DELHI DHARBAR,Paneer Noodles,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,21
+HOTEL DELHI DHARBAR,Mushroom Noodles,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,22
+HOTEL DELHI DHARBAR,Gobi Noodles,,145,,,,0,0,veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,23
+HOTEL DELHI DHARBAR,Egg Noodles,,133,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,24
+HOTEL DELHI DHARBAR,Egg Schezwan Noodles,,145,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,25
+HOTEL DELHI DHARBAR,Mutton Noodles,,218,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,26
+HOTEL DELHI DHARBAR,Mutton Schezwan Noodles,,230,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,27
+HOTEL DELHI DHARBAR,Chicken Noodles,,157,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,28
+HOTEL DELHI DHARBAR,Chicken Schezwan Noodles,,169,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,29
+HOTEL DELHI DHARBAR,Chicken Hongkong Noodles,,169,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,30
+HOTEL DELHI DHARBAR,Chicken Hakka Noodles,,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,31
+HOTEL DELHI DHARBAR,Mix Non Veg Noodles,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,32
+HOTEL DELHI DHARBAR,Prawn Noodles,,206,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,33
+HOTEL DELHI DHARBAR,Prawn Schezwan Noodles,,194,,,,0,0,Non Veg,12:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,21,34

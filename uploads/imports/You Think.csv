@@ -1,0 +1,118 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+YOU THINK,Idly (2 Nos ),,15,,,,5,Veg,7:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Breakfast,,0,,1,1
+YOU THINK,Mini Idly ,,25,,,,5,Veg,7:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Breakfast,,0,,1,2
+YOU THINK,Poori ( 2 Nos),,30,,,,5,Veg,7:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Breakfast,,0,,1,3
+YOU THINK,Pongal,,40,,,,5,Veg,7:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Breakfast,,0,,1,4
+YOU THINK,Vada,,10,,,,5,Veg,7:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Breakfast,,0,,1,5
+YOU THINK,Sambar Vada (1 Nos),,15,,,,5,Veg,7:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Breakfast,,0,,1,6
+YOU THINK,Mini Tiffen,,50,,,,5,Veg,7:00AM,10:00AM,,,,,,,"1,2,3,4,5,6,7",1,,Breakfast,,0,,1,7
+YOU THINK,Meals ,,602,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,1
+YOU THINK,Mini Meals,,55,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,2
+YOU THINK,Meals Parcel,,65,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,3
+YOU THINK,Unlimited Meals,,80,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,4
+YOU THINK,Unlimited Meals Parce,,85,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,5
+YOU THINK,Special Meals,,130,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,6
+YOU THINK,Variety Rice,,40,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,7
+YOU THINK,Curd Rice,,35,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,8
+YOU THINK,Extra Rice,,15,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,9
+YOU THINK,Cup Curd,,10,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,10
+YOU THINK,Papad,,5,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,11
+YOU THINK,Chappathi (2 Nos),,30,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,12
+YOU THINK,Parotta (2 Nos),,30,,,,5,Veg,11:45PM,3:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,2,13
+YOU THINK,Idly (2 Nos),,15,,,,5,Veg,6:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner,,0,,3,1
+YOU THINK,Mini Idly ,,25,,,,5,Veg,6:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner,,0,,3,2
+YOU THINK,Chilly Idly,,50,,,,5,Veg,6:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner,,0,,3,3
+YOU THINK,Fried Idly,,50,,,,5,Veg,6:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner,,0,,3,4
+YOU THINK,Chola Poori,,50,,,,5,Veg,6:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner,,0,,3,5
+YOU THINK,Idlyappam ( 4 Nos),,40,,,,5,Veg,6:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner,,0,,3,6
+YOU THINK,Chappathi (2 Nos),,30,,,,5,Veg,6:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner,,0,,3,7
+YOU THINK,Parotta (2 Nos),,30,,,,5,Veg,6:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner,,0,,3,8
+YOU THINK,Chilli / Kothu Parotta,,65,,,,5,Veg,6:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dinner,,0,,3,9
+YOU THINK,Gobi 65,,75,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,4,1
+YOU THINK,Mushroom 65,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,4,2
+YOU THINK,Paneer 65,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,4,3
+YOU THINK,Babycorn 65,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,4,4
+YOU THINK,French Fries,,50,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Starters,,0,,4,5
+YOU THINK,Plain Dosa,,45,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,1
+YOU THINK,Masala Dosa,,50,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,2
+YOU THINK,Ghee Rosat,,55,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,3
+YOU THINK,Set Dosa (2 Nos),,45,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,4
+YOU THINK,Kal Dosa,,45,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,5
+YOU THINK,Onion Dosa,,50,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,6
+YOU THINK,Rava Dosa,,60,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,7
+YOU THINK,Onion Rava Dosa,,65,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,8
+YOU THINK,Podi Dosa,,50,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,9
+YOU THINK,Ghee Podi Dosa,,60,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,10
+YOU THINK,Ghee Podi Onion Dosa,,65,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,11
+YOU THINK,Wheat Dosa,,55,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,12
+YOU THINK,Carrot Dosa,,55,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,13
+YOU THINK,Coriander Dosa,,50,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,14
+YOU THINK,Mint Dosa,,50,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,15
+YOU THINK,Curry Leaves Podi Dosa,,55,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,16
+YOU THINK,Ragi Dosa,,55,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,17
+YOU THINK,Plain Uthappam,,45,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,18
+YOU THINK,Onion Uthappam,,50,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,19
+YOU THINK,Podi Uthappam,,50,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,20
+YOU THINK,Family Dosa,,100,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,21
+YOU THINK,Paper Dosa,,65,,,,5,Veg,,,,,,,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Dosa,,0,,5,22
+YOU THINK,Sweetcorn Soup,,45,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,6,1
+YOU THINK,Tomato Soup,,45,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,6,2
+YOU THINK,Hot & Sour Soup,,45,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,6,3
+YOU THINK,Veg Clear Soup,,45,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,6,4
+YOU THINK,Mushroom Soup,,45,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,6,5
+YOU THINK,Mix Veg Soup,,45,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Soups,,0,,6,6
+YOU THINK,Fruit Juice,,50,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,9,1
+YOU THINK,Fresh Lime (Salt / Sweet),,30,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,9,2
+YOU THINK,Fresh Lime Soda (Salt Sweet),,45,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,9,3
+YOU THINK,Lemon Mint,,40,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juices,,0,,9,4
+YOU THINK,Veg Fried Rice,,70,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,1
+YOU THINK,Schezwan Fried Rice,,75,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,2
+YOU THINK,Muchroomk Fried Rice,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,3
+YOU THINK,Paneer Fried Rice,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,4
+YOU THINK,Gobi Fried Rice,,75,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,5
+YOU THINK,Mixed Schezwan Fried Rice,,100,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,6
+YOU THINK,Mixed Veg Fried Rice,,110,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,7
+YOU THINK,Veg Briyani (Chinese Style),,70,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,8
+YOU THINK,Mushroom Briyani,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,9
+YOU THINK,Paneer Briyani,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,10
+YOU THINK,Gobi Briyani,,75,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,11
+YOU THINK,Veg Noodles,,75,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,12
+YOU THINK,Mushroom Noodles,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,13
+YOU THINK,Schezwan Noodles,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,14
+YOU THINK,Paneer Noodles,,95,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,15
+YOU THINK,Gobi Noodles,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,16
+YOU THINK,Veg Manchurian,,80,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,17
+YOU THINK,Gobi Manchurian,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,18
+YOU THINK,Paneer Manchurian,,95,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,19
+YOU THINK,Mushroom Manchurian,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,20
+YOU THINK,Paneer Lollipop,,150,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,21
+YOU THINK,Dragon Paneer,,130,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,22
+YOU THINK,Dragon Mushroom,,125,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,23
+YOU THINK,Dragon Potatoes,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,24
+YOU THINK,Chilli Potatoes,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,25
+YOU THINK,Kati Roll (Nos),,120,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,26
+YOU THINK,Channa Froes (Dry),,60,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Chinese,,0,,7,27
+YOU THINK,Vanilla Milkshake,,70,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,10,1
+YOU THINK,Strawberry Milkshake,,70,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,10,2
+YOU THINK,Chocolate Milkshake,,75,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,10,3
+YOU THINK,Butterscotch Milkshake,,75,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,10,4
+YOU THINK,Pista Milkshake,,75,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milkshakes,,0,,10,5
+YOU THINK,Dhall Fry,,60,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,1
+YOU THINK,Dhall Tadka,,70,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,2
+YOU THINK,Kadai Paneer,,120,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,3
+YOU THINK,Kadai Veg,,100,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,4
+YOU THINK,Mushroom Masala,,95,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,5
+YOU THINK,Punjabi Paneer,,100,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,6
+YOU THINK,Paneer Butter Masala,,110,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,7
+YOU THINK,Mix Veg Curry,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,8
+YOU THINK,Gobi Masala,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,9
+YOU THINK,Alu Gobi Masala,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,10
+YOU THINK,Alu Gobi Fry,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,11
+YOU THINK,Alu Capsicum Masala,,100,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,12
+YOU THINK,Green Peas Masala,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,13
+YOU THINK,Channa Masala,,85,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,14
+YOU THINK,Alu Channa Masala,,90,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,15
+YOU THINK,Mushroom Paneer Masala,,95,,,,5,Veg,,,,,11:59AM,3:00PM,6:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Gravy's,,0,,8,16
+YOU THINK,Lassi (Sweet / Salt),,40,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,11,1
+YOU THINK,Fruit Lassi,,70,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,11,2
+YOU THINK,Butter Milk,,15,,,,5,Veg,7:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,11,3

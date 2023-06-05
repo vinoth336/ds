@@ -1,0 +1,10 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+FAMOUS JIGARTHANDA,Normal Jigardhanda,,70,,,,5,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jigardhanda,,0,,2,4
+FAMOUS JIGARTHANDA,Special Jigaedhanda,,95,,,,5,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jigardhanda,,0,,2,4
+FAMOUS JIGARTHANDA,Vanilla Ice Cream,,80,,,,5,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,4
+FAMOUS JIGARTHANDA,Strawberry Ice Cream,,95,,,,5,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,4
+FAMOUS JIGARTHANDA,Butter Scotch IceCream,,95,,,,5,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,4
+FAMOUS JIGARTHANDA,Pista Ice Cream,,90,,,,5,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,4
+FAMOUS JIGARTHANDA,Chocolate Ice Cream,,95,,,,5,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,4
+FAMOUS JIGARTHANDA,Jigardhanda Ice Cream,,75,,,,5,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,4
+FAMOUS JIGARTHANDA,Kulfi Ice Cream,,110,,,,5,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,2,4

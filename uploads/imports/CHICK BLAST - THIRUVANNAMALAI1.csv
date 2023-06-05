@@ -1,0 +1,183 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+CHICK BLAST,Blast Veg Burger,Blast Veg Burger + Fries + Soft Drink,142,,,,10,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggie Specials Combo,,0,,1,1
+CHICK BLAST,Blast Tower Burger,Blast Tower Burger + Fries + Soft Drink,174,,,,10,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggie Specials Combo,,0,,1,2
+CHICK BLAST,Balst Veggie Wrap,Blast Veggie Wrap + Fries + Soft Drink,142,,,,10,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggie Specials Combo,,0,,1,3
+CHICK BLAST,Blast Paneer Wrap,Blast Paneer Wrap + Fries + Soft Drink,153,,,,10,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggie Specials Combo,,0,,1,4
+CHICK BLAST,Paneer Tandoori Burger,Paneer Tandoori Burger + Fries + Soft Drink,153,,,,10,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggie Specials Combo,,0,,1,5
+CHICK BLAST,Paneer Spicy Burger On Cheese,Paneer Spicy Burger On Cheese + Fries + Soft Drink,168,,,,10,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggie Specials Combo,,0,,1,6
+CHICK BLAST,Blast Chicken Burger 1,Blast Chicken Burger + Fries + Soft Drink,158,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Combos,,0,,2,1
+CHICK BLAST,Blast Chicken Burger 2,Blast Chicken Burger + 1 Pc Fried Chicken + Soft Drink,184,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Combos,,0,,2,2
+CHICK BLAST,Chicken Tower Burger 1,Chicken Tower Burger + Fries + Sofr Drink,200,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Combos,,0,,2,3
+CHICK BLAST,Chicken Tower Burger 2,Chicken Tower Burger + 1 Pc Fried Chicken + Fries & Soft Drink,258,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Combos,,0,,2,4
+CHICK BLAST,Blast Fish Burger,Blast Fish Burger + Fries + Soft Drink,163,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Combos,,0,,2,5
+CHICK BLAST,Double Fish Burger,Double Fish Burger + Fries + Soft Drink,200,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Combos,,0,,2,6
+CHICK BLAST,Spicy Fries 7 Flavoures Regular,,58,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Spicy Fries,,0,,4,1
+CHICK BLAST,Spicy Fries 7 Flavoures Large,,84,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Spicy Fries,,0,,4,2
+CHICK BLAST,Meal Box 1,2 Pc Fried Chicken + Fries + Soft Drink,195,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,1
+CHICK BLAST,Meal Box 2,3 Pc Fried Chicken + Fries + Soft Drink,258,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,2
+CHICK BLAST,Parotta 1,2 Pc Parotta + 1 Pc Chicken & Gravy,132,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,3
+CHICK BLAST,Parotta 2,2 Pc Parotta + 1 Pc Chicken & Gravy + Soft Drink,142,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,4
+CHICK BLAST,Chapati 1,2 Pc Chapati + 1 Pc Chicken & Gravy,132,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,5
+CHICK BLAST,Chapati 2,2 Pc Chapati + 1 Pc Chicken & Gravy + Soft Drink,142,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,6
+CHICK BLAST,Chicken Briyani 1,Chicken Briyani + Grill Chicken + Raitha,142,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,7
+CHICK BLAST,Chicken Briyani 2,Chicken Briyani + Fried Chicken Raitha,142,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,8
+CHICK BLAST,Chicken Wrap,Chicken Wrap + Fries + Soft Drink,153,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,9
+CHICK BLAST,Fish Wrap,Fish Wrap + Fries + Soft Drink,174,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,10
+CHICK BLAST,Family Meal,"4 Pc Chicken, 3 Pc Boneless Strips, 2 Pc Chicken Wrap, 2 Fries, 1 Salsa Dip, 1 Bbq Dip, 1 Lte. Soft Drink",725,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,11
+CHICK BLAST,Best Of Chick Blast,"8 Pc Chicken, 4 Pc Boneless Strips, 6 Pc Hot Lolly Wings, 1 Salsa Dip, 1 Bbq Dip, 1 Ltr. Soft Drink",846,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,3,12
+CHICK BLAST,Veg Briyani Bowl,,105,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,1
+CHICK BLAST,French Fries Regular,,48,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,2
+CHICK BLAST,French Fries Large,,69,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,3
+CHICK BLAST,Cheese Fries Regular,,69,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,4
+CHICK BLAST,Cheese Fries Large,,95,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,5
+CHICK BLAST,Mayo Fries Regular,,69,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,6
+CHICK BLAST,Mayo Fries Large,,95,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,7
+CHICK BLAST,Garlic Fries Regular,,69,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,8
+CHICK BLAST,Garlic Fries Large,,95,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,9
+CHICK BLAST,Barbeque Fries Regular,,69,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,10
+CHICK BLAST,Barbeque Fries Large,,95,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,11
+CHICK BLAST,Mozzarella Cheese Fries Regular,,69,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,12
+CHICK BLAST,Mozzarella Cheese Fries Large,,95,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,13
+CHICK BLAST,Salsa Mexicana Fries Regular,,69,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,14
+CHICK BLAST,Salsa Mexicana Fries Large,,95,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,15
+CHICK BLAST,Thousand Island Fries Regular,,69,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,16
+CHICK BLAST,Thousand Island Fries Large,,95,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Saucy Fries,,0,,5,17
+CHICK BLAST,Veggie Popcorns,,58,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggies,,0,,6,1
+CHICK BLAST,Veggie Strips,,58,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggies,,0,,6,2
+CHICK BLAST,Paneer Pops,,84,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggies,,0,,6,3
+CHICK BLAST,Paneer Paneer Strips (4 Pc),,105,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Veggies,,0,,6,4
+CHICK BLAST,Veg Simple,,42,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,1
+CHICK BLAST,Veg Grilled Sandwich,,48,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,2
+CHICK BLAST,Veg Italian Sandwich,,53,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,3
+CHICK BLAST,Chicken Simple,,48,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,4
+CHICK BLAST,Chicken Grilled Sandwich,,53,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,5
+CHICK BLAST,Chicken Italian Sandwich,,58,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,6
+CHICK BLAST,Egg Sandwich,,48,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,7,7
+CHICK BLAST,Egg Burger,,58,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Chicken Specials,,0,,8,1
+CHICK BLAST,Egg Wrap,,58,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Chicken Specials,,0,,8,2
+CHICK BLAST,Popcorn Chicken Regular,,69,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Chicken Specials,,0,,8,3
+CHICK BLAST,Popcorn Chicken Large,,116,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Chicken Specials,,0,,8,4
+CHICK BLAST,Chick Boneless Strips (3 Pieces),,105,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Chicken Specials,,0,,8,5
+CHICK BLAST,Chick Boneless Strips (6 Pieces),,205,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Chicken Specials,,0,,8,6
+CHICK BLAST,Hot Flavoured Wings (3 Pieces),,79,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Chicken Specials,,0,,8,7
+CHICK BLAST,Hot Flavoured Wings (6 Pieces),,158,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Chicken Specials,,1,,8,8
+CHICK BLAST,Fish Popcorn,,84,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,20,1
+CHICK BLAST,Prawn Popcorn,,95,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,20,2
+CHICK BLAST,Fish Strips (3 Pcs),,116,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Fish Specials,,0,,20,3
+CHICK BLAST,Curry Crunchy (2 Pcs),,163,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,1
+CHICK BLAST,Lemon Blast (2 Pcs),,163,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,2
+CHICK BLAST,Peri Peri (2 Pcs),,163,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,3
+CHICK BLAST,Hot Spicy (2 Pcs),,163,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,4
+CHICK BLAST,Ginger Spicy (2 Pcs),,163,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,5
+CHICK BLAST,Tandoori Spicy (2 Pcs),,163,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,6
+CHICK BLAST,Pepper Spicy (2 Pcs),,163,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,7
+CHICK BLAST,Curry Crunchy (4 Pcs),,315,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,8
+CHICK BLAST,Lemon Blast (4 Pcs),,315,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,9
+CHICK BLAST,Peri Peri (4 Pcs),,315,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,10
+CHICK BLAST,Hot Spicy (4 Pcs),,315,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,11
+CHICK BLAST,Ginger Spicy (4 Pcs),,315,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,12
+CHICK BLAST,Tandoori Spicy (4 Pcs),,315,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,13
+CHICK BLAST,Pepper Spicy (4 Pcs),,315,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,7  Spicy Flavoured Chicken,,0,,10,14
+CHICK BLAST,Crispy Fried Chicken (2 Pcs),,142,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,1
+CHICK BLAST,Crispy Fried Chicken (4 Pcs),,273,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,2
+CHICK BLAST,Crispy Fried Chicken (6 Pcs),,405,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,3
+CHICK BLAST,Crispy Fried Chicken (10 Pcs),,636,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,4
+CHICK BLAST,Hot Grilled Chicken (2 Pcs),,132,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,5
+CHICK BLAST,Hot Grilled Chicken (4 Pcs),,247,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,6
+CHICK BLAST,Hot Grilled Chicken (6 Pcs),,357,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,7
+CHICK BLAST,Hot Grilled Chicken (10 Pcs),,578,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,8
+CHICK BLAST,Crispy Fish Fillet (2 Pcs),,163,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,9
+CHICK BLAST,Crispy Fish Fillet (4 Pcs),,300,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,10
+CHICK BLAST,Crispy Fish Fillet (6 Pcs),,452,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,11
+CHICK BLAST,Crispy Fish Fillet (10 Pcs),,720,,,,10,60,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Buckets,,0,,11,12
+CHICK BLAST,Veggie Kids Meal,,116,,,,5,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Kids Meals,,0,,12,1
+CHICK BLAST,Non Veg Kids Meal,,116,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Kids Meals,,0,,12,2
+CHICK BLAST,1 Pc Fried Chicken & Fries,,105,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Kids Meals,,0,,12,3
+CHICK BLAST,2 Pcs Boneless Strips & Fries,,105,,,,5,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Kids Meals,,0,,12,4
+CHICK BLAST,Banana Lover,,48,,,,5,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Kid Sippers,,0,,13,1
+CHICK BLAST,Berry Sipper,,48,,,,5,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Kid Sippers,,0,,13,2
+CHICK BLAST,Apple Kickers,,48,,,,5,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Kid Sippers,,0,,13,3
+CHICK BLAST,Kiddy Lemon,,48,,,,5,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Kid Sippers,,0,,13,4
+CHICK BLAST,Angel Venni,,79,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Smoothiee's,,0,,14,1
+CHICK BLAST,Scotch Breakers,,79,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Smoothiee's,,0,,14,2
+CHICK BLAST,Lovely Choco,,79,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Smoothiee's,,0,,14,3
+CHICK BLAST,Darling Berry,,79,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Smoothiee's,,0,,14,4
+CHICK BLAST,Blue Mania,,69,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,0,,15,1
+CHICK BLAST,Mama Berry,,69,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,0,,15,2
+CHICK BLAST,Cool Mint,,69,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,1,,15,3
+CHICK BLAST,Apple Green,,69,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,0,,15,4
+CHICK BLAST,Melon Blasty,,69,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Blast Mojitos,,0,,15,5
+CHICK BLAST,Crunchy Choco,,95,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy Blasters,,0,,16,1
+CHICK BLAST,Nut 'N' Scotch,,95,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy Blasters,,0,,16,2
+CHICK BLAST,Berry 'N' Crush,,95,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy Blasters,,0,,16,3
+CHICK BLAST,Classic Cappuccino,,95,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Crunchy Blasters,,0,,16,4
+CHICK BLAST,Oreo Shake,,105,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,17,1
+CHICK BLAST,Kit Kat Shake,,105,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,17,2
+CHICK BLAST,Banana Butter Scotch Shake,,105,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,17,3
+CHICK BLAST,Cold Coffee Syrup Shake,,105,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Shakes,,0,,17,4
+CHICK BLAST,Chicken Student Burger,,48,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,1
+CHICK BLAST,1 Pc Chicken,,74,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,2
+CHICK BLAST,1 Pc Crispy Fish,,84,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,3
+CHICK BLAST,1 Pc Grilled Chicken,,69,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,4
+CHICK BLAST,2 Pc Chicken Of Choice,,153,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,5
+CHICK BLAST,5 Pc Chicken Nuggets,,95,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,6
+CHICK BLAST,2 Pc Parotta & Gravy,,74,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,7
+CHICK BLAST,2 Pc Chapati & Gravy,,74,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,8
+CHICK BLAST,Chicken Briyani,,105,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,9
+CHICK BLAST,Chicken Wrap,,105,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,10
+CHICK BLAST,Chicken Burger,,111,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,11
+CHICK BLAST,Chicken Supreme Burger,,142,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,12
+CHICK BLAST,Chicken Tower Burger,,142,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,13
+CHICK BLAST,Fish Burger,,116,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,14
+CHICK BLAST,Fish Tower Burger,,163,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,15
+CHICK BLAST,Regular Soft Drinks,,21,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot & Crispy Chicken,,0,,18,16
+CHICK BLAST,Veg Student Burger,,37,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,1
+CHICK BLAST,Potato Wedges,,53,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,2
+CHICK BLAST,Veg Nuggets,,58,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,3
+CHICK BLAST,Veg Smiles,,58,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,4
+CHICK BLAST,Veg Strips,,58,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,5
+CHICK BLAST,Veg Pops,,58,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,6
+CHICK BLAST,Coleslaw,,48,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,7
+CHICK BLAST,Cheese On Burger,,21,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,8
+CHICK BLAST,Mayo,,27,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,9
+CHICK BLAST,Veg Wrap,,84,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,10
+CHICK BLAST,Ver Burger,,84,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,11
+CHICK BLAST,Veg Supreme Burger,,132,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,12
+CHICK BLAST,Veg Tower Burger,,142,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Vegetarian Bites,,0,,19,13
+CHICK BLAST,Simple Veggie Cheese,"Green Chillies, Onion, Tomato And Cheese",116,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,1
+CHICK BLAST,Margherita Pizza,"Garlic, Tomato And Basil",142,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,2
+CHICK BLAST,Exotica Lovers,"Green Chillies, Black Olives, Jalapeno, Red Capsicum, Onion And Cheese",168,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,3
+CHICK BLAST,Veggie 'Bbq' Blast,"Bbq, Green Chillies, Black Olives, Jalapeno, Red Capsicum, Onion And Cheese",189,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,4
+CHICK BLAST,Veggie 'N' Supreme,"Green Chillies, Paneer, Tomato, Black Olives, Jalapeno, Red Capsicum, Onion And Cheese",210,,,,10,100,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,5
+CHICK BLAST,Chicken 'N' Spicy,"Chicken, Onion And Green Chilli, Green Capsicum, And Cheese",174,,,,10,100,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,6
+CHICK BLAST,Ferry 'N' Crunchy,"Crispy Curry Chicken, Capsicum With Black Olives, Green Chillies, Jalapenos, Cheese",210,,,,10,100,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,7
+CHICK BLAST,Chicken 'Bbq' Crunchy Blast,"Bbq, Crispy Curry Chicken, Capsicum With Blast Olives, Green Chillies, Jalapenos, Cheese",231,,,,10,100,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,8
+CHICK BLAST,Fish 'N' Spicy,"Fish, Onion And Green Chilli, Green Capsicum, And Cheese",247,,,,10,100,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,9
+CHICK BLAST,Chick 'N' Supreme,"Crispy Chicken, Chicken Tandoori Flavoored, Green Chillies, Black Olives, Green Capsicum, Spicy Jalapenos And Cheese",258,,,,10,100,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,10
+CHICK BLAST,Chick Pop Burger,,79,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,New Launch,,0,,21,1
+CHICK BLAST,Chick Pop Wrap,,74,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,New Launch,,0,,21,2
+CHICK BLAST,Crispy Chicken Cheese Pizza,,111,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,New Launch,,0,,21,3
+CHICK BLAST,Veg Quesadilla,,142,,,,10,30,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Quesadilla,,0,,22,1
+CHICK BLAST,Chicken Quesadilla,,163,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Quesadilla,,0,,22,2
+CHICK BLAST,Fish Quesadilla,,184,,,,10,30,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Quesadilla,,0,,22,3
+CHICK BLAST,Veg Fried Rice,,84,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veggie Special,,0,,23,1
+CHICK BLAST,Veg Schezwan Fried Rice,,95,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veggie Special,,0,,23,2
+CHICK BLAST,Veg Noodles,,84,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veggie Special,,0,,23,3
+CHICK BLAST,Veg Schezwan Noodles,,95,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veggie Special,,0,,23,4
+CHICK BLAST,Veg Paneer Fried Rice (Normal),,105,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veggie Special,,0,,23,5
+CHICK BLAST,Veg Paneer Fried Rice (Schezwan),,105,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veggie Special,,0,,23,6
+CHICK BLAST,Veg Paneer Noodles (Noodles),,105,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veggie Special,,0,,23,7
+CHICK BLAST,Veg Paneer Noodles (Schezwan),,105,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veggie Special,,0,,23,8
+CHICK BLAST,Egg Fried Rice,,84,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Special,,0,,24,1
+CHICK BLAST,Egg Schezwan Fried Rice,,95,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Special,,0,,24,2
+CHICK BLAST,Egg Noodles,,95,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Special,,0,,24,3
+CHICK BLAST,Egg Schezwan Noodles,,105,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Special,,0,,24,4
+CHICK BLAST,Chicken Fried Rice,,95,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Special,,0,,25,1
+CHICK BLAST,Chicken Schezwan Fried Rice,,105,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Special,,0,,25,2
+CHICK BLAST,Chicken Noodles,,95,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Special,,0,,25,3
+CHICK BLAST,Chicken Schezwan Noodles,,105,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Special,,0,,25,4
+CHICK BLAST,Veg Pasta,,116,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Italian Pastas,,0,,26,1
+CHICK BLAST,Non Veg Pasta,,137,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Italian Pastas,,0,,26,2
+CHICK BLAST,Paneer Tikka,,147,,,,5,25,Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka Special,,0,,27,1
+CHICK BLAST,Chicken Tikka,,189,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka Special,,0,,27,2
+CHICK BLAST,Fish Tikka,,189,,,,5,25,Non Veg,11:15AM,11:45PM,,,,,,,"1,2,3,4,5,6,7",1,,Tikka Special,,0,,27,3

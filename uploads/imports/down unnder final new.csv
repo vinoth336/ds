@@ -1,0 +1,82 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DOWN UNDER BY HERITAGE,Masala Dosa,From The South,145.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,1
+DOWN UNDER BY HERITAGE,Podi Dosa,From The South,135.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,2
+DOWN UNDER BY HERITAGE,Davanagere Benne Dosa,From The South,135.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,3
+DOWN UNDER BY HERITAGE,Cheese Dosa,From The South,156.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,4
+DOWN UNDER BY HERITAGE,Ghee Roast,From The South,156.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,5
+DOWN UNDER BY HERITAGE,Muttai Dosa,From The South,145.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,6
+DOWN UNDER BY HERITAGE,Chicken Masala Dosa,From The South,177.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,7
+DOWN UNDER BY HERITAGE,Dosa With Chicken Curry,From The South,156.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,8
+DOWN UNDER BY HERITAGE,Podi Uthappam,From The South,135.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,9
+DOWN UNDER BY HERITAGE,Dosizza,From The South,166.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,10
+DOWN UNDER BY HERITAGE,Benne Sponge Dosa,From The South,135.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,11
+DOWN UNDER BY HERITAGE,Cheese Uthappam,From The South,156.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Delights,,0,,1,12
+DOWN UNDER BY HERITAGE,Thattu Idly,From The South,124.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Incredible Idly,,0,,1,13
+DOWN UNDER BY HERITAGE,Podi Fried Idly,From The South,114.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Incredible Idly,,0,,1,14
+DOWN UNDER BY HERITAGE,Sambar Idly,From The South,114.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Incredible Idly,,0,,1,15
+DOWN UNDER BY HERITAGE,Idly With Chicken Curry,From The South,135.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Incredible Idly,,0,,1,16
+DOWN UNDER BY HERITAGE,Waffle Podi Fried Idly,From The South,114.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Incredible Idly,,0,,1,17
+DOWN UNDER BY HERITAGE,Waffle Cheese Idly,From The South,124.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Incredible Idly,,0,,1,18
+DOWN UNDER BY HERITAGE,Roti,From The North,61.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Treats,,0,,2,1
+DOWN UNDER BY HERITAGE,Naan,From The North,72.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Treats,,0,,2,2
+DOWN UNDER BY HERITAGE,Paneer Tikka,From The North,177.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Treats,,0,,2,3
+DOWN UNDER BY HERITAGE,Malai Paneer Tikka,From The North,177.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Treats,,0,,2,4
+DOWN UNDER BY HERITAGE,Harilali Paneer Tikka,From The North,166.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Treats,,0,,2,5
+DOWN UNDER BY HERITAGE,Chicken Tikka,From The North,208.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Treats,,0,,2,6
+DOWN UNDER BY HERITAGE,Malai Chicken Tikka,From The North,208.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Treats,,0,,2,7
+DOWN UNDER BY HERITAGE,Hariyali Chicken Tikka,From The North,198.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori Treats,,0,,2,8
+DOWN UNDER BY HERITAGE,Dal,From The North,103.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Classic Curries,,0,,3,1
+DOWN UNDER BY HERITAGE,Kadai Vegetables,From The North,135.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Classic Curries,,0,,3,2
+DOWN UNDER BY HERITAGE,Paneer Butter Masala,From The North,145.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Classic Curries,,0,,3,3
+DOWN UNDER BY HERITAGE,Chicken Curry,From The North,145.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Classic Curries,,0,,3,4
+DOWN UNDER BY HERITAGE,Butter Chicken Masala,From The North,166.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Classic Curries,,0,,3,5
+DOWN UNDER BY HERITAGE,Paneer Tikka Roll,From The North,156.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Rocking Rolls,,0,,4,1
+DOWN UNDER BY HERITAGE,Malai Paneer Tikka Roll,From The North,166.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Rocking Rolls,,0,,4,2
+DOWN UNDER BY HERITAGE,Hariyali Paneer Tikka Roll,From The North,166.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Rocking Rolls,,0,,4,3
+DOWN UNDER BY HERITAGE,Chicken Tikka Roll,From The North,187.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Rocking Rolls,,0,,4,4
+DOWN UNDER BY HERITAGE,Malai Chicken Tikka Roll,From The North,187.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Rocking Rolls,,0,,4,5
+DOWN UNDER BY HERITAGE,Hariyali Chicken Tikka Roll,From The North,177.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Rocking Rolls,,0,,4,6
+DOWN UNDER BY HERITAGE,Chicken Shawarma Plain,,82.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Sensational Chicken Shawarma,,0,,4,7
+DOWN UNDER BY HERITAGE,Chicken Shawarma Mexican,,93.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Sensational Chicken Shawarma,,0,,4,8
+DOWN UNDER BY HERITAGE,Chicken Shawarma Jumbo Plain,,114.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Sensational Chicken Shawarma,,0,,4,9
+DOWN UNDER BY HERITAGE,Chicken Shawarma Jumbo Mexican,,124.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Sensational Chicken Shawarma,,0,,4,10
+DOWN UNDER BY HERITAGE,Chicken Shawarma Platter,,114.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Sensational Chicken Shawarma,,0,,4,11
+DOWN UNDER BY HERITAGE,Crispy Fried Chicken (3 Pcs),,124.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Chickens,,0,,5,1
+DOWN UNDER BY HERITAGE,Crispy Fried Chicken (6 Pcs),,229.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Chickens,,0,,5,2
+DOWN UNDER BY HERITAGE,Crispy Fried Chicken (12 Pcs),,439.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Chickens,,0,,5,3
+DOWN UNDER BY HERITAGE,Veg Pasta White,,156.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Pasta Partys,,0,,6,1
+DOWN UNDER BY HERITAGE,Veg Pasta Red,,156.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Pasta Partys,,0,,6,2
+DOWN UNDER BY HERITAGE,Veg Pasta Mix,,156.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Pasta Partys,,0,,6,3
+DOWN UNDER BY HERITAGE,Veg Pasta Pesto,,177.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Pasta Partys,,0,,6,4
+DOWN UNDER BY HERITAGE,Chicken Pasta With White Sauce,,187.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Pasta Partys,,0,,6,5
+DOWN UNDER BY HERITAGE,Chicken Pasta With Red Sauce,,187.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Pasta Partys,,0,,6,6
+DOWN UNDER BY HERITAGE,Chicken Pasta With Pink Sauce,,187.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Pasta Partys,,0,,6,7
+DOWN UNDER BY HERITAGE,Chicken Pasta With Pesto Sauce,,208.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Pasta Partys,,0,,6,8
+DOWN UNDER BY HERITAGE,Grilled Chicken Quarter,From The Middle East,103.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Glorious Grilled Chicken,,0,,7,1
+DOWN UNDER BY HERITAGE,Grilled Chicken Half,From The Middle East,208.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Glorious Grilled Chicken,,0,,7,2
+DOWN UNDER BY HERITAGE,Grilled Chicken Full,From The Middle East,387.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Glorious Grilled Chicken,,0,,7,3
+DOWN UNDER BY HERITAGE,Kuboos With Hummus,From The Middle East,73.5,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Glorious Grilled Chicken,,0,,7,4
+DOWN UNDER BY HERITAGE,Softy Vanilla,,40.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Divine Desserts,,0,,8,1
+DOWN UNDER BY HERITAGE,Softy Chocolate,,40.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Divine Desserts,,0,,8,2
+DOWN UNDER BY HERITAGE,Brownie With Ice Cream,,135.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Divine Desserts,,0,,8,3
+DOWN UNDER BY HERITAGE,Belgian Waffle With Chocolate,,124.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Divine Desserts,,0,,8,4
+DOWN UNDER BY HERITAGE,Belgian Waffle With Salted Caramet,,124.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Divine Desserts,,0,,8,5
+DOWN UNDER BY HERITAGE,Belgian Waffle With Strawberry,,124.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Divine Desserts,,0,,8,6
+DOWN UNDER BY HERITAGE,Veg Pav Bhaji,From The North,124.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Brilliant Bhaji & Pav,,0,,9,1
+DOWN UNDER BY HERITAGE,Cheese Pav Bhaji,From The North,145.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Brilliant Bhaji & Pav,,0,,9,2
+DOWN UNDER BY HERITAGE,Chicken Kheema Pav Bhaji,From The North,177.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Brilliant Bhaji & Pav,,0,,9,3
+DOWN UNDER BY HERITAGE,Dosa 2019,(3Ft Dosa With 20 Fillings),313.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Specials,,0,,10,1
+DOWN UNDER BY HERITAGE,Channa Bhatura,,156.45,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Signature Specials,,0,,10,2
+DOWN UNDER BY HERITAGE,Onion Rings,From Around The World,103.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Snappy Snacks,,0,,11,1
+DOWN UNDER BY HERITAGE,Paneer Tikka Sandwich,From Around The World,166.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Snappy Snacks,,0,,11,2
+DOWN UNDER BY HERITAGE,Chicken Tikka Sandwich,From Around The World,177.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Snappy Snacks,,0,,11,3
+DOWN UNDER BY HERITAGE,Coleslaw Chicken Sandwich,From Around The World,187.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Snappy Snacks,,0,,11,4
+DOWN UNDER BY HERITAGE,Bahraini (Chicken Club Sandwich),From Around The World,198.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Snappy Snacks,,0,,11,5
+DOWN UNDER BY HERITAGE,Fries,From Around The World,103.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Snappy Snacks,,0,,11,6
+DOWN UNDER BY HERITAGE,Veg Burger,,124.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Brilliant Burgers,,0,,11,7
+DOWN UNDER BY HERITAGE,Chicken Burger,,156.45,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Brilliant Burgers,,0,,11,8
+DOWN UNDER BY HERITAGE,Combo 1,"Paneer Butter Masala, Paneer Tikka, Ghee Rice",187.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Cool / Combos,,0,,12,1
+DOWN UNDER BY HERITAGE,Combo 2,"Butter Chicken, Chicken Tikka, Naan, Ghee Rice",208.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Cool / Combos,,0,,12,2
+DOWN UNDER BY HERITAGE,Combo 3,"Pulao, Kadai Vegetables, Paneer Tikka & Roti",187.95,,,,,Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Cool / Combos,,0,,12,3
+DOWN UNDER BY HERITAGE,Combo 4 ,"Pulao, Kadai Chicken, Chicken Tikka & Roti",208.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Cool / Combos,,0,,12,4
+DOWN UNDER BY HERITAGE,Combo 5,"Pulao, Kadai Chicken, Chicken Tikka & Roti",208.95,,,,,Non-Veg,11:15am,10:45pm,,,,,,,"1,2,3,4,5,6,7",1,,Cool / Combos,,0,,12,5

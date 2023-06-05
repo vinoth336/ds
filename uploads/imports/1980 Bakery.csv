@@ -1,0 +1,47 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+1980 BAKERY,White Forest Single Pc,,60,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Piece Cakes,,0,,1,1
+1980 BAKERY,Black Forest Single Pc,,60,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Piece Cakes,,0,,2,1
+1980 BAKERY,Choco Truffle Single Pc,,85,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Piece Cakes,,0,,3,1
+1980 BAKERY,Red Velvet Single Pc,,85,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Piece Cakes,,0,,3,1
+1980 BAKERY,White Forest  1/2Kg,,360,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake,,0,,4,1
+1980 BAKERY,white Forest 1 Kg,,720,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake,,0,,5,1
+1980 BAKERY,Black Forest 1/2Kg,,360,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake,,0,,5,1
+1980 BAKERY,Black Forest 1 Kg,,720,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake,,0,,6,1
+1980 BAKERY,Choco Truffle 1/2Kg,,420,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake,,0,,1,2
+1980 BAKERY,Choco Truffle 1 Kg,,840,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake,,0,,2,2
+1980 BAKERY,Red Velvet 1/2Kg,,420,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake,,0,,3,2
+1980 BAKERY,Red Velvet 1Kg,,840,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake,,0,,4,2
+1980 BAKERY,Rainbow Cake 1Kg,,1000,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cake,,0,,5,2
+1980 BAKERY,Vanilla Butter Cream Cake Pc,,20,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Piece Cake,,0,,6,2
+1980 BAKERY,Strawberry Butter Cream Cake Pc,,20,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Piece Cake,,0,,7,2
+1980 BAKERY,ButterScotch Cream Cake Pc,,20,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Piece Cake,,0,,1,3
+1980 BAKERY,Vanilla Butter Cream Cake 1/2 Kg,,380,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake,,0,,4,3
+1980 BAKERY,Vanilla Butter Cream Cake 1 Kg,,760,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake,,0,,5,3
+1980 BAKERY,Strawberry Butter Cream Cake 1/2 Kg,,380,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake,,0,,3,4
+1980 BAKERY,Strawberry Butter Cream Cake 1 Kg,,760,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake,,0,,4,4
+1980 BAKERY,ButterScotch Cream Cake 1/2 Kg,,380,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake,,0,,5,4
+1980 BAKERY,ButterScotch Cream Cake 1 Kg,,760,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cake,,0,,6,4
+1980 BAKERY,Veg Puff (1Pc),,20,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Puffs Items,,0,,7,4
+1980 BAKERY,Egg  Puff (1Pc),,20,,,,0,0,Non Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Puffs Items,,0,,1,5
+1980 BAKERY,Mushroom Puff (1Pc),,20,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Puffs Items,,0,,2,5
+1980 BAKERY,Samosa (1Pc),,20,,,,0,0,Veg,08:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,2,5
+1980 BAKERY,Veg Roll (1 Pc),,25,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,1,1
+1980 BAKERY,Choco Donut (1Pc),,40,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Donuts,,0,,3,1
+1980 BAKERY,Cookies (100gm),,45,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Cookies,,0,,4,1
+1980 BAKERY,Bread Pkt,,40,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bread,,0,,6,1
+1980 BAKERY,Jagiri  (100grm),,45,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,2
+1980 BAKERY,Laddu (100grm),,45,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,2,2
+1980 BAKERY,Badusa (100grm),,45,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,2,2
+1980 BAKERY,Mixture(100grm),,40,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,2
+1980 BAKERY,Mixture Spl (100grm),,46,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,4,2
+1980 BAKERY,Pepper Sev (100grm),,44,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,5,2
+1980 BAKERY,Ribbon Pakoda (100grm),,44,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,6,2
+1980 BAKERY,Kadala Pakoda (100grm),,40,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,1,4
+1980 BAKERY,Potato Chips (100grm),,55,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,2,4
+1980 BAKERY,Finger Potato (100grm),,52,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,6,2
+1980 BAKERY,Andra Murukku,,44,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,1,4
+1980 BAKERY,Butter Murukku,,44,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,2,4
+1980 BAKERY,French Fries (100 grm),,80,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,2,4
+1980 BAKERY,Veg Nuggets,,80,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,2,4
+1980 BAKERY,Chicken Nueets,,80,,,,0,0,Non Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,2,4
+1980 BAKERY,Smiley,,80,,,,0,0,Veg,11:00AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries,,0,,2,4

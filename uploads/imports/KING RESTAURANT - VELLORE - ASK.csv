@@ -1,0 +1,121 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+KING RESTAURANT,Veg Fried Rice,,70,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,1
+KING RESTAURANT,Gobi Fried Rice,,80,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,2
+KING RESTAURANT,Mushroom Fried Rice,,90,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,3
+KING RESTAURANT,Paneer Fried Rice,,90,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,4
+KING RESTAURANT,Mix Veg Fried Rice,,100,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,5
+KING RESTAURANT,Egg Fried Rice,,80,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,6
+KING RESTAURANT,Chicken Fried Rice,,100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,7
+KING RESTAURANT,Prawn Fried Rice,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,8
+KING RESTAURANT,Mixed Non Veg Fried Rice,,140,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,9
+KING RESTAURANT,Veg Noodles,,70,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,1
+KING RESTAURANT,Gobi Noodles,,70,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,2
+KING RESTAURANT,Mushroom Noodles,,80,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,3
+KING RESTAURANT,Paneer Noodles,,80,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,4
+KING RESTAURANT,Mixed Noodles,,90,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,5
+KING RESTAURANT,Egg Noodles,,70,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,6
+KING RESTAURANT,Chicken Noodles,,100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,7
+KING RESTAURANT,Prawn Noodles,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,8
+KING RESTAURANT,Mixed Non Veg Noodles,,140,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,9
+KING RESTAURANT,Veg Sandwich,,45,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,1
+KING RESTAURANT,Paneer Sandwich,,50,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,2
+KING RESTAURANT,Mushroom Sandwich,,55,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,3
+KING RESTAURANT,Chicken Keema Sandwich,,55,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,4
+KING RESTAURANT,Chicken Keema Egg Sandwich,,55,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,5
+KING RESTAURANT,Egg Sandwich,,45,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,6
+KING RESTAURANT,Bread Omlette Sandwich,,55,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,7
+KING RESTAURANT,Egg Cheese Sandwich,,55,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,9,8
+KING RESTAURANT,Veg Maggi,,65,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,14,1
+KING RESTAURANT,Egg Maggi,,70,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,14,2
+KING RESTAURANT,Chicken Maggi,,80,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,14,3
+KING RESTAURANT,Egg Semiya,,55,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Semiya,,0,,14,4
+KING RESTAURANT,Chicken Semiya,,65,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Semiya,,0,,14,5
+KING RESTAURANT,Veg Meals,,85,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,5,1
+KING RESTAURANT,Non Veg Meals,"White Rice, Ragi Ball, Chicken Gravy, Fish Curry, Egg Podimas, Rasam, Buttermilk",100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,5,2
+KING RESTAURANT,Chicken Briyani,,85,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,6,1
+KING RESTAURANT,Kushka With Egg,,65,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,6,2
+KING RESTAURANT,Prawn Briyani,,110,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,6,3
+KING RESTAURANT,Kadai Briyani,,110,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,6,4
+KING RESTAURANT,Omlet,,20,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,1
+KING RESTAURANT,Boiled Egg,,20,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,2
+KING RESTAURANT,Kalki,,20,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,3
+KING RESTAURANT,Egg Podimass,,40,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,4
+KING RESTAURANT,Masala Omlet,,40,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,5
+KING RESTAURANT,Noodles Omlet,,40,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,6
+KING RESTAURANT,Chicken Noodles Omlet,,50,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,7
+KING RESTAURANT,Chicken Keema Omlet,,50,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,8,8
+KING RESTAURANT,Parotta (2 Pcs),,30,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Bread,,0,,15,1
+KING RESTAURANT,Naan,,25,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Bread,,0,,15,2
+KING RESTAURANT,Butter Naan,,35,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Bread,,0,,15,3
+KING RESTAURANT,Nattu Kozhi Gravy,,180,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,1
+KING RESTAURANT,Nattu Kozhi Chukka,,180,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,2
+KING RESTAURANT,Mutton Botti Gravy,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,3
+KING RESTAURANT,Mutton Botti Pepper Fry,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,4
+KING RESTAURANT,Mutton Botti Fry,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,5
+KING RESTAURANT,Mutton Chukka,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,6
+KING RESTAURANT,Mutton Pepper Fry,,140,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,7
+KING RESTAURANT,Mutton Gralic Keema,,140,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,8
+KING RESTAURANT,Mutton King Gravy,,140,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,9
+KING RESTAURANT,Mutton Rogan Josh,,140,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,10
+KING RESTAURANT,Mutton Liver Fry,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,11
+KING RESTAURANT,Mutton Blood Fry,,60,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,12
+KING RESTAURANT,Chicken Rogan Josh,,110,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,13
+KING RESTAURANT,Chicken Pepper Fry,,110,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,14
+KING RESTAURANT,Punjabi Chicken Gravy,,110,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,15
+KING RESTAURANT,Butter Chicken,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,16
+KING RESTAURANT,Ginger Chicken,,110,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,17
+KING RESTAURANT,Garlic Chicken,,110,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,18
+KING RESTAURANT,Chettinadu Chicken,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,19
+KING RESTAURANT,Fish Curry,,90,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,20
+KING RESTAURANT,Fish Fry,,90,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,21
+KING RESTAURANT,Egg Podimass,,70,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,22
+KING RESTAURANT,Egg Keema,,80,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,23
+KING RESTAURANT,Egg Curry,,80,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,24
+KING RESTAURANT,Egg Fry,,40,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Dhaba Style,,0,,7,25
+KING RESTAURANT,Kesari Poli,,20,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Poli,,0,,10,1
+KING RESTAURANT,Cocount Poli,,20,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Poli,,0,,10,2
+KING RESTAURANT,Sweet Potato Poli,,20,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Poli,,0,,10,3
+KING RESTAURANT,Dal Poli,,20,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Poli,,0,,10,4
+KING RESTAURANT,Fried Pepper Idily,,40,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Idly,,0,,11,1
+KING RESTAURANT,Fried Idly Mabchurian,,50,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Idly,,0,,11,2
+KING RESTAURANT,Chicken Keema Fried Idly,,60,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Idly,,0,,11,3
+KING RESTAURANT,Mushroom Keema Fried Idly,,60,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Idly,,0,,11,4
+KING RESTAURANT,Baby Corn Manchurian,,50,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,1
+KING RESTAURANT,Gobi Manchurian,,50,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,2
+KING RESTAURANT,Gobi 65,,50,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,3
+KING RESTAURANT,Chilli Baby Corn,,50,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,4
+KING RESTAURANT,Mushroom 65,,70,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,5
+KING RESTAURANT,Mushroom Pepper Salt,,60,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,6
+KING RESTAURANT,Mushroom Pepper Fry,,90,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,7
+KING RESTAURANT,Chilli Mushroom,,80,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,8
+KING RESTAURANT,Chilli Paneer,,901,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,9
+KING RESTAURANT,Dragon Gobi,,55,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,10
+KING RESTAURANT,Paneer Manchurian,,80,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,11
+KING RESTAURANT,Chicken Lollipop,,100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,12
+KING RESTAURANT,Chilli Chicken,,100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,13
+KING RESTAURANT,Chicken Manchurian,,100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,14
+KING RESTAURANT,Dragon Chicken,,100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,15
+KING RESTAURANT,Pepper Chicken,,100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,16
+KING RESTAURANT,Drumstick Chicken,,120,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,17
+KING RESTAURANT,Chicken Saatha,,90,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,18
+KING RESTAURANT,Chicken 65,,60,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,19
+KING RESTAURANT,Chicken Hot 1965,,100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,20
+KING RESTAURANT,Pepper Wings,,100,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,21
+KING RESTAURANT,Kadai 65,,90,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,22
+KING RESTAURANT,Chicken 65 Boneless,,90,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,23
+KING RESTAURANT,Prawn,,130,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,1,24
+KING RESTAURANT,Veg Combo,"Veg Fried Rice, Veg Noodles, Gobi 65, Gobi Manchurian, Chappathi, Salad",140,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,1
+KING RESTAURANT,Egg Combo,"Egg Fried Rice, Egg Noodles, Bolied Egg, Masala Omlet, Chappathi, Salat",150,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,2
+KING RESTAURANT,Chicken Combo,"Chicken Rice, Chicken Noodles, Chicken 65, Chicken Manchurian, Chappthi, Salad",160,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,3
+KING RESTAURANT,Veg Roll,,40,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,1
+KING RESTAURANT,Paneer Roll,,55,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,2
+KING RESTAURANT,Mushroom Roll,,55,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,3
+KING RESTAURANT,Gobi Roll,,50,,,,10,,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,4
+KING RESTAURANT,Egg Roll,,50,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,5
+KING RESTAURANT,Chicken Roll,,60,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,6
+KING RESTAURANT,Chicken Keema Roll,,60,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,7
+KING RESTAURANT,Duble Egg Chicken Roll,,70,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,2,8
+KING RESTAURANT,Chicken Kadai Masala Rice,,110,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Rice,`,0,,13,1
+KING RESTAURANT,Mutton Kadai Masala Rice,,140,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Rice,,0,,13,2
+KING RESTAURANT,Prawn Kadai Masala Rice,,140,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Rice,,0,,13,3
+KING RESTAURANT,Vanjaram Karuvadu Kari Masala Rice,,140,,,,10,,Non Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Rice,,0,,13,4

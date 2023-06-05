@@ -1,0 +1,8 @@
+restaurant_name,food_item,description,price,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients
+RANIPET GRAND BRIYANI,Mutton Briyani (Half),,165,10,Non Veg,11:30AM,9:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,
+RANIPET GRAND BRIYANI,Mutton Briyani (Quarter),,90,10,Non Veg,11:30AM,9:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,
+RANIPET GRAND BRIYANI,Chicken Briyani (Half),,145,10,Non Veg,11:30AM,9:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,
+RANIPET GRAND BRIYANI,Chicken Briyani (Quarter),,90,10,Non Veg,11:30AM,9:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,
+RANIPET GRAND BRIYANI,NattuKozhi Briyani (Half),,200,10,Non Veg,11:30AM,9:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,
+RANIPET GRAND BRIYANI,Plain Briyani (Half),,90,10,Non Veg,11:30AM,9:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,
+RANIPET GRAND BRIYANI,Plain Briyani (Quarter),,45,10,Non Veg,11:30AM,9:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,

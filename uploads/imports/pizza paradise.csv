@@ -1,0 +1,15 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+FOOD PARADISE,Veggie Pizza (Medium),,175,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,1,,1,1
+FOOD PARADISE,Spicy Baby Corn Pizza(Medium),,185,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,1,,1,1
+FOOD PARADISE,Spicy Panie Pizza(Medium),,195,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,1,1
+FOOD PARADISE,Spicy panie & Baby Corn Pizza(Medium),,195,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,1,1
+FOOD PARADISE,Spicy Chicken Pizza (Medium),,200,,,,0,Non Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,1,1
+FOOD PARADISE,Butter Chicken Pizza (Medium),,210,,,,0,Non Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizza,,0,,1,1
+FOOD PARADISE,Double Layer Margerita Cheese Pizza (Medium),,240,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,2,1
+FOOD PARADISE,Veggie Pizza (Large),,250,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,1,,2,1
+FOOD PARADISE,Spicy Baby Corn Pizza(Large),,260,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,2,1
+FOOD PARADISE,Spicy Panie Pizza(Large),,290,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,2,1
+FOOD PARADISE,Spicy panie & Baby Corn Pizza(Large),,290,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,2,1
+FOOD PARADISE,Spicy Chicken Pizza (Large),,295,,,,0,Non Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,2,1
+FOOD PARADISE,Butter Chicken Pizza (Large),,300,,,,0,Non Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,2,1
+FOOD PARADISE,Double Layer Margerita Cheese Pizza (Large),,360,,,,0,Veg,03:30PM,08:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizza,,0,,2,1

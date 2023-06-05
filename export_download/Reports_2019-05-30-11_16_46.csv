@@ -1,0 +1,3 @@
+S.No,"Order Id","Res Name","Cust Name","Boy Name","Item Total","Res Offer Price","Res Coupon Price","DS Coupon Price",HGST,DGST,"Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
+1,VLR154137,"SUPRABAATHAM COFFEE POINT","Aswathiy ","JEEVA VLR",100,0,0,0,0,0,30,0,130,"05/07/2019 18:57:07",cash,cod,"Order Finished","1xHorlicks (250 Ml)-100"
+2,VLR137028,"SUPRABAATHAM COFFEE POINT","raghavendar ","NARESH VLR",290,0,0,0,0,0,36,60,386,"02/17/2019 17:30:55",cash,cod,"Order Finished","1xCoffee (250 Ml)-70,1xStawberry Mojito-70,1xPomegranate Mojito-70,1xSamosa (2 Nos)-20,1xSundal (2 Nos)-20,1xKuli Paniyaram (5 Nos)-20,1xSalt Biscuit (4 Nos)-20"

@@ -1,0 +1,52 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+CLUB 10 CHICKEN,5pcs Fried Chicken + 5Pcs Boneless Strips + 2 Fried Chicken Burger+ 2  Mint Mojito,,966,,,,10,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Club 10 Combo for Family,,1,,1,1
+CLUB 10 CHICKEN,5Pcs Fried Chicken + 1 Fried Chicken Burger + 1 Chicken Roll + 1 Nutto Coffee Loaded Shake,,689,,,,10,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Trendy Combo,,1,,1,1
+CLUB 10 CHICKEN,2Pcs Fried Chicken + 1 Kiddy Potatobets + 1 Chicken PopCorn + 1 Choco Oreo Shake,,437,,,,10,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Kiddy Combo,,0,,1,1
+CLUB 10 CHICKEN,2 Pcs Fried Chicken + 1 Pop Corn + 1 Mojito + 1 Fried Chicken Burger,,459,,,,10,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo For Two,,1,,1,1
+CLUB 10 CHICKEN,2 Pcs Fried Chicken + 5 Pcs Fried Chicken Wings+ 1 Chicken Popcorn + 1 Bubblegum Blast Shake,,483,,,,10,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Pubg Combo For Friends,,0,,1,1
+CLUB 10 CHICKEN,2 Pcs Crispy Fried Chicken ,,187,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Fried Chicken,,1,,1,1
+CLUB 10 CHICKEN,5 Pcs Bucket Crispy Fried Chicken ,,437,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Fried Chicken,,0,,2,1
+CLUB 10 CHICKEN,10 Pcs Bucket Crispy Fried Chicken ,,863,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Crispy Fried Chicken,,1,,2,1
+CLUB 10 CHICKEN,5 pcs Fried ChickenWings,,161,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Wings,,1,,2,1
+CLUB 10 CHICKEN,10 Pcs Fried Chicken Wings,,299,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken Wings,,0,,2,1
+CLUB 10 CHICKEN,Chicken PopCorn ,,92,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+CLUB 10 CHICKEN,Nachos ,Cheese Blend + Salsa,92,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Snack Packs,,0,,2,1
+CLUB 10 CHICKEN,5 Pcs Chicken LolliPop,,184,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Lollipop,,0,,2,1
+CLUB 10 CHICKEN,10 Pcs Chicken LolliPop,,333,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Chicken Lollipop,,0,,2,1
+CLUB 10 CHICKEN,Crispy Chicken Patty Burger,,92,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Buger & Rolls,,0,,2,1
+CLUB 10 CHICKEN,Fried Chicken Burger,,127,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger & Rolls,,1,,2,1
+CLUB 10 CHICKEN,Cheesy Tower Burger,,173,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger & Rolls,,0,,2,1
+CLUB 10 CHICKEN,Chicken Roll,,92,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger & Rolls,,0,,2,1
+CLUB 10 CHICKEN,Chicken HotDog,,92,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger & Rolls,,0,,2,1
+CLUB 10 CHICKEN,Veg Burger,,92,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,For Veggies,,0,,2,1
+CLUB 10 CHICKEN,Veg Roll,,92,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,For Veggies,,0,,2,1
+CLUB 10 CHICKEN,Kiddy Potatables,,92,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,For Veggies,,0,,2,1
+CLUB 10 CHICKEN,Salted French Fries,,81,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,For Veggies,,0,,2,1
+CLUB 10 CHICKEN,Masala Fries,,87,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,For Veggies,,1,,2,1
+CLUB 10 CHICKEN,Lime Mint Mojito,,96,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,2,1
+CLUB 10 CHICKEN, Mint Mojito,,84,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,2,1
+CLUB 10 CHICKEN,Blueberry Crush,,84,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,1,,2,1
+CLUB 10 CHICKEN,Green Apple Crush,,84,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,2,1
+CLUB 10 CHICKEN,Strawberry Crush,,84,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,2,1
+CLUB 10 CHICKEN,Veg Cheese Sand Wich,,92,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,1
+CLUB 10 CHICKEN,Panner Cheese Sandwich,,104,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,1
+CLUB 10 CHICKEN,BBQ Chicken Sandwich,,104,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,1,,2,1
+CLUB 10 CHICKEN,Fried Chicken Cheese Sandwich,,104,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,1
+CLUB 10 CHICKEN,Schezwan Chicken Sandwich,,104,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,1
+CLUB 10 CHICKEN,Tandoori Mayo Chicken,,92,,,,5,Non Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,1
+CLUB 10 CHICKEN,Sandwich,,98,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,1
+CLUB 10 CHICKEN,Nachos Stuffed Sandwich,,98,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,2,1
+CLUB 10 CHICKEN,Nutto Coffee Loaded Shake,(Coffee +  Hazelnut + Peanut Butter,104,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+CLUB 10 CHICKEN,Strawberry Monster Shake,(Strawberry + Bubblegum),98,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+CLUB 10 CHICKEN,Mango Burst Shake,(Mango + Passionfruit),98,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,1,,2,1
+CLUB 10 CHICKEN,Bubblegum Blast Shake,(Bubblegum Loaded),104,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+CLUB 10 CHICKEN,Mixberry Cheeseblast Shake,(Mixberry + Cheese Cake),104,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+CLUB 10 CHICKEN,Butterscotch  Shake,(Butterscotch loaded),96,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+CLUB 10 CHICKEN,Choco Oreo Shake,(Chocolate + Oreo),104,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+CLUB 10 CHICKEN,Chocolate Shake,(Chocolate loaded),92,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+CLUB 10 CHICKEN,Mango Cheeseblast Shake,( Mango + Cheese Cake ),98,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+CLUB 10 CHICKEN,Vennila Milk Shake,(Vennila ice Cream Loaded ),104,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,1
+CLUB 10 CHICKEN,Plain Mayonnaise,,18,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dips & Cheese,,0,,2,1
+CLUB 10 CHICKEN,Extra Cheese,,24,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dips & Cheese,,0,,2,1
+CLUB 10 CHICKEN,Peri Peri,,24,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dips & Cheese,,0,,2,1
+CLUB 10 CHICKEN,Tandoori Mayonnaise,,24,,,,5,Veg,11:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dips & Cheese,,0,,2,1

@@ -1,0 +1,25 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,max_packaging_charge,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THE BROOKE WHEEL PIZZA,French Fries-Small,,70,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fryers,,0,,2,1
+THE BROOKE WHEEL PIZZA,French Fries-Large,,100,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fryers,,0,,2,4
+THE BROOKE WHEEL PIZZA,Chicken Pops 8 Pcs,,100,,,,0,Non Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fryers,,0,,2,5
+THE BROOKE WHEEL PIZZA,Chicken Nuggets 5 Pcs,,100,,,,0,Non Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fryers,,0,,2,7
+THE BROOKE WHEEL PIZZA,Chicken Wings 2 Pcs,,100,,,,0,Non Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fryers,,0,,2,2
+THE BROOKE WHEEL PIZZA,Chicken Pizza,,190,,,,0,Non Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,2,6
+THE BROOKE WHEEL PIZZA,Veg Pizza,,150,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,2,4
+THE BROOKE WHEEL PIZZA,Mushroom Pizza,,190,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,2,5
+THE BROOKE WHEEL PIZZA,Paneer Pizza,,190,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,2,7
+THE BROOKE WHEEL PIZZA,Sweet Corn Pizza,,160,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,3,2
+THE BROOKE WHEEL PIZZA,Cheese Pizza,,190,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,3,4
+THE BROOKE WHEEL PIZZA,Veg Sandwich,,80,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,3,4
+THE BROOKE WHEEL PIZZA,Chicken Sandwich,,100,,,,0,Non Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,3,3
+THE BROOKE WHEEL PIZZA,Mushroom Sandwich,,100,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,3,5
+THE BROOKE WHEEL PIZZA,Paneer Sandwich,,100,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,4,1
+THE BROOKE WHEEL PIZZA,Chocolate Sandwich,,120,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,4,2
+THE BROOKE WHEEL PIZZA,Chicken Burger with Cheese,,100,,,,0,Non Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,6,1
+THE BROOKE WHEEL PIZZA,Veg Burger with Cheese,,90,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,6,2
+THE BROOKE WHEEL PIZZA,Vennila Ice Cream,,50,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,3
+THE BROOKE WHEEL PIZZA,Strawberry Ice Cream,,50,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,3
+THE BROOKE WHEEL PIZZA,Chocolate Ice Cream,,50,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,6,3
+THE BROOKE WHEEL PIZZA,Chicken Pasta,,180,,,,0,Non Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,6,3
+THE BROOKE WHEEL PIZZA,Mushroom Pasta,,180,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,6,3
+THE BROOKE WHEEL PIZZA,Veg Pasta,,150,,,,0,Veg,,10:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,6,3

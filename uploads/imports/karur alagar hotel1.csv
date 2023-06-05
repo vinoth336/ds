@@ -1,0 +1,66 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOTEL KARUR ALAGAR,Crab Soup,,88,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL KARUR ALAGAR,Veg Clear Soup,,65,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL KARUR ALAGAR,Mushroom Soup,,76,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL KARUR ALAGAR,Hot and Sour Veg Soup,,76,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL KARUR ALAGAR,Chicken Soup ,Broiler Chicken,76,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL KARUR ALAGAR,Mutton Bone Soup,,87,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL KARUR ALAGAR,Nattukozhi Soup,,87,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL KARUR ALAGAR,Hot and Sour Chicken Soup ,Broiler Chicken,87,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL KARUR ALAGAR,Chicken 65,,88,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,1,2
+HOTEL KARUR ALAGAR,Chicken Lollipop,,175,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,1,3
+HOTEL KARUR ALAGAR,Chicken Sukka,,164,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,1,4
+HOTEL KARUR ALAGAR,NattuKozhi Thanni Kuzhambu,,208,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,1,5
+HOTEL KARUR ALAGAR,NattuKozhi Uppukari,,208,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,1,6
+HOTEL KARUR ALAGAR,Chicken Varuval,,164,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Chicken Items,,0,,1,7
+HOTEL KARUR ALAGAR,Kaadai Roast,,153,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Kaadai Items,,0,,4,8
+HOTEL KARUR ALAGAR,Mutton Sukka,,219,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,4,9
+HOTEL KARUR ALAGAR,Kudal Kuzhambu,,153,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,4,10
+HOTEL KARUR ALAGAR,Kudal Egg Gravy,,164,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,4,11
+HOTEL KARUR ALAGAR,Thala kari,,219,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,4,12
+HOTEL KARUR ALAGAR,Brain Fry,,219,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,4,13
+HOTEL KARUR ALAGAR,Attukkal Paya,,110,,,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Mutton Items,,0,,4,14
+HOTEL KARUR ALAGAR,Kal Dosai,,44,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,15
+HOTEL KARUR ALAGAR,Egg Dosai,,55,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,16
+HOTEL KARUR ALAGAR,Roast,,66,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,17
+HOTEL KARUR ALAGAR,Egg Roast,,77,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,18
+HOTEL KARUR ALAGAR,Onion Roast,,77,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,7
+HOTEL KARUR ALAGAR,Ghee Roast,,77,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,1
+HOTEL KARUR ALAGAR,Utthappam,,66,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,2
+HOTEL KARUR ALAGAR,Onion Utthappam,,66,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,3
+HOTEL KARUR ALAGAR,Chicken Curry Dosai,,131,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,3
+HOTEL KARUR ALAGAR,Mutton Curry Dosai,,153,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,4
+HOTEL KARUR ALAGAR,Idiyappam 1 Pcs,,22,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,5
+HOTEL KARUR ALAGAR,Egg Paniyaram,,55,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,4,6
+HOTEL KARUR ALAGAR,Vanjaram Fish,,219,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,4,7
+HOTEL KARUR ALAGAR,Sankara Fish Fry,,175,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,4,8
+HOTEL KARUR ALAGAR,Nethilli Fry,,153,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,4,9
+HOTEL KARUR ALAGAR,Crab Fry,,175,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,4,1
+HOTEL KARUR ALAGAR,Ailai Fish Curry,,164,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,4,2
+HOTEL KARUR ALAGAR,Mushroom 65,,131,,,,0,Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,3
+HOTEL KARUR ALAGAR,Gobi 65,,110,,,,0,Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,4
+HOTEL KARUR ALAGAR,Omelette,,22,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Egg,,0,,4,5
+HOTEL KARUR ALAGAR,Karandi Omelette,,33,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,6
+HOTEL KARUR ALAGAR,Mutton Biriyani,,240,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,4,1
+HOTEL KARUR ALAGAR,Chcken Biriyani,,197,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Biriyani,,0,,4,2
+HOTEL KARUR ALAGAR,Veg Fried Rice,,120,,,,0,Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice & Noodles,,0,,4,3
+HOTEL KARUR ALAGAR,Egg Fried Rice,,142,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice & Noodles,,0,,4,4
+HOTEL KARUR ALAGAR,Chicken Fried Rice,,164,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice & Noodles,,0,,5,1
+HOTEL KARUR ALAGAR,Veg Noodles,,131,,,,0,Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice & Noodles,,0,,5,2
+HOTEL KARUR ALAGAR,Egg Noodles,,142,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice & Noodles,,0,,5,3
+HOTEL KARUR ALAGAR,Chicken Noodles,,164,,,,0,Non Veg,,,,,11:30AM,04:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice & Noodles,,0,,5,4
+HOTEL KARUR ALAGAR,Veg Meals,,131,"Rice,Sambar,Rasam,Kuttu,Poriyal,",,,0,Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,5
+HOTEL KARUR ALAGAR,Non Veg Meals,,153,"Rice,Mutton Kulambu,Fish Kulambu,Chicken Kulambu,Rasam,Curd,Kootu,Poriyal.",,,0,Non Veg,,,,,11:30AM,04:00PM,,,"1,2,3,4,5,6,7",1,,Lunch,,0,,5,5
+HOTEL KARUR ALAGAR,Veg Meals,,77,"Rice,Sambar,Rasam,Cold Butter Milk.",,,0,Veg,,,,,12:00PM,04:00PM,,,7,1,,Lunch,,0,,5,5
+HOTEL KARUR ALAGAR,Non Veg Meals,,77,"Rice,Mutton Kulambu, Chicken Kulambu, Rasam,Butter Milk.",,,0,Non Veg,,,,,12:00PM,04:00PM,,,7,1,,Lunch,,0,,5,5
+HOTEL KARUR ALAGAR,Chappathi,,33,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+HOTEL KARUR ALAGAR,Parotta (1 Pc),,22,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,2
+HOTEL KARUR ALAGAR,Bun Parotta,,33,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,3
+HOTEL KARUR ALAGAR,Veechu Parotta,,33,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,4
+HOTEL KARUR ALAGAR,Egg Veechu,,44,,,,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,5
+HOTEL KARUR ALAGAR,Mutton Keema Veechu,,164,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,6
+HOTEL KARUR ALAGAR,Chicken Keema Veechu,,142,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,7
+HOTEL KARUR ALAGAR,Egg Kothu Parotta,,77,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,8
+HOTEL KARUR ALAGAR,Mutton Kothu Parotta,,164,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,9
+HOTEL KARUR ALAGAR,Chicken Kothu Parotta,,142,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,10
+HOTEL KARUR ALAGAR,Bananna Leaf Chicken Parotta,,175,,,,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,11

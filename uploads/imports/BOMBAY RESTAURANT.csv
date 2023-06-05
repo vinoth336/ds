@@ -1,0 +1,96 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BOMBAY RESTAURANT,Cauliflower Chilli,,50,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,2,1
+BOMBAY RESTAURANT,Gobi Manchurian,,55,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,2,2
+BOMBAY RESTAURANT,Special Gobi Manchurian,,65,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,2,3
+BOMBAY RESTAURANT,Mushroom Chilli,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,2,4
+BOMBAY RESTAURANT,Mushroom Manchurian,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,2,5
+BOMBAY RESTAURANT,Special Mushroom Manchurian,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,2,6
+BOMBAY RESTAURANT,Veg Manchurian,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,2,7
+BOMBAY RESTAURANT,Pepper Mushroom,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,2,8
+BOMBAY RESTAURANT,Pepper Gobi,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chinese Items,,0,,2,9
+BOMBAY RESTAURANT,Veg Noodles,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,1
+BOMBAY RESTAURANT,Gobi Noodles,,75,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,2
+BOMBAY RESTAURANT,Mushroom Noodles,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,3
+BOMBAY RESTAURANT,Paneer Noodles,,90,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,4
+BOMBAY RESTAURANT,American Chopsuey,,100,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,5,5
+BOMBAY RESTAURANT,Veg Fried Rice,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,1
+BOMBAY RESTAURANT,Mushroom Fried Rice,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,2
+BOMBAY RESTAURANT,Paneer Rice,,90,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,3
+BOMBAY RESTAURANT,Ghee Rice,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,4
+BOMBAY RESTAURANT,Jeera Rice,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,4,5
+BOMBAY RESTAURANT,Dal Fry,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,1
+BOMBAY RESTAURANT,Aloo Palak,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,2
+BOMBAY RESTAURANT,Aloo Gobi,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,3
+BOMBAY RESTAURANT,Paneer Butter Masala,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,4
+BOMBAY RESTAURANT,Green Peas Masala,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,5
+BOMBAY RESTAURANT,Palak Paneer,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,6
+BOMBAY RESTAURANT,Mix Veg Curry,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,7
+BOMBAY RESTAURANT,Mushroom Masala,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,8
+BOMBAY RESTAURANT,Veg Kadahi,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,9
+BOMBAY RESTAURANT,Mushroom Kadahi,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,10
+BOMBAY RESTAURANT,Paneer Kadahi,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,11
+BOMBAY RESTAURANT,Aloo Masala,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy's,,0,,7,12
+BOMBAY RESTAURANT,Veg Sandwich,,50,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,8,1
+BOMBAY RESTAURANT,Bread Butter Jam,(GRILL WITH CHEESE),40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,8,2
+BOMBAY RESTAURANT,Mixed Sandwich,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,8,3
+BOMBAY RESTAURANT,Cheese Sandwich,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,8,4
+BOMBAY RESTAURANT,Paneer Sandwich,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,8,5
+BOMBAY RESTAURANT,Mushroom Sandwich,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwiches,,0,,8,6
+BOMBAY RESTAURANT,Mushroom Pizza With Cheese,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,1
+BOMBAY RESTAURANT,Veg Pizza,,130,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,2
+BOMBAY RESTAURANT,Tomotto Pizza,,130,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,3
+BOMBAY RESTAURANT,Paneer Pizza,,160,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,4
+BOMBAY RESTAURANT,Mushroom Pizza,,150,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizzas,,0,,9,5
+BOMBAY RESTAURANT,Mushroom Roll,,150,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,10,1
+BOMBAY RESTAURANT,Veg Roll,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,10,2
+BOMBAY RESTAURANT,Mushroom Roll,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,10,3
+BOMBAY RESTAURANT,Paneer Roll,,80,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,10,4
+BOMBAY RESTAURANT,Plain Rotti (2 Pcs),,26,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,2
+BOMBAY RESTAURANT,Rotti Sabji (2  Pcs),,25,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,3
+BOMBAY RESTAURANT,Plain Ghee Rotti (1 Pc),,18,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,4
+BOMBAY RESTAURANT,Plain Butter Rotti (1 Pc),,18,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,5
+BOMBAY RESTAURANT,Butter Rotti Sabji (2 Pcs),,35,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,6
+BOMBAY RESTAURANT,Ghee Rotti Sabji (2 Pcs),,35,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,7
+BOMBAY RESTAURANT,Chilli Paratha,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,8
+BOMBAY RESTAURANT,Veg Paratha,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,9
+BOMBAY RESTAURANT,Aloo Paratha,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,10
+BOMBAY RESTAURANT,Gobi Paratha,,50,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,11
+BOMBAY RESTAURANT,Paneer Paratha,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,12
+BOMBAY RESTAURANT,Muli Paratha,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,13
+BOMBAY RESTAURANT,Mehthi Paratha,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,14
+BOMBAY RESTAURANT,Special Mushroom Paratha,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,15
+BOMBAY RESTAURANT,Mix Paratha,,70,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,16
+BOMBAY RESTAURANT,Tava Paratha (2 Pcs),,50,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,17
+BOMBAY RESTAURANT,Silver Paratha (2 Pcs),,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,18
+BOMBAY RESTAURANT,Veg Salad,,50,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,19
+BOMBAY RESTAURANT,Curd (1 Cup),,10,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,20
+BOMBAY RESTAURANT,Oil Chappathi (1 Pc),,25,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Punjabi Parottas,,0,,6,21
+BOMBAY RESTAURANT,Delux Panipuri,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Restaurant Specials,,0,,11,1
+BOMBAY RESTAURANT,Chinese Combo,,120,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Restaurant Specials,,0,,11,2
+BOMBAY RESTAURANT,Lassi,,30,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Restaurant Specials,,0,,11,3
+BOMBAY RESTAURANT,French Fry,,60,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Restaurant Specials,,0,,11,4
+BOMBAY RESTAURANT,Badam Milk,,30,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bombay Restaurant Specials,,0,,11,5
+BOMBAY RESTAURANT,Samosa (2 Pcs),,20,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,1
+BOMBAY RESTAURANT,Cutlet,,15,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,2
+BOMBAY RESTAURANT,Pani Puri,,25,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,3
+BOMBAY RESTAURANT,Bhel Puri,,30,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,4
+BOMBAY RESTAURANT,Bombay Bhel Puri,,35,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,5
+BOMBAY RESTAURANT,Dahi Bhel Puri,,45,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,6
+BOMBAY RESTAURANT,Masala Puri,,30,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,7
+BOMBAY RESTAURANT,Sev Puri,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,8
+BOMBAY RESTAURANT,Aloo Puri,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,9
+BOMBAY RESTAURANT,Mix Chat,,45,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,10
+BOMBAY RESTAURANT,Tomotta Chat,,45,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,11
+BOMBAY RESTAURANT,Dahi Samosa,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,12
+BOMBAY RESTAURANT,Dahi Papadi Chat,,45,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,13
+BOMBAY RESTAURANT,Pav Bhaji,,50,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,14
+BOMBAY RESTAURANT,Extra Pav,,25,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,15
+BOMBAY RESTAURANT,Extra Bhaji,,25,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,16
+BOMBAY RESTAURANT,Chana Masala,,35,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,17
+BOMBAY RESTAURANT,Somosa Masala,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,18
+BOMBAY RESTAURANT,Bread Chana,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,19
+BOMBAY RESTAURANT,Aloo Tikka Chat,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,20
+BOMBAY RESTAURANT,Dahi Tikka,,45,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,3,21
+BOMBAY RESTAURANT,Veg Soup,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+BOMBAY RESTAURANT,Tomatto Soup,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+BOMBAY RESTAURANT,Mushroom Soup,,40,,,,5,Veg,11:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3

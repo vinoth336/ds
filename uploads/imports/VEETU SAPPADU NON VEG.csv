@@ -1,0 +1,31 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+VEETTU SAPADU MESS (NON VEG),Mutton Biriyani,,172,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Biriyani,,0,,1,1
+VEETTU SAPADU MESS (NON VEG),Mutton Meals,"Rice,Mutton Gravy,Mutton Kulambu,Chicken Kulambu,Fish Kulambu,Rasam,Butter Milk,Curd,Egg,Raitha,Pickle,salt",345,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Meals,,0,,1,2
+VEETTU SAPADU MESS (NON VEG),NattuKozhi Meals,"Rice,NattuKozhi Varuval,Nattukozhi Kulambu,Mutton Kulambu,Chicken Kulambu,Fish Kulambu,Rasam,Butter Milk,Curd,Egg,Raitha,Pickle,salt",345,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Meals,,0,,1,3
+VEETTU SAPADU MESS (NON VEG),Chicken Meals,"Rice,Chicken Varuval,NattuKozhi Kulambu,Mutton Kulambu,Chicken Kulambu,Fish Kulambu,Rasam,Butter Milk,Curd,Egg,Raitha,Pickle,salt",287,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Meals,,0,,1,4
+VEETTU SAPADU MESS (NON VEG),Fish meals,"Rice,Mutton Gravy,Mutton Kulambu,Chicken Kulambu,Fish Kulambu,Rasam,Butter Milk,Curd,Egg,Raitha,Pickle,salt",253,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Meals,,0,,1,6
+VEETTU SAPADU MESS (NON VEG),Mutton Gravy,,184,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Non Veg Gravy,,0,,1,7
+VEETTU SAPADU MESS (NON VEG),Mutton Gravy 1/2,,104,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Non Veg Gravy,,0,,1,7
+VEETTU SAPADU MESS (NON VEG),Chicken Gravy,,138,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Non Veg Gravy,,0,,2,1
+VEETTU SAPADU MESS (NON VEG),Chicken Gravy 1/2,,81,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Non Veg Gravy,,0,,2,2
+VEETTU SAPADU MESS (NON VEG),Nattukozhi Vauval,,184,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Non Veg Gravy,,0,,2,3
+VEETTU SAPADU MESS (NON VEG),Nattukozhi Varuval 1/2,,104,,,,15,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Non Veg Gravy,,0,,2,4
+VEETTU SAPADU MESS (NON VEG),Extra Meals,"Rasam, Butter Milk",50,,,,15,Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Biriyani,,0,,2,5
+VEETTU SAPADU MESS (NON VEG),Omlette,,15,,,,5,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Egg Items,,0,,2,6
+VEETTU SAPADU MESS (NON VEG),Egg Poriyal,,20,,,,5,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Egg Items,,0,,2,7
+VEETTU SAPADU MESS (NON VEG),Egg Gravy,,40,,,,5,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Egg Items,,0,,2,8
+VEETTU SAPADU MESS (NON VEG),Egg Mass,,25,,,,5,Non Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Egg Items,,0,,2,9
+VEETTU SAPADU MESS (NON VEG),Egg Podimass,,25,,,,5,Veg,,,,,12:00PM,04:00PM,,,"1,2,3,4,5,6",1,,Egg Items,,0,,2,17
+VEETTU SAPADU MESS (NON VEG),Onion Roast,,70,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,10
+VEETTU SAPADU MESS (NON VEG),Onion Dosai,,60,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,11
+VEETTU SAPADU MESS (NON VEG),Plain Uthappam,,50,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,12
+VEETTU SAPADU MESS (NON VEG),Onion Uthappam,,70,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,13
+VEETTU SAPADU MESS (NON VEG),Kal Dosai,,25,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,14
+VEETTU SAPADU MESS (NON VEG),Egg Dosai,,40,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,18
+VEETTU SAPADU MESS (NON VEG),Egg Lapha,,80,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,21
+VEETTU SAPADU MESS (NON VEG),Egg Kothu Porotta,,75,,,,5,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,22
+VEETTU SAPADU MESS (NON VEG), Porotta 2Nos,,30,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,23
+VEETTU SAPADU MESS (NON VEG),Chappathi Egg Kothu,,80,,,,5,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,24
+VEETTU SAPADU MESS (NON VEG),Ghee Roast,,70,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,26
+VEETTU SAPADU MESS (NON VEG),Idly (2 Nos),,24,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,27
+VEETTU SAPADU MESS (NON VEG),Plain Dosai,,25,,,,5,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6",1,,Tiffen Items,,0,,2,27

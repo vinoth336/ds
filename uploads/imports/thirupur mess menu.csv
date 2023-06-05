@@ -1,0 +1,65 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+NEW TIRUPUR MESS,Idly 2Nos,,18,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+NEW TIRUPUR MESS,Pongal,,35,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+NEW TIRUPUR MESS,Poori (set),,35,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+NEW TIRUPUR MESS,Dosai,,23,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+NEW TIRUPUR MESS,Utthappam,,29,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+NEW TIRUPUR MESS,Roast,,35,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+NEW TIRUPUR MESS,Onion Roast,,46,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+NEW TIRUPUR MESS,Rava Roast ,,46,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+NEW TIRUPUR MESS,Idiyappam(set),,35,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+NEW TIRUPUR MESS,Onion Utthappam,,46,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+NEW TIRUPUR MESS,Podi Utthappam,,35,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+NEW TIRUPUR MESS,Podi Roast,,46,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+NEW TIRUPUR MESS,Podi Utthappam,,40,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+NEW TIRUPUR MESS,Onion Rava Roast,,52,,,,0,0,veg,,,08:00AM,11:00AM,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+NEW TIRUPUR MESS,Curd Rice,,35,,,,0,0,veg,,,08:00AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,1
+NEW TIRUPUR MESS,Tomoto Rice,,35,,,,0,0,veg,,,08:00AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Rice,,0,,3,1
+NEW TIRUPUR MESS,Veg Biriyani,,52,,,,0,0,veg,,,08:00AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,3,1
+NEW TIRUPUR MESS,Meals,,81,,,,0,0,veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,1
+NEW TIRUPUR MESS,Curd,,12,,,,0,0,veg,12:00PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,3,1
+NEW TIRUPUR MESS,Parotta Set,,23,,,,0,0,veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+NEW TIRUPUR MESS,Egg Parotta,,58,,,,0,0,Non veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+NEW TIRUPUR MESS,Veechu Parotta,,23,,,,0,0,veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+NEW TIRUPUR MESS,Egg Veechu Parotta,,35,,,,0,0,veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+NEW TIRUPUR MESS,Omlet,,18,,,,0,0,Non veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,4,1
+NEW TIRUPUR MESS,Full Boill,,12,,,,0,0,Non veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,4,1
+NEW TIRUPUR MESS,Kalaki,,12,,,,0,0,Non veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,5,1
+NEW TIRUPUR MESS,Egg Poriyal,,18,,,,0,0,Non veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,5,1
+NEW TIRUPUR MESS,Veg Kothu Parotta,,46,,,,0,0,veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+NEW TIRUPUR MESS,Chappathi Set,,35,,,,0,0,veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+NEW TIRUPUR MESS,Egg Dosai,,35,,,,0,0,Non veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+NEW TIRUPUR MESS,Egg Roast,,46,,,,0,0,Non veg,12:00PM,04:00PM,,,,,06:00PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+NEW TIRUPUR MESS,Chilly Parotta,,58,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+NEW TIRUPUR MESS,Kaima Parotta,,58,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+NEW TIRUPUR MESS,Mushroom Parotta,,81,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+NEW TIRUPUR MESS,Gopi Fried Rice,,81,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+NEW TIRUPUR MESS,veg Fried Rice,,58,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+NEW TIRUPUR MESS,Panner Fried Rice,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+NEW TIRUPUR MESS,Mushroom Fried Rice,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+NEW TIRUPUR MESS,Baby Corn Fried Rice,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+NEW TIRUPUR MESS,Schzwan Fried Rice,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+NEW TIRUPUR MESS,Mixed Fried Rice,,115,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,8,1
+NEW TIRUPUR MESS,Egg Fried Rice,,81,,,,0,0,Non veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,8,1
+NEW TIRUPUR MESS,Veg Noodles ,,58,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,1
+NEW TIRUPUR MESS,Panner Noodles,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,1
+NEW TIRUPUR MESS,Mushroom Noodles,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,1
+NEW TIRUPUR MESS,Gobi Noodles,,81,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,9,1
+NEW TIRUPUR MESS,Schzwan Noodles,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,9,1
+NEW TIRUPUR MESS,Baby Corn Noodels,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,9,1
+NEW TIRUPUR MESS,Schzwen Noodles,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,9,1
+NEW TIRUPUR MESS,Egg Noodles,,81,,,,0,0,Non veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,9,1
+NEW TIRUPUR MESS,Mushroom Pepper Fry,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,9,1
+NEW TIRUPUR MESS,Gobi Pepper Fry,,81,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,10,1
+NEW TIRUPUR MESS,Panner Pepper Fry,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,10,1
+NEW TIRUPUR MESS,Mushroom Biriyani,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,1
+NEW TIRUPUR MESS,Panner Biriyani,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,1
+NEW TIRUPUR MESS,Gopi Biriyani,,81,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,10,1
+NEW TIRUPUR MESS,Panner 65,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,10,1
+NEW TIRUPUR MESS,Panner Manchuriyan,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,10,1
+NEW TIRUPUR MESS,Gopi 65,,81,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,11,1
+NEW TIRUPUR MESS,Gopi Manchuriyan,,81,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,11,1
+NEW TIRUPUR MESS,Mushroom 65,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,11,1
+NEW TIRUPUR MESS,Mushroom Manchriyan,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,11,1
+NEW TIRUPUR MESS,Baby Corn 65,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,11,1
+NEW TIRUPUR MESS,Baby Manchuriyan,,92,,,,0,0,veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,12,1

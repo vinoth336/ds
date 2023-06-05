@@ -1,0 +1,105 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+NATIVE SPECIAL PRODUCTS PVT LTD,Green Chilli Gongura Pickle 200 Grams,,114,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Guntur Mango Pickle 200 Grams,,114,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Guntur Red Chilli Pickle 200 Grams,,114,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Guntur Ginger Pickle 200 Grams,,114,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,4
+NATIVE SPECIAL PRODUCTS PVT LTD,Karupatti Pista Roll 200 Grams,,340,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,5
+NATIVE SPECIAL PRODUCTS PVT LTD,Atreyapuram Nuts Bellam PoothareKulu 120 Grams,,242,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,6
+NATIVE SPECIAL PRODUCTS PVT LTD,Vampusa 200 Grams,,152,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,7
+NATIVE SPECIAL PRODUCTS PVT LTD,Karupatti Sevu 200 Grams,,92,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,8
+NATIVE SPECIAL PRODUCTS PVT LTD,Vallarai Keerai Thokku 200 Grams,,278,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,9
+NATIVE SPECIAL PRODUCTS PVT LTD,No Sulphur Coconut Chekku Oil 500 Ml,,220,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,10
+NATIVE SPECIAL PRODUCTS PVT LTD,Pure Sesme Chekku Oil 1 lit,,431,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,11
+NATIVE SPECIAL PRODUCTS PVT LTD,Country Breed Groundnut Chekku Oil 1 Lit,,354,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,12
+NATIVE SPECIAL PRODUCTS PVT LTD,Sirudhaiya Chappathi Mavu 600 Grams,,155,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,13
+NATIVE SPECIAL PRODUCTS PVT LTD,Homemade Kuzhandhaigal Sathu Mavu 200 Grams,,127,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,14
+NATIVE SPECIAL PRODUCTS PVT LTD,Pirandai Thokku 200 Grams,,267,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,15
+NATIVE SPECIAL PRODUCTS PVT LTD,Karuveppilai Podi 200 Grams,,107,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,16
+NATIVE SPECIAL PRODUCTS PVT LTD,Mixed Fruit Jam 200 Grams,,107,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,17
+NATIVE SPECIAL PRODUCTS PVT LTD,Samai Biscuit 200 Grams,,149,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,18
+NATIVE SPECIAL PRODUCTS PVT LTD,Ragi Paal Mavu 200 Grams,,171,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,7
+NATIVE SPECIAL PRODUCTS PVT LTD,Spicy Moringa Masala Powder 200 Grams,,123,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Idicha Verkadalai Urundai 300 Grams,,179,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Poondu Oorugai 200 Grams,,219,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Kambu Biscuit 200 Grams,,145,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Murungai Keerai Rasam Podi 200 Grams,,139,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Murungai Keerai Podi Soup Mix 200 Grams,,267,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,4
+NATIVE SPECIAL PRODUCTS PVT LTD,Fruit Halwa 200 Grams,,119,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,5
+NATIVE SPECIAL PRODUCTS PVT LTD,Multi Mix Masala Mixture 200 Grams,,87,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,6
+NATIVE SPECIAL PRODUCTS PVT LTD,Ragi Ghee Biscuit 200 Grams,,133,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,7
+NATIVE SPECIAL PRODUCTS PVT LTD,Coimbatore Ellu Urundai 300 Grams,,180,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,8
+NATIVE SPECIAL PRODUCTS PVT LTD,Inji Poondu Pakoda 200 Grams,,133,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,9
+NATIVE SPECIAL PRODUCTS PVT LTD,Kovilpatti Ellu Mittai 200 Grams,,59,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Kovilpatti Kadalai Mittai 200 Grams,,59,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Langai Murukku 200 Grams,,79,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Madurai Halwa 250 Grams,,171,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,4
+NATIVE SPECIAL PRODUCTS PVT LTD,Mudalur Muscoth Halwa 200 Grams,,82,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,5
+NATIVE SPECIAL PRODUCTS PVT LTD,Murungai Ilai Thotta Podi 200 Grams,,140,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,6
+NATIVE SPECIAL PRODUCTS PVT LTD,Nagercoil Nendran Chips 200 Grams,,120,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Nattu Mixture 200 Grams,,75,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Narathangai Oorugai 200 Grams,,165,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,3
+NATIVE SPECIAL PRODUCTS PVT LTD,No Preservative Nattu Elumichai Oorugai 200 Grams,,155,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,4,4
+NATIVE SPECIAL PRODUCTS PVT LTD,Navadhaniya Mixer 200 Grams,,159,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Navadhaniya Sathu Mavu 200 Grams,,126,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Nellai Palm Jaggery Ghee Mysorepak 200 Grams,,163,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Nilgiri Adivasis Coffee Powder 200 Grams,,212,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,4
+NATIVE SPECIAL PRODUCTS PVT LTD,O??up Pakoda 200 Grams,,123,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,5
+NATIVE SPECIAL PRODUCTS PVT LTD,Palani Panchamirtham 250 Grams,,112,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Pazhani Thinai Maavu 200 Grams,,92,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Pudupalayam Ragi Murukku 200 Grams,,92,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Sattur Kara Sevu 200 Grams,,92,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,4
+NATIVE SPECIAL PRODUCTS PVT LTD,Sendankadu Panachakkarai 200 Grams,,108,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,5
+NATIVE SPECIAL PRODUCTS PVT LTD,Srivilliputhur Milk Ghova 200 Grams,,92,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,6
+NATIVE SPECIAL PRODUCTS PVT LTD,Thoothukudi Kuchi Mittai 200 Grams,,267,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,7
+NATIVE SPECIAL PRODUCTS PVT LTD,Thoothukudi Macaroon 200 Grams,,300,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,8
+NATIVE SPECIAL PRODUCTS PVT LTD,Chammandhi Podi 200 Grams,,92,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,9
+NATIVE SPECIAL PRODUCTS PVT LTD,Tirunelveli Ghee Halwa 200 Grams,,104,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,10
+NATIVE SPECIAL PRODUCTS PVT LTD,Udangudi Panang Karupatti 200 Grams,,85,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,11
+NATIVE SPECIAL PRODUCTS PVT LTD,Murari Ajmeer Cake 200 Grams,,179,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,12
+NATIVE SPECIAL PRODUCTS PVT LTD,Sivappu Arisi 3 Kg,,280,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,13
+NATIVE SPECIAL PRODUCTS PVT LTD,Karuppu Kavuni Arisi 3 Kg,,684,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,5,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Mappillai Samba Arisi 3 Kg,,357,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Thooya Mattu Nei 250 Grams,,200,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Kovilpatti Koko Mittai 200 Grams,,59,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,4
+NATIVE SPECIAL PRODUCTS PVT LTD,Thengai Paal Seeval 200 Grams,,78,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Karupatti Munthiri Cake 200 Grams,,324,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Sirudhaniya Sathu Mavu 200 Grams,,127,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Nelli Charu 500 Grams,,155,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,4
+NATIVE SPECIAL PRODUCTS PVT LTD,Inji Charu 500 Grams,,195,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,5
+NATIVE SPECIAL PRODUCTS PVT LTD,Ginger Honey 250 Grams,,202,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,6
+NATIVE SPECIAL PRODUCTS PVT LTD,Malai Thaen 200 Grams,,235,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,7
+NATIVE SPECIAL PRODUCTS PVT LTD,Country Chicken Kongu Style Masala 200 Grams,,155,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,9
+NATIVE SPECIAL PRODUCTS PVT LTD,Fish Curry Masala 200 Grams,,139,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,10
+NATIVE SPECIAL PRODUCTS PVT LTD,NilavembuKudineer Chooranam 100 Grams,,331,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,6,11
+NATIVE SPECIAL PRODUCTS PVT LTD,Black Cumin Seed 100 Grams,,116,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,7,12
+NATIVE SPECIAL PRODUCTS PVT LTD,KabaSura Kudineer Chooranam 100 Grams,,230,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,7,13
+NATIVE SPECIAL PRODUCTS PVT LTD,Vatha Sura Kudineer Chooranam 100 Grams,,188,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,7,14
+NATIVE SPECIAL PRODUCTS PVT LTD,Adhimathuram Podi 100 Grams,,87,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,7,15
+NATIVE SPECIAL PRODUCTS PVT LTD,Thulasi Podi 100 Grams,,62,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,7,16
+NATIVE SPECIAL PRODUCTS PVT LTD,Adathodai Manapagu 100 Grams,,264,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,7,17
+NATIVE SPECIAL PRODUCTS PVT LTD,Pasu Manjal 100 Grams,,108,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,7,18
+NATIVE SPECIAL PRODUCTS PVT LTD,Sundakkai Vathal 100 Grams,,108,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,7,19
+NATIVE SPECIAL PRODUCTS PVT LTD,Home Made Sambar Podi 200 Grams,,165,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,2,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Kaattu Yanam Rice 3 Kg,,386,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,2,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Karunguruvai 3 Kg,,371,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,2,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Poongar Rice 3 Kg,,371,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,1
+NATIVE SPECIAL PRODUCTS PVT LTD,Kullakaar Rice 3 Kg,,367,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,2
+NATIVE SPECIAL PRODUCTS PVT LTD,Papanasam Chinna Vengaya Vadagam 100 Grams,,124,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,3
+NATIVE SPECIAL PRODUCTS PVT LTD,Sukku Karupatti 200 Grams,,204,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,4
+NATIVE SPECIAL PRODUCTS PVT LTD,Tirunelveli Kurunai Idly Podi 200 Grams,,164,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,5
+NATIVE SPECIAL PRODUCTS PVT LTD,Foodie Mugles 200 Grams,,151,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,1,6
+NATIVE SPECIAL PRODUCTS PVT LTD,Kanyakumari Baked Cashew 200 Grams,,380,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,7
+NATIVE SPECIAL PRODUCTS PVT LTD,Thulasi Thaen 250 Grams,,201,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,8
+NATIVE SPECIAL PRODUCTS PVT LTD,Shikrapur Kachori 200 Grams,,131,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,9
+NATIVE SPECIAL PRODUCTS PVT LTD,Arusuvai Nelli Urundai 100 Grams,,116,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,10
+NATIVE SPECIAL PRODUCTS PVT LTD,Wheat Milk Halwa 200 Grams,,155,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,11
+NATIVE SPECIAL PRODUCTS PVT LTD,Pudhuvai Kamarkat 200 Grams,,107,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,12
+NATIVE SPECIAL PRODUCTS PVT LTD,Kollimalai Wild Pepper 200 Grams,,171,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,13
+NATIVE SPECIAL PRODUCTS PVT LTD,Mutton Masala 200 Grams,,155,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,14
+NATIVE SPECIAL PRODUCTS PVT LTD,Traditional Rice Kanji Mix 200 Grams,,203,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,15
+NATIVE SPECIAL PRODUCTS PVT LTD,Malabar Kodampuli 200 Grams,,123,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,16
+NATIVE SPECIAL PRODUCTS PVT LTD,Vallanadu Flattened Rice Seeval 200 Grams,,267,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,17
+NATIVE SPECIAL PRODUCTS PVT LTD,Native Hill Breed Cow Ghee 200 Grams,,326,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,18
+NATIVE SPECIAL PRODUCTS PVT LTD,Cane Sugar Rose Petal Gulkand 100 Grams,,247,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,19
+NATIVE SPECIAL PRODUCTS PVT LTD,Ghee Fried Moringa Leaves 50 Grams,,71,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,4
+NATIVE SPECIAL PRODUCTS PVT LTD,Traditional Mud Pot Mango Pickle 300 Grams,,287,,,,0,Veg,11:30AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Native Specials,,0,,8,5

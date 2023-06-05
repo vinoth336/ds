@@ -1,0 +1,23 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+RANI TIFFEN CENTER,Parotta 2 Pcs with Veg Kuruma,,30,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,2,1
+RANI TIFFEN CENTER,Parotta 2 Pcs with Non-Veg Kulambu,,30,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,2,1
+RANI TIFFEN CENTER,Veg Kothu Parotta with Kuruma,,85,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,7,1
+RANI TIFFEN CENTER,Egg Kothu Parotta with Kulambu,,85,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,7,1
+RANI TIFFEN CENTER,Lappa,,60,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,8,1
+RANI TIFFEN CENTER,Egg Veechu Parotta,,36,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,9,1
+RANI TIFFEN CENTER,Bun Parotta 2 Pcs ,,50,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Parottas,,0,,11,1
+RANI TIFFEN CENTER,Idly 4 Pcs,,36,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+RANI TIFFEN CENTER,Dosa 2 Pcs,,36,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,3,1
+RANI TIFFEN CENTER,Roast,,36,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+RANI TIFFEN CENTER,Egg Roast,,60,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,5,1
+RANI TIFFEN CENTER,Onion Roast,,60,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+RANI TIFFEN CENTER,Utthappam,,36,,,,,Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+RANI TIFFEN CENTER,Chicken Fry,,110,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,16,1
+RANI TIFFEN CENTER,Mutton Fry,,150,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,17,1
+RANI TIFFEN CENTER,Kudal Fry,,150,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,18,1
+RANI TIFFEN CENTER,Kaadai Fry,,110,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,19,1
+RANI TIFFEN CENTER,Mutton Thala Curry,,150,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,20,1
+RANI TIFFEN CENTER,Mutton Brain Fry,,110,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Non Veg Fry,,0,,21,1
+RANI TIFFEN CENTER,Omelet,,18,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,12,1
+RANI TIFFEN CENTER,Egg Poriyal,,25,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,14,1
+RANI TIFFEN CENTER,Kalakki,,18,,,,,Non Veg,,,,,,,06:00PM,11:00PM,"1,2,3,4,5,6,7",1,,Egg Items,,0,,15,1

@@ -1,0 +1,62 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SRM SWEETS & CAKES , Jilebi (250 Gms),,100,,,,2.4,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,1
+SRM SWEETS & CAKES ,Laddu (250 Gms),,100,,,,2.55,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,3
+SRM SWEETS & CAKES ,Thirupathi Laddu (250 Gms),,100,,,,2.55,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,5
+SRM SWEETS & CAKES ,Mothi Laddu (250 Gms),,100,,,,2.55,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,6
+SRM SWEETS & CAKES ,Badhusa (250 Gms),,100,,,,2.55,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,11
+SRM SWEETS & CAKES ,Soanpapadi (250 Gms),,100,,,,2.55,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,22
+SRM SWEETS & CAKES ,Bombay Halwa (250 Gms),,100,,,,2.55,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,23
+SRM SWEETS & CAKES ,Ghee Mysorpak(250gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,28
+SRM SWEETS & CAKES ,Milk Peda(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,29
+SRM SWEETS & CAKES ,Boost Barfi(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,30
+SRM SWEETS & CAKES ,Vennila Barfi(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,39
+SRM SWEETS & CAKES ,Everest Barfi(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,40
+SRM SWEETS & CAKES ,Chocoolate Roll(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,41
+SRM SWEETS & CAKES ,Spl Milk Cake(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,42
+SRM SWEETS & CAKES ,Naatu Sarkarai Coconnut Barfi(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,43
+SRM SWEETS & CAKES ,Bengali Sweets(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,44
+SRM SWEETS & CAKES ,Rasagulla(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,45
+SRM SWEETS & CAKES ,Globe Jamun(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,46
+SRM SWEETS & CAKES ,Panner Jamun(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,47
+SRM SWEETS & CAKES ,Malai Sanwich(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,48
+SRM SWEETS & CAKES ,Agra Sanwich(250Gms),,150,,,,3.45,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,49
+SRM SWEETS & CAKES ,Kaju Kathili (250 Gms),,250,,,,2.55,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,50
+SRM SWEETS & CAKES ,Pista Roll (250 Gms),,250,,,,2.55,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,51
+SRM SWEETS & CAKES ,Delhi Soanpapudi,,95,,,,2.55,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,52
+SRM SWEETS & CAKES ,Silky Soanpapudi,,65,,,,1.89,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,1,53
+SRM SWEETS & CAKES ,Bombay Mixture (250 Gms),,90,,,,2.1,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,2,2
+SRM SWEETS & CAKES ,Avul Mixture (250 Gms),,90,,,,2.1,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,2,3
+SRM SWEETS & CAKES ,Cashew Corn Mixture (250 Gms),,100,,,,2.1,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,2,4
+SRM SWEETS & CAKES ,Butter Cream Cake 1/2kg,Order Before 1 hours,150,,,,12,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,1
+SRM SWEETS & CAKES ,Butter Cream Cake 1kg,Order Before 1 hours,300,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,2
+SRM SWEETS & CAKES ,Vennila Cream Cake(1/2kg),Order Before 1 hours,150,,,,7.8,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,3
+SRM SWEETS & CAKES ,Vennila Cream Cake(1 kg),Order Before 1 hours,300,,,,7.2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,4
+SRM SWEETS & CAKES ,Strawberry Cake (1/2 Kg),Order Before 1 hours,150,,,,0.9,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,6
+SRM SWEETS & CAKES ,Strawberry Cake (1 Kg),Order Before 1 hours,300,,,,1.05,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,7
+SRM SWEETS & CAKES ,Pista Cake (1/2 Kg),Order Before 1 hours,150,,,,0.9,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,8
+SRM SWEETS & CAKES ,Pista Cake(1kg),Order Before 1 hours,300,,,,1.2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,9
+SRM SWEETS & CAKES ,Pine Apple Cake (1/2 Kg),Order Before 1 hours,150,,,,0.75,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,10
+SRM SWEETS & CAKES ,Pine Apple Cake (1 Kg),Order Before 1 hours,300,,,,0.6,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,11
+SRM SWEETS & CAKES ,Butter Scotch(1/2 Kg),Order Before 1 hours,150,,,,0.6,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,12
+SRM SWEETS & CAKES ,Butter Scotch(1 Kg),Order Before 1 hours,300,,,,1.8,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,13
+SRM SWEETS & CAKES ,Chocolate Cake (1/2 Kg),Order Before 1 hours,150,,,,1.5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,14
+SRM SWEETS & CAKES ,Chocolate Cake (1 Kg),Order Before 1 hours,300,,,,1.2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Products,,0,,3,15
+SRM SWEETS & CAKES ,Black Forest Cake (1/2 Kg),Order Before 1 hours,300,,,,1.2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,16
+SRM SWEETS & CAKES ,Black Forest Cake (1 Kg),Order Before 1 hours,600,,,,1.2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,17
+SRM SWEETS & CAKES ,White Forest Cake (1/2 Kg),Order Before 1 hours,300,,,,1.2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,18
+SRM SWEETS & CAKES ,White Forest Cake (1 Kg),Order Before 1 hours,600,,,,1.5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,19
+SRM SWEETS & CAKES ,Strawberry Cake (1/2 Kg),Order Before 1 hours,350,,,,1.5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,20
+SRM SWEETS & CAKES ,Strawberry Cake(1Kg),Order Before 1 hours,700,,,,2.1,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,21
+SRM SWEETS & CAKES ,Black Current (1/2 Kg),Order Before 1 hours,350,,,,2.1,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,22
+SRM SWEETS & CAKES ,Black Current (1 Kg),Order Before 1 hours,700,,,,1.5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,23
+SRM SWEETS & CAKES ,Blue Berry Cake(1/2Kg),Order Before 1 hours,350,,,,1.5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,24
+SRM SWEETS & CAKES ,Blue Berry Cake(1Kg),Order Before 1 hours,700,,,,1.5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,25
+SRM SWEETS & CAKES ,Butter Scotch(1/2 Kg),Order Before 1 hours,350,,,,1.5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,26
+SRM SWEETS & CAKES ,Butter Scotch(1 Kg),Order Before 1 hours,700,,,,1.5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,27
+SRM SWEETS & CAKES ,Choco Truffle(1/2 Kg),Order Before 1 hours,400,,,,2.25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,28
+SRM SWEETS & CAKES ,Choco Truffle(1/2 Kg),Order Before 1 hours,800,,,,0.72,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,29
+SRM SWEETS & CAKES ,Rainbow Cake(1/2Kg),Order Before 1 hours,450,,,,0.9,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,30
+SRM SWEETS & CAKES ,Rainbow Cake(1 Kg),Order Before 1 hours,800,,,,1.2,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,3,31
+SRM SWEETS & CAKES ,Red Velvet(1/2Kg),Order Before 1 hours,450,,,,2.25,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,4,1
+SRM SWEETS & CAKES ,Red Velvet(1 Kg),Order Before 1 hours,900,,,,30,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,4,2
+SRM SWEETS & CAKES ,Honeky Cake(1 Kg),Order Before 1 hours,400,,,,9,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Cream Cakes,,0,,4,3

@@ -1,0 +1,26 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,max_packaging_charge,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+OYALO PIZZA,"8"" Tandoori Paneer Pizza",,245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas Panner Perfect,,0,,2,1
+OYALO PIZZA,"8"" Cheesy Chilli Paneer Pizza ","Tomatoes, Onions And Succulent Paneer Create A Slice Of Magic.",245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas Panner Perfect,,0,,2,4
+OYALO PIZZA,"8""Smoky BBQ Panner","Mozzarella, Cheddar And Parmesan Comee Together To Give You Thrice The Delight.",245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas Panner Perfect,,0,,2,5
+OYALO PIZZA,"8""Celery Szechuan Panner",,245,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas Panner Perfect,,0,,2,7
+OYALO PIZZA,"8"" Piri Piri Corn",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas  Supremely Veg,,0,,2,2
+OYALO PIZZA,"8"" Cheesy Delitto Pizza",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas  Supremely Veg,,0,,2,6
+OYALO PIZZA,"8"" Farm fresh Heaven",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas  Supremely Veg,,0,,2,6
+OYALO PIZZA,"8"" Onion & Mushroom Blast",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas  Supremely Veg,,0,,2,4
+OYALO PIZZA,"8""Pickled Baby Corn Thrill",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas  Supremely Veg,,0,,2,5
+OYALO PIZZA,"8""Smokey Miso Chunks",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas  Supremely Veg,,0,,2,7
+OYALO PIZZA,"8""Corn Olive papricana",,225,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Pizzas  Supremely Veg,,0,,2,5
+OYALO PIZZA,"10.25"" Giardino Feast",,295,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizzas Veg Feast,,0,,3,2
+OYALO PIZZA,"10.25"" Hawaiian Feast",,295,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizzas Veg Feast,,0,,3,4
+OYALO PIZZA,"10.25""Cheesy Corn Pizza",,295,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizzas Veg Feast,,0,,3,2
+OYALO PIZZA,"10.25"" Veggie Exotica",,295,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizzas Veg Feast,,0,,3,4
+OYALO PIZZA,"10.25"" Spicy Panner Twist",,320,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizzas Veg Delight,,0,,3,3
+OYALO PIZZA,"10.25"" Tandoori Pannerr",,320,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizzas Veg Delight,,0,,3,1
+OYALO PIZZA,"10.25"" Veg Supremo",,320,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Pizzas Veg Delight,,0,,3,5
+OYALO PIZZA,Penne Pastra With Red Sauce,"Delicious, Steaming Hot Penna Pasta In Spicy Red Sauce, You Might Just Come Back For More!",70,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,4,1
+OYALO PIZZA,Creamy Baked Macaroni,,70,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pastas,,0,,4,2
+OYALO PIZZA,Cheesy Garlic Strips,,70,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,1
+OYALO PIZZA,Herby Cheesy Strips,,70,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,5,2
+OYALO PIZZA,Chocolate Lava Cake,Indulge In A Rich Chocolate Cake Witth Divine Chocolate Filling.,50,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts ,,0,,6,1
+OYALO PIZZA,Banana Caramel Lava Cake,A Heavenly Blend Of Banana And Caramel.,50,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts ,,0,,6,2
+OYALO PIZZA,Espresso Lava Cake,A Jolt Of Coffee-Flavoured Deliciousness.,50,,,,0,Veg,,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts ,,0,,6,3

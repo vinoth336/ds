@@ -1,0 +1,66 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SAGAR RESTAURANT,Mutton Briyani,,140,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,1
+SAGAR RESTAURANT,Chicken Briyani,,110,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,2
+SAGAR RESTAURANT,Kushka,,60,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,1,3
+SAGAR RESTAURANT,Chicken 65,,50,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,1
+SAGAR RESTAURANT,Chicken Boneless,,60,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,2
+SAGAR RESTAURANT,Chicken Lollipop (4 Pc),,80,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,3
+SAGAR RESTAURANT,Mint Chicken Boneless,,60,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,4
+SAGAR RESTAURANT,Chicken Leg Piece,,50,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,5
+SAGAR RESTAURANT,Sagar Fried Chicken,,70,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,6
+SAGAR RESTAURANT,Kaadai Fry,,70,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,7
+SAGAR RESTAURANT,Mutton Boneless,,90,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,8
+SAGAR RESTAURANT,Fish Fry,,40,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,9
+SAGAR RESTAURANT,Nethily Fish,,55,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,10
+SAGAR RESTAURANT,Fish Finger,,70,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,11
+SAGAR RESTAURANT,Prawn Fish,,90,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,12
+SAGAR RESTAURANT,Chicken Roll,,60,,,,7,0,Non Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dry Items,,0,,2,13
+SAGAR RESTAURANT,Veg Fried Rice,,75,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,1
+SAGAR RESTAURANT,Egg Fried Rice,,85,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,2
+SAGAR RESTAURANT,Chicken Fried Rice,,95,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,3
+SAGAR RESTAURANT,Schezwan Chicken Fried Rice,,110,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,4
+SAGAR RESTAURANT,Mutton Fried Rice,,170,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,5
+SAGAR RESTAURANT,Prawn Fried Rice,,170,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,6
+SAGAR RESTAURANT,Mixed Fried Rice,,150,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,3,7
+SAGAR RESTAURANT,Veg Noodles,,75,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,1
+SAGAR RESTAURANT,Egg Noodles,,85,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,2
+SAGAR RESTAURANT,Chicken Noodles,,95,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,3
+SAGAR RESTAURANT,Schezwan Chicken Noodles,,110,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,4
+SAGAR RESTAURANT,Mutton Noodles,,170,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,5
+SAGAR RESTAURANT,Prawn Noodles,,170,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,6
+SAGAR RESTAURANT,Mixed Noodles,,150,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,4,7
+SAGAR RESTAURANT,Chettinadu Chicken Masala,,150,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,1
+SAGAR RESTAURANT,Kadaai Chicken Masala,,150,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,2
+SAGAR RESTAURANT,Mogali Chicken Masala,,170,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,3
+SAGAR RESTAURANT,Pepper Chicken Masala,,150,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,4
+SAGAR RESTAURANT,Chilli Chicken Masala,,150,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,5
+SAGAR RESTAURANT,Butter Chicken Masala,,170,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,6
+SAGAR RESTAURANT,Mutton Masala,,175,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,7
+SAGAR RESTAURANT,Prawn Masala,,175,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,8
+SAGAR RESTAURANT,Egg Masala,,85,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,9
+SAGAR RESTAURANT,Paneer Butter Masala,,95,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,10
+SAGAR RESTAURANT,Mushroom Masala,,95,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,5,11
+SAGAR RESTAURANT,Chappathi (2 Pcs),,40,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,6,1
+SAGAR RESTAURANT,Parotta (2 Pcs),,30,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,6,2
+SAGAR RESTAURANT,Egg Parotta (2 Pcs),,65,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,6,3
+SAGAR RESTAURANT,Veechu Parotta,,35,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,6,4
+SAGAR RESTAURANT,Egg Veechu Parotta,,75,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,6,5
+SAGAR RESTAURANT,Egg Kothu Parotta,,90,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,6,6
+SAGAR RESTAURANT,Chicken Kothu Parotta,,140,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Parotta,,0,,6,7
+SAGAR RESTAURANT,Kal Dosai (2 Pcs),,50,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,7,1
+SAGAR RESTAURANT,Roast Dosa,,35,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,7,2
+SAGAR RESTAURANT,Egg Dosa,,60,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,7,3
+SAGAR RESTAURANT,Idiyappam (6 Pcs),,30,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,7,4
+SAGAR RESTAURANT,Semiya (6 Pcs),,20,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,7,5
+SAGAR RESTAURANT,Egg Semiya,,80,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,7,6
+SAGAR RESTAURANT,Chicken Semiya,,120,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,7,7
+SAGAR RESTAURANT,Full Tandoori Chicken,,360,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,8,1
+SAGAR RESTAURANT,Tandoori Chicken,,95,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,8,2
+SAGAR RESTAURANT,Tandoori Tikka,,95,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,8,3
+SAGAR RESTAURANT,Hariyali Tikka,,95,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,8,4
+SAGAR RESTAURANT,Garlic Tikka,,95,,,,7,0,Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,8,5
+SAGAR RESTAURANT,Malai Tikka,,95,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,8,6
+SAGAR RESTAURANT,Tandoori Fish,,180,,,,7,0,Non Veg,,,,,,,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Tandoori Items,,0,,8,7
+SAGAR RESTAURANT,Coco Cola (200Ml),,25,,,,,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Cool Drinks,,0,,9,1
+SAGAR RESTAURANT,Sprite (200Ml),,25,,,,,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Cool Drinks,,0,,9,2
+SAGAR RESTAURANT,Water (500Ml),,20,,,,,0,Veg,,,,,11:30AM,03:00PM,06:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Cool Drinks,,0,,9,3

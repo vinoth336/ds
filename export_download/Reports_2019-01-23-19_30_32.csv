@@ -1,0 +1,7 @@
+S.No,"Order Id","Res Name","Boy Name","Item Total","Offer Price","Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
+1,RPT132186,"JOHN CAFE","PRAKASH RPT",380,0,24,0,404,"01/21/2019 17:06:46",cash,cod,"Order Finished","2xSmall Combo 1-100,1xFried Chicken (4 Pcs)-180"
+2,RPT131857,"JOHN CAFE","HAJEEBASHA RPT",590,0,24,0,614,"01/19/2019 20:22:18",cash,cod,"Order Finished","1xChilly Veg Popers (16 Pcs)-90,1xChicken Lolli Pop-80,1xCountry Special Veg Pizza-150,1xCheese & Bbq Chicken Pizza-200,1xFrench Fries (Large)-70"
+3,RPT131632,"JOHN CAFE","M SARAVANAN RPT",200,0,36,0,236,"01/18/2019 18:17:58",cash,cod,"Order Finished","1xPeppy Paneer Veg Pizza-200"
+4,RPT131562,"JOHN CAFE","GUNASEKAR RPT",490,0,12,0,502,"01/18/2019 12:47:05",cash,cod,"Order Finished","1xClassic Margherita Veg Pizza-150,1xPeppy Paneer Veg Pizza-200,2xLemon Mint-70"
+5,RPT131495,"JOHN CAFE","HAJEEBASHA RPT",1150,0,24,0,1174,"01/17/2019 19:48:25",cash,cod,"Order Finished","5xClassic Veg Burger-90,2xFresh Veggie Pizza-150,2xPeppy Paneer Veg Pizza-200"
+6,RPT131454,"JOHN CAFE","PRAKASH RPT",150,0,75,0,225,"01/17/2019 16:25:17",cash,cod,"Order Finished","1xFresh Veggie Pizza-150-no"

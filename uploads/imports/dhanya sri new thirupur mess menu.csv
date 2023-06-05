@@ -1,0 +1,199 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+DHANYA SRI NEW TIRUPUR MESS,Franch Onion Soup,,35,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+DHANYA SRI NEW TIRUPUR MESS,Garlic Soup,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+DHANYA SRI NEW TIRUPUR MESS,Hot & Sour Soup,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+DHANYA SRI NEW TIRUPUR MESS,Mancho Soup,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+DHANYA SRI NEW TIRUPUR MESS,Mixed veg Soup,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Soup,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Pepper Soup,,45,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+DHANYA SRI NEW TIRUPUR MESS,Pepper Soup,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+DHANYA SRI NEW TIRUPUR MESS,Sweet Corn Soup,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+DHANYA SRI NEW TIRUPUR MESS,Tomato Soup,,35,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Pepper Soup,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Soup,,35,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,2,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Clear Soup,,35,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,3,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Noodles Soup,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,3,1
+DHANYA SRI NEW TIRUPUR MESS,Alu Gobi Masala,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,3,1
+DHANYA SRI NEW TIRUPUR MESS,Alu Masala,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,3,1
+DHANYA SRI NEW TIRUPUR MESS,Alu Paalak,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,3,1
+DHANYA SRI NEW TIRUPUR MESS,Chenna Masala,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,3,1
+DHANYA SRI NEW TIRUPUR MESS,Chilly Gobi Masala,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,3,1
+DHANYA SRI NEW TIRUPUR MESS,Chilly Mushroom Masala,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,3,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Masala,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,4,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Pepper Masala,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,4,1
+DHANYA SRI NEW TIRUPUR MESS,Green Peas Masala,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,4,1
+DHANYA SRI NEW TIRUPUR MESS,Kadai Panner Masala,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,4,1
+DHANYA SRI NEW TIRUPUR MESS,Malaai Koftha,,150,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,4,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Masala,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,5,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Pepper Masala,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,5,1
+DHANYA SRI NEW TIRUPUR MESS,Paalak Panner Masala,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,5,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Butter Masala,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,5,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Kotha Masala,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,5,1
+DHANYA SRI NEW TIRUPUR MESS,Panner pepper Masala,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,6,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Tikka Masala,,120,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,6,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Koftha,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Masala Items,,0,,6,1
+DHANYA SRI NEW TIRUPUR MESS,Chettinadu Spl Veg Curry,,110,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy & Curry,,0,,6,1
+DHANYA SRI NEW TIRUPUR MESS,Chettinadu Veg Curry,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy & Curry,,0,,7,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Curry,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy & Curry,,0,,7,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Mix Curry,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy & Curry,,0,,7,1
+DHANYA SRI NEW TIRUPUR MESS,Curd Rice,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,7,1
+DHANYA SRI NEW TIRUPUR MESS,Lemon Rice,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,7,1
+DHANYA SRI NEW TIRUPUR MESS,Sambar Rice,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,7,1
+DHANYA SRI NEW TIRUPUR MESS,Tamrind Rice,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,8,1
+DHANYA SRI NEW TIRUPUR MESS,Tomato Rice,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,8,1
+DHANYA SRI NEW TIRUPUR MESS,Adai Avial,,50,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,1
+DHANYA SRI NEW TIRUPUR MESS,Appam,,30,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,1
+DHANYA SRI NEW TIRUPUR MESS,Carrot Idly,,30,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,8,1
+DHANYA SRI NEW TIRUPUR MESS,Chilly Idly,,50,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,1
+DHANYA SRI NEW TIRUPUR MESS,Curd Vadai,,20,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,1
+DHANYA SRI NEW TIRUPUR MESS,Curd Semiya,,40,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,1
+DHANYA SRI NEW TIRUPUR MESS,Chappathi Set,,40,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,1
+DHANYA SRI NEW TIRUPUR MESS,Stutan Chappathi,,50,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,1
+DHANYA SRI NEW TIRUPUR MESS,Tandoori Chappathi,,40,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,9,1
+DHANYA SRI NEW TIRUPUR MESS,Idiyappam Single (set),,30,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+DHANYA SRI NEW TIRUPUR MESS,Idly (Set),,20,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+DHANYA SRI NEW TIRUPUR MESS,Kichadi,,40,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+DHANYA SRI NEW TIRUPUR MESS,Kozhukkattai,,30,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+DHANYA SRI NEW TIRUPUR MESS,Lemon Seava,,40,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Appam,,50,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+DHANYA SRI NEW TIRUPUR MESS,Paniyaram,,40,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,10,1
+DHANYA SRI NEW TIRUPUR MESS,pepper Idly,,60,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,11,1
+DHANYA SRI NEW TIRUPUR MESS,Podi Fried Idly,,60,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,11,1
+DHANYA SRI NEW TIRUPUR MESS,Pongal,,40,,,,0,0,veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,11,1
+DHANYA SRI NEW TIRUPUR MESS,Poori (set),,40,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,11,1
+DHANYA SRI NEW TIRUPUR MESS,Sambar idly,,35,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,11,1
+DHANYA SRI NEW TIRUPUR MESS,Sambar Vadai,,25,,,,0,0,veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,12,1
+DHANYA SRI NEW TIRUPUR MESS,Sezwan Idly,,60,,,,0,0,veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,12,1
+DHANYA SRI NEW TIRUPUR MESS,Sweet Corn Appam,,45,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,12,1
+DHANYA SRI NEW TIRUPUR MESS,Uppuma,,40,,,,0,0,veg,,,08:00AM,10:30AM,,,05:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,12,1
+DHANYA SRI NEW TIRUPUR MESS,Vadai,,10,,,,0,0,veg,,,08:00AM,10:30AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,12,1
+DHANYA SRI NEW TIRUPUR MESS,Garlic Roast,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,12,1
+DHANYA SRI NEW TIRUPUR MESS,Ghee Masala Roast,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,13,1
+DHANYA SRI NEW TIRUPUR MESS,Ghee Podi Roast,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,13,1
+DHANYA SRI NEW TIRUPUR MESS,Ghee Roast,,75,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,13,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Masala Roast,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,13,1
+DHANYA SRI NEW TIRUPUR MESS,Masala Roast,,65,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,13,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Masala Roast,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,13,1
+DHANYA SRI NEW TIRUPUR MESS,Onion Rava Roast,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Onion Roast,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Masala Roast,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Podi Roast,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Rava Masala Roast,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Rava Roast ,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Roast,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Spl Rava Roast,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Tomato Roast,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Roast Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Kal Dosai,,30,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,14,1
+DHANYA SRI NEW TIRUPUR MESS,Kambu Dosai,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Nava Dhanya Dosai,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Ragi Dosai,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Sola Dosai,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Wheat Dosai,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosai Items,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Baby Corn Biriyani,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Biriyani,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Biriyani,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Biriyani,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Biriyani,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Biriyani,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Biriyani,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Garlic Utthappam,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Utthappam,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Ghee Utthappam,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Utthappam,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Ghee Podi Utthappam,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Utthappam,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Onion Utthappam,,75,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Utthappam,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Utthappam,,35,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Utthappam,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Podi Utthappam,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Utthappam,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Tomato Utthappam,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Utthappam,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Utthappam,,35,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Utthappam,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Alu Parotta,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Chilly Parotta,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Bun Parotta,,35,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Kaima Parotta,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Parotta,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner paotta,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Parotta Set,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Thandoori Parotta,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Veechu Parotta,,20,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,wheat Parotta,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Parotta ,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Baby Corn Fried Rice,,120,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Fried Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,veg Fried Rice,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Fried Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Fried Rice,,120,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Fried Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mixed Fried Rice,,140,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Fried Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Fried Rice,,140,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Fried Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Fried Rice,,140,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Fried Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Podi Fried Rice,,120,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Fried Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,SCK Fried Rice,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Fried Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,SHA Fried Rice,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Fried Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,American Chops Noodles,,95,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Baby Corn Noodles,,140,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Noodles,,120,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mangolian Noodles,,120,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mixed Veg Noodles,,140,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Noodles,,140,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Noodles,,140,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,SCH Noodles,,110,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,SHA Noodles,,110,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Noodles ,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Veg Noodles,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Butter Naan,,45,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Naan,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Chilly Naan,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Naan,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Garlic Naan,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Naan,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Kasmiri Naan,,50,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Naan,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Butter Rotti,,35,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Rotti,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Garlic Rotti,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Rotti,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Romalic Rotti,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Rotti,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Rotti,,30,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Rotti,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Alu Tandoori,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tandoori,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Tandoori,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tandoori,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Sizzler,,200,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Sizzler,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Sizzler,,220,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Sizzler,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Sizzler,,220,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Sizzler,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Cream Mushroom,,45,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Mushroom,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Garlic Mushroom,,75,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Mushroom,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Kulch,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Kulcha,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Stuff Kulcha,,55,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Kulcha,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Stuff Kulcha,,45,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Kulcha,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Chilly Gobi,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Chilly,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Chilly Panner,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Chilly,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Chilly Mushroom,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Chilly,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Chilly Baby Corn,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Chilly,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Jeera Rice,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Pulav,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Kashmiri Pulav,,110,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Pulav,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Pulav,,120,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Pulav,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Phullack 2pcs,,30,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Pulav,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Spring Roll,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Pulav,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Pulav,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Pulav,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Baby Corn 65,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Chilly,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi 65,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Chilly,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Idly 65,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Chilly,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom 65,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Chilly,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner 65,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Chilly,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Baby Corn Manchuriyan,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Manchuriyan,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Manchuriyan,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Manchuriyan,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Munchuriyan,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Manchuriyan,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Manchuriyan,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Manchuriyan,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Manchuriyan,,120,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Manchuriyan,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Ghee Rice,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Jeera Rice,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Plain Rice,,40,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Steam Bhasumathi Rice,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Rice,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Dhall Butter Fry,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Dhall Fry,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Dhall Duadukka,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Dhall Fry,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Dhall Fry,,60,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Dhall Fry,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Dhall Paalack,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Dhall Fry,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Pepper Fry,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Dhall Fry,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Kadai Gobi Fry,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Dhall Fry,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Pepper Fry,,80,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Dhall Fry,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Pepper Fry,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Dhall Fry,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Baby Meals,,50,,,,0,0,veg,11:00AM,03:30PM,,,,,,,,,,Meals,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Curd,,10,,,,0,0,veg,11:00AM,03:30PM,,,,,,,,,,Meals,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Beeda,,10,,,,0,0,veg,11:00AM,03:30PM,,,,,,,,,,Meals,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Meals,,90,,,,0,0,veg,11:00AM,03:30PM,,,,,,,,,,Meals,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mini Meals,,70,,,,0,0,veg,11:00AM,03:30PM,,,,,,,,,,Meals,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,New TPR SPL Meals,,150,,,,0,0,veg,11:00AM,03:30PM,,,,,,,,,,Meals,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Parcel Meals,,80,,,,0,0,veg,11:00AM,03:30PM,,,,,,,,,,Meals,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Spl Meals,,150,,,,0,0,veg,11:00AM,03:30PM,,,,,,,,,,Meals,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Tikka,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tikka,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Gobi Tandoori Tikka,,90,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tikka,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Kadai Gobi ,,70,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tikka,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Mushroom Tikka,,149,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tikka,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Muhroom Leusni Kapap,,199,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tikka,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Malai Kapap,,199,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tikka,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Panner Tikka,,100,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tikka,,0,,15,1
+DHANYA SRI NEW TIRUPUR MESS,Veg Sea Kapap,,199,,,,0,0,veg,11:00AM,10:30PM,,,,,,,,,,Tikka,,0,,15,1

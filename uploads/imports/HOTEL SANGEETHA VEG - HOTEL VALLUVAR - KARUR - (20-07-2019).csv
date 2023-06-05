@@ -1,0 +1,101 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Idly (2 Pcs),,35,,,,,0,Veg,,,07:30AM,11:00AM,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Pongal,,69,,,,,0,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Vadai,,22,,,,,0,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,3
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Poori Masal,,69,,,,,0,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,4
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Sambar Idly,,52,,,,,0,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,5
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Sambar Vadai,,46,,,,,0,Veg,,,07:30AM,11:00AM,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,4,6
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Roast,,66,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,4,7
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Ghee Roast,,83,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,4,8
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Masal Roast,,83,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,4,9
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Butter Roast,,85,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,4,10
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Onion Roast,,83,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,4,11
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Ghee Masal Roast,,90,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,4,12
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Ghee Onion Roast,,90,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,4,13
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Uthappam,,69,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Onion Uthappam,,81,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Tomato Uthappam,,81,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,3
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg Uthappam,,81,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,4
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Ghee Uthappam,,81,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Uthappam,,0,,5,5
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Rava Roast,,75,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Rava Items,,0,,5,6
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Butter Rava,,81,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Rava Items,,0,,5,7
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Onion Rava Roast,,81,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Rava Items,,0,,5,8
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Ghee Rava Roast,,81,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Rava Items,,0,,5,9
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Ghee Rava Masal,,87,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Rava Items,,0,,5,10
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Ghee Rava Onion,,87,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Rava Items,,0,,5,11
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Masal Rava Roast,,81,,,,,0,Veg,,,07:30AM,11:00AM,,,03:30PM,10:30PM,"1,2,3,4,5,6,7",1,,Rava Items,,0,,7,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Curd Rice,,69,,,,,0,Veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,7,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Sambar Rice,,75,,,,,0,Veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,7,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg.Briyani,,75,,,,,0,Veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,7,4
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Full Meals Parcel,,115,,,,,0,Veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,7,5
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,V I P Special Meals,,161,,,,,0,Veg,,,,,11:30AM,03:30PM,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,3
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Parotta With Kuruma ,,35,,,,,0,Veg,,,,,11:30AM,03:30PM,03:45PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Chappathi 1pc,,46,,,,,0,Veg,,,,,11:30AM,03:30PM,03:45PM,10:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Chilli Parotta,,75,,,,,0,Veg,01:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,4
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Japan Crispy Parotta,,87,,,,,0,Veg,01:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,5
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg Kothu Parotta,,81,,,,,0,Veg,01:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,1,6
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Roti,,46,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,1,7
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Naan,,46,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,1,8
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Kulcha,,52,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Paratha ,,35,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Stuffed naan ,,58,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,3
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Stuffed Kulcha,,58,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,4
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Stuffed Paratha,,58,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,5
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Butter Naan,,52,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,6
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Butter Roti,,52,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,7
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Butter Kulcha,,52,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,8
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Masala Pappad,,35,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,9
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Romali Roti,,46,,,,,0,Veg,06:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,3,10
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Gopi 65,,121,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Mushroom 65,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,panner 65,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,3
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Baby Corn 65,,133,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,4
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Mushroom Varuval,,133,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,5
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Mushroom Machuriyan,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,6
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Gopi ManChuriyan,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,7
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Panner Machuriyan,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,8
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg Spring Roll,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,9
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Mushroom Spring roll,,150,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,10
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Panner Spring roll,,150,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,11
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Gopi Chettinadu Varuval,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Dry,,0,,2,12
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Mini Chilli Idly,,81,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg Soup,,64,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,6,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Tomatto Soup,,58,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,6,3
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Sweet Corn Soup,,64,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,6,4
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Hot & Sour Soup,,58,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,6,5
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Clear Soup,,58,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,6,6
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Noodles Soup,,64,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,6,7
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,mushroom Soup,,64,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,6,8
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Pepper Leaf Soup,,64,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soups,,0,,6,9
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Panner butter Masala,,150,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,6,10
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Gopi Masala,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,6,11
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Green Peas Masala,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,6,12
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Mushroom Masala,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,6,13
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Channa Masala,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,6,14
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Mixed Veg Masala,,133,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,8,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Garlic Gopi Masala,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,8,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Aaloo Gopi Masala,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,8,3
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Kadai Vegetables,,133,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,8,4
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Hydrabad Veg Curyy,,133,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,8,5
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg Chettinad,,133,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,8,6
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Dhall Fry,,133,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,8,7
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Malai Kofta,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,8,8
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg Noodles,,115,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Noodeles,,0,,8,9
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg Pulav,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Noodeles,,0,,8,10
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Szeshwan Noodles,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Noodeles,,0,,8,11
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Baby Corn Noodles,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Noodeles,,0,,8,12
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Mushroom Noodles,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Noodeles,,0,,8,13
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Panner Noodles,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Noodeles,,0,,8,14
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Sangai Veg Noodles,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Noodeles,,0,,9,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Malai Veg Noodles,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Noodeles,,0,,9,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Malai Mushroom Noodles,,128,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Noodeles,,0,,9,3
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg Fried Rice,,115,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,9,4
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Mushroom Fried Rice,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,9,5
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Sangai Veg Fried Rice,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,9,6
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Szeshwan Veg Fried Rice,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,9,7
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,panner Fried Rice,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,9,8
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Veg Pulave,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,9,9
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Jeera Pulave,,138,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,9,10
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Panner Pulave ,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,10,1
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Garlic Fried Rice,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,10,2
+HOTEL SANGEETHA VEG - HOTEL VALLUVAR,Cashewnut Fried Rice,,127,,,,,0,Veg,01:30PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Rice & Pulave,,0,,10,3

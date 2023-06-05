@@ -1,0 +1,89 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+AARAH CAFE,French Fries,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,1
+AARAH CAFE,Masala Fries,,70,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,2
+AARAH CAFE,Smilies,,50,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,1
+AARAH CAFE,Veg Pizza Bites,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,1
+AARAH CAFE,Veg Nuggets,,70,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,2
+AARAH CAFE,Aloo Tikka,,30,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,1
+AARAH CAFE,Patato  Veggies,,75,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,1
+AARAH CAFE,Chicken Pops,,60,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,2,1
+AARAH CAFE,Chicken Nuggets,,80,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,2,1
+AARAH CAFE, Chicken Fingers,,80,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,2,1
+AARAH CAFE,Wings,,80,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,2,1
+AARAH CAFE,Korean Wigs,,90,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,1
+AARAH CAFE,Lolly Pop,,120,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,1
+AARAH CAFE,Asian lolly Pop,,130,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,1
+AARAH CAFE,Tub Chicken 8 Pcs,,450,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,3,1
+AARAH CAFE,Tub Chicken 4 Pcs,,230,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,3,1
+AARAH CAFE,Tub Chicken 2 Pcs,,120,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Chicken,,0,,3,1
+AARAH CAFE,Veg Burger,,65,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Burger,,0,,3,1
+AARAH CAFE,Panner Burger,,70,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Burger,,0,,3,1
+AARAH CAFE,Veg - Cheese Burger,,75,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Burger,,0,,4,1
+AARAH CAFE,Double Ducker Burger,,130,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Burger,,0,,4,1
+AARAH CAFE,Chicken Buger,,85,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Burger,,0,,4,1
+AARAH CAFE,Crispy Chicken Burger,,110,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Burger,,0,,4,1
+AARAH CAFE,Double Ducker Burger,,160,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Burger,,0,,5,1
+AARAH CAFE,Lamp Burger,,150,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Burger,,0,,5,1
+AARAH CAFE,Coles Law Sandwich,,40,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Sandwich,,0,,5,1
+AARAH CAFE,Panner Sandwich,,80,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Sandwich,,0,,5,1
+AARAH CAFE,Corn Sandwich,,50,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Sandwich,,0,,5,1
+AARAH CAFE,Chocolate Sandwich,,70,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Sandwich,,0,,6,1
+AARAH CAFE,Chicken SandWich,,90,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Sandwich,,0,,6,1
+AARAH CAFE,Chicken Tikka Sandwich,,110,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Sandwich,,0,,6,1
+AARAH CAFE,Club Sand wich,,150,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Sandwich,,0,,6,1
+AARAH CAFE,Virgin Mojito,,80,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,7,1
+AARAH CAFE,Pink Lemonode,,110,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,7,1
+AARAH CAFE,Green Sea,,110,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,7,1
+AARAH CAFE,Blue Blast,,110,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mocktails,,0,,7,1
+AARAH CAFE,Oreo,,100,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,1
+AARAH CAFE,Kitkat,,110,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,8,1
+AARAH CAFE,Sarjah,,90,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,8,1
+AARAH CAFE,Kesar Badam,,120,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,8,1
+AARAH CAFE,Dry Fruits,,130,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,8,1
+AARAH CAFE,Vannila,,90,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream With Milk Shake,,0,,8,1
+AARAH CAFE,Starawberry,,100,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream With Milk Shake,,0,,9,1
+AARAH CAFE,Butter Scotch,,110,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream With Milk Shake,,0,,9,1
+AARAH CAFE,Black Current,,110,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream With Milk Shake,,0,,9,1
+AARAH CAFE,Mango,,100,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream With Milk Shake,,0,,9,1
+AARAH CAFE,Chocolate,,105,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream With Milk Shake,,0,,9,1
+AARAH CAFE,Apple,,100,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Milk Shake,,0,,10,1
+AARAH CAFE,Orange,,100,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Milk Shake,,0,,10,1
+AARAH CAFE,WaterMelon,,75,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruit Milk Shake,,0,,12,1
+AARAH CAFE,Brownie,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,12,1
+AARAH CAFE,Brownie With Ice Cream,,90,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,12,1
+AARAH CAFE,Sizzling Brownie,,130,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,12,1
+AARAH CAFE,Fried Ice Cream,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,12,1
+AARAH CAFE,Arabian Grapes,,70,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Desserts,,0,,12,1
+AARAH CAFE,Classic Falooda,,120,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,12,1
+AARAH CAFE,Vannila,,45,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,12,1
+AARAH CAFE,Strawberry,,50,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,12,1
+AARAH CAFE,Mango,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,12,1
+AARAH CAFE,Chocolate,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,12,1
+AARAH CAFE,Pista,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,12,1
+AARAH CAFE,Butter Scotch,,70,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,12,1
+AARAH CAFE,Black Current,,70,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,12,1
+AARAH CAFE,Fig And Honey,,80,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,12,1
+AARAH CAFE,Apple,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Orange,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Grapes,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Mango,,50,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Mosambi,,50,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,MuskMelon,,50,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Water Melon,,40,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Pineapple,,50,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Pomengrante,,80,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Carrot,,80,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Lemon,,30,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Papaya,,60,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Juice,,0,,12,1
+AARAH CAFE,Veg Schezwan,,65,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Momos,,0,,12,1
+AARAH CAFE,Corn and Cheese,,80,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Momos,,0,,12,1
+AARAH CAFE,Panner,,75,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Momos,,0,,12,1
+AARAH CAFE,Chocolate,,80,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Momos,,0,,12,1
+AARAH CAFE,Chicken Cheese,,90,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Momos,,0,,12,1
+AARAH CAFE,Chicken Wheat,,75,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Momos,,0,,12,1
+AARAH CAFE,Chicken Hariyali,,75,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Momos,,0,,12,1
+AARAH CAFE,Chicken Barbeque,,80,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Momos,,0,,12,1
+AARAH CAFE,Aloo Tikka + Veg Burger + Lemon Juice,,100,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,1
+AARAH CAFE,Potato Veggies + Panner Burger + Spl Drink,,120,,,,0,0,veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,1
+AARAH CAFE,Wings +Chicken Burger +Spl Drink,,130,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,1
+AARAH CAFE,Tub Chicken + Crisipy Burger + Virgin Mojito,,200,,,,0,0,Non veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Combos,,0,,12,1

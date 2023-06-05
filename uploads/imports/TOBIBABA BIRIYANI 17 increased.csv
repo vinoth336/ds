@@ -1,0 +1,47 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+TOPI PAPPA BIRIYANI ,Chicken Biriyani,,174,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
+TOPI PAPPA BIRIYANI ,Mutton Biriyani,,291,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
+TOPI PAPPA BIRIYANI ,Vankozhi Biriyani,,291,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",0,,Biriyani,,0,,1,3
+TOPI PAPPA BIRIYANI ,Idly 2 Pcs,,34,,,,0,Veg,,,,,,,05:00PM,09:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,1
+TOPI PAPPA BIRIYANI ,Idiyappam 2 Pcs,,34,,,,0,Veg,,,,,,,05:00PM,09:30PM,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,2
+TOPI PAPPA BIRIYANI ,Chappathi 1 Pc,,34,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,3
+TOPI PAPPA BIRIYANI ,Egg Chappathi 1 Pc,,46,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,4
+TOPI PAPPA BIRIYANI ,Dosa ,,46,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Items,,0,,3,1
+TOPI PAPPA BIRIYANI ,Roast,,69,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Items,,0,,3,2
+TOPI PAPPA BIRIYANI ,Masal Dosa,,92,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Items,,0,,3,3
+TOPI PAPPA BIRIYANI ,Malli Dosa,,81,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Items,,0,,3,4
+TOPI PAPPA BIRIYANI ,Butter Dosa,,81,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Items,,0,,3,5
+TOPI PAPPA BIRIYANI ,Peerkangai Dosa,,81,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Items,,0,,3,6
+TOPI PAPPA BIRIYANI ,Poondu Dosa,,81,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Items,,0,,3,7
+TOPI PAPPA BIRIYANI ,Egg Dosa,,81,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Items,,0,,3,8
+TOPI PAPPA BIRIYANI ,Egg Roast,,92,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Items,,0,,3,9
+TOPI PAPPA BIRIYANI ,Parotta 2 Pcs (Veg),Veg Kuruma Given,42,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,1
+TOPI PAPPA BIRIYANI ,Parotta 2 Pcs (Non Veg),Non Veg Kulambu Given,42,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,2
+TOPI PAPPA BIRIYANI ,Egg Kothu Parotta ,,116,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,3
+TOPI PAPPA BIRIYANI ,Veg Kothu,,104,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,4
+TOPI PAPPA BIRIYANI ,Egg Veechu,,46,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,5
+TOPI PAPPA BIRIYANI ,Veechu Parotta Veg,,22,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,6
+TOPI PAPPA BIRIYANI ,Egg Lappa ,2 Eggs,116,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,7
+TOPI PAPPA BIRIYANI ,Bun Parotta 1 Pc (Veg),Veg Kuruma Given,34,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,8
+TOPI PAPPA BIRIYANI ,Bun Parotta 1 Pc (Non Veg),Non Veg Kulambu Given,34,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,9
+TOPI PAPPA BIRIYANI ,Chilli Parotta Non Veg,,233,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,10
+TOPI PAPPA BIRIYANI ,Oil Parotta 1 Pc,,34,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,11
+TOPI PAPPA BIRIYANI ,Coin Parotta 5 Pcs (Veg),Veg Kuruma Given,57,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,12
+TOPI PAPPA BIRIYANI ,Coin Parotta 5 Pcs (Non Veg),Non Veg Kulambu Given,57,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,13
+TOPI PAPPA BIRIYANI ,Chilli Kothu,,209,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,14
+TOPI PAPPA BIRIYANI ,Banana Leaf Parotta Chicken,,211,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Parotta Items,,0,,4,15
+TOPI PAPPA BIRIYANI ,Chicken 65,,92,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters / Gravy Non Veg,,0,,5,1
+TOPI PAPPA BIRIYANI ,Nattukozhi Uppukari,,174,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters / Gravy Non Veg,,0,,5,2
+TOPI PAPPA BIRIYANI ,Pallipalayam Chicken,,174,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters / Gravy Non Veg,,0,,5,3
+TOPI PAPPA BIRIYANI ,Chilli Machurian,,174,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters / Gravy Non Veg,,0,,5,4
+TOPI PAPPA BIRIYANI ,Chicken Gravy,,151,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters / Gravy Non Veg,,0,,5,5
+TOPI PAPPA BIRIYANI ,Nattukozhi Gravy,,174,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters / Gravy Non Veg,,0,,5,6
+TOPI PAPPA BIRIYANI ,Kadai Gravy,,151,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters / Gravy Non Veg,,0,,5,7
+TOPI PAPPA BIRIYANI ,Lollipop 4 Pcs,,174,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters / Gravy Non Veg,,0,,5,8
+TOPI PAPPA BIRIYANI ,Tala Curry,,174,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,6,1
+TOPI PAPPA BIRIYANI ,Kudal,,174,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,6,2
+TOPI PAPPA BIRIYANI ,Mutton Gravy,,233,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Starters,,0,,6,3
+TOPI PAPPA BIRIYANI ,Omelette,,22,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,7,1
+TOPI PAPPA BIRIYANI ,Fried Rice Veg,,116,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,1
+TOPI PAPPA BIRIYANI ,Schezwan Noodles,,139,,,,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,2
+TOPI PAPPA BIRIYANI ,Chicken Noodles,,233,,,,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,8,3

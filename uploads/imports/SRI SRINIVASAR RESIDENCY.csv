@@ -1,0 +1,187 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SREE KITCHEN,Veg Clear Soup,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+SREE KITCHEN,Hot & Sour Veg Soup,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+SREE KITCHEN,Sweet Corn Veg Soup,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+SREE KITCHEN,Tomatto Soup,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+SREE KITCHEN,Noodle Soup,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+SREE KITCHEN,Crème Of Mushroom Soup,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+SREE KITCHEN,Baby Corn Mushroom Soup,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+SREE KITCHEN,Spicy Mushroom Soup,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,8
+SREE KITCHEN,Veg Chettinad Soup,,102.9,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,9
+SREE KITCHEN,Manchew Soup,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,10
+SREE KITCHEN,Mutton Bone Soup,,147,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,11
+SREE KITCHEN,Chicken Pepper Soup,,102.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,12
+SREE KITCHEN,Chicken Clear Soup,,102.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,13
+SREE KITCHEN,Hot & Sour Soup Chicken,,117.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,14
+SREE KITCHEN,Hot & Sour Soup Mutton,,117.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,15
+SREE KITCHEN,Hot & Sour Soup Prawn,,117.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,16
+SREE KITCHEN,Sweet Corn Soup Chicken,,117.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,17
+SREE KITCHEN,Sweet Corn Soup Mutton,,117.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,18
+SREE KITCHEN,Sweet Corn Soup Prawn,,117.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,19
+SREE KITCHEN,Mutton Pepper Soup,,117.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,20
+SREE KITCHEN,Plain Briyani,,132.3,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,1
+SREE KITCHEN,Egg Briyani,,147,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,2
+SREE KITCHEN,Chicken Briyani,,198.45,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,3
+SREE KITCHEN,Mutton Briyani,,220.5,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,4
+SREE KITCHEN,Prawn Briyani,,264.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,5
+SREE KITCHEN,Chicken 65 Biriyani,,199.5,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,6
+SREE KITCHEN,Nattukozhi Biriyani,,252,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,7
+SREE KITCHEN,Kaadai Biriyani,,283.5,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,8
+SREE KITCHEN,South Indian Meals,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,1
+SREE KITCHEN,North Indian Meals,,183.75,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,2
+SREE KITCHEN,Spl Meals Veg,,176.4,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,3
+SREE KITCHEN,Non Veg Meals,,235.2,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,4,4
+SREE KITCHEN,Masala Peanuts,,95.55,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
+SREE KITCHEN,Chilly Gobi Dry,,132.3,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
+SREE KITCHEN,Gobi 65,,132.3,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
+SREE KITCHEN,Mushroom 65,,132.3,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
+SREE KITCHEN,Panner 65,,132.3,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
+SREE KITCHEN,Gobi Manchurian,,183.75,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,6
+SREE KITCHEN,Mushroom Manchurian,,183.75,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,7
+SREE KITCHEN,Panner Manchurian,,183.75,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,8
+SREE KITCHEN,Chilly Mushroom Dry,,161.7,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,9
+SREE KITCHEN,Chilly Panner Dry,,161.7,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,10
+SREE KITCHEN,Baby Corn Pepper Fry,,176.4,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,11
+SREE KITCHEN,Cashewnut Fry,,176.4,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,12
+SREE KITCHEN,Boiled Egg,,51.45,,,,2,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,13
+SREE KITCHEN,Fried Egg,,51.45,,,,2,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,14
+SREE KITCHEN,Egg Bhurji Masala,,73.5,,,,2,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,15
+SREE KITCHEN,Omelete Masala,,73.5,,,,2,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,16
+SREE KITCHEN,Plain Masala,,73.5,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,17
+SREE KITCHEN,Chicken-65,,198.45,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,18
+SREE KITCHEN,Chilly Fish,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,19
+SREE KITCHEN,Chicken Lolly Pop,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,20
+SREE KITCHEN,Dragon Chicken,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,21
+SREE KITCHEN,Chicken Chilly,,227.85,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,22
+SREE KITCHEN,Chicken Manchurian,,227.85,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,23
+SREE KITCHEN,Chicken Drum Stick,,220.5,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,24
+SREE KITCHEN,Ginger Chicken,,235.2,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,25
+SREE KITCHEN,Garlic Chicken,,235.2,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,26
+SREE KITCHEN,Chinees Fried Chicken,,279.3,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,27
+SREE KITCHEN,Prawn Pepper Fry,,323.4,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,28
+SREE KITCHEN,Prawn-65,,294,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,29
+SREE KITCHEN,Mutton Pepper Fry,,294,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,30
+SREE KITCHEN,Mutton Chukka,,294,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,31
+SREE KITCHEN,Fish Fry,,235.2,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,32
+SREE KITCHEN,Fish Manchurian,,257.25,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,33
+SREE KITCHEN,Dal Fry,,132.3,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,1
+SREE KITCHEN,Green Peas Masala,,102.9,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,2
+SREE KITCHEN,Mix Veg Curry,,147,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,3
+SREE KITCHEN,Aloo Gobi Masala,,88.2,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,4
+SREE KITCHEN,Veg Chettinad,,147,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,5
+SREE KITCHEN,Gobi Masala,,124.95,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,6
+SREE KITCHEN,Mushroom Masala,,161.7,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,7
+SREE KITCHEN,Kadai Vegetable,,154.35,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,8
+SREE KITCHEN,Baby Corn Masala,,161.7,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,9
+SREE KITCHEN,Gobi Manchurian Gravy,,132.3,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,10
+SREE KITCHEN,Veg Manchuriyan Gravy,,132.3,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,11
+SREE KITCHEN,Paneer Butter Masala,,183.75,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,12
+SREE KITCHEN,Kadai Paneer Gravy,,154.35,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,13
+SREE KITCHEN,Paneer Tikka Masala,,220.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,14
+SREE KITCHEN,Mushroom Manchurian Gravy,,183.75,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,15
+SREE KITCHEN,Paneer Manchurian Gravy,,161.7,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,16
+SREE KITCHEN,Baby Corn Manchurian Gravy,,161.7,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Vegeterian,,0,,3,17
+SREE KITCHEN,Sambar Rice,,80.85,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,5,1
+SREE KITCHEN,Curd Rice,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,5,2
+SREE KITCHEN,Lemon Rice,,80.85,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Variety Rice,,0,,5,3
+SREE KITCHEN,Steam Rice,,73.5,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulao,,0,,6,1
+SREE KITCHEN,Jeera Rice,,147,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulao,,0,,6,2
+SREE KITCHEN,Ghee Rice,,147,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulao,,0,,6,3
+SREE KITCHEN,Veg Pulao,,139.65,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulao,,0,,6,4
+SREE KITCHEN,Peas Pulao,,139.65,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Pulao,,0,,6,5
+SREE KITCHEN,Veg Fried Rice,,147,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,1
+SREE KITCHEN,Mushroom Fried Rice,,161.7,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,2
+SREE KITCHEN,Panner Fried Rice,,161.7,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,3
+SREE KITCHEN,Egg Fried Rice,,169.05,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,4
+SREE KITCHEN,Chicken Fried Rice,,198.45,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,5
+SREE KITCHEN,Prawn Fried Rice,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,6
+SREE KITCHEN,Mutton Fried Rice,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,7
+SREE KITCHEN,Mix Fried Rice,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,7,8
+SREE KITCHEN,Veg Noodles,,147,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,1
+SREE KITCHEN,Egg Noodles,,169.05,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,2
+SREE KITCHEN,Chicken Noodles,,198.45,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,3
+SREE KITCHEN,Prawn Noodles,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,4
+SREE KITCHEN,Mutton Noodles,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,5
+SREE KITCHEN,Mix Noodles,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,8,6
+SREE KITCHEN,Tangri Kabab,,205.8,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,7
+SREE KITCHEN,Chicken Tikka,,235.2,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,8
+SREE KITCHEN,Fish Tikka,,279.3,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,9
+SREE KITCHEN,Tandoori Chicken Half,,294,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,10
+SREE KITCHEN,Tandoori Chicken Full,,588,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandoori,,0,,8,11
+SREE KITCHEN,Naan,,51.45,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,1
+SREE KITCHEN,Roti,,51.45,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,2
+SREE KITCHEN,Kulcha,,51.45,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,3
+SREE KITCHEN,Butter Naan,,58.8,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,4
+SREE KITCHEN,Butter Roti,,58.8,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,5
+SREE KITCHEN,Butter Kulcha,,58.8,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,6
+SREE KITCHEN,Garlic Roti,,66.15,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,7
+SREE KITCHEN,Alu Parata,,73.5,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,8
+SREE KITCHEN,Garlic Naan,,66.15,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,9
+SREE KITCHEN,Stuffed Naan,,80.85,,,,2,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,10
+SREE KITCHEN,Chicken Keema Naan,,102.9,,,,2,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,11
+SREE KITCHEN,Egg Masala,,169.05,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,1
+SREE KITCHEN,Chilli Egg,,117.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,2
+SREE KITCHEN,Chicken Masala,,235.2,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,3
+SREE KITCHEN,Chilli Chicken Gravy,,220.5,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,4
+SREE KITCHEN,Chicken Manchurian Gravy,,227.85,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,5
+SREE KITCHEN,Pepper Chicken Masala,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,6
+SREE KITCHEN,Chicken Chettinad,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,7
+SREE KITCHEN,Garlic Chicken Gravy,,235.2,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,8
+SREE KITCHEN,Ginger Chicken Gravy,,235.2,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,9
+SREE KITCHEN,Butter Chicken Masala,,264.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,10
+SREE KITCHEN,Chicken Tikka Masala,,279.3,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,11
+SREE KITCHEN,Fish Manchurian Gravy,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,12
+SREE KITCHEN,Chilli Fish Gravy,,249.9,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,13
+SREE KITCHEN,Fish Masala,,279.3,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,14
+SREE KITCHEN,South Indian Fish Curry,,264.6,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,15
+SREE KITCHEN,Prawn Pepper Masala,,323.4,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,16
+SREE KITCHEN,Chilli Prawn Gravy,,330.75,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,17
+SREE KITCHEN,Mutton Masala,,294,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,18
+SREE KITCHEN,Mutton Pepper Masal,,294,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy - Non Vegeterian,,0,,10,19
+SREE KITCHEN,Plain Dosa,,73.5,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,1
+SREE KITCHEN,Masala Dosa,,88.2,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,2
+SREE KITCHEN,Onion Uttappam,,88.2,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,3
+SREE KITCHEN,Onion Dosa,,88.2,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,4
+SREE KITCHEN,Kal Dosa,,88.2,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,5
+SREE KITCHEN,Ghee Dosa,,117.6,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,6
+SREE KITCHEN,Egg Dosa,,132.3,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,7
+SREE KITCHEN,Chicken Karidosa,,147,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,8
+SREE KITCHEN,Mutton Karidosa,,189,,,,5,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,9
+SREE KITCHEN,Parotta,,47.25,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,12,1
+SREE KITCHEN,Bun Parotta,,57.75,,,,5,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,12,2
+SREE KITCHEN,Chicken Kothu Parotta,,147,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,12,3
+SREE KITCHEN,Mutton Kothu Parotta,,189,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,12,4
+SREE KITCHEN,Egg Kothu Parotta,,126,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,12,5
+SREE KITCHEN,Veechi Parotta,,73.5,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,12,6
+SREE KITCHEN,Egg Veechi Parotta,,94.5,,,,8,0,Non Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Parottas,,0,,12,7
+SREE KITCHEN,Onion Salad,,36.75,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad,,0,,13,1
+SREE KITCHEN,Green Salad,,66.15,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad,,0,,13,2
+SREE KITCHEN,Fruit Salad,,124.95,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Salad,,0,,13,3
+SREE KITCHEN,Apple Milk Shakes,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,14,1
+SREE KITCHEN,Pineapple Milk Shakes,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,14,2
+SREE KITCHEN,Strawberry Milk Shakes,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,14,3
+SREE KITCHEN,Venilla Milk Shakes,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,14,4
+SREE KITCHEN,Lassi Sweet,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,1
+SREE KITCHEN,Lassi Salt,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,2
+SREE KITCHEN,Lemon Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,3
+SREE KITCHEN,Mosambi Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,4
+SREE KITCHEN,Orange Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,5
+SREE KITCHEN,Papaya Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,6
+SREE KITCHEN,Pineapple Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,7
+SREE KITCHEN,Pomogranate Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,8
+SREE KITCHEN,Tomatto Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,9
+SREE KITCHEN,Water Melon Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,10
+SREE KITCHEN,Apple Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,11
+SREE KITCHEN,Carrot Juice,,117.6,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,12
+SREE KITCHEN,Lemon Soda Sweet,,88.2,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,13
+SREE KITCHEN,Lemon Soda Salt,,88.2,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,14
+SREE KITCHEN,Rose Milk,,58.8,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,15
+SREE KITCHEN,Butter Milk,,36.75,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,16
+SREE KITCHEN,Badam Milk,,66.15,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Juice,,0,,15,17
+SREE KITCHEN,Vanilla,,139.65,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,16,1
+SREE KITCHEN,Strawberry,,139.65,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,16,2
+SREE KITCHEN,Butter Scotch,,139.65,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,16,3
+SREE KITCHEN,Mango,,139.65,,,,8,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Cream,,0,,16,4
+SREE KITCHEN,Soft Drinks,,58.8,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,11,1
+SREE KITCHEN,Mineral Water,,44.1,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,11,2
+SREE KITCHEN,Soda,,29.4,,,,0,0,Veg,11:00AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Beverages,,0,,11,3

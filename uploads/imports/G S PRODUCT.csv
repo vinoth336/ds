@@ -1,0 +1,27 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+G.S.JAGGERY PRODUCTS,Natural Cane (300 ml),,25,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sugarcane  Juice,,0,,1,1
+G.S.JAGGERY PRODUCTS,Lemon cane Juice (300 ml ),,30,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,, Sugarcane Juice,,0,,1,2
+G.S.JAGGERY PRODUCTS,Water Milon cane Juice (300 ml ),,30,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,3
+G.S.JAGGERY PRODUCTS,Papaya cane Juice (300 ml ),,30,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,4
+G.S.JAGGERY PRODUCTS,Amla cane Juice (300 ml),,30,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,5
+G.S.JAGGERY PRODUCTS,Banana Stem cane Juice (Vazhaithandu)(300ml),,30,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,6
+G.S.JAGGERY PRODUCTS,Sapota Cane Juice(300ml),,40,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,7
+G.S.JAGGERY PRODUCTS,Grape Cane Juice(300ml),,40,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,8
+G.S.JAGGERY PRODUCTS,Musk Melon Cane Juice(300ml),,40,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,9
+G.S.JAGGERY PRODUCTS,Pineapple Cane Juice (300ml),,40,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,10
+G.S.JAGGERY PRODUCTS,Guva Cane Juice (300 ml),,50,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,11
+G.S.JAGGERY PRODUCTS,Kiwi Fruit Cane Juice (300 ml),,50,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,12
+G.S.JAGGERY PRODUCTS,Athi Pazham Cane Juice (300ml),,50,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,13
+G.S.JAGGERY PRODUCTS,Aloe Vera Cane Juice (300ml),,60,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,14
+G.S.JAGGERY PRODUCTS,Orange Cane Juice (300 ml),,60,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,15
+G.S.JAGGERY PRODUCTS,Sathukudi Cane Juice(300ml),,60,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,1,16
+G.S.JAGGERY PRODUCTS,Apple Cane Juice(3000ml),,60,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,2,1
+G.S.JAGGERY PRODUCTS,Narthagai Cane Juice(300 ml),,60,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,2,2
+G.S.JAGGERY PRODUCTS,strawberry Cane Juice (3000 ml),,60,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,2,3
+G.S.JAGGERY PRODUCTS,Jackfruit Cane Juice(300ml),,60,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,2,4
+G.S.JAGGERY PRODUCTS,Mago Cane Juice(300ml),,70,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,2,5
+G.S.JAGGERY PRODUCTS,Pomegranate Cane Juice (3000 ml),,70,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,2,6
+G.S.JAGGERY PRODUCTS,Black Berry Cane Juice(300ml),,70,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fruits With Sugarcane Mix Juice,,0,,2,7
+G.S.JAGGERY PRODUCTS,Achu Vellam (Jaggery Shap)1kg,,75,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Organic Foods,,0,,2,5
+G.S.JAGGERY PRODUCTS,Nattusakkari Powder(Jaggery Shap)1kg,,75,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Organic Foods,,0,,2,6
+G.S.JAGGERY PRODUCTS,Vellam(Jaggery)1kg,,70,,,,5,Veg,09:30AM,09:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Organic Foods,,0,,2,7

@@ -1,0 +1,260 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+APPUCHI VEETTU MANPANAI SAMAYAL,Sweet Corn Soup,Pre Booking Orders Only,60,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Hot Soup,Pre Booking Orders Only,60,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Soup,Pre Booking Orders Only,60,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Soup,Pre Booking Orders Only,60,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Clear Soup,Pre Booking Orders Only,50,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Soup,Pre Booking Orders Only,50,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+APPUCHI VEETTU MANPANAI SAMAYAL,TomatoSoup,Pre Booking Orders Only,50,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner 65,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom 65,Pre Booking Orders Only,130,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi 65,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Baby Corn 65,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Fried Onion Rings,Pre Booking Orders Only,70,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,12
+APPUCHI VEETTU MANPANAI SAMAYAL,Onion Pakkoda,Pre Booking Orders Only,80,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,13
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Pepper Fry,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,14
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Hot Pepper Fry,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,15
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Hot Pepper Hydrabad,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,16
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Maharani,Pre Booking Orders Only,130,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,17
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Manchuriyan/semi,Pre Booking Orders Only,130,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,18
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Fry,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Hydrabad,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Manchuriyan/semi,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Maharani,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Fry,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Hydrabad,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Manchuriyan/semi,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Japan,Pre Booking Orders Only,180,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Pepper  Fry,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Ball Manchuriyan,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Baby Corn Hot Pepper,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Baby Corn Maharani,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Baby Corn Manchuriayan/semi,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Baby Corn Gloden Fry,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Garlic Hot Pepper,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Pallipalayam,Pre Booking Orders Only,150,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Monicka,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Andhra,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Methi Mahal,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Methi Mahal,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Baby Corn Methi Mahal,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Dhal,Pre Booking Orders Only,80,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Mix Masala,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Partha Masala,Pre Booking Orders Only,140,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Masala,Pre Booking Orders Only,130,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Chettinad Masala,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Hydrabad Masala,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Pepper Masala,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Pallipalayam Masala,Pre Booking Orders Only,130,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Kadai Masala,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Gravy,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Hydrabad Gravy,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Chettinad Gravy,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Masala,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Pepper Masala,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Butter Masala,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Chettinad Masala,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Baby Corn Masala,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,12
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg  Jaipur Masala,Pre Booking Orders Only,130,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,13
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Malai Gubtha,Pre Booking Orders Only,130,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Gravys,,0,,5,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Rice,Pre Booking Orders Only,90,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Garlic Rice,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Rice,Pre Booking Orders Only,110,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Rice,Pre Booking Orders Only,130,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Rice,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Pulav,Pre Booking Orders Only,110,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,3
+APPUCHI VEETTU MANPANAI SAMAYAL,555 Veg Rice,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Ghee Rice,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Jeera Rice,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Tomato Rice,Pre Booking Orders Only,80,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Schezwan Rice,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Schezwan Rice,Pre Booking Orders Only,110,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Schezwan Rice,Pre Booking Orders Only,130,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Schezwan Rice,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Noodles,Pre Booking Orders Only,90,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,12
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Noodles,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,13
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Noodles,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,14
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Noodles,Pre Booking Orders Only,120,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,15
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Schezwan Noodles,Pre Booking Orders Only,110,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,16
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Schezwan Noodles,Pre Booking Orders Only,110,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,17
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Schezwan Noodles,Pre Booking Orders Only,110,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,18
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner schezwan Noodles,Pre Booking Orders Only,110,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,19
+APPUCHI VEETTU MANPANAI SAMAYAL,Spl Curd Rice,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Curd Rice,,0,,2,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Curd Rice,Pre Booking Orders Only,70,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Curd Rice,,0,,2,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Garlic Curd Rice,Pre Booking Orders Only,100,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Curd Rice,,0,,2,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Panjabi Payasam,Pre Booking Orders Only,40,,,,0,Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Deserts,,0,,8,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Soup,Pre Booking Orders Only,60,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Soup,Pre Booking Orders Only,50,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Soup,Pre Booking Orders Only,60,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Hot-Soup Chicken Soup ,Pre Booking Orders Only,60,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Clear Soup,Pre Booking Orders Only,50,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Chilly Chicken,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Hot Pepper,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Pepper Fry,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Maharani,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Methi Mahal,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Matapar Chicken,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,12
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Hydrabad,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,13
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Monicka,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,14
+APPUCHI VEETTU MANPANAI SAMAYAL,Ooty Chicken,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,15
+APPUCHI VEETTU MANPANAI SAMAYAL,Garlic Chicken,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,16
+APPUCHI VEETTU MANPANAI SAMAYAL,007 Chicken,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,17
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Manchuriyan,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,18
+APPUCHI VEETTU MANPANAI SAMAYAL,Bombay Chicken,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,19
+APPUCHI VEETTU MANPANAI SAMAYAL,Dragon Chicken,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Pakkoda,Pre Booking Orders Only,120,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,8,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Lolly Pop 6 Nos,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,9,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Lolly Pop 4 Nos,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,9,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Pepper Lolly Pop,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,9,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Domshi Lolly Pop,Pre Booking Orders Only,180,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,9,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Chinese Lolly Pop,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,9,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Oil Leg,Pre Booking Orders Only,80,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,9,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Pepper Leg,Pre Booking Orders Only,100,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,9,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Garlic Leg,Pre Booking Orders Only,100,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,9,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Nallampatti Leg 2 pcs,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Boneless Chicken Drys,,0,,9,5
+APPUCHI VEETTU MANPANAI SAMAYAL,BL Uppu Kari,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Spl Spicy Chicken,,0,,10,6
+APPUCHI VEETTU MANPANAI SAMAYAL,BL Pallipalayam,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Spl Spicy Chicken,,0,,10,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Melagu Kari,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Spl Spicy Chicken,,0,,10,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Kattu Varuval,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Spl Spicy Chicken,,0,,10,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Nallampatti ,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Spl Spicy Chicken,,0,,10,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Asari Chicken,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Spl Spicy Chicken,,0,,10,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Chinthamani Chicken,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Spl Spicy Chicken,,0,,10,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Aaya Varuval,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Spl Spicy Chicken,,0,,10,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Sivakasi Varuval,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Spl Spicy Chicken,,0,,10,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Masala,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Hydrabad Gravy,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Chickken Chettinadu Gravy,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Pallipalayam Gravy,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Butter Chicken Gravy,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Manchuriyan Semi,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Partha Masala,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Garlic Chicken Masala,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,6
+APPUCHI VEETTU MANPANAI SAMAYAL,GingerChicken masala,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Kadaai Chicken Masala,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Muttai Koftha Chicken ,Pre Booking Orders Only,180,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Pepper Masala,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Gravys,,0,,11,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Rice,Pre Booking Orders Only,120,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Pulav,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,12
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Schezwan Rice,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,13
+APPUCHI VEETTU MANPANAI SAMAYAL,555 Chicken Fried Rice,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,14
+APPUCHI VEETTU MANPANAI SAMAYAL,Egg Fried Rice,Pre Booking Orders Only,80,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,6,15
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Noodles,Pre Booking Orders Only,100,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,16
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Schezwan Noodles,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Egg Noodles,Pre Booking Orders Only,80,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Noodles,,0,,7,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Uppukari,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Pallipalayam,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Milagu Kari,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Milagai Kari,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Varuval,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Nallampatti,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Sukka,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Asari Varuval,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Kattu Varuval,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Chinthamani,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,12,12
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Gravy,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,13,13
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Chettinad Gravy,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,13,14
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Pallipalayam Gravy,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,13,15
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Pepper Gravy,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,13,16
+APPUCHI VEETTU MANPANAI SAMAYAL,Nattu Kozhi Semi Gravy,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,NattuKozhi Specials,,0,,13,17
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Sukka,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,14,18
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Pallipalayam,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,14,19
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Pepper Fry,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,14,20
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Fry,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,14,21
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Gravy,Pre Booking Orders Only,220,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,14,22
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Pepper Gravy,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,14,23
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Varuval,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,14,24
+APPUCHI VEETTU MANPANAI SAMAYAL,Kudal Fry,Pre Booking Orders Only,180,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,15,26
+APPUCHI VEETTU MANPANAI SAMAYAL,Kudal Small Onion,Pre Booking Orders Only,180,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,15,27
+APPUCHI VEETTU MANPANAI SAMAYAL,Kudal Varuval,Pre Booking Orders Only,180,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,15,28
+APPUCHI VEETTU MANPANAI SAMAYAL,Kudal With Egg,Pre Booking Orders Only,180,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,15,29
+APPUCHI VEETTU MANPANAI SAMAYAL,Kudal Gravy,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Mutton Dishes,,0,,15,30
+APPUCHI VEETTU MANPANAI SAMAYAL,Rabbit Fry,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rabbit Dishes,,0,,16,31
+APPUCHI VEETTU MANPANAI SAMAYAL,Rabbit Pallipalayam,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rabbit Dishes,,0,,16,32
+APPUCHI VEETTU MANPANAI SAMAYAL,Rabbit Gravy,Pre Booking Orders Only,170,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rabbit Dishes,,0,,16,33
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Biriyani,Pre Booking Orders Only,110,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,34
+APPUCHI VEETTU MANPANAI SAMAYAL,Plain Chicken Biriyani,Pre Booking Orders Only,80,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,34
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Biriyani,Pre Booking Orders Only,110,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,35
+APPUCHI VEETTU MANPANAI SAMAYAL,Plain Mutton Biriyani,Pre Booking Orders Only,80,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Briyani,,0,,3,35
+APPUCHI VEETTU MANPANAI SAMAYAL,Non Veg Meals,Pre Booking Orders Only,90,,,,0,Non Veg,09:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,2,38
+APPUCHI VEETTU MANPANAI SAMAYAL, Veg Meals,Pre Booking Orders Only,80,,,,0,Non Veg,09:00AM,03:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,2,38
+APPUCHI VEETTU MANPANAI SAMAYAL,Omlet,Pre Booking Orders Only,20,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,17,39
+APPUCHI VEETTU MANPANAI SAMAYAL,Karandi Omlet,Pre Booking Orders Only,30,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,17,39
+APPUCHI VEETTU MANPANAI SAMAYAL,Boiled Egg,Pre Booking Orders Only,15,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dishes,,0,,17,40
+APPUCHI VEETTU MANPANAI SAMAYAL,Fish Chilly,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,41
+APPUCHI VEETTU MANPANAI SAMAYAL,Fish Hot Pepper,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,42
+APPUCHI VEETTU MANPANAI SAMAYAL,Fish Maharani,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,43
+APPUCHI VEETTU MANPANAI SAMAYAL,Fish Methi Mahal,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,44
+APPUCHI VEETTU MANPANAI SAMAYAL,Fish Manchuriyan,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,45
+APPUCHI VEETTU MANPANAI SAMAYAL,Fish Pepper Fry,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,46
+APPUCHI VEETTU MANPANAI SAMAYAL,Prawn Chilly,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,47
+APPUCHI VEETTU MANPANAI SAMAYAL,Prawn Hot Pepper,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,48
+APPUCHI VEETTU MANPANAI SAMAYAL,Prawn Manchuriyan,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,49
+APPUCHI VEETTU MANPANAI SAMAYAL,Prawan Pepper Fry,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,50
+APPUCHI VEETTU MANPANAI SAMAYAL,Parwan Maharani,Pre Booking Orders Only,160,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,51
+APPUCHI VEETTU MANPANAI SAMAYAL,Nethilly Pepper Fry,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,52
+APPUCHI VEETTU MANPANAI SAMAYAL,Neththily Chilly,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,18,53
+APPUCHI VEETTU MANPANAI SAMAYAL,Kadai Chilly,Pre Booking Orders Only,120,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Dishes,,0,,19,54
+APPUCHI VEETTU MANPANAI SAMAYAL,Kadai Pepper Fry,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Dishes,,0,,19,55
+APPUCHI VEETTU MANPANAI SAMAYAL,Kadai Hot Pepper,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Dishes,,0,,19,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Kadai Rost,Pre Booking Orders Only,120,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Dishes,,0,,19,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Kadai Pallipalayam,Pre Booking Orders Only,130,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Dishes,,0,,19,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Kadai Masala,Pre Booking Orders Only,140,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Kaadai Dishes,,0,,19,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Pigeon Fry,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pigeon Dishes,,0,,20,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Pigeon Chilly,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pigeon Dishes,,0,,20,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Pigeon Pepper Fry,Pre Booking Orders Only,220,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pigeon Dishes,,0,,20,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Pigeon Rost,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pigeon Dishes,,0,,20,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Pigeon Hot Pepper Fry,Pre Booking Orders Only,220,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pigeon Dishes,,0,,20,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Pigeon Gravy ,Pre Booking Orders Only,220,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pigeon Dishes,,0,,20,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Pigeon Pallipalayam,Pre Booking Orders Only,220,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pigeon Dishes,,0,,20,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Tikka,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Kebab,Pre Booking Orders Only,80,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,2
+APPUCHI VEETTU MANPANAI SAMAYAL,See Kebab,Pre Booking Orders Only,90,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Garlic Kebab,Pre Booking Orders Only,90,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Resmi Kebab,Pre Booking Orders Only,90,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Murk Matai Kebab,Pre Booking Orders Only,90,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Dongki Kebab,Pre Booking Orders Only,90,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Halmi Kebab,Pre Booking Orders Only,90,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Thandoori Chicken Full,Pre Booking Orders Only,400,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Thandoori Chicken Half,Pre Booking Orders Only,200,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Tikka,Pre Booking Orders Only,150,,,,0,Non Veg,09:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tandooris,,0,,21,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Rotti,Pre Booking Orders Only,20,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rottis,,0,,23,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Fulka Rotti,Pre Booking Orders Only,25,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rottis,,0,,23,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Thandoori Paratta,Pre Booking Orders Only,40,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rottis,,0,,23,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Butter Rotti,Pre Booking Orders Only,25,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rottis,,0,,23,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Naan,Pre Booking Orders Only,30,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rottis,,0,,23,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Butter Naan,Pre Booking Orders Only,35,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rottis,,0,,23,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Garlic Naan,Pre Booking Orders Only,40,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rottis,,0,,23,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Butter Kulcha,Pre Booking Orders Only,40,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rottis,,0,,23,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Romali Rotti,Pre Booking Orders Only,40,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rottis,,0,,23,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Egg Dosa,Pre Booking Orders Only,40,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,9
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Curry Dosa,Pre Booking Orders Only,80,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Garlic Dosa,Pre Booking Orders Only,50,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Kal Dosa,Pre Booking Orders Only,20,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,12
+APPUCHI VEETTU MANPANAI SAMAYAL,MuttonCurry Dosa,Pre Booking Orders Only,100,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,13
+APPUCHI VEETTU MANPANAI SAMAYAL,Tomato Dosa,Pre Booking Orders Only,60,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,14
+APPUCHI VEETTU MANPANAI SAMAYAL,Plain Roast,Pre Booking Orders Only,50,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,15
+APPUCHI VEETTU MANPANAI SAMAYAL,Ghee Roast,Pre Booking Orders Only,70,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Roast,Pre Booking Orders Only,70,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Masala Dosa,Pre Booking Orders Only,80,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom Roast,Pre Booking Orders Only,80,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Onion Roast,Pre Booking Orders Only,60,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Uthappam,Pre Booking Orders Only,45,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Onion Uthappam,Pre Booking Orders Only,60,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Dosa,Pre Booking Orders Only,80,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,5
+APPUCHI VEETTU MANPANAI SAMAYAL,Salam Dosa,Pre Booking Orders Only,60,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,6
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Mix uthappam,Pre Booking Orders Only,80,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,7
+APPUCHI VEETTU MANPANAI SAMAYAL,Paratta,Pre Booking Orders Only,20,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,8
+APPUCHI VEETTU MANPANAI SAMAYAL,Egg Kothu Paratta,Pre Booking Orders Only,70,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,10
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Kothu Paratta,Pre Booking Orders Only,60,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,11
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Kothu Parattta,Pre Booking Orders Only,120,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,12
+APPUCHI VEETTU MANPANAI SAMAYAL,Egg Loppa,Pre Booking Orders Only,50,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,13
+APPUCHI VEETTU MANPANAI SAMAYAL,Chily Paratta,Pre Booking Orders Only,60,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,14
+APPUCHI VEETTU MANPANAI SAMAYAL,Veechu Paratta,Pre Booking Orders Only,30,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,15
+APPUCHI VEETTU MANPANAI SAMAYAL,Egg Veechu Paratta,Pre Booking Orders Only,50,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,16
+APPUCHI VEETTU MANPANAI SAMAYAL,Mutton Paratta,Pre Booking Orders Only,100,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,17
+APPUCHI VEETTU MANPANAI SAMAYAL,Chicken Kaima Paratto,Pre Booking Orders Only,60,,,,0,Non Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,18
+APPUCHI VEETTU MANPANAI SAMAYAL,Panner Paratta,Pre Booking Orders Only,60,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,1
+APPUCHI VEETTU MANPANAI SAMAYAL,Mushroom paratta,Pre Booking Orders Only,60,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,2
+APPUCHI VEETTU MANPANAI SAMAYAL,Gobi Paratta,Pre Booking Orders Only,60,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,3
+APPUCHI VEETTU MANPANAI SAMAYAL,Veg Mix Paratta,Pre Booking Orders Only,60,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,4
+APPUCHI VEETTU MANPANAI SAMAYAL,Spl Bun Paratta,Pre Booking Orders Only,50,,,,0,Veg,03:00PM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,24,5

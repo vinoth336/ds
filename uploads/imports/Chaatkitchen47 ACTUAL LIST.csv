@@ -1,0 +1,200 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+CHAAT KITCHEN (Pure Veg),Chapathi 6 Pcs + Paneer Butter Masala,,250,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi Combo,,0,,1,1
+CHAAT KITCHEN (Pure Veg),Chapathi 6 Pcs + Palak Paneer + Dhal Fry,,225,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi Combo,,0,,1,2
+CHAAT KITCHEN (Pure Veg),Chapathi 3 Pcs + Palak Paneer + Dhal Fry,,165,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi Combo,,0,,1,3
+CHAAT KITCHEN (Pure Veg),Chapathi 2 Pcs + Paneer Butter Masala,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi Combo,,0,,1,4
+CHAAT KITCHEN (Pure Veg),Chapathi 2 Pcs + Chana Masala,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi Combo,,0,,1,5
+CHAAT KITCHEN (Pure Veg),Naan 2 Pcs + Paneer Butter Masala,,240,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan Combo,,0,,2,1
+CHAAT KITCHEN (Pure Veg),Naan 2 Pcs + Gobi Manchurian Gravy,,230,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan Combo,,0,,2,2
+CHAAT KITCHEN (Pure Veg),Naan 1 Pc + Fried Rice + Gobi Manchurian + Paneer Butter Masala,,360,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan Combo,,0,,2,3
+CHAAT KITCHEN (Pure Veg),Butter Naan 2 Pcs + Paneer Butter Masala,,280,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan Combo,,0,,2,4
+CHAAT KITCHEN (Pure Veg),Garlic Naan 2 Pcs + Kadai Veg + Mushroom Masala,,270,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan Combo,,0,,2,5
+CHAAT KITCHEN (Pure Veg),Jeera Rice + Dhal Fry + Chapathi 2 Pcs + Bhindi Fry,,210,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Noodles Combo,,0,,3,1
+CHAAT KITCHEN (Pure Veg),Veg Rice + Gobi Manchurian Gravy,,210,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Noodles Combo,,0,,3,2
+CHAAT KITCHEN (Pure Veg),Jeera Rice + Dhal Fry,,155,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Noodles Combo,,0,,3,3
+CHAAT KITCHEN (Pure Veg),Paneer Rice + Gobi Manchurian Gravy,,220,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Noodles Combo,,0,,3,4
+CHAAT KITCHEN (Pure Veg),Paneer Rice + Gobi Manchurian Gravy + PB Masala + Butter Rotti 2 Pcs,,385,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Noodles Combo,,0,,3,5
+CHAAT KITCHEN (Pure Veg),Paneer Rice + Gobi Manchurian Gravy + PB Masala + Butter Naan 2 Pcs,,420,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Noodles Combo,,0,,3,6
+CHAAT KITCHEN (Pure Veg),Schezwan Rice + Babycorn Manchurian Gravy,,240,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Noodles Combo,,0,,3,7
+CHAAT KITCHEN (Pure Veg),Schezwan Noodles + Chilli Gobi Gravy,,185,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Noodles Combo,,0,,3,8
+CHAAT KITCHEN (Pure Veg),Schezwan Paneer Noodles + Chilli Gobi Gravy,,250,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Noodles Combo,,0,,3,9
+CHAAT KITCHEN (Pure Veg),Paneer Paratha 1 Pc + Mushroom Masala + Channa Masala,,235,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha / Roti Combo,,0,,4,1
+CHAAT KITCHEN (Pure Veg),Aloo Paratha 1 Pc + Paneer Butter Masala + Mushroom Masala,,235,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha / Roti Combo,,0,,4,2
+CHAAT KITCHEN (Pure Veg),Tandoori Roti 2 Pcs + Mushroom Masala + Paneer Butter Masala,,250,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha / Roti Combo,,0,,4,3
+CHAAT KITCHEN (Pure Veg),Pav Bhaji,,65,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pav Bhaji Special,,0,,5,1
+CHAAT KITCHEN (Pure Veg),Paneer Pav Bhaji,,90,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pav Bhaji Special,,0,,5,2
+CHAAT KITCHEN (Pure Veg),Mushroom Pav Bhaji,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pav Bhaji Special,,0,,5,3
+CHAAT KITCHEN (Pure Veg),Cheese Pav Bhaji,,115,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pav Bhaji Special,,0,,5,4
+CHAAT KITCHEN (Pure Veg),Cheese Mushroom Pav Bhaji,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pav Bhaji Special,,0,,5,5
+CHAAT KITCHEN (Pure Veg),Cheese Paneer Pav Bhaji,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pav Bhaji Special,,0,,5,6
+CHAAT KITCHEN (Pure Veg),Bada Pav,,45,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pav Bhaji Special,,0,,5,7
+CHAAT KITCHEN (Pure Veg),Extra Pav,,35,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pav Bhaji Special,,0,,5,8
+CHAAT KITCHEN (Pure Veg),Extra Bhaji,,35,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pav Bhaji Special,,0,,5,9
+CHAAT KITCHEN (Pure Veg),Samosa 2 Pcs,,44,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,1
+CHAAT KITCHEN (Pure Veg),Cutlet 2 Pcs,,50,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,2
+CHAAT KITCHEN (Pure Veg),Pani Puri,,45,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,3
+CHAAT KITCHEN (Pure Veg),Masala Puri,,45,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,4
+CHAAT KITCHEN (Pure Veg),Bhel Puri,,45,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,5
+CHAAT KITCHEN (Pure Veg),Bombay Bhel Puri,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,6
+CHAAT KITCHEN (Pure Veg),Aloo Puri,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,7
+CHAAT KITCHEN (Pure Veg),Sev Puri,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,8
+CHAAT KITCHEN (Pure Veg),Chana Masala Chat,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,9
+CHAAT KITCHEN (Pure Veg),Samosa Masala,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,10
+CHAAT KITCHEN (Pure Veg),Cutlet Masala,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,11
+CHAAT KITCHEN (Pure Veg),Bread Channa,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,12
+CHAAT KITCHEN (Pure Veg),Dahi Puri,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,13
+CHAAT KITCHEN (Pure Veg),Dahi Papdi Chat,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,14
+CHAAT KITCHEN (Pure Veg),Dahi Cutlet,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,15
+CHAAT KITCHEN (Pure Veg),Dahi Samosa,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,16
+CHAAT KITCHEN (Pure Veg),Dahi Bhelpuri,,65,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,17
+CHAAT KITCHEN (Pure Veg),Aloo Chat,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,18
+CHAAT KITCHEN (Pure Veg),Churmur Papdi Chat,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,19
+CHAAT KITCHEN (Pure Veg),Bread Roll,,35,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,20
+CHAAT KITCHEN (Pure Veg),Mix Chat,,70,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,21
+CHAAT KITCHEN (Pure Veg),Aloo Tikki Chat,,95,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,22
+CHAAT KITCHEN (Pure Veg),Deluxe Pani Puri,,65,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chat Items,,0,,6,23
+CHAAT KITCHEN (Pure Veg),Veg Sandwich Plain,,70,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,1
+CHAAT KITCHEN (Pure Veg),Paneer Cheese Sandwich,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,2
+CHAAT KITCHEN (Pure Veg),Mushroom Cheese Sandwich,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,3
+CHAAT KITCHEN (Pure Veg),Sweet Corn Cheese Sandwich,,105,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,4
+CHAAT KITCHEN (Pure Veg),Mix Veg Cheese Sandwich,,110,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,5
+CHAAT KITCHEN (Pure Veg),Aloo Cheese Sandwich,,110,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,6
+CHAAT KITCHEN (Pure Veg),Aloo Masala Cheese Sandwich,,120,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,7
+CHAAT KITCHEN (Pure Veg),Chilli Cheese Sandwich,,110,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,8
+CHAAT KITCHEN (Pure Veg),Aloo Mix Veg Cheese Sandwich,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,9
+CHAAT KITCHEN (Pure Veg),Cheese Sandwich,,105,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sandwich,,0,,7,10
+CHAAT KITCHEN (Pure Veg),Veg Burger,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,8,1
+CHAAT KITCHEN (Pure Veg),Butter Paneer Burger,,120,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,8,2
+CHAAT KITCHEN (Pure Veg),Veg Cheese Burger,,120,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,8,3
+CHAAT KITCHEN (Pure Veg),Mix Burger,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burger,,0,,8,4
+CHAAT KITCHEN (Pure Veg),Veg Pizza,,210,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,9,1
+CHAAT KITCHEN (Pure Veg),Tomato Pizza,,270,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,9,2
+CHAAT KITCHEN (Pure Veg),Paneer Pizza,,270,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,9,3
+CHAAT KITCHEN (Pure Veg),Mushroom Pizza,,220,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,9,4
+CHAAT KITCHEN (Pure Veg),Sweet Corn Pizza,,270,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,9,5
+CHAAT KITCHEN (Pure Veg),Mix Pizza,,200,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Pizza,,0,,9,6
+CHAAT KITCHEN (Pure Veg),Veg Roll,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,10,1
+CHAAT KITCHEN (Pure Veg),Mushroom Roll,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,10,2
+CHAAT KITCHEN (Pure Veg),Paneer Roll,,115,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,10,3
+CHAAT KITCHEN (Pure Veg),Mixed Veg Roll,,115,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,10,4
+CHAAT KITCHEN (Pure Veg),Cheese Roll,,115,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rolls,,0,,10,5
+CHAAT KITCHEN (Pure Veg),Paneer Tikka,,220,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Tikka,,0,,11,1
+CHAAT KITCHEN (Pure Veg),Aloo Tikka,,175,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Tikka,,0,,11,2
+CHAAT KITCHEN (Pure Veg),Gobi Tikka,,185,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Tikka,,0,,11,3
+CHAAT KITCHEN (Pure Veg),Mushroom Tikka,,220,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Tikka,,0,,11,4
+CHAAT KITCHEN (Pure Veg),Cauliflower 65,,90,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chilli 65,,0,,12,1
+CHAAT KITCHEN (Pure Veg),Paneer 65,,175,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chilli 65,,0,,12,2
+CHAAT KITCHEN (Pure Veg),Mushroom 65,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chilli 65,,0,,12,3
+CHAAT KITCHEN (Pure Veg),Babycorn 65,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chilli 65,,0,,12,4
+CHAAT KITCHEN (Pure Veg),Soya 65,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chilli 65,,0,,12,5
+CHAAT KITCHEN (Pure Veg),Aloo Jeera,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Side Dish,,0,,13,1
+CHAAT KITCHEN (Pure Veg),Aloo Pepper,,105,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Side Dish,,0,,13,2
+CHAAT KITCHEN (Pure Veg),Aloo Peas,,110,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Side Dish,,0,,13,3
+CHAAT KITCHEN (Pure Veg),Aloo Gobi,,120,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Side Dish,,0,,13,4
+CHAAT KITCHEN (Pure Veg),Bhindi Dry,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Side Dish,,0,,13,5
+CHAAT KITCHEN (Pure Veg),Peas Paneer,,155,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Side Dish,,0,,13,6
+CHAAT KITCHEN (Pure Veg),Oil Chapathi 2 Pcs,,50,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi / Roti,,0,,14,1
+CHAAT KITCHEN (Pure Veg),Phulka Dry Chapathi 2 Pcs,,44,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi / Roti,,0,,14,2
+CHAAT KITCHEN (Pure Veg),Roti 2 Pcs,,36,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi / Roti,,0,,14,3
+CHAAT KITCHEN (Pure Veg),Butter Roti 2 Pcs,,44,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi / Roti,,0,,14,4
+CHAAT KITCHEN (Pure Veg),Tandoori Roti,,40,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi / Roti,,0,,14,5
+CHAAT KITCHEN (Pure Veg),Tandoori Butter Roti,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chapathi / Roti,,0,,14,6
+CHAAT KITCHEN (Pure Veg),Aloo Paratha,,60,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,1
+CHAAT KITCHEN (Pure Veg),Paneer Paratha,,95,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,2
+CHAAT KITCHEN (Pure Veg),Mushroom Paratha,,95,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,3
+CHAAT KITCHEN (Pure Veg),Gobi Paratha,,75,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,4
+CHAAT KITCHEN (Pure Veg),Onion Paratha,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,5
+CHAAT KITCHEN (Pure Veg),Pudina Paratha,,65,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,6
+CHAAT KITCHEN (Pure Veg),Mix Veg Paratha,,99,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,7
+CHAAT KITCHEN (Pure Veg),Garlic Paratha,,99,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,8
+CHAAT KITCHEN (Pure Veg),Chilly Paratha,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,9
+CHAAT KITCHEN (Pure Veg),Addon Cheese,,20,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Paratha,,0,,15,10
+CHAAT KITCHEN (Pure Veg),Naan 1 Pc,,40,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan / Kulcha,,0,,16,1
+CHAAT KITCHEN (Pure Veg),Butter Naan 1 Pc,,55,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan / Kulcha,,0,,16,2
+CHAAT KITCHEN (Pure Veg),Masala Naan 1 Pc,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan / Kulcha,,0,,16,3
+CHAAT KITCHEN (Pure Veg),Garlic Naan 1 Pc,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan / Kulcha,,0,,16,4
+CHAAT KITCHEN (Pure Veg),Paneer Naan 1 Pc,,105,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan / Kulcha,,0,,16,5
+CHAAT KITCHEN (Pure Veg),Kulcha 1 Pc,,120,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan / Kulcha,,0,,16,6
+CHAAT KITCHEN (Pure Veg),Butter Kulcha 1 Pc,,135,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan / Kulcha,,0,,16,7
+CHAAT KITCHEN (Pure Veg),Masala Kulcha 1 Pc,,140,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan / Kulcha,,0,,16,8
+CHAAT KITCHEN (Pure Veg),Garlic Kulcha 1 Pc,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Naan / Kulcha,,0,,16,9
+CHAAT KITCHEN (Pure Veg),Paneer Butter Masala,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,1
+CHAAT KITCHEN (Pure Veg),Paneer Green Peas Masala,,120,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,2
+CHAAT KITCHEN (Pure Veg),Malai Kofta,,160,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,3
+CHAAT KITCHEN (Pure Veg),Shahi Paneer,,150,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,4
+CHAAT KITCHEN (Pure Veg),Palak Paneer,,95,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,5
+CHAAT KITCHEN (Pure Veg),Kadai Paneer,,110,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,6
+CHAAT KITCHEN (Pure Veg),Mushroom Masala,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,7
+CHAAT KITCHEN (Pure Veg),Mushroom Paneer Masala,,115,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,8
+CHAAT KITCHEN (Pure Veg),Kadai Mushroom,,110,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,9
+CHAAT KITCHEN (Pure Veg),Gobi Masala,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,10
+CHAAT KITCHEN (Pure Veg),Channa Masala,,75,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,11
+CHAAT KITCHEN (Pure Veg),Dal Fry,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,12
+CHAAT KITCHEN (Pure Veg),Dal Tadka,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,13
+CHAAT KITCHEN (Pure Veg),Dal Palak,,90,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,14
+CHAAT KITCHEN (Pure Veg),Aloo Palak,,90,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,15
+CHAAT KITCHEN (Pure Veg),Aloo Gobi Masala,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,16
+CHAAT KITCHEN (Pure Veg),Aloo Green Peas Masala,,125,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,17
+CHAAT KITCHEN (Pure Veg),Aloo Capsicum Masala,,125,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,18
+CHAAT KITCHEN (Pure Veg),Bhindi Masala,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,19
+CHAAT KITCHEN (Pure Veg),Kaju Paneer Masala,,160,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,20
+CHAAT KITCHEN (Pure Veg),Baby Corn Capsicum Masala,,100,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,21
+CHAAT KITCHEN (Pure Veg),Kaju Paneer Masala,,150,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Gravys,,0,,17,22
+CHAAT KITCHEN (Pure Veg),Gobi Manchurian,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Manchurian Items,,0,,18,1
+CHAAT KITCHEN (Pure Veg),Mushroom Manchurian,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Manchurian Items,,0,,18,2
+CHAAT KITCHEN (Pure Veg),Paneer Manchurian,,145,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Manchurian Items,,0,,18,3
+CHAAT KITCHEN (Pure Veg),Baby Corn Manchurian,,95,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Manchurian Items,,0,,18,4
+CHAAT KITCHEN (Pure Veg),Potato Manchirian,,85,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Manchurian Items,,0,,18,5
+CHAAT KITCHEN (Pure Veg),Veg Manchurian,,75,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Manchurian Items,,0,,18,6
+CHAAT KITCHEN (Pure Veg),Jeera Rice,,115,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Pulao,,0,,19,1
+CHAAT KITCHEN (Pure Veg),Veg Pulao,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Pulao,,0,,19,2
+CHAAT KITCHEN (Pure Veg),Jeere Pulao,,125,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Pulao,,0,,19,3
+CHAAT KITCHEN (Pure Veg),Green Peas Pulao,,135,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Pulao,,0,,19,4
+CHAAT KITCHEN (Pure Veg),Paneer Pulao,,155,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Pulao,,0,,19,5
+CHAAT KITCHEN (Pure Veg),Gobi Pulao,,135,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Pulao,,0,,19,6
+CHAAT KITCHEN (Pure Veg),Ghee Rice,,125,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Pulao,,0,,19,7
+CHAAT KITCHEN (Pure Veg),North Indian Thali,,220,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice / Pulao,,0,,19,8
+CHAAT KITCHEN (Pure Veg),Veg Fried Rice,,135,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,1
+CHAAT KITCHEN (Pure Veg),Gobi Fried Rice,,140,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,2
+CHAAT KITCHEN (Pure Veg),Mushroom Fried Rice,,140,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,3
+CHAAT KITCHEN (Pure Veg),Paneer Fried Rice,,155,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,4
+CHAAT KITCHEN (Pure Veg),Baby Corn Fried Rice,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,5
+CHAAT KITCHEN (Pure Veg),Mix Veg Fried Rice,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,6
+CHAAT KITCHEN (Pure Veg),Schezwan Fried Rice,,150,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,7
+CHAAT KITCHEN (Pure Veg),Schezwan Paneer Fried Rice,,165,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,8
+CHAAT KITCHEN (Pure Veg),Schezwan Mushroom Fried Rice,,160,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,9
+CHAAT KITCHEN (Pure Veg),Schezwan Baby Corn Fried Rice,,165,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,10
+CHAAT KITCHEN (Pure Veg),Schezwan Mix Veg Fried Rice,,180,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,11
+CHAAT KITCHEN (Pure Veg),Garlic Fried Rice,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,12
+CHAAT KITCHEN (Pure Veg),Garlic Paneer Fried Rice,,160,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,13
+CHAAT KITCHEN (Pure Veg),Garlic Mushroom Fried Rice,,150,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,14
+CHAAT KITCHEN (Pure Veg),Garlic Gobi Fried Rice,,145,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,15
+CHAAT KITCHEN (Pure Veg),Garlic Babycorn Fried Rice,,145,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,16
+CHAAT KITCHEN (Pure Veg),Garlic Sweetcorn Fried Rice,,155,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,17
+CHAAT KITCHEN (Pure Veg),Veg Noodles,,135,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,18
+CHAAT KITCHEN (Pure Veg),Gobi Noodles,,140,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,19
+CHAAT KITCHEN (Pure Veg),Mushroom Noodles,,140,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,20
+CHAAT KITCHEN (Pure Veg),Paneer Noodles,,155,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,21
+CHAAT KITCHEN (Pure Veg),Mix Veg Noodles,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,22
+CHAAT KITCHEN (Pure Veg),Schezwan Noodles,,150,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,23
+CHAAT KITCHEN (Pure Veg),Schezwan Paneer Noodles,,165,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,24
+CHAAT KITCHEN (Pure Veg),Schezwan Mushroom Noodles,,160,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,25
+CHAAT KITCHEN (Pure Veg),Schezwan Gobi Noodles,,155,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,26
+CHAAT KITCHEN (Pure Veg),Schezwan Babycorn Noodles,,165,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,27
+CHAAT KITCHEN (Pure Veg),Schezwan Mix Veg Noodles,,180,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,28
+CHAAT KITCHEN (Pure Veg),Garlic Noodles,,130,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,29
+CHAAT KITCHEN (Pure Veg),Garlic Paneer Noodles,,160,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,30
+CHAAT KITCHEN (Pure Veg),Garlic Mushroom Noodles,,150,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,31
+CHAAT KITCHEN (Pure Veg),Garlic Gobi Noodles,,145,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,32
+CHAAT KITCHEN (Pure Veg),Garlic Babycorn Noodles,,145,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,33
+CHAAT KITCHEN (Pure Veg),Garlic Mix Veg Noodles,,155,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Rice & Noodles,,0,,20,34
+CHAAT KITCHEN (Pure Veg),Lassi,,80,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Drinks,,0,,21,1
+CHAAT KITCHEN (Pure Veg),Mango Lassi,,90,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Drinks,,0,,21,2
+CHAAT KITCHEN (Pure Veg),Badam Milk,,70,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Drinks,,0,,21,3
+CHAAT KITCHEN (Pure Veg),Rose Milk,,70,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Drinks,,0,,21,4
+CHAAT KITCHEN (Pure Veg),Veg Soup,,60,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,22,1
+CHAAT KITCHEN (Pure Veg),Mushroom Soup,,65,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,22,2
+CHAAT KITCHEN (Pure Veg),Tomato Soup,,65,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,22,3
+CHAAT KITCHEN (Pure Veg),Sweet Corn Soup,,70,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,22,4
+CHAAT KITCHEN (Pure Veg),Mix Veg Soup,,70,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,22,5
+CHAAT KITCHEN (Pure Veg),Paneer Soup,,70,,,,0,0,Veg,12:00PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Soup,,0,,22,6

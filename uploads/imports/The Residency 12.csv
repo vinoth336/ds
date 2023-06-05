@@ -1,0 +1,146 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+THE RESIDENCY - PAVILION,Grilled Sandwich Veg,,175,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,6,1
+THE RESIDENCY - PAVILION,Grilled Sandwich Non Veg,,200,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,6,2
+THE RESIDENCY - PAVILION,Club Sandwich Veg,,200,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,1,1
+THE RESIDENCY - PAVILION,Club Sandwich Non Veg,,250,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,1,2
+THE RESIDENCY - PAVILION,Pizza Sandwich  Veg,,250,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,1,3
+THE RESIDENCY - PAVILION,Pizza Sandwich Non Veg,,300,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWich,,0,,1,4
+THE RESIDENCY - PAVILION,Fish Finger,,375,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,1,5
+THE RESIDENCY - PAVILION,Egg Pakoda,,175,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,1,6
+THE RESIDENCY - PAVILION,Cheese Chilly Toast,,175,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,7
+THE RESIDENCY - PAVILION,Onion Pakoda,,175,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,8
+THE RESIDENCY - PAVILION,Assorted Veg Pakora,,175,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,9
+THE RESIDENCY - PAVILION,French Fries,,150,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,1,10
+THE RESIDENCY - PAVILION,Fedora  Salad,,250,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Salad,,0,,1,11
+THE RESIDENCY - PAVILION,Veg HawaiIan Salad,,150,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Salad,,0,,1,12
+THE RESIDENCY - PAVILION,Grilled Chicken Salad,,275,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Salad,,0,,1,13
+THE RESIDENCY - PAVILION,Cream Of Chicken Soup,,200,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,1,14
+THE RESIDENCY - PAVILION,Kozhi Malli Rasam,,200,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,1,15
+THE RESIDENCY - PAVILION,Chicken Manchow Soup,,200,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,1,16
+THE RESIDENCY - PAVILION,Sweet Corn Chicken Soup,,200,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,5,1
+THE RESIDENCY - PAVILION,Sour & Pepper  Chicken Soup,,200,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,5,2
+THE RESIDENCY - PAVILION,Chicken Clear Soup,,200,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Soup,,0,,4,1
+THE RESIDENCY - PAVILION,Veg Manchow Soup,,175,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Soup,,0,,4,2
+THE RESIDENCY - PAVILION,Sweet Corn Veg Soup,,175,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Soup,,0,,4,3
+THE RESIDENCY - PAVILION,Sour & Pepper Veg Soup,,175,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Soup,,0,,4,4
+THE RESIDENCY - PAVILION,Cream Of Veg Soup,,175,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soup,,0,,4,5
+THE RESIDENCY - PAVILION,Cream Of Mushroom Soup,,175,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Soup,,0,,4,6
+THE RESIDENCY - PAVILION,Tawa Fried Fish,,375,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,4,7
+THE RESIDENCY - PAVILION,Vanjaram Tawa Fried Fish,,475,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,4,8
+THE RESIDENCY - PAVILION,Prawn Vepudu,,475,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,4,9
+THE RESIDENCY - PAVILION,Mutton Ghee Roast,,450,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,7,1
+THE RESIDENCY - PAVILION,Naatu Kozhi Sukka,,400,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,7,2
+THE RESIDENCY - PAVILION,Guntur Kodi,,290,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,7,3
+THE RESIDENCY - PAVILION,Crispy Lamb With Hot Garlic Sauce,,450,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,8,1
+THE RESIDENCY - PAVILION,Shredded Chicken With Bell Peppe ,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,8,2
+THE RESIDENCY - PAVILION,Chicken Manchuriyan,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,8,3
+THE RESIDENCY - PAVILION,Schezwan Chicken,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,2,1
+THE RESIDENCY - PAVILION,Jungle Chicken,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,2,2
+THE RESIDENCY - PAVILION,Teriyaki Chicken,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,2,3
+THE RESIDENCY - PAVILION,Dragon Chicken,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,3,1
+THE RESIDENCY - PAVILION,Chilly Chicken,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,3,2
+THE RESIDENCY - PAVILION,Crispy Chicken,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,3,3
+THE RESIDENCY - PAVILION,Malaysian Pepper Prawn ,,475,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,3,4
+THE RESIDENCY - PAVILION,Mangolian Fish,,375,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,3,5
+THE RESIDENCY - PAVILION,Andra Chily Paneer,,250,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,6
+THE RESIDENCY - PAVILION,Mushroom Kondattam,,250,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,7
+THE RESIDENCY - PAVILION,Malaysian Cottage Cheese,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,8
+THE RESIDENCY - PAVILION,Chilly Paneer,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,9
+THE RESIDENCY - PAVILION,Paneer Manchurian,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,10
+THE RESIDENCY - PAVILION,Dragon Paneer,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,1
+THE RESIDENCY - PAVILION,Chilly Mushroom,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,2
+THE RESIDENCY - PAVILION,Mushroom Manchurian,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,3
+THE RESIDENCY - PAVILION,Gobi Manchurian,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,4
+THE RESIDENCY - PAVILION,Chilly Gobi,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,5
+THE RESIDENCY - PAVILION,Devil Gobi,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,6
+THE RESIDENCY - PAVILION,Dragon Gobi,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,7
+THE RESIDENCY - PAVILION,Malacca Gobi,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,8
+THE RESIDENCY - PAVILION,Honey Chilli Lotus Stem,,250,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,9
+THE RESIDENCY - PAVILION,Baby Corn Pepper Salt,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starter,,0,,9,10
+THE RESIDENCY - PAVILION,Delight Fish Tikka,,375,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,11
+THE RESIDENCY - PAVILION,Mutton Chapli Kebab,,450,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,12
+THE RESIDENCY - PAVILION,Tandoori Chicken (Half),,400,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,12
+THE RESIDENCY - PAVILION,Murgh Kulfi Kebab,,300,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,12
+THE RESIDENCY - PAVILION, Murgh Malai Kebab,,300,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,12
+THE RESIDENCY - PAVILION,Murgh Kasturi Kebab,,300,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,12
+THE RESIDENCY - PAVILION,Pavilion Non Vegetarian Platter,,850,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,12
+THE RESIDENCY - PAVILION,Cheesy Mushroom Kebab,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,12
+THE RESIDENCY - PAVILION,Zaffarani Panner Tikka,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,12
+THE RESIDENCY - PAVILION,Paneer Delight Kebab,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,12
+THE RESIDENCY - PAVILION,Malai Gobi,,200,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,12
+THE RESIDENCY - PAVILION,Pavilion Vegetarian Platter,,600,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,9,12
+THE RESIDENCY - PAVILION,Chicken Kothu Paratha,,300,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Karaikal Meen Kozhambhu,,475,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Prawn Thokku,,475,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Bhuna Prawn,,475,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Nattu Kozhi Kozhambu,,400,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION, Viruthunagar Mutton Kuzhambu,,375,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Kozhi Varutha Curry,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Mutton Rogan Josh,,375,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Nellai Mutton Curry,,375,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Butter Chicken Masala,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Murgh Tangdi Masala,,300,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Kadai Murgh,,290,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Malaysian Pepper Prawn ,,475,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,12
+THE RESIDENCY - PAVILION,Dragon Prawn,,475,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,12
+THE RESIDENCY - PAVILION,Crispy Lamp Bell Pepper,,450,,,,10,Non Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Non Veg Starter,,0,,9,12
+THE RESIDENCY - PAVILION,Vegetable Kothu Paratha,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Mushroom Masala,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Paneer Makhanwala,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Palak Paneer,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Malai Koftha Curry,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Masala Koftha Curry,,250,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Dum Aloo Kashmiri,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Gobi Tikka Masala,,200,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Aloo Mutter,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Dal Tadka ,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Dal Palak,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Dal Makhani,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Mixed Vegetable With Manchurian sause,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,schezwan Vegetable Gravy,,190,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Naan,,80,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Kulcha,,80,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Roti,,80,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Chappathi,,80,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Phulka,,80,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Kerala Partha,,90,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Tawa Partha,,90,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Pudina Partha,,90,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Tandoor Partha,,90,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Garlic Naan,,90,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Butter Naan,,90,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Cheese Naan,,90,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Aloo Kulcha,,100,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Gobi Kulcha,,100,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Paneer Kulcha,,120,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Kashmiri Naan,,120,,,,10,Veg,,,,,12.30PM,2.45PM,7:00 PM,10.45PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+THE RESIDENCY - PAVILION,Mutton Biriyani,,375,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Chicken Biriyani,,300,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Egg Biriyani,,250,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Vegetable Biriyani,,250,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Prawn Biriyani,,475,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Fish Biriyani,,375,,,,10,Non Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Vegetable Pulao,,225,,,,10,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Peas Pulao,,225,,,,10,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Jeera Pulao,,225,,,,10,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Paneer Pulao,,225,,,,10,Veg,,,,,,,,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Bisibelabath,,175,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Tamarind Rice,,175,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Tomato Rice,,175,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Curd Rice,,175,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Prawn Fried Rice,,475,,,,10,Non Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Mixed Non Vegetarian Fried Rice,,400,,,,10,Non Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Schezwan Chicken Fried Rice,,250,,,,10,Non Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Singapore Chicken Fried Rice,,250,,,,10,Non Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Mixed Non Vegetarian  Noodles,,400,,,,10,Non Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Schezwan Chicken Noodles,,250,,,,10,Non Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Singapore Chicken Noodles,,250,,,,10,Non Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Non Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Mushroom Noodles,,225,,,,10,Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Veg Fried Rice,,225,,,,10,Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Singapore Veg Fried Rice,,225,,,,10,Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Schezwan Veg fried Rice,,225,,,,10,Veg,,,,,12.30pm to 2.45pm,,7.00pm to 10.45pm,,"1,2,3,4,5,6,7",1,,Veg Main Course,,0,,9,12
+THE RESIDENCY - PAVILION,Brownie ,,200,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Dessert,,0,,9,12
+THE RESIDENCY - PAVILION,Gajjar Ka Halwa,,170,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Dessert,,0,,9,12
+THE RESIDENCY - PAVILION,Fruit Salad,,150,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Dessert,,0,,9,12
+THE RESIDENCY - PAVILION,Gulab Jamun,,170,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Dessert,,0,,9,12
+THE RESIDENCY - PAVILION,Chocolate Samosa,,170,,,,10,Veg,11:00 AM,10.45PM,,,,,,,"1,2,3,4,5,6,7",1,,Dessert,,0,,9,12

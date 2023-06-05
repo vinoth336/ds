@@ -1,0 +1,71 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+SHIVA FOOD COURT,Bun Maska,,42,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bun Varities,,0,,1,1
+SHIVA FOOD COURT,Bun Butter Jam,,48,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bun Varities,,0,,2,1
+SHIVA FOOD COURT,Chocolate Bun Masaka,,48,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bun Varities,,0,,3,1
+SHIVA FOOD COURT,Classic Maggi ,,60,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Varites,,0,,3,1
+SHIVA FOOD COURT,Sweet Corn Maggi,,72,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Varites,,0,,4,1
+SHIVA FOOD COURT,Cheese and Corn Maggi,,84,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Varites,,0,,5,1
+SHIVA FOOD COURT,Panner Maggi,,84,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Varites,,0,,5,1
+SHIVA FOOD COURT,Double Layer Egg Magi,,72,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Varites,,0,,6,1
+SHIVA FOOD COURT,Mix Veg Maggi,,72,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Varites,,0,,1,2
+SHIVA FOOD COURT,Smoky BBQ Maggi,,72,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Varites,,0,,2,2
+SHIVA FOOD COURT,Chicken Sausage Maggi,,84,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi Varites,,0,,3,2
+SHIVA FOOD COURT,Regular Fries,,60,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries Varites,,0,,4,2
+SHIVA FOOD COURT,Peri Peri Fries,,72,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries Varites,,0,,5,2
+SHIVA FOOD COURT,BBQ Fries,,72,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries Varites,,0,,6,2
+SHIVA FOOD COURT,Cheesy Fries,,90,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fries Varites,,0,,7,2
+SHIVA FOOD COURT,Veg Sandwich,,60,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWiches,,0,,1,3
+SHIVA FOOD COURT,Chilly Cheese Toast,,60,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWiches,,0,,2,3
+SHIVA FOOD COURT,Panner Sandwich,,72,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWiches,,0,,4,3
+SHIVA FOOD COURT,Chicken Sausage Sandwich,,84,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWiches,,0,,5,3
+SHIVA FOOD COURT,Egg Sandwich,,72,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,SandWiches,,0,,3,4
+SHIVA FOOD COURT,Bread Omlet Plain,,48,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breat Omlet,,0,,4,4
+SHIVA FOOD COURT,Mix Veg Bread Omlet,,60,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breat Omlet,,0,,5,4
+SHIVA FOOD COURT,Chicken Sausage Bread Omlet,,72,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breat Omlet,,0,,6,4
+SHIVA FOOD COURT,Panner Bread Omlet,,66,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breat Omlet,,0,,7,4
+SHIVA FOOD COURT,Sweet Corn Bread Omlet,,60,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Breat Omlet,,0,,1,5
+SHIVA FOOD COURT,Veg Puffs,,18,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Puffs,,0,,2,5
+SHIVA FOOD COURT,Egg Puffs,,24,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Puffs,,0,,2,5
+SHIVA FOOD COURT,Mushroom Puffs,,24,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Puffs,,0,,1,1
+SHIVA FOOD COURT,Samosa,,18,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Puffs,,0,,3,1
+SHIVA FOOD COURT,Lemon Sherbet,,30,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,4,1
+SHIVA FOOD COURT,Nannary Sherbet,,30,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,6,1
+SHIVA FOOD COURT,Strawbery,,30,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,1,2
+SHIVA FOOD COURT,BlueBerry,,36,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,2,2
+SHIVA FOOD COURT,Pineapple,,30,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,2,2
+SHIVA FOOD COURT,Green Apple,,30,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,3,2
+SHIVA FOOD COURT,Kiwi,,30,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,4,2
+SHIVA FOOD COURT,Mango,,30,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,5,2
+SHIVA FOOD COURT,Mojito Mint,,36,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,6,2
+SHIVA FOOD COURT,Butter Scotch,,30,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sherbet,,0,,1,4
+SHIVA FOOD COURT,Satha Garam,,18,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,2,4
+SHIVA FOOD COURT,Egg Garam,,24,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,6,2
+SHIVA FOOD COURT,Bhel Pori,,18,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,1,4
+SHIVA FOOD COURT,Elladai Set,,18,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,2,4
+SHIVA FOOD COURT,Bajji,,8,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,2,4
+SHIVA FOOD COURT,Gobi 65 (100grm),,30,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,2,4
+SHIVA FOOD COURT,Chicken 65 (100grm),,42,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Snacks,,0,,2,4
+SHIVA FOOD COURT,Plain Dosa,,18,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Roast,,48,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Onion Dosa,,36,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Egg Dosa,,36,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Podi Dosa,,36,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Poondu Dosa,,36,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Malli Dosa,,36,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Pudhina Dosa,,36,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Mushroom Dosa,,48,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Ghee Roast,,66,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Butter Dosa,,66,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Gobi Roast,,66,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosa Variets,,0,,2,4
+SHIVA FOOD COURT,Veg Fried Rice,,60,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice & Nooldes,,0,,2,4
+SHIVA FOOD COURT,Egg Fried Rice,,72,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice & Nooldes,,0,,2,4
+SHIVA FOOD COURT,Chicken Fried Rice,,84,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice & Nooldes,,0,,2,4
+SHIVA FOOD COURT,Veg Noodles,,60,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice & Nooldes,,0,,2,4
+SHIVA FOOD COURT,Egg Noodles,,72,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice & Nooldes,,0,,2,4
+SHIVA FOOD COURT,Chicken Noodles,,84,,,,0,0,Non Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Fried Rice & Nooldes,,0,,2,4
+SHIVA FOOD COURT,Chappathi,,18,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,4
+SHIVA FOOD COURT,Parotta(1 Pc),,15,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,4
+SHIVA FOOD COURT,Chilli Parotta,,72,,,,0,0,Veg,10:30AM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,4
+SHIVA FOOD COURT,Idly (set),,12,,,,0,0,Veg,05:30PM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,4
+SHIVA FOOD COURT,Mini Idly,,54,,,,0,0,Veg,05:30PM ,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,4
+SHIVA FOOD COURT,Chicken Biriryani,,84,,,,0,0,Non Veg,12:30PM ,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,2,4

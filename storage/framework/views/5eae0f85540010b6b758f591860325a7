@@ -1,0 +1,165 @@
+<!--Home Sections-->
+
+<section id="home" class="home service bg-black fix">
+    <div class="overlay"></div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="main_home text-center">
+                <div class="col-md-12">
+                    <div class="hello_slid">
+                      <?php foreach($service_banners as $service_banner): ?>
+                        <div class="slid_item">
+                            <div class="home_text ">
+                                <img src="<?php echo e(asset('uploads/service_banner/'.$service_banner->service_banner)); ?>" >
+                                <div class="banner-content">
+                                
+                                    <h1 class="text-white"><?php echo e($service_banner->title); ?></h1>
+
+                                </div>
+                            </div>
+                           
+                        </div><!-- End off slid item -->
+                      <?php endforeach; ?>
+                    </div>
+                </div>
+            </div>
+
+        </div><!--End off row-->
+    </div><!--End off container -->
+</section> <!--End off Home Sections-->
+
+<!--Featured Section-->
+<section id="features" class="features book-service">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="main_features fix roomy-70">
+              <div class="head_title text-center fix">
+                <h3 class="title-head"> How To Book a Service </h3>
+                
+              </div>
+                <div class="col-md-12 how-to-book">
+                    <div class="features_item sm-m-top-30">
+                        
+                        <div class="img-home">
+                            <img src="<?php echo e(asset('abserve/assets/images/services/service-mid-ban.jpg')); ?>" alt="" >
+                        </div>
+                    </div>
+                </div>                            
+                
+            </div>
+        </div><!-- End off row -->
+    </div><!-- End off container -->
+</section><!-- End off Featured Section-->		
+
+
+<!--product section-->
+<section id="product" class="product">
+    <div class="container">
+        <div class="main_product service-product roomy-70">
+            <div class="head_title text-center fix">
+                <h3 class="title-head" >Offered Services</h3>
+                
+            </div>
+
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                	<?php $count = count($service_sliders);
+                    $slider_count = ceil($count/12);
+                    for($i=0; $i<$slider_count; $i++){ ?>
+                   	 	<li data-target="#carousel-example-generic" data-slide-to="<?php echo e($i); ?>" <?php if($i ==0): ?> class="active" <?php endif; ?>></li>
+                    <?php } ?>
+                </ol>
+
+                <!-- Wrapper for slides -->
+
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <div class="container">
+                            <div class="row">
+                              <?php $offset = 1; $limit = 12; ?>
+                              
+                              <?php foreach($service_sliders as $service_slider): ?>
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="port_item xs-m-top-30">
+                                        <div class="port_img">
+                                        	<img src="<?php echo e(asset('uploads/service_slider/'.$service_slider->slider_image)); ?>" >
+                                        </div>
+                                        <div class="port_caption m-top-20">
+                                            <h5><?php echo e($service_slider->title); ?></h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <?php if($limit <= $offset): ?>
+                                			</div>
+                                    	</div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row">                                            
+                                            <?php $offset = 0; ?>
+                                <?php endif; ?>                                
+                                <?php $offset++; ?>
+                              <?php endforeach; ?>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Controls -->
+                <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                    <span class="sr-only">Previous</span>
+                </a>
+
+                <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div><!-- End off row -->
+    </div><!-- End off container -->
+</section><!-- End off Product section -->
+
+
+<section id="business" class="business-app roomy-70">
+    <div class="container">
+        
+        
+        <div class="row">
+            <div class="main_business">
+                <div class="col-md-6">
+                    <div class="business_mobile">
+                        <div class="business_item">
+                                <div class="business_img">
+                                    <img src="<?php echo e(asset('abserve/assets/images/info/mobile-devices.png')); ?>" alt="" />
+                                </div>
+                            </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 business_item_right">
+                    <div class="business_item sm-m-top-50">
+                        <h2 class="text-uppercase"><strong>Delivery App</strong></h2>
+                        
+                        <p class="m-top-20">Avail your service from Anywhere, Anything and at Anytime with all New Delivery Star</p>
+
+                        <div class="business_btn">
+                            <a href="" class="m-top-20">
+                                <img src="<?php echo e(asset('abserve/assets/images/info/gplay.png')); ?>" alt="" />
+                            </a>
+                            <a href="" class="m-top-20">
+                                <img src="<?php echo e(asset('abserve/assets/images/info/playstore.png')); ?>" alt="" />
+                            </a>
+                            
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- End off Business section -->

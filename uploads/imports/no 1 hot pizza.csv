@@ -1,0 +1,157 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+NO.1 HOT PIZZA,Margherita Pizza(Medium),"Cheese,Tomato,Basil",330,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Veg Pizzas,,0,,1,1
+NO.1 HOT PIZZA,Special Veg Pizza(Medium),"Cheese,Onion,Capsicum,Chilli,Tomato,Corn",340,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Veg Pizzas,,0,,2,1
+NO.1 HOT PIZZA,Chilli Cheese Pizza(Medium),"Cheese, Green Chilly, Onion, Capsicum",340,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Veg Pizzas,,0,,3,1
+NO.1 HOT PIZZA,Spicy Panneer Pizza(Medium),"Cheese,Onion, Capsicum,Panner,Chilli",350,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Veg Pizzas,,0,,4,1
+NO.1 HOT PIZZA,Panner Tikka Pizza(Medium),"Cheese,Onion,Capsicum,Tomato,Panner Tikka",350,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Veg Pizzas,,0,,5,1
+NO.1 HOT PIZZA,Roasted Mushroom Pizza(Medium),"Cheese, Onion, Capsicum, Corn, Mushroom",350,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Veg Pizzas,,0,,6,1
+NO.1 HOT PIZZA,Kids Special Paneer Pizza (M),"Paneer,Corn,Tomato,Onion",350,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Veg Pizzas,,0,,7,1
+NO.1 HOT PIZZA,Stuffed Calzone Veg Pizza(Medium),"Cheese,Amul Cheese ,Onion, Capsicum,Corn,Tomato",380,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Medium Veg Pizzas,,0,,8,1
+NO.1 HOT PIZZA,Margherita Pizza(Large),"Cheese,Tomato,Basil",360,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Veg Pizzas,,0,,9,1
+NO.1 HOT PIZZA,Special Veg Pizza(Large),"Cheese,Onion,Capsicum,Chilli,Tomato,Corn",370,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Veg Pizzas,,0,,10,1
+NO.1 HOT PIZZA,Chilli Cheese Pizza(Large),"Cheese,  Green Chilly, Onion",370,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Veg Pizzas,,0,,11,1
+NO.1 HOT PIZZA,Spicy Panneer Pizza(Large),"Cheese,Onion, Capsicum,Panner,Chilli",380,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Veg Pizzas,,0,,12,1
+NO.1 HOT PIZZA,Panner Tikka Pizza(Large),"Cheese,Onion,Capsicum,Tomato,Panner Tikka",380,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Veg Pizzas,,0,,13,1
+NO.1 HOT PIZZA,Roasted Mushroom Pizza(Large),"Cheese, Onion, Capsicum, Corn, Mushroom",370,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Veg Pizzas,,0,,14,1
+NO.1 HOT PIZZA,Kids Special Paneer Pizza (L ),"Paneer,Corn,Tomato,Onion",380,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Veg Pizzas,,0,,15,1
+NO.1 HOT PIZZA,Stuffed Calzone Veg Pizza(Large),"Cheese,Amul Cheese ,Onion, Capsicum,Corn,Tomato",420,,,,15,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Large Veg Pizzas,,0,,16,1
+NO.1 HOT PIZZA,Grilled Chicken Pizza(Medium),"Cheese,Grilled Chicken,Onion,Capsicum,Corn,Chilli",370,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,1,2
+NO.1 HOT PIZZA,Fried Chicken Pizza(Medium),"Cheese,Fried Chicken,Onion,Capsicum,Corn",370,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,2,2
+NO.1 HOT PIZZA,Chicken Tikka Pizza(Medium),"Cheese,Chicken Tikka,Onion, Capsicum,Chilli,Tomato",380,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,3,2
+NO.1 HOT PIZZA,Egg & Chicken Pizza(Medium),"Cheese,Grilled Chicken,Egg,Onion,Capsicum,Chilli",380,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,4,2
+NO.1 HOT PIZZA,Mixed Chicken Pizza(Medium),"Cheese,Fried Chicken,Grilled Chicken,Chicken Tikka,Onion,Capsicum",430,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,5,2
+NO.1 HOT PIZZA,Stuffed Chicken Chicken Calzone Pizza (Medium),"Cheese,Grilled Chicken, Onion, Capsicum,Corn",450,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,6,2
+NO.1 HOT PIZZA,Pepper Chicken Pizza (Medium),"Cheese,Fried Chicken, Onion, Capsicum,Corn",399,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,6,2
+NO.1 HOT PIZZA,Grilled Chicken Pizza(Large),"Cheese,Grilled Chicken,Onion,Capsicum,Corn,Chilli",410,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,7,2
+NO.1 HOT PIZZA,Fried Chicken Pizza(Large),"Cheese,Fried Chicken,Onion,Capsicum,Corn",410,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,8,2
+NO.1 HOT PIZZA,Chicken Tikka Pizza(Large),"Cheese,Chicken Tikka,Onion, Capsicum,Chilli,Tomato",420,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,9,2
+NO.1 HOT PIZZA,Egg & Chicken Pizza(Large),"Cheese,Grilled Chicken,Egg,Onion,Capsicum,Chilli",420,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,10,2
+NO.1 HOT PIZZA,Mixed Chicken Pizza(Large),"Cheese,Fried Chicken,Grilled Chicken,Chicken Tikka,Onion,Capsicum",470,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,11,2
+NO.1 HOT PIZZA,Stuffed Chicken Chicken Calzone Pizza (Large),"Cheese,Grilled Chicken, Onion, Capsicum,Corn",499,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,12,2
+NO.1 HOT PIZZA,Pepper Chicken Pizza (Large),"Cheese,Fried Chicken, Onion, Capsicum,Corn",440,,,,15,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Pizzas,,0,,12,2
+NO.1 HOT PIZZA,Mushroom Pepper Fry,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,2,4
+NO.1 HOT PIZZA,Baby Corn Pepper Fry,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,3,4
+NO.1 HOT PIZZA,Panner Pepper Fry,,170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,4,4
+NO.1 HOT PIZZA,Mushroom Garlic,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,6,4
+NO.1 HOT PIZZA,Baby Corn Gralic,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,7,4
+NO.1 HOT PIZZA,Panner Garlic,,170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,8,4
+NO.1 HOT PIZZA,Mushroom Manchurian,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,10,4
+NO.1 HOT PIZZA,Baby Corn Machurian,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,11,4
+NO.1 HOT PIZZA,Panner Manchurian,,170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,12,4
+NO.1 HOT PIZZA,Mushroom Schezwan,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,14,4
+NO.1 HOT PIZZA,BabyCorn Schezwan,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,15,4
+NO.1 HOT PIZZA,Panner Schezwan,,170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Starters,,0,,16,4
+NO.1 HOT PIZZA,Devile Chicken,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,1,5
+NO.1 HOT PIZZA,Dragan Chicken ,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,2,5
+NO.1 HOT PIZZA,Chicken Pepper Fry,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,3,5
+NO.1 HOT PIZZA,Schezwan Chicken,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,5,5
+NO.1 HOT PIZZA,Garlic Chicken,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,6,5
+NO.1 HOT PIZZA,Chicken 65,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,7,5
+NO.1 HOT PIZZA,Chicken lollipop,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,8,5
+NO.1 HOT PIZZA,Drums Of Heaven,,190,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,9,5
+NO.1 HOT PIZZA,KFC Chicken ,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,10,5
+NO.1 HOT PIZZA,PopCorn Chicken,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,11,5
+NO.1 HOT PIZZA,Chicken Nuggets,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,12,5
+NO.1 HOT PIZZA,Andhra Chilli Chicken,,190,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Starters,,0,,13,5
+NO.1 HOT PIZZA,Egg Porial,,60,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,1,6
+NO.1 HOT PIZZA,Sunny Side up,,50,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,2,6
+NO.1 HOT PIZZA,Masala Omlet,,50,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,3,6
+NO.1 HOT PIZZA,Cheese Omlet,,60,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,4,6
+NO.1 HOT PIZZA,Bread Omlet,,70,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,5,6
+NO.1 HOT PIZZA,Mushroom Cheese Omlet,,70,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,6,6
+NO.1 HOT PIZZA,Fried Egg,,50,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,7,6
+NO.1 HOT PIZZA,Tomato Omlet,,50,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Items,,0,,1,7
+NO.1 HOT PIZZA,Veg Fried Rice,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,2,7
+NO.1 HOT PIZZA,Cauliflower 65 Fried Rice,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,3,7
+NO.1 HOT PIZZA,Mushroom 65 Fried Rice,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,4,7
+NO.1 HOT PIZZA,Panner 65 Fried Rice,,150,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,5,7
+NO.1 HOT PIZZA,Panner Tikka Fried Rice,,150,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,6,7
+NO.1 HOT PIZZA,Veg Schezwan Fried Rice,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,7,7
+NO.1 HOT PIZZA,Cauliflower 65 Schezwan Fried Rice,,150,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,8,7
+NO.1 HOT PIZZA,Mushroom 65 Schezwan Fried Rice,,160,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,9,7
+NO.1 HOT PIZZA,Panner 65 Schezwan Fried Rice,,170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,10,7
+NO.1 HOT PIZZA,panner Tikka Schezwan Fried Rice,,170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Fried Rice,,0,,11,7
+NO.1 HOT PIZZA,Egg Fried Rice,,150,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,1,8
+NO.1 HOT PIZZA,Grilled Chicken Fried Rice,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,2,8
+NO.1 HOT PIZZA,Chicken 65 Fried Rice,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,3,8
+NO.1 HOT PIZZA,Garlic Chicken Fried Rice,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,4,8
+NO.1 HOT PIZZA,Chettinad Chicken Fried Rice,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,5,8
+NO.1 HOT PIZZA,Chicken Tikka Fried Rice,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,6,8
+NO.1 HOT PIZZA,Grilled Chicken Schezwan Fried Rice,,199,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,7,8
+NO.1 HOT PIZZA,Chicken 65 Schezwan Fried Rice,,210,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,8,8
+NO.1 HOT PIZZA,Egg Schezwan Fried Rice,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non Veg Fried Rice,,0,,1,9
+NO.1 HOT PIZZA,Veg Maggi,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,2,9
+NO.1 HOT PIZZA,Egg maggi,,140,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,3,9
+NO.1 HOT PIZZA,Chicken Maggi,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Maggi,,0,,4,9
+NO.1 HOT PIZZA,Veg Noodles,,99,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,1,10
+NO.1 HOT PIZZA,Cauliflower 65 Noodles,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,2,10
+NO.1 HOT PIZZA,Mushroom 65 Noodles,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,3,10
+NO.1 HOT PIZZA,Panner 65 Noodles,,150,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,4,10
+NO.1 HOT PIZZA,Veg Schezwan Noodles,,130,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,5,10
+NO.1 HOT PIZZA,Cauliflower 65 Schezwan Noodles,,160,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,6,10
+NO.1 HOT PIZZA,Mushroom 65 Schezwan Noodles,,170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,7,10
+NO.1 HOT PIZZA,Panner 65 Schezwan Noodles,,180,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Veg Noodles,,0,,8,10
+NO.1 HOT PIZZA,Egg Noodles,,150,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Noodles,,0,,1,11
+NO.1 HOT PIZZA,Grilled Chicken Noodles,,170,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Noodles,,0,,2,11
+NO.1 HOT PIZZA,Chicken 65 Noodles,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Noodles,,0,,3,11
+NO.1 HOT PIZZA,Chicken Chettinad Noodles,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Noodles,,0,,4,11
+NO.1 HOT PIZZA,Chicken Tikka noodles,,180,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Noodles,,0,,5,11
+NO.1 HOT PIZZA,Egg Schezwan Noodles,,210,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Noodles,,0,,6,11
+NO.1 HOT PIZZA,Grilled Chicken Schezwan Noodles,,210,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Noodles,,0,,7,11
+NO.1 HOT PIZZA,Chicken 65 Schezwan Noodles,,210,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Non veg Noodles,,0,,8,11
+NO.1 HOT PIZZA,Veg Burger,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,1,12
+NO.1 HOT PIZZA,Veg & Panneer Burger,,160,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,2,12
+NO.1 HOT PIZZA,Egg &Cheese Burger,,140,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,3,12
+NO.1 HOT PIZZA,Chicken Burger,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Burgers,,0,,4,12
+NO.1 HOT PIZZA,Fried Chicken Burger,,160,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,1,12
+NO.1 HOT PIZZA,Veg Sanwich,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,2,12
+NO.1 HOT PIZZA,Toast Veg Cheese Sandwich,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,3,12
+NO.1 HOT PIZZA,Mushroom Cheese Sandwich,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,4,12
+NO.1 HOT PIZZA,Panner Tikka Sandwich,,150,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,5,12
+NO.1 HOT PIZZA,Panner Chilli Cheese Sandwich,,150,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,6,12
+NO.1 HOT PIZZA,Egg Cheese Sandwich,,140,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,7,12
+NO.1 HOT PIZZA,Egg Bhurji Sandwich,,140,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,8,12
+NO.1 HOT PIZZA,Grilled Chicken Sandwich,,150,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,9,12
+NO.1 HOT PIZZA,Fried Chicken Sandwich,,150,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,10,12
+NO.1 HOT PIZZA,Chicken Tikka Sandwich,,150,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,11,12
+NO.1 HOT PIZZA,veg Club Sandwich,,170,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,12,12
+NO.1 HOT PIZZA,Chicken Club Egg Sandwich,,199,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Sandwich,,0,,13,12
+NO.1 HOT PIZZA,Veg Roll (2pcs),,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chappathi Rolles,,0,,1,13
+NO.1 HOT PIZZA,Egg Roll (2pcs),,130,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chappathi Rolles,,0,,2,13
+NO.1 HOT PIZZA,Grilled Chicken Roll(2pcs),,140,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chappathi Rolles,,0,,3,13
+NO.1 HOT PIZZA,Fried Chicken Roll(2pcs),,150,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chappathi Rolles,,0,,4,13
+NO.1 HOT PIZZA,Chappathi With Veg Kuruma 1set,,80,,,,5,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Chappathi Rolles,,0,,5,13
+NO.1 HOT PIZZA,Jigarthanda,,80,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jigarthanda,,0,,1,14
+NO.1 HOT PIZZA,Special Jigarthanda,,99,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jigarthanda,,0,,2,14
+NO.1 HOT PIZZA,Falooda,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,1,14
+NO.1 HOT PIZZA,Royal Falooda,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,2,14
+NO.1 HOT PIZZA,Chocolate Falooda,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Falooda,,0,,3,14
+NO.1 HOT PIZZA,Fruit Nut Milkshake,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,1,14
+NO.1 HOT PIZZA,Butter Scotch MilkShake,,99,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,2,14
+NO.1 HOT PIZZA,Black Current Milkshake,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,3,14
+NO.1 HOT PIZZA,Chocolate Milkshake,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,4,14
+NO.1 HOT PIZZA,Oreo MilkShake,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,5,14
+NO.1 HOT PIZZA,Strawberry Milkshake,,99,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,6,14
+NO.1 HOT PIZZA,Banana MilkShake,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,7,14
+NO.1 HOT PIZZA,Vennila MilkShake,,99,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes,,0,,1,14
+NO.1 HOT PIZZA,Gulab Jamun,,90,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Desserts,,0,,2,14
+NO.1 HOT PIZZA,Gulab Jamun With Ice Cream,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Desserts,,0,,3,14
+NO.1 HOT PIZZA,Carrot Halwa,,90,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Desserts,,0,,4,14
+NO.1 HOT PIZZA,Carrot Halwa with ice cream,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Desserts,,0,,5,14
+NO.1 HOT PIZZA,Brownie Cake,,120,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Desserts,,0,,6,14
+NO.1 HOT PIZZA,BrownieCake With Ice Cream,,150,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Desserts,,0,,7,14
+NO.1 HOT PIZZA,American Mud Pie,,140,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Hot Desserts,,0,,8,14
+NO.1 HOT PIZZA,Butter Scotch Ice Cream,,90,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,1,14
+NO.1 HOT PIZZA,Strawberry Ice Cream,,99,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,2,14
+NO.1 HOT PIZZA,Chocolate Ice Cream,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,3,14
+NO.1 HOT PIZZA,Black Current Ice Cream,,110,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,4,14
+NO.1 HOT PIZZA,Vennila Ice Cream,,90,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Ice Creams,,0,,5,14
+NO.1 HOT PIZZA,Smiley,,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,French Fries,,0,,2,14
+NO.1 HOT PIZZA,French Fries,,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,French Fries,,0,,3,14
+NO.1 HOT PIZZA,Masla French Fries,,70,,,,5,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,French Fries,,0,,4,14
+NO.1 HOT PIZZA,Extra Cheese (Medium),For Pizzas Only,30,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,2
+NO.1 HOT PIZZA,Extra Cheese (Large),For Pizzas Only,50,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,3
+NO.1 HOT PIZZA,Extra Chicken (Medium),For Pizzas Only,25,,,,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,4
+NO.1 HOT PIZZA,Extra Chicken (Large),For Pizzas Only,50,,,,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,5
+NO.1 HOT PIZZA,Extra Toppings  (Medium),For Pizzas Only,20,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,6
+NO.1 HOT PIZZA,Extra Toppings  Large),For Pizzas Only,30,,,,0,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Add Ons,,0,,12,7

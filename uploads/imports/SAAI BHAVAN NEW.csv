@@ -1,0 +1,129 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+HOTEL SAAI BHAVAN,Thali (Limited),,85,,,,20,10000,Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,6,1
+HOTEL SAAI BHAVAN,Saai Bhavan Special Meals,,105,,,,20,10000,Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,6,2
+HOTEL SAAI BHAVAN,Sambar Rice,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,6,3
+HOTEL SAAI BHAVAN,Curd Rice,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,,,"1,2,3,4,5,6,7",1,,South Indian,,0,,6,4
+HOTEL SAAI BHAVAN,Cream Of Vegetable Soup,,50,,,,5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,1
+HOTEL SAAI BHAVAN,Cream Of Tomato Soup,,50,,,,5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,2
+HOTEL SAAI BHAVAN,Tomato Shorba,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,3
+HOTEL SAAI BHAVAN,Cream Of Mushroom Soup,,55,,,,5.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,4
+HOTEL SAAI BHAVAN,Sweet Corn Soup,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,5
+HOTEL SAAI BHAVAN,Hot & Sour Veg Soup,,50,,,,5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Soups,,0,,1,6
+HOTEL SAAI BHAVAN,Gobi 65,,70,,,,7,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,1
+HOTEL SAAI BHAVAN,Mushroom 65,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,2
+HOTEL SAAI BHAVAN,Paneer 65,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,3
+HOTEL SAAI BHAVAN,Baby Corn 65,,80,,,,8,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,4
+HOTEL SAAI BHAVAN,Dragon Mushroom,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,5
+HOTEL SAAI BHAVAN,Gobi Manchurian Dry,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,6
+HOTEL SAAI BHAVAN,Ginger Gobi Dry,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,7
+HOTEL SAAI BHAVAN,Chilli Gobi Dry,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,8
+HOTEL SAAI BHAVAN,Garlic Gobi Dry,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,9
+HOTEL SAAI BHAVAN,Paneer Manchurian Dry,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,10
+HOTEL SAAI BHAVAN,Chilli Paneer Dry,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,11
+HOTEL SAAI BHAVAN,Ginger Paneer Dry,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,12
+HOTEL SAAI BHAVAN,Garlic Paneer Dry,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,13
+HOTEL SAAI BHAVAN,Mushroom Manchurian Dry,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,14
+HOTEL SAAI BHAVAN,Schezwan Mushroom Dry,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,15
+HOTEL SAAI BHAVAN,Chilli Mushroom Dry,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,16
+HOTEL SAAI BHAVAN,Ginger Mushroom Dry,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,17
+HOTEL SAAI BHAVAN,Garlic Mushroom Dry,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Starters,,0,,3,18
+HOTEL SAAI BHAVAN,Vegetable Salad,,50,,,,5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Salads,,0,,2,1
+HOTEL SAAI BHAVAN,Cucumber Salad,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Salads,,0,,2,2
+HOTEL SAAI BHAVAN,Onion Raitha,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Raithas,,0,,8,1
+HOTEL SAAI BHAVAN,Cucumber Raitha,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Raithas,,0,,8,2
+HOTEL SAAI BHAVAN,Tomato Raitha,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Raithas,,0,,8,3
+HOTEL SAAI BHAVAN,Boondhi Raitha,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Raithas,,0,,8,4
+HOTEL SAAI BHAVAN,Phulka,,20,,,,2,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,1
+HOTEL SAAI BHAVAN,Butter Phulka,,25,,,,2.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,2
+HOTEL SAAI BHAVAN,Roti,,30,,,,3,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,3
+HOTEL SAAI BHAVAN,Butter Roti,,35,,,,3.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,4
+HOTEL SAAI BHAVAN,Naan,,30,,,,3,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,5
+HOTEL SAAI BHAVAN,Butter Naan,,35,,,,3.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,6
+HOTEL SAAI BHAVAN,Veg Stuffed Naan,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,7
+HOTEL SAAI BHAVAN,Aloo Stuffed Naan,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,8
+HOTEL SAAI BHAVAN,Paneer Stuffed Naan,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,9
+HOTEL SAAI BHAVAN,Gobi Stuffed Naan,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,10
+HOTEL SAAI BHAVAN,Mushroom Stuffed Naan,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,11
+HOTEL SAAI BHAVAN,Garlic Naan,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,12
+HOTEL SAAI BHAVAN,Plain Kulcha,,45,,,,4.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,13
+HOTEL SAAI BHAVAN,Onion Kulcha,,50,,,,5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,14
+HOTEL SAAI BHAVAN,Veg Stuffed Paratha,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,15
+HOTEL SAAI BHAVAN,Aloo Stuffed Paratha,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,16
+HOTEL SAAI BHAVAN,Paneer Stuffed Paratha,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,17
+HOTEL SAAI BHAVAN,Gobi Stuffed Paratha,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,18
+HOTEL SAAI BHAVAN,Methi Stuffed Paratha,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,19
+HOTEL SAAI BHAVAN,Pudina Stuffed Paratha,,60,,,,6,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,20
+HOTEL SAAI BHAVAN,Chappathi (2 Pcs),,50,,,,5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,21
+HOTEL SAAI BHAVAN,Parotta (2 Pcs),,50,,,,5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,22
+HOTEL SAAI BHAVAN,Bread Basket ( 5 Pcs),,125,,,,12.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Indian Breads,,0,,9,23
+HOTEL SAAI BHAVAN,Gobi Manchurian Gravy,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,1
+HOTEL SAAI BHAVAN,Ginger Gobi Gravy,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,2
+HOTEL SAAI BHAVAN,Chilli Gobi Gravy,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,3
+HOTEL SAAI BHAVAN,Garlic Gobi Gravy,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,4
+HOTEL SAAI BHAVAN,Paneer Manchurian Gravy,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,5
+HOTEL SAAI BHAVAN,Chilli Paneer Gravy,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,6
+HOTEL SAAI BHAVAN,Ginger Paneer Gravy,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,7
+HOTEL SAAI BHAVAN,Garlic Paneer Gravy,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,8
+HOTEL SAAI BHAVAN,Mushroom Manchurian Gravy,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,9
+HOTEL SAAI BHAVAN,Schezwan Mushroom Gravy,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,10
+HOTEL SAAI BHAVAN,Chilli Mushroom Gravy,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,11
+HOTEL SAAI BHAVAN,Ginger Mushroom Gravy,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,12
+HOTEL SAAI BHAVAN,Garlic Mushroom Gravy,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,13
+HOTEL SAAI BHAVAN,Dal Tadka,,80,,,,8,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,14
+HOTEL SAAI BHAVAN,Dal Makhani,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,15
+HOTEL SAAI BHAVAN,Paneer Butter Masala,,95,,,,9.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,16
+HOTEL SAAI BHAVAN,Channa Butter Masala,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,17
+HOTEL SAAI BHAVAN,Green Peas Butter Masala,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,18
+HOTEL SAAI BHAVAN,Mushroom Butter Masala,,95,,,,9.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,19
+HOTEL SAAI BHAVAN,Mushroom Masala,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,20
+HOTEL SAAI BHAVAN,Channa Masala,,80,,,,8,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,21
+HOTEL SAAI BHAVAN,Green Peas Masala,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,22
+HOTEL SAAI BHAVAN,Gobi Masala,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,23
+HOTEL SAAI BHAVAN,Kadai Vegetable Gravy,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,24
+HOTEL SAAI BHAVAN,Kadai Paneer Gravy,,95,,,,9.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,25
+HOTEL SAAI BHAVAN,Aloo Gobi Masala,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,26
+HOTEL SAAI BHAVAN,Mixed Vegetable Khurma,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Gravys,,0,,10,27
+HOTEL SAAI BHAVAN,Veg Fried Rice,,75,,,,7.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,11,1
+HOTEL SAAI BHAVAN,Paneer Fried Rice,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,11,2
+HOTEL SAAI BHAVAN,Mushroom Fried Rice,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,11,3
+HOTEL SAAI BHAVAN,Schezwan Fried Rice,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,11,4
+HOTEL SAAI BHAVAN,Mixed Fried Rice,,85,,,,8.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,11,5
+HOTEL SAAI BHAVAN,Hakka Fried Rice,,80,,,,8,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Fried Rice,,0,,11,6
+HOTEL SAAI BHAVAN,Veg Noodles,,75,,,,7.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,12,1
+HOTEL SAAI BHAVAN,Paneer Noodles,,80,,,,8,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,12,2
+HOTEL SAAI BHAVAN,Mushroom Noodles,,80,,,,8,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,12,3
+HOTEL SAAI BHAVAN,Schezwan Noodles,,80,,,,8,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,12,4
+HOTEL SAAI BHAVAN,Hakka Noodles,,75,,,,7.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Noodles,,0,,12,5
+HOTEL SAAI BHAVAN,Vegetable Briyani,,90,,,,9,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,7,1
+HOTEL SAAI BHAVAN,Paneer Briyani,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,7,2
+HOTEL SAAI BHAVAN,Mushroom Briyani,,100,,,,10,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,7,3
+HOTEL SAAI BHAVAN,Saai Bhavan Special Briyani,,115,,,,11.5,10000,Veg,,,,,11:00AM,04:00PM,07:00PM,10:00PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,7,4
+HOTEL SAAI BHAVAN,Onion Bajji (4 Pcs),,40,,,,4,10000,Veg,,,,,,,04:00PM,07:00PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,13,1
+HOTEL SAAI BHAVAN,Chilli Bajji (3 Pcs),,40,,,,4,10000,Veg,,,,,,,04:00PM,07:00PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,13,2
+HOTEL SAAI BHAVAN,Potato Bajji (3 Pcs),,40,,,,4,10000,Veg,,,,,,,04:00PM,07:00PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,13,3
+HOTEL SAAI BHAVAN,Capsicum Bajji (3 Pcs),,40,,,,4,10000,Veg,,,,,,,04:00PM,07:00PM,"1,2,3,4,5,6,7",1,,Snacks,,0,,13,4
+HOTEL SAAI BHAVAN,Plain Dosa,,45,,,,4.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,1
+HOTEL SAAI BHAVAN,Masala Dosa,,55,,,,5.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,2
+HOTEL SAAI BHAVAN,Onion Dosa,,55,,,,5.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,3
+HOTEL SAAI BHAVAN,Onion Masala Dosa,,60,,,,6,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,4
+HOTEL SAAI BHAVAN,Rava Dosa,,55,,,,5.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,5
+HOTEL SAAI BHAVAN,Rava Masala Dosa,,60,,,,6,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,6
+HOTEL SAAI BHAVAN,Onion Rava Masala Dosa,,60,,,,6,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,7
+HOTEL SAAI BHAVAN,Ghee Roast,,65,,,,6.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,8
+HOTEL SAAI BHAVAN,Ghee Roast Masala,,80,,,,8,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,9
+HOTEL SAAI BHAVAN,Paper Roast,,85,,,,8.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,10
+HOTEL SAAI BHAVAN,Paper Roast Masala,,85,,,,8.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,11
+HOTEL SAAI BHAVAN,Butter Roast,,85,,,,8.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,12
+HOTEL SAAI BHAVAN,Plain Uthappam,,40,,,,4,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,13
+HOTEL SAAI BHAVAN,Onion Uthappam,,45,,,,4.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,14
+HOTEL SAAI BHAVAN,Tomato Onion Uthappam,,50,,,,5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Dosas,,0,,4,15
+HOTEL SAAI BHAVAN,Idly (2 Pcs),,20,,,,2,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Idly,,0,,5,1
+HOTEL SAAI BHAVAN,Kaima Idly,,70,,,,7,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Idly,,0,,5,2
+HOTEL SAAI BHAVAN,Pineapple Juice,,60,,,,6,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,14,1
+HOTEL SAAI BHAVAN,Pomogranate Juice,,75,,,,7.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,14,2
+HOTEL SAAI BHAVAN,Sweet Lime Juice,,50,,,,5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,14,3
+HOTEL SAAI BHAVAN,Fresh Lime Juice,,50,,,,5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,14,4
+HOTEL SAAI BHAVAN,Vannila Milk Shake With Ice Cream,,80,,,,8,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes & Ice Creams,,0,,15,1
+HOTEL SAAI BHAVAN,Strawberry Milk Shake With Ice Cream,,90,,,,9,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes & Ice Creams,,0,,15,2
+HOTEL SAAI BHAVAN,Chocolate Milk Shake With Ice Cream,,90,,,,9,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes & Ice Creams,,0,,15,3
+HOTEL SAAI BHAVAN,Pista Milk Shake With Ice Cream,,95,,,,9.5,10000,Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Milk Shakes & Ice Creams,,0,,15,4

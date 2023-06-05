@@ -1,0 +1,75 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+ROYAL SWEETS AND BAKERY ,Mixture (100 Gms),,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,1
+ROYAL SWEETS AND BAKERY ,Special Mixture,,28,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,2
+ROYAL SWEETS AND BAKERY ,Onion Pakkoda,,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,3
+ROYAL SWEETS AND BAKERY ,Andhra Muruku,,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,4
+ROYAL SWEETS AND BAKERY ,Thattai,,28,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,5
+ROYAL SWEETS AND BAKERY ,Oma Podi,,28,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,6
+ROYAL SWEETS AND BAKERY ,Ottu Pakkoda,,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,7
+ROYAL SWEETS AND BAKERY ,Masal Kadalai,,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,8
+ROYAL SWEETS AND BAKERY ,Mullu Muruku,,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,9
+ROYAL SWEETS AND BAKERY ,Karaa Boondhi,,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,10
+ROYAL SWEETS AND BAKERY ,Kara Sevu,,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,11
+ROYAL SWEETS AND BAKERY ,Navathaniyam,,28,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,12
+ROYAL SWEETS AND BAKERY ,Maidha Cake,,28,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,13
+ROYAL SWEETS AND BAKERY ,Chilli Chips,,32,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,14
+ROYAL SWEETS AND BAKERY ,Urulai Chips,,32,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,15
+ROYAL SWEETS AND BAKERY ,Pavakkai Chips,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,16
+ROYAL SWEETS AND BAKERY ,Nendran Chips,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,17
+ROYAL SWEETS AND BAKERY ,Vathal,,20,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Savouries,,0,,3,18
+ROYAL SWEETS AND BAKERY ,Mini Jilebi (100 Gms),,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,1
+ROYAL SWEETS AND BAKERY ,Badhusa,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,2
+ROYAL SWEETS AND BAKERY ,Mysore Pakkoda,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,3
+ROYAL SWEETS AND BAKERY ,Mysore Pakkoda (Special),,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,4
+ROYAL SWEETS AND BAKERY ,Pal Peda (Big),,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,5
+ROYAL SWEETS AND BAKERY ,Pal Peda (Small),,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,6
+ROYAL SWEETS AND BAKERY ,Pal Kova,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,7
+ROYAL SWEETS AND BAKERY ,Dates Burfi,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,8
+ROYAL SWEETS AND BAKERY ,Kalkand,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,9
+ROYAL SWEETS AND BAKERY ,Laddu,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,10
+ROYAL SWEETS AND BAKERY ,Sweet Boondhi,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,11
+ROYAL SWEETS AND BAKERY ,Special Laddu,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,12
+ROYAL SWEETS AND BAKERY ,Mothi Laddu,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,13
+ROYAL SWEETS AND BAKERY ,Horlicks Burfi,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,14
+ROYAL SWEETS AND BAKERY ,Boost Burfi,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,15
+ROYAL SWEETS AND BAKERY ,Pista Roll,,58,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,16
+ROYAL SWEETS AND BAKERY ,Kaju Kathali,,58,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,17
+ROYAL SWEETS AND BAKERY ,Carrot Halwa,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,18
+ROYAL SWEETS AND BAKERY ,Paneer Halwa,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,19
+ROYAL SWEETS AND BAKERY ,Soanpapdi,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,20
+ROYAL SWEETS AND BAKERY ,Chandrakala,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,21
+ROYAL SWEETS AND BAKERY ,Baby Milk,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,22
+ROYAL SWEETS AND BAKERY ,Milk Cake,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,23
+ROYAL SWEETS AND BAKERY ,Paneer Jamun,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,24
+ROYAL SWEETS AND BAKERY ,Mini Jamun,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,25
+ROYAL SWEETS AND BAKERY ,Mini Rasagulla,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,26
+ROYAL SWEETS AND BAKERY ,Jamun (1 Pc),,25,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,4,27
+ROYAL SWEETS AND BAKERY ,Milk Bread,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,1
+ROYAL SWEETS AND BAKERY ,Wheat Bread,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,2
+ROYAL SWEETS AND BAKERY ,Rusk,,25,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,3
+ROYAL SWEETS AND BAKERY ,Coconut Bread,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,4
+ROYAL SWEETS AND BAKERY ,Plain Cake (100 Gms),,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,5
+ROYAL SWEETS AND BAKERY ,Pudding Cake (2 Nos),,20,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,6
+ROYAL SWEETS AND BAKERY ,Apple Cake (2 Nos),,20,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,7
+ROYAL SWEETS AND BAKERY ,Biscuit (100 Gms),,24,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,8
+ROYAL SWEETS AND BAKERY ,Butter Cookies (100 Gms),,28,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,9
+ROYAL SWEETS AND BAKERY ,Sweet Puff (2 Nos),,20,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,10
+ROYAL SWEETS AND BAKERY ,Veg Puff (2 Nos),,20,,,,0,0,Non Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,11
+ROYAL SWEETS AND BAKERY ,Egg Puff (2 Nos),,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,12
+ROYAL SWEETS AND BAKERY ,Mushroom Puff (2 Nos),,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Bakery Items,,0,,2,13
+ROYAL SWEETS AND BAKERY ,Vanilla Butter Cream (1 Kg),,340,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,1
+ROYAL SWEETS AND BAKERY ,Butterscotch Butter Cream (1 Kg),,350,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,2
+ROYAL SWEETS AND BAKERY ,Strawberry Butter Cream (1 Kg),,340,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,3
+ROYAL SWEETS AND BAKERY ,Pineapple Butter Cream (1 Kg),,340,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,4
+ROYAL SWEETS AND BAKERY ,Mango Butter Cream (1 Kg),,340,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,5
+ROYAL SWEETS AND BAKERY ,Honey Cake Butter Cream (1 Kg),,350,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,6
+ROYAL SWEETS AND BAKERY ,Chocolate Cake Butter Cream (1 Kg),,400,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Butter Cream Cakes,,0,,5,7
+ROYAL SWEETS AND BAKERY ,Apple Juice,,50,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,1,1
+ROYAL SWEETS AND BAKERY ,Madhulai Juice,,50,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,1,2
+ROYAL SWEETS AND BAKERY ,Sathukudi Juice,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,1,3
+ROYAL SWEETS AND BAKERY ,Orange Juice,,40,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,1,4
+ROYAL SWEETS AND BAKERY ,Mulambalam Juice,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,1,5
+ROYAL SWEETS AND BAKERY ,Lemon Juice,,15,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,1,6
+ROYAL SWEETS AND BAKERY ,Rose Milk,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,1,7
+ROYAL SWEETS AND BAKERY ,Batham Milk,,30,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,1,8
+ROYAL SWEETS AND BAKERY ,Jigarthanda,,50,,,,0,0,Veg,11:00AM,11:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Juices,,0,,1,9

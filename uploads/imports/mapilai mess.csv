@@ -1,0 +1,25 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+MAPILAI MESS,Non Veg Meal,,90,,,,5,0,Non Veg,12:30PM,04:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Meals,,0,,1,1
+MAPILAI MESS,NattuKozhi Briyani,,195,,,,5,0,Non Veg,12:30PM,04:00PM,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,2,1
+MAPILAI MESS,Mutton Briyani,,200,,,,5,0,Non Veg,12:30PM,04:00PM,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Briyani,,0,,2,2
+MAPILAI MESS,NattuKozhi Varuval,,160,,,,5,0,Non Veg,12:30PM,04:00PM,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,3,1
+MAPILAI MESS,Mutton Varuval,,170,,,,5,0,Non Veg,12:30PM,04:00PM,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,3,2
+MAPILAI MESS,Kudal Varuval,,150,,,,5,0,Non Veg,06:30PM,10:00PM,,,,,06:30PM,10:00PM,"1,2,3,4,5,6,7",1,,Non Veg Gravy,,0,,3,3
+MAPILAI MESS,Fish,,60,,,,0,0,Non Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Sea Foods,,0,,4,1
+MAPILAI MESS,Egg Poriyal,,30,,,,0,0,Non Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dish,,0,,5,1
+MAPILAI MESS,Omelet,,20,,,,0,0,Non Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dish,,0,,5,2
+MAPILAI MESS,Boild Egg,,12,,,,0,0,Non Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dish,,0,,5,3
+MAPILAI MESS,kalaki,,15,,,,0,0,Non Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Egg Dish,,0,,5,4
+MAPILAI MESS,Idily (2Nos),,20,,,,0,0, Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,1
+MAPILAI MESS,Parotta,,15,,,,5,0,Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,2
+MAPILAI MESS,KothuParotta,,70,,,,5,0,Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,3
+MAPILAI MESS,Dosai,,25,,,,5,0,Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,4
+MAPILAI MESS,Onion Dosai,,45,,,,5,0,Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,5
+MAPILAI MESS,Egg Dosai,,50,,,,5,0,Non Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,6
+MAPILAI MESS,Rosat,,45,,,,5,0,Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,7
+MAPILAI MESS,Ghee Rosat,,50,,,,5,0,Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,8
+MAPILAI MESS,Onion Roast,,55,,,,5,0,Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,9
+MAPILAI MESS,Uttappam,,35,,,,5,0,Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,10
+MAPILAI MESS,onion Uttappam,,45,,,,5,0, Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,11
+MAPILAI MESS,Veeach Parotta,,25,,,,5,0,Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,12
+MAPILAI MESS,Egg Veeach Parotta,,35,,,,5,0,Non Veg,06:30PM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Tiffen Items,,0,,6,13

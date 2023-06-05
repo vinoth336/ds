@@ -1,0 +1,79 @@
+restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
+BOMBAY SWEET HOUSE,Mixture (100 Gms),,32,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,1
+BOMBAY SWEET HOUSE,Special Mixture (100 Gms),,36,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,2
+BOMBAY SWEET HOUSE,Ottu Pakoda (100 Gms),,32,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,3
+BOMBAY SWEET HOUSE,Butter Murukku (100 Gms),,32,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,4
+BOMBAY SWEET HOUSE,Karaboondi (100 Gms),,32,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,5
+BOMBAY SWEET HOUSE,Fingerchips (100 Gms),,40,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,6
+BOMBAY SWEET HOUSE,Roasted Cashew (100 Gms),,120,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,7
+BOMBAY SWEET HOUSE,Potatochips (100 Gms),,40,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,8
+BOMBAY SWEET HOUSE,Ommapodi (100 Gms),,32,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,9
+BOMBAY SWEET HOUSE,Onion Pakoda (100 Gms),,32,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,10
+BOMBAY SWEET HOUSE,Ragi Pakoda (100 Gms),,32,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,11
+BOMBAY SWEET HOUSE,Keera Pakoda (100 Gms),,36,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,12
+BOMBAY SWEET HOUSE,Milagusev (100 Gms),,34,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,13
+BOMBAY SWEET HOUSE,Poondusev (100 Gms),,32,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,14
+BOMBAY SWEET HOUSE,Andhra Murukku (100 Gms),,32,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,15
+BOMBAY SWEET HOUSE,Pachapayiru (100 Gms),,34,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,16
+BOMBAY SWEET HOUSE,Pasiparuppu (100 Gms),,34,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,17
+BOMBAY SWEET HOUSE,Kadala Paruppu (100 Gms),,34,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,18
+BOMBAY SWEET HOUSE,Masala Kadalai (100 Gms),,34,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,19
+BOMBAY SWEET HOUSE,Kara Kadalai (100 Gms),,34,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,20
+BOMBAY SWEET HOUSE,Varutha Sundal (100 Gms),,34,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,21
+BOMBAY SWEET HOUSE,Owlpori (100 Gms),,34,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,0,,1,22
+BOMBAY SWEET HOUSE,Samosa (1 Pc),,25,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Savories,,1,,1,23
+BOMBAY SWEET HOUSE,Parotta (1 Pc),,40,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,1
+BOMBAY SWEET HOUSE,Roast (1 Pc),,50,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,2
+BOMBAY SWEET HOUSE,Ghee Roast (1 Pc),,65,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,3
+BOMBAY SWEET HOUSE,Masala Roast (1 Pc),,65,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,4
+BOMBAY SWEET HOUSE,Rava Roast (1 Pc),,50,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,5
+BOMBAY SWEET HOUSE,Onion Rava (1 Pc),,65,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,6
+BOMBAY SWEET HOUSE,Onion Roast (1 Pc),,65,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,7
+BOMBAY SWEET HOUSE,Uthappam (1 Pc),,50,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,8
+BOMBAY SWEET HOUSE,Onion Uthappam (1 Pc),,65,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,9
+BOMBAY SWEET HOUSE,Chapathi (1 Pc),,35,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,10
+BOMBAY SWEET HOUSE,Poori (1 Set),,40,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,11
+BOMBAY SWEET HOUSE,Veechu Parotta (1 Pc),,50,,,,0,0,Veg,,,,,03:00PM,10:30PM,,,"1,2,3,4,5,6,7",1,,Roast & Uthappam,,0,,2,12
+BOMBAY SWEET HOUSE,Jangiri Mini (100 Gms),,44,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,1
+BOMBAY SWEET HOUSE,Jangiri (100 Gms),,44,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,1,,3,2
+BOMBAY SWEET HOUSE,Laddu (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,3
+BOMBAY SWEET HOUSE,Sp.Laddu (100 Gms),,44,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,4
+BOMBAY SWEET HOUSE,Rava Laddu (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,5
+BOMBAY SWEET HOUSE,Mothi Laddu (100 Gms),,40,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,6
+BOMBAY SWEET HOUSE,Mysorepak (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,7
+BOMBAY SWEET HOUSE,Sp.Mysorepak (100 Gms),,52,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,8
+BOMBAY SWEET HOUSE,Soanpapdi (100 Gms),,46,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,9
+BOMBAY SWEET HOUSE,Badusha (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,1,,3,10
+BOMBAY SWEET HOUSE,Badusha Mini (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,11
+BOMBAY SWEET HOUSE,Doodhpeda (100 Gms),,46,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,12
+BOMBAY SWEET HOUSE,Pistaroll (100 Gms),,80,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,13
+BOMBAY SWEET HOUSE,Chocolate Barfi (100 Gms),,44,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,14
+BOMBAY SWEET HOUSE,Kajukatli (Mundiripeda) (100 Gms),,80,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,16
+BOMBAY SWEET HOUSE,Stone Halwa (1 Pc),,35,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,17
+BOMBAY SWEET HOUSE,Chandrakala (100 Gms),,42,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,18
+BOMBAY SWEET HOUSE,Palkova (100 Gms),,50,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,19
+BOMBAY SWEET HOUSE,Horlicks Barfi (100 Gms),,52,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,20
+BOMBAY SWEET HOUSE,Peni (1 Pc),,40,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,21
+BOMBAY SWEET HOUSE,Dry Jamun (100 Gms),,46,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,22
+BOMBAY SWEET HOUSE,Badam Halwa (100 Gms),,90,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,23
+BOMBAY SWEET HOUSE,Wheat Halwa (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,1,,3,24
+BOMBAY SWEET HOUSE,Carrot Halwa (100 Gms),,52,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,25
+BOMBAY SWEET HOUSE,Ashoka Halwa (100 Gms),,50,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,26
+BOMBAY SWEET HOUSE,Khajur (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,27
+BOMBAY SWEET HOUSE,Jelabi (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,28
+BOMBAY SWEET HOUSE,Minisandiya (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,29
+BOMBAY SWEET HOUSE,Sweet Boondhi (100 Gms),,36,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,30
+BOMBAY SWEET HOUSE,Angur Boondi (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,31
+BOMBAY SWEET HOUSE,Minicake (100 Gms),,36,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,32
+BOMBAY SWEET HOUSE,Agrapeda (100 Gms),,38,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,33
+BOMBAY SWEET HOUSE,Mundhirisev (100 Gms),,44,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,34
+BOMBAY SWEET HOUSE,Rasmalai (1 Pc),,55,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,1,,3,35
+BOMBAY SWEET HOUSE,Basundi (1 Pc),,55,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,1,,3,36
+BOMBAY SWEET HOUSE,Rasagulla (1 Pc),,35,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,37
+BOMBAY SWEET HOUSE,Gulab Jamun (1 Pc),,35,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,38
+BOMBAY SWEET HOUSE,Mini Rasagulla (100 Gms),,42,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,39
+BOMBAY SWEET HOUSE,Chamcham (25 Pc),,420,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,40
+BOMBAY SWEET HOUSE,Apple (25 Pc),,420,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sweets,,0,,3,41
+BOMBAY SWEET HOUSE,Sugar Free Jangiri (100 Gms),,50,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sugar Free Sweets,,0,,4,1
+BOMBAY SWEET HOUSE,Sugar Free Badhusha (100 Gms),,50,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Sugar Free Sweets,,0,,4,2
+BOMBAY SWEET HOUSE,Punjabi Lassi,,50,,,,0,0,Veg,07:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",0,,Lassi,,1,,1,1
