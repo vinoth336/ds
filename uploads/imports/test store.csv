@@ -1,2 +1,0 @@
-restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
-test store,Test product,,66,,,,0,0,Veg,10:30AM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,BIRIYANI,,0,,1,1

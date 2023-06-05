@@ -1,6 +1,0 @@
-restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
-SAVOURY_SEA_SHELL,Iftar Kit,,349,,,,0,Non Veg,11:00AM,06:00PM,,,,,,,,1,,Ramadan Specials,,0,,1,1
-SAVOURY_SEA_SHELL,Mini Iftar Kit,,149,,,,0,Non Veg,11:00AM,06:00PM,,,,,,,,1,,Ramadan Specials,,0,,1,2
-SAVOURY_SEA_SHELL,Hyderabadi Haleem Small,,189,,,,0,Non Veg,11:00AM,06:00PM,,,,,,,,1,,Ramadan Specials,,0,,1,3
-SAVOURY_SEA_SHELL,Hyderabadi Haleem Medium,,289,,,,0,Non Veg,11:00AM,06:00PM,,,,,,,,1,,Ramadan Specials,,0,,1,4
-SAVOURY_SEA_SHELL,Hyderabadi Haleem Large,,389,,,,0,Non Veg,11:00AM,06:00PM,,,,,,,,1,,Ramadan Specials,,0,,1,5

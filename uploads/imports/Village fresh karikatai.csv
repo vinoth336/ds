@@ -1,7 +1,0 @@
-restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
-VILLAGE FRESH KARIKADAI(SUNDAY ONLY DELIVERY),Fresh Orginal Nattukozhi Curry 1/2 Kg,,330,,,,0,0,Non Veg,7:30AM,9.00 PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh NattuKozhi,,0,,1,1
-VILLAGE FRESH KARIKADAI(SUNDAY ONLY DELIVERY),Fresh Nattukozhi Curry  1 Kg,,660,,,,0,0,Non Veg,7:30AM,9.00 PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh NattuKozhi,,0,,1,2
-VILLAGE FRESH KARIKADAI(SUNDAY ONLY DELIVERY),Fresh Mutton 1Kg,,800,,,,0,0,Non Veg,7:30AM,9.00 PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Mutton,,0,,2,3
-VILLAGE FRESH KARIKADAI(SUNDAY ONLY DELIVERY),Fresh Mutton 1/2 Kg,,400,,,,0,0,Non Veg,7:30AM,9.00 PM,,,,,,,"1,2,3,4,5,6,7",1,,Fresh Mutton,,0,,3,4
-VILLAGE FRESH KARIKADAI(SUNDAY ONLY DELIVERY),Fresh Orginal Nattukozhi Curry 1kg  + Fresh Mutton 1/2 Kg,,1000,,,,0,0,Non Veg,7:30AM,9.00 PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo Offers,,0,,4,5
-VILLAGE FRESH KARIKADAI(SUNDAY ONLY DELIVERY),Fresh Mutton 1Kg + Fresh Orginal NattuKozhi Curry 1/2Kg,,1200,,,,0,0,Non Veg,7:30AM,9.00 PM,,,,,,,"1,2,3,4,5,6,7",1,,Combo Offers,,0,,4,6

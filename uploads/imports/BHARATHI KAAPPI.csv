@@ -1,5 +1,0 @@
-restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
-BHARATHI KAAPPI,South Indian Filter Coffee ,500 Ml for 5 Persons,80,,,,20,Veg,6.00AM,6.00PM,,,,,,,"1,2,3,4,5,6",1,,South Indian Filter Coffee, ,0,,0,0
-BHARATHI KAAPPI,South Indian Filter Coffee without Sugar,500 Ml for 5 Persons,80,,,,20,Veg,6.00AM,6.00PM,,,,,,,"1,2,3,4,5,6",1,,South Indian Filter Coffee, ,0,,0,0
-BHARATHI KAAPPI,South Indian Filter Coffee Half Sugar,500 Ml for 5 Persons,80,,,,20,Veg,6.00AM,6.00PM,,,,,,,"1,2,3,4,5,6",1,,South Indian Filter Coffee, ,0,,0,0
-BHARATHI KAAPPI,South Indian Filter Coffee with Nattu Sarkarai,500 Ml for 5 Persons,80,,,,20,Veg,6.00AM,6.00PM,,,,,,,"1,2,3,4,5,6",1,,South Indian Filter Coffee, ,0,,0,0

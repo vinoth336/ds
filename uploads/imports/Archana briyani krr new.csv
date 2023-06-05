@@ -1,9 +1,0 @@
-restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
-ARCHANA BRIYANI CENTER,Chicken Briyani,,70,,,,0,0,Non Veg,05:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
-ARCHANA BRIYANI CENTER,Plain Briyani,,50,,,,0,0,Non Veg,05:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
-ARCHANA BRIYANI CENTER,Chicken 65 bone,,50,,,,0,0,Non Veg,05:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
-ARCHANA BRIYANI CENTER,Chicken 65 Boneless,,60,,,,0,0,Non Veg,05:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
-ARCHANA BRIYANI CENTER,Chicken Leg pc,,60,,,,0,0,Non Veg,05:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,3
-ARCHANA BRIYANI CENTER,Chicken Lollypop (2pcs),,50,,,,0,0,Non Veg,05:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,4
-ARCHANA BRIYANI CENTER,Kadai Roast,,80,,,,0,0,Non Veg,05:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,3,1
-ARCHANA BRIYANI CENTER,Nattukozhi Varuval,,120,,,,0,0,Non Veg,05:30AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,3,1

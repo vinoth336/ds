@@ -1,5 +1,0 @@
-restaurant_name,food_item,description,price,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients
-MC ENS HOME MADE BIRIYANI,Mutton Biriyani,Authentic Home Made Briyani (Seeranga Samba),170,0,Non Veg,11:00 PM,3:00 PM,,,,,,,7,1,,Biriyani,,0,
-MC ENS HOME MADE BIRIYANI,Chicken Biriyani,Authentic Home Made Briyani (Seeranga Samba),130,0,Non Veg,11:00 PM,3:00 PM,,,,,,,7,1,,Biriyani,,0,
-MC ENS HOME MADE BIRIYANI,Kushka,,90,0,Non Veg,11:00 PM,3:00 PM,,,,,,,7,1,,Biriyani,,0,
-MC ENS HOME MADE BIRIYANI,Chicken 65 (200 Gms),,65,0,Non Veg,11:00 PM,3:00 PM,,,,,,,7,1,,Starter,,0,

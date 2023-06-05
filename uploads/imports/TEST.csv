@@ -1,2 +1,0 @@
-restaurant_name,food_item,description,price,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients
-TEST VELLORE,Tandoori (Leg Piece),,79,0,Non Veg,,,,,,,12:00AM,03:00AM,"1,2,3,4,5,6,7",1,,Tandoori Starters,,0,

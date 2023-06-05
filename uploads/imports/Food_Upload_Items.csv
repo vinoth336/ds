@@ -1,5 +1,0 @@
-restaurant_name,food_item,description,price,packaging_charge,status,available_from,available_to,item_status,image,main_cat,sub_cat,recommended,ingredients
-Burger Shop,Choc Burger,Choc Burger,700,10,Veg,7:00:00pm,10:00:00pm,1,1530880796-77.jpg,Choclate,,1,Choclate
-Burger Shop,Jelly Ice Cream,Jelly,400,5,Veg,7:00:00pm,10:00:00pm,1,1530880796-77.jpg,Jelly,,1,Jelly
-Burger Shop,Jelly Choc,Jelly choc,300,10,Non_veg,7:00:00pm,10:00:00pm,0,1530880796-77.jpg,,,0,Jelly
-Burger Shop,Jelly Choc,Jelly choc,400,20,Veg,10:00:00pm,11:00:00pm,1,1530880796-77.jpg,Choclate,,1,Jelly

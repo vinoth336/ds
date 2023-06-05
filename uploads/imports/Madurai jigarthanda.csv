@@ -1,5 +1,0 @@
-restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
-MADURAI JIGARTHANDA,Jigarthanda Special,,60,,,,5,Veg,09.00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jigarthanda,,0,,1,1
-MADURAI JIGARTHANDA,Jigarthanda Super Special,,70,,,,5,Veg,09.00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jigarthanda,,0,,2,1
-MADURAI JIGARTHANDA,Jigarthanda Ice Cream(2Nos),,60,,,,5,Veg,09.00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jigarthanda,,0,,3,1
-MADURAI JIGARTHANDA,Jigarthanda Pasanthi,,50,,,,5,Veg,09.00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Jigarthanda,,0,,4,1

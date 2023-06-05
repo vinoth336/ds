@@ -1,9 +1,0 @@
-restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
-MASS BRIYANI,Chicken Briyani,,80,,,,0,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
-MASS BRIYANI,Chicken Plain Briyani,,55,,,,0,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
-MASS BRIYANI,Mutton Briyani,,140,,,,0,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,3
-MASS BRIYANI,Mutton Plain Briyani,,90,,,,0,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,4
-MASS BRIYANI,Chilly Chicken 100grm,,35,,,,0,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,5
-MASS BRIYANI,Nattukozhi Gravy,,140,,,,0,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,3,6
-MASS BRIYANI,Chicken Gravy,,90,,,,0,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,3,7
-MASS BRIYANI,Mutton Sukka,,140,,,,0,0,Non Veg,11:00AM,10:00PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,3,8

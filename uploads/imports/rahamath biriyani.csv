@@ -1,9 +1,0 @@
-restaurant_name,food_item,description,price,special_price,special_from,special_to,packaging_charge,max_packaging_charge,status,available_from,available_to,breakfast_available_from,breakfast_available_to,lunch_available_from,lunch_available_to,dinner_available_from,dinner_available_to,available_days,item_status,image,main_cat,sub_cat,recommended,ingredients,cat_order,product_order
-RAHMATH BRIYANI AND GRILL,Chicken Briyani with Egg,,60,,,,5,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,1
-RAHMATH BRIYANI AND GRILL,Plain Briyani,,50,,,,5,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Biriyani,,0,,1,2
-RAHMATH BRIYANI AND GRILL,Chicken 65 bone,,50,,,,0,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,1
-RAHMATH BRIYANI AND GRILL,Chicken 65 Boneless,,60,,,,0,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Starters,,0,,2,2
-RAHMATH BRIYANI AND GRILL,Grill Chicken Full,,360,,,,0,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,2,3
-RAHMATH BRIYANI AND GRILL,Grill Chicken Half,,190,,,,5,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,2,4
-RAHMATH BRIYANI AND GRILL,Grill Chicken Quarter,,100,,,,5,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Grilled Chicken,,0,,3,1
-RAHMATH BRIYANI AND GRILL,Chicken Eral Gravy,,40,,,,5,0,Non Veg,12:00PM,10:30PM,,,,,,,"1,2,3,4,5,6,7",1,,Gravy,,0,,3,
