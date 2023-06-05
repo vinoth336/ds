@@ -1,4 +1,0 @@
-S.No,"Order Id","Res Name","Cust Name","Boy Name","Item Total","Res Offer Price","Res Coupon Price","DS Coupon Price",HGST,DGST,"Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
-1,RPT151620,"DARLING AMIRTHA","kiran ","GOWTHAM RPT",121.28,0,0,0,0,6.06,25,12,164,"04/27/2019 21:04:46",cash,cod,"Order Finished",2xParatha-60.64
-2,RPT151606,"DARLING AMIRTHA","dinesh ","GOWTHAM RPT",325.24,0,0,0,0,16.26,24,32,398,"04/27/2019 20:23:02",cash,cod,"Order Finished","1xKasmiri Pulav-115.76,2xPlain Roti-44.1,1xVeg Kolapuri Masala-121.28"
-3,RPT151549,"MEAT AND EAT","beula ","GOWTHAM RPT",350,0,0,0,0,17.5,12,25,405,"04/27/2019 19:18:47","Debit Card",ccavenue,"Order Finished","1xCheesy Chicken Fries-110,1xKiddy Chicken Burger - Meal-146,1xMexican Chicken Wrap-94"

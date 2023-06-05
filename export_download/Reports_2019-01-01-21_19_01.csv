@@ -1,5 +1,0 @@
-S.No,"Order Id","Res Name","Boy Name","Item Total","Offer Price","Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
-1,KRR128896,"CANE 4 U","PAVIS KRR",240,0,12,12,264,"12/31/2018 11:31:27",cash,cod,"Order Finished","3xCarrot Cane (1/2 Litre)-80"
-2,KRR128779,"CANE 4 U","MANI KRR",80,0,30,4,114,"12/30/2018 15:49:19",cash,cod,"Order Finished","1xLemon Cane (1 Litre)-80-Please give extra 5 cups"
-3,KRR128778,"CANE 4 U","SENTHIL KRR",80,0,30,4,114,"12/30/2018 15:21:30",cash,cod,"Order Finished","1xPepper & Salt Cane (1 Litre)-80"
-4,KRR128028,"CANE 4 U","PAVIS KRR",280,0,12,14,306,"12/24/2018 13:54:34",cash,cod,"Order Finished","2xAwesome Orange Cane (1 Litre)-140"

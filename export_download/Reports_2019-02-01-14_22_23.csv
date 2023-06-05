@@ -1,4 +1,0 @@
-S.No,"Order Id","Res Name","Cust Name","Boy Name","Item Total","Res Offer Price","DS Offer Price",GST,"Delivery Charge","Packaging Charge","Grand Total","Date and Time",MOP,"Delivery Type",status,"Order details"
-1,TVM129112,LASSI_SHOP,"Muneer Ahamed ","Maruthu R TVM",80,0,0,0,30,10,120,"01/01/2019 16:18:21",cash,cod,"Order Finished","1xMango Alphonso-40,1xBelgian Chocolate-40"
-2,TVM129095,LASSI_SHOP,"Vanmathi ","Maruthu R TVM",90,0,0,0,30,5,125,"01/01/2019 14:33:05","Credit Card",ccavenue,"Order Finished","1xDeath by Chocolate-90"
-3,TVM129037,LASSI_SHOP,"Naresh ","Maruthu R TVM",200,0,0,0,25,20,245,"01/01/2019 11:27:03",cash,cod,"Order Finished","2xStrawberry Lassi-50,2xPineapple Blast-50"

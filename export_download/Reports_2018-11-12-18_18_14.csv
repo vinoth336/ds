@@ -1,6 +1,0 @@
-"Order Id","Cust Id","Cust Name","Boy Name","Cust Phone","Res Name","Item Total","Offer Price","Delivery Charge","Packaging Charge","Grand Total","Date and Time","Order details",MOP,"Delivery Type",status,"Cust Address"
-VLR122000,60000153,"Mj Milan",Arif,8940868658,"MANNA BIRIYANi",110,0,25,0,135,2018-11-11,,cash,cod,"Order Finished","Vellore, Tamil Nadu, India"
-VLR121991,60003669,"Abdur Rehmaan",Arif,9840527661,"Grab & Go",241.5,0,10,0,264,2018-11-11,,"Net Banking",ccavenue,"Order Finished","Rangapuram Rd, Phase III, Sathuvachari, Vellore, Tamil Nadu 632009, India"
-VLR121916,60002447,George,Arif,9442555421,"THE VELLORE KITCHEN",393.75,0,30,18.75,443,2018-11-11,,cash,cod,"Order Finished"," chithamabara nagar, Edyansathu, Vellore, Tamil Nadu 632002, India"
-VLR121904,60000705,"Thilagavathi ",Arif,9894450193,"THE VELLORE KITCHEN",945,0,10,45,1000,2018-11-11,,cash,cod,"Order Finished","1st West Cross Rd, Arihanthnagar, Thiru Nagar, Vellore, Tamil Nadu 632006, India"
-VLR121900,60000705,"Thilagavathi ",Arif,9894450193,"THE VELLORE KITCHEN",189,0,25,9,223,2018-11-11,,cash,cod,"Order Finished","1st West Cross Rd, Arihanthnagar, Thiru Nagar, Vellore, Tamil Nadu 632006, India"
